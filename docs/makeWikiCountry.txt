@@ -1,0 +1,10 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+
+SELECT ?wikidataID ?term ?termLabel
+WHERE
+{
+    ?wikidataID wdt:P105 wd:Q6256 .# ... country
+    SERVICE wikibase:label { bd:serviceParam wikibase:language "en" }
+}
+ORDER BY ?term

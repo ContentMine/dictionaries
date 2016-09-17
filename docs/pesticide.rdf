@@ -1,0 +1,8 @@
+# pesticides
+SELECT ?term ?termLabel
+WHERE
+{
+   ?pesticide wdt:P279 wd:Q131656 .
+   ?term  wdt:P31 ?pesticide .
+    SERVICE wikibase:label { bd:serviceParam wikibase:language "en" }
+}

@@ -1,0 +1,11 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+
+SELECT ?wikidataID ?term ?termLabel
+WHERE
+{
+    ?wikidataID wdt:P105 wd:Q34740 .# ... and have taxon Rank of genus
+    ?wikidataID wdt:P225 ?term . # also return the scientific name of the taxon
+    SERVICE wikibase:label { bd:serviceParam wikibase:language "en" }
+}
+ORDER BY ?term

@@ -1,12 +1,36 @@
 
-import json
+import json, argparse
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--facet", help="facetname e.g. 'endangered'")
+args = parser.parse_args()
+
+if (args.facet==None):
+    print("must give --facet")
+    quit() 
+
+facetname = args.facet
+print ("facet "+facetname)
+
+JSON_ROOT="/Users/pm286/workspace/dictionaries/json/"
+
+CMDOT="CM."
+CONTENTMINE="contentmine"
+ENTRIES="entries"
+ID="id"
+IDENTIFIERS="identifiers"
+NAME="name"
+RAW_SUFF=".raw.json"
+TERM_LABEL="termLabel"
+TERM="term"
+WIKIDATA="wikidata"
 
 def enrich(termlist, facetname):
     """
     Iterate over a list of terms and add an enumerating identifier.
     """
     return [reformat(d, i, facetname) for i,d in enumerate(termlist) \
-                                      if not digit_present(d.get("termLabel"))]
+                                      if not digit_present(d.get(TERM_LABEL))]
 
 def digit_present(s):
     """
@@ -20,12 +44,12 @@ def reformat(d, i, facetname):
     Reformats the dictionaries into facets.
     """
     new = {}
-    new["term"] = d.get("termLabel")
-    new["name"] = d.get("termLabel")
-    new["identifiers"] = {}
+    new[TERM] = d.get(TERM_LABEL)
+    new[NAME] = d.get(TERM_LABEL)
+    new[IDENTIFIERS] = {}
     # "https://www.wikidata.org/wiki/Q4661045" -> "Q4661045"
-    new["identifiers"]["wikidata"] = d.get("term").split("/")[-1]
-    new["identifiers"]["contentmine"] = "CM."+facetname+str(i)
+    new[IDENTIFIERS][WIKIDATA] = d.get(TERM).split("/")[-1]
+    new[IDENTIFIERS][CONTENTMINE] = CMDOT+facetname+str(i)
     return new
 
 def make_facet(wikidatajsonpath, facetname):
@@ -39,15 +63,14 @@ def make_facet(wikidatajsonpath, facetname):
         entries = enrich(raw, facetname)
         
         facet= {}
-        facet["id"] = "CM."+facetname
-        facet["name"] = facetname
-        facet["entries"] = entries
+        facet[ID] = CMDOT+facetname
+        facet[NAME] = facetname
+        facet[ENTRIES] = entries
         return facet
 
 print ("transforming dictionaries")
 
-facetname = "wikidatacountry" # give an appropriate one, e.g. "endangered"
-new_facet = make_facet("/Users/pm286/workspace/dictionaries/json/wikidatacountry.raw.json", facetname)
+new_facet = make_facet(JSON_ROOT+facetname+RAW_SUFF, facetname)
 
 with open("{0}.json".format(facetname), "w") as outfile:
     json.dump(new_facet, outfile, indent=4)
