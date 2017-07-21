@@ -1,0 +1,45 @@
+{
+  "id": "CM.cereal",
+  "entries": [
+    {
+      "identifiers": {
+        "contentmine": "CM.cereal0",
+        "wikidata": "Q161426"
+      },
+      "term": "Oryza sativa",
+      "name": "Oryza sativa"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.cereal1",
+        "wikidata": "Q161098"
+      },
+      "term": "Triticum aestivum",
+      "name": "Triticum aestivum"
+    },
+        {
+      "identifiers": {
+        "contentmine": "CM.cereal2",
+        "wikidata": "Q618324"
+      },
+      "term": "Triticum durum",
+      "name": "Triticum durum"
+    },
+        {
+      "identifiers": {
+        "contentmine": "CM.cereal3",
+        "wikidata": "Q158767"
+      },
+      "term": "Triticum spelta",
+      "name": "Triticum spelta"
+    },
+        {
+      "identifiers": {
+        "contentmine": "CM.cereal4",
+        "wikidata": "Q167339"
+      },
+      "term": "Triticum dicoccum",
+      "name": "Triticum dicoccum"
+    }
+  ]
+}
