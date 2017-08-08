@@ -1,1 +1,1733 @@
-{"entries":[{"name":"Styracaceae","term":"Styracaceae","identifiers":{"contentmine":"CM.styracaceae0","wikidata":"Q877464"}},{"name":"Sinojackia","term":"Sinojackia","identifiers":{"contentmine":"CM.styracaceae1","wikidata":"Q286115"}},{"name":"Styrax","term":"Styrax","identifiers":{"contentmine":"CM.styracaceae2","wikidata":"Q525062"}},{"name":"Alniphyllum","term":"Alniphyllum","identifiers":{"contentmine":"CM.styracaceae3","wikidata":"Q1338560"}},{"name":"Pterostyrax","term":"Pterostyrax","identifiers":{"contentmine":"CM.styracaceae4","wikidata":"Q2701015"}},{"name":"Halesia","term":"Halesia","identifiers":{"contentmine":"CM.styracaceae5","wikidata":"Q2719926"}},{"name":"Pamphilia","term":"Pamphilia","identifiers":{"contentmine":"CM.styracaceae6","wikidata":"Q5859890"}},{"name":"Melliodendron","term":"Melliodendron","identifiers":{"contentmine":"CM.styracaceae7","wikidata":"Q6654388"}},{"name":"Rehderodendron","term":"Rehderodendron","identifiers":{"contentmine":"CM.styracaceae8","wikidata":"Q7309787"}},{"name":"Bruinsmia","term":"Bruinsmia","identifiers":{"contentmine":"CM.styracaceae9","wikidata":"Q8252768"}},{"name":"Parastyrax","term":"Parastyrax","identifiers":{"contentmine":"CM.styracaceae10","wikidata":"Q9297359"}},{"name":"Huodendron","term":"Huodendron","identifiers":{"contentmine":"CM.styracaceae11","wikidata":"Q10298942"}},{"name":"Changiostyrax","term":"Changiostyrax","identifiers":{"contentmine":"CM.styracaceae12","wikidata":"Q15089691"}},{"name":"Sinojackia xylocarpa","term":"Sinojackia xylocarpa","identifiers":{"contentmine":"CM.styracaceae13","wikidata":"Q1326058"}},{"name":"Changiostyrax dolichocarpa","term":"Changiostyrax dolichocarpa","identifiers":{"contentmine":"CM.styracaceae14","wikidata":"Q2894831"}},{"name":"Sinojackia rehderiana","term":"Sinojackia rehderiana","identifiers":{"contentmine":"CM.styracaceae15","wikidata":"Q3485033"}},{"name":"Sinojackia henryi","term":"Sinojackia henryi","identifiers":{"contentmine":"CM.styracaceae16","wikidata":"Q11117260"}},{"name":"Sinojackia microcarpa","term":"Sinojackia microcarpa","identifiers":{"contentmine":"CM.styracaceae17","wikidata":"Q15313171"}},{"name":"Sinojackia huangmeiensis","term":"Sinojackia huangmeiensis","identifiers":{"contentmine":"CM.styracaceae18","wikidata":"Q15348679"}},{"name":"Sinojackia oblongicarpa","term":"Sinojackia oblongicarpa","identifiers":{"contentmine":"CM.styracaceae19","wikidata":"Q15349756"}},{"name":"Sinojackia sarcocarpa","term":"Sinojackia sarcocarpa","identifiers":{"contentmine":"CM.styracaceae20","wikidata":"Q15350483"}},{"name":"Styrax obassia","term":"Styrax obassia","identifiers":{"contentmine":"CM.styracaceae21","wikidata":"Q845222"}},{"name":"Styrax japonicus","term":"Styrax japonicus","identifiers":{"contentmine":"CM.styracaceae22","wikidata":"Q910419"}},{"name":"Styrax hemsleyanus","term":"Styrax hemsleyanus","identifiers":{"contentmine":"CM.styracaceae23","wikidata":"Q1074216"}},{"name":"Styrax officinalis","term":"Styrax officinalis","identifiers":{"contentmine":"CM.styracaceae24","wikidata":"Q1281140"}},{"name":"Styrax ferax","term":"Styrax ferax","identifiers":{"contentmine":"CM.styracaceae25","wikidata":"Q1326043"}},{"name":"Styrax mathewsii","term":"Styrax mathewsii","identifiers":{"contentmine":"CM.styracaceae26","wikidata":"Q1326082"}},{"name":"Styrax benzoin","term":"Styrax benzoin","identifiers":{"contentmine":"CM.styracaceae27","wikidata":"Q2732635"}},{"name":"Styrax tonkinensis","term":"Styrax tonkinensis","identifiers":{"contentmine":"CM.styracaceae28","wikidata":"Q3335679"}},{"name":"Styrax peruvianus","term":"Styrax peruvianus","identifiers":{"contentmine":"CM.styracaceae29","wikidata":"Q4117274"}},{"name":"Styrax argyrophyllus","term":"Styrax argyrophyllus","identifiers":{"contentmine":"CM.styracaceae30","wikidata":"Q5465446"}},{"name":"Styrax crotonoides","term":"Styrax crotonoides","identifiers":{"contentmine":"CM.styracaceae31","wikidata":"Q5465450"}},{"name":"Styrax foveolaria","term":"Styrax foveolaria","identifiers":{"contentmine":"CM.styracaceae32","wikidata":"Q5465455"}},{"name":"Styrax fraserensis","term":"Styrax fraserensis","identifiers":{"contentmine":"CM.styracaceae33","wikidata":"Q5465457"}},{"name":"Styrax litseoides","term":"Styrax litseoides","identifiers":{"contentmine":"CM.styracaceae34","wikidata":"Q5465460"}},{"name":"Styrax tafelbergensis","term":"Styrax tafelbergensis","identifiers":{"contentmine":"CM.styracaceae35","wikidata":"Q5465465"}},{"name":"Styrax vilcabambae","term":"Styrax vilcabambae","identifiers":{"contentmine":"CM.styracaceae36","wikidata":"Q5465468"}},{"name":"Styrax portoricensis","term":"Styrax portoricensis","identifiers":{"contentmine":"CM.styracaceae37","wikidata":"Q5491220"}},{"name":"Styrax ferrugineus","term":"Styrax ferrugineus","identifiers":{"contentmine":"CM.styracaceae38","wikidata":"Q5640838"}},{"name":"Styrax americanus","term":"Styrax americanus","identifiers":{"contentmine":"CM.styracaceae39","wikidata":"Q6134685"}},{"name":"Styrax aureus","term":"Styrax aureus","identifiers":{"contentmine":"CM.styracaceae40","wikidata":"Q6134687"}},{"name":"Styrax paralleloneurus","term":"Styrax paralleloneurus","identifiers":{"contentmine":"CM.styracaceae41","wikidata":"Q6134690"}},{"name":"Styrax reticulatus","term":"Styrax reticulatus","identifiers":{"contentmine":"CM.styracaceae42","wikidata":"Q6134692"}},{"name":"Styrax platanifolius","term":"Styrax platanifolius","identifiers":{"contentmine":"CM.styracaceae43","wikidata":"Q7629799"}},{"name":"Styrax socialis","term":"Styrax socialis","identifiers":{"contentmine":"CM.styracaceae44","wikidata":"Q7629806"}},{"name":"Styrax chinensis","term":"Styrax chinensis","identifiers":{"contentmine":"CM.styracaceae45","wikidata":"Q10872278"}},{"name":"Styrax hainanensis","term":"Styrax hainanensis","identifiers":{"contentmine":"CM.styracaceae46","wikidata":"Q10910924"}},{"name":"Styrax formosanus","term":"Styrax formosanus","identifiers":{"contentmine":"CM.styracaceae47","wikidata":"Q10914670"}},{"name":"Styrax matsumurae","term":"Styrax matsumurae","identifiers":{"contentmine":"CM.styracaceae48","wikidata":"Q10915096"}},{"name":"Styrax agrestis","term":"Styrax agrestis","identifiers":{"contentmine":"CM.styracaceae49","wikidata":"Q10923531"}},{"name":"Styrax dasyanthus","term":"Styrax dasyanthus","identifiers":{"contentmine":"CM.styracaceae50","wikidata":"Q10928995"}},{"name":"Styrax huanus","term":"Styrax huanus","identifiers":{"contentmine":"CM.styracaceae51","wikidata":"Q10931295"}},{"name":"Styrax macrocarpus","term":"Styrax macrocarpus","identifiers":{"contentmine":"CM.styracaceae52","wikidata":"Q10935816"}},{"name":"Styrax grandiflorus","term":"Styrax grandiflorus","identifiers":{"contentmine":"CM.styracaceae53","wikidata":"Q10937633"}},{"name":"Styrax wuyuanensis","term":"Styrax wuyuanensis","identifiers":{"contentmine":"CM.styracaceae54","wikidata":"Q10943976"}},{"name":"Styrax wilsonii","term":"Styrax wilsonii","identifiers":{"contentmine":"CM.styracaceae55","wikidata":"Q10958107"}},{"name":"Styrax suberifolius","term":"Styrax suberifolius","identifiers":{"contentmine":"CM.styracaceae56","wikidata":"Q11110575"}},{"name":"Styrax limprichtii","term":"Styrax limprichtii","identifiers":{"contentmine":"CM.styracaceae57","wikidata":"Q11119888"}},{"name":"Styrax zhejiangensis","term":"Styrax zhejiangensis","identifiers":{"contentmine":"CM.styracaceae58","wikidata":"Q11148716"}},{"name":"Styrax chrysocarpus","term":"Styrax chrysocarpus","identifiers":{"contentmine":"CM.styracaceae59","wikidata":"Q11177649"}},{"name":"Styrax serrulatus","term":"Styrax serrulatus","identifiers":{"contentmine":"CM.styracaceae60","wikidata":"Q11180340"}},{"name":"Styrax argentifolius","term":"Styrax argentifolius","identifiers":{"contentmine":"CM.styracaceae61","wikidata":"Q15235841"}},{"name":"Styrax supaii","term":"Styrax supaii","identifiers":{"contentmine":"CM.styracaceae62","wikidata":"Q15235842"}},{"name":"Styrax macranthus","term":"Styrax macranthus","identifiers":{"contentmine":"CM.styracaceae63","wikidata":"Q15236584"}},{"name":"Styrax benzoides","term":"Styrax benzoides","identifiers":{"contentmine":"CM.styracaceae64","wikidata":"Q15238948"}},{"name":"Styrax roseus","term":"Styrax roseus","identifiers":{"contentmine":"CM.styracaceae65","wikidata":"Q15239138"}},{"name":"Styrax perkinsiae","term":"Styrax perkinsiae","identifiers":{"contentmine":"CM.styracaceae66","wikidata":"Q15239425"}},{"name":"Styrax odoratissimus","term":"Styrax odoratissimus","identifiers":{"contentmine":"CM.styracaceae67","wikidata":"Q15239428"}},{"name":"Styrax rugosus","term":"Styrax rugosus","identifiers":{"contentmine":"CM.styracaceae68","wikidata":"Q15246187"}},{"name":"Styrax confusus","term":"Styrax confusus","identifiers":{"contentmine":"CM.styracaceae69","wikidata":"Q15246192"}},{"name":"Styrax faberi","term":"Styrax faberi","identifiers":{"contentmine":"CM.styracaceae70","wikidata":"Q15250186"}},{"name":"Styrax calvescens","term":"Styrax calvescens","identifiers":{"contentmine":"CM.styracaceae71","wikidata":"Q15252017"}},{"name":"Styrax argenteus","term":"Styrax argenteus","identifiers":{"contentmine":"CM.styracaceae72","wikidata":"Q15312484"}},{"name":"Styrax austromexicanus","term":"Styrax austromexicanus","identifiers":{"contentmine":"CM.styracaceae73","wikidata":"Q15312514"}},{"name":"Styrax bashanensis","term":"Styrax bashanensis","identifiers":{"contentmine":"CM.styracaceae74","wikidata":"Q15312523"}},{"name":"Styrax acuminatus","term":"Styrax acuminatus","identifiers":{"contentmine":"CM.styracaceae75","wikidata":"Q15312530"}},{"name":"Styrax camporum","term":"Styrax camporum","identifiers":{"contentmine":"CM.styracaceae76","wikidata":"Q15312580"}},{"name":"Styrax conterminus","term":"Styrax conterminus","identifiers":{"contentmine":"CM.styracaceae77","wikidata":"Q15312646"}},{"name":"Styrax curvirostratus","term":"Styrax curvirostratus","identifiers":{"contentmine":"CM.styracaceae78","wikidata":"Q15312666"}},{"name":"Styrax davillifolius","term":"Styrax davillifolius","identifiers":{"contentmine":"CM.styracaceae79","wikidata":"Q15312716"}},{"name":"Styrax gentryi","term":"Styrax gentryi","identifiers":{"contentmine":"CM.styracaceae80","wikidata":"Q15312725"}},{"name":"Styrax heterotrichus","term":"Styrax heterotrichus","identifiers":{"contentmine":"CM.styracaceae81","wikidata":"Q15312737"}},{"name":"Styrax duidae","term":"Styrax duidae","identifiers":{"contentmine":"CM.styracaceae82","wikidata":"Q15312739"}},{"name":"Styrax glaber","term":"Styrax glaber","identifiers":{"contentmine":"CM.styracaceae83","wikidata":"Q15312753"}},{"name":"Styrax glabratus","term":"Styrax glabratus","identifiers":{"contentmine":"CM.styracaceae84","wikidata":"Q15312782"}},{"name":"Styrax lanceolatus","term":"Styrax lanceolatus","identifiers":{"contentmine":"CM.styracaceae85","wikidata":"Q15312786"}},{"name":"Styrax hypargyreus","term":"Styrax hypargyreus","identifiers":{"contentmine":"CM.styracaceae86","wikidata":"Q15312801"}},{"name":"Styrax latifolius","term":"Styrax latifolius","identifiers":{"contentmine":"CM.styracaceae87","wikidata":"Q15312808"}},{"name":"Styrax glabrescens","term":"Styrax glabrescens","identifiers":{"contentmine":"CM.styracaceae88","wikidata":"Q15312811"}},{"name":"Styrax incarnatus","term":"Styrax incarnatus","identifiers":{"contentmine":"CM.styracaceae89","wikidata":"Q15312830"}},{"name":"Styrax leprosus","term":"Styrax leprosus","identifiers":{"contentmine":"CM.styracaceae90","wikidata":"Q15312836"}},{"name":"Styrax grandifolius","term":"Styrax grandifolius","identifiers":{"contentmine":"CM.styracaceae91","wikidata":"Q15312861"}},{"name":"Styrax jaliscanus","term":"Styrax jaliscanus","identifiers":{"contentmine":"CM.styracaceae92","wikidata":"Q15312863"}},{"name":"Styrax guaiquinimae","term":"Styrax guaiquinimae","identifiers":{"contentmine":"CM.styracaceae93","wikidata":"Q15312881"}},{"name":"Styrax nunezii","term":"Styrax nunezii","identifiers":{"contentmine":"CM.styracaceae94","wikidata":"Q15312899"}},{"name":"Styrax guanayanus","term":"Styrax guanayanus","identifiers":{"contentmine":"CM.styracaceae95","wikidata":"Q15312906"}},{"name":"Styrax longipedicellatus","term":"Styrax longipedicellatus","identifiers":{"contentmine":"CM.styracaceae96","wikidata":"Q15312912"}},{"name":"Styrax guianensis","term":"Styrax guianensis","identifiers":{"contentmine":"CM.styracaceae97","wikidata":"Q15312926"}},{"name":"Styrax oblongus","term":"Styrax oblongus","identifiers":{"contentmine":"CM.styracaceae98","wikidata":"Q15312958"}},{"name":"Styrax guyanensis","term":"Styrax guyanensis","identifiers":{"contentmine":"CM.styracaceae99","wikidata":"Q15312961"}},{"name":"Styrax platanifolius subsp. stellatus","term":"Styrax platanifolius subsp. stellatus","identifiers":{"contentmine":"CM.styracaceae100","wikidata":"Q24689166"}},{"name":"Styrax platanifolius subsp. texanus","term":"Styrax platanifolius subsp. texanus","identifiers":{"contentmine":"CM.styracaceae101","wikidata":"Q24689167"}},{"name":"Styrax platanifolius subsp. youngiae","term":"Styrax platanifolius subsp. youngiae","identifiers":{"contentmine":"CM.styracaceae102","wikidata":"Q24689170"}},{"name":"Huodendron biaristatum var. biaristatum","term":"Huodendron biaristatum var. biaristatum","identifiers":{"contentmine":"CM.styracaceae103","wikidata":"Q25131689"}},{"name":"Huodendron biaristatum var. parviflorum","term":"Huodendron biaristatum var. parviflorum","identifiers":{"contentmine":"CM.styracaceae104","wikidata":"Q25131690"}},{"name":"Styrax formosanus var. formosanus","term":"Styrax formosanus var. formosanus","identifiers":{"contentmine":"CM.styracaceae105","wikidata":"Q25131701"}},{"name":"Styrax formosanus var. hirtus","term":"Styrax formosanus var. hirtus","identifiers":{"contentmine":"CM.styracaceae106","wikidata":"Q25131702"}},{"name":"Styrax suberifolius var. hayataianus","term":"Styrax suberifolius var. hayataianus","identifiers":{"contentmine":"CM.styracaceae107","wikidata":"Q25131705"}},{"name":"Styrax suberifolius var. suberifolius","term":"Styrax suberifolius var. suberifolius","identifiers":{"contentmine":"CM.styracaceae108","wikidata":"Q25131706"}},{"name":"Styrax confusus var. confusus","term":"Styrax confusus var. confusus","identifiers":{"contentmine":"CM.styracaceae109","wikidata":"Q25131694"}},{"name":"Styrax confusus var. microphyllus","term":"Styrax confusus var. microphyllus","identifiers":{"contentmine":"CM.styracaceae110","wikidata":"Q25131695"}},{"name":"Styrax confusus var. superbus","term":"Styrax confusus var. superbus","identifiers":{"contentmine":"CM.styracaceae111","wikidata":"Q25131697"}},{"name":"Huodendron tomentosum var. tomentosum","term":"Huodendron tomentosum var. tomentosum","identifiers":{"contentmine":"CM.styracaceae112","wikidata":"Q25131692"}},{"name":"Styrax faberi var. amplexifolius","term":"Styrax faberi var. amplexifolius","identifiers":{"contentmine":"CM.styracaceae113","wikidata":"Q25131698"}},{"name":"Styrax faberi var. faberi","term":"Styrax faberi var. faberi","identifiers":{"contentmine":"CM.styracaceae114","wikidata":"Q25131699"}},{"name":"Styrax faberi var. formosanus","term":"Styrax faberi var. formosanus","identifiers":{"contentmine":"CM.styracaceae115","wikidata":"Q25131700"}},{"name":"Styrax macrocalyx","term":"Styrax macrocalyx","identifiers":{"contentmine":"CM.styracaceae116","wikidata":"Q15312986"}},{"name":"Styrax pallidus","term":"Styrax pallidus","identifiers":{"contentmine":"CM.styracaceae117","wikidata":"Q15313017"}},{"name":"Styrax pavonii","term":"Styrax pavonii","identifiers":{"contentmine":"CM.styracaceae118","wikidata":"Q15313045"}},{"name":"Styrax pedicellatus","term":"Styrax pedicellatus","identifiers":{"contentmine":"CM.styracaceae119","wikidata":"Q15313071"}},{"name":"Styrax pohlii","term":"Styrax pohlii","identifiers":{"contentmine":"CM.styracaceae120","wikidata":"Q15313085"}},{"name":"Styrax macrophyllus","term":"Styrax macrophyllus","identifiers":{"contentmine":"CM.styracaceae121","wikidata":"Q15313086"}},{"name":"Styrax pentlandianus","term":"Styrax pentlandianus","identifiers":{"contentmine":"CM.styracaceae122","wikidata":"Q15313105"}},{"name":"Styrax magnus","term":"Styrax magnus","identifiers":{"contentmine":"CM.styracaceae123","wikidata":"Q15313121"}},{"name":"Styrax maninul","term":"Styrax maninul","identifiers":{"contentmine":"CM.styracaceae124","wikidata":"Q15313141"}},{"name":"Styrax radians","term":"Styrax radians","identifiers":{"contentmine":"CM.styracaceae125","wikidata":"Q15313146"}},{"name":"Styrax martii","term":"Styrax martii","identifiers":{"contentmine":"CM.styracaceae126","wikidata":"Q15313168"}},{"name":"Styrax ramirezii","term":"Styrax ramirezii","identifiers":{"contentmine":"CM.styracaceae127","wikidata":"Q15313170"}},{"name":"Styrax tomentosus","term":"Styrax tomentosus","identifiers":{"contentmine":"CM.styracaceae128","wikidata":"Q15313224"}},{"name":"Styrax neblinae","term":"Styrax neblinae","identifiers":{"contentmine":"CM.styracaceae129","wikidata":"Q15313230"}},{"name":"Styrax rotundatus","term":"Styrax rotundatus","identifiers":{"contentmine":"CM.styracaceae130","wikidata":"Q15313232"}},{"name":"Styrax nicaraguensis","term":"Styrax nicaraguensis","identifiers":{"contentmine":"CM.styracaceae131","wikidata":"Q15313261"}},{"name":"Styrax trichocalyx","term":"Styrax trichocalyx","identifiers":{"contentmine":"CM.styracaceae132","wikidata":"Q15313297"}},{"name":"Styrax sieberi","term":"Styrax sieberi","identifiers":{"contentmine":"CM.styracaceae133","wikidata":"Q15313310"}},{"name":"Styrax sipapoanus","term":"Styrax sipapoanus","identifiers":{"contentmine":"CM.styracaceae134","wikidata":"Q15313332"}},{"name":"Styrax warscewiczii","term":"Styrax warscewiczii","identifiers":{"contentmine":"CM.styracaceae135","wikidata":"Q15313382"}},{"name":"Styrax steyermarkii","term":"Styrax steyermarkii","identifiers":{"contentmine":"CM.styracaceae136","wikidata":"Q15313403"}},{"name":"Styrax subargenteus","term":"Styrax subargenteus","identifiers":{"contentmine":"CM.styracaceae137","wikidata":"Q15313433"}},{"name":"Styrax wurdackiorum","term":"Styrax wurdackiorum","identifiers":{"contentmine":"CM.styracaceae138","wikidata":"Q15313451"}},{"name":"Styrax yutajensis","term":"Styrax yutajensis","identifiers":{"contentmine":"CM.styracaceae139","wikidata":"Q15313506"}},{"name":"Styrax buchananii","term":"Styrax buchananii","identifiers":{"contentmine":"CM.styracaceae140","wikidata":"Q17242085"}},{"name":"Styrax diplotrichus","term":"Styrax diplotrichus","identifiers":{"contentmine":"CM.styracaceae141","wikidata":"Q17242121"}},{"name":"Styrax redivivus","term":"Styrax redivivus","identifiers":{"contentmine":"CM.styracaceae142","wikidata":"Q17242290"}},{"name":"Styrax subheterotrichus","term":"Styrax subheterotrichus","identifiers":{"contentmine":"CM.styracaceae143","wikidata":"Q17242599"}},{"name":"Styrax obtusifolius","term":"Styrax obtusifolius","identifiers":{"contentmine":"CM.styracaceae144","wikidata":"Q17242627"}},{"name":"Styrax ridleyanus","term":"Styrax ridleyanus","identifiers":{"contentmine":"CM.styracaceae145","wikidata":"Q17242693"}},{"name":"Styrax hookeri","term":"Styrax hookeri","identifiers":{"contentmine":"CM.styracaceae146","wikidata":"Q17242736"}},{"name":"Styrax ochraceus","term":"Styrax ochraceus","identifiers":{"contentmine":"CM.styracaceae147","wikidata":"Q17242763"}},{"name":"Styrax casearifolius","term":"Styrax casearifolius","identifiers":{"contentmine":"CM.styracaceae148","wikidata":"Q17242903"}},{"name":"Styrax hypochryseus","term":"Styrax hypochryseus","identifiers":{"contentmine":"CM.styracaceae149","wikidata":"Q17242992"}},{"name":"Styrax rigidifolius","term":"Styrax rigidifolius","identifiers":{"contentmine":"CM.styracaceae150","wikidata":"Q17243033"}},{"name":"Styrax caudatus","term":"Styrax caudatus","identifiers":{"contentmine":"CM.styracaceae151","wikidata":"Q17243116"}},{"name":"Styrax cespedesii","term":"Styrax cespedesii","identifiers":{"contentmine":"CM.styracaceae152","wikidata":"Q17243217"}},{"name":"Styrax annamensis","term":"Styrax annamensis","identifiers":{"contentmine":"CM.styracaceae153","wikidata":"Q17243332"}},{"name":"Styrax chrysocalyx","term":"Styrax chrysocalyx","identifiers":{"contentmine":"CM.styracaceae154","wikidata":"Q17243524"}},{"name":"Styrax oliganthes","term":"Styrax oliganthes","identifiers":{"contentmine":"CM.styracaceae155","wikidata":"Q17243676"}},{"name":"Styrax rufopilosus","term":"Styrax rufopilosus","identifiers":{"contentmine":"CM.styracaceae156","wikidata":"Q17243694"}},{"name":"Styrax lancifolius","term":"Styrax lancifolius","identifiers":{"contentmine":"CM.styracaceae157","wikidata":"Q17243752"}},{"name":"Styrax omuk","term":"Styrax omuk","identifiers":{"contentmine":"CM.styracaceae158","wikidata":"Q17243873"}},{"name":"Styrax apricus","term":"Styrax apricus","identifiers":{"contentmine":"CM.styracaceae159","wikidata":"Q17243877"}},{"name":"Styrax manmul","term":"Styrax manmul","identifiers":{"contentmine":"CM.styracaceae160","wikidata":"Q17244004"}},{"name":"Styrax lasiocalyx","term":"Styrax lasiocalyx","identifiers":{"contentmine":"CM.styracaceae161","wikidata":"Q17244029"}},{"name":"Styrax schultzei","term":"Styrax schultzei","identifiers":{"contentmine":"CM.styracaceae162","wikidata":"Q17244094"}},{"name":"Styrax trichostemon","term":"Styrax trichostemon","identifiers":{"contentmine":"CM.styracaceae163","wikidata":"Q17244104"}},{"name":"Styrax pauciflorus","term":"Styrax pauciflorus","identifiers":{"contentmine":"CM.styracaceae164","wikidata":"Q17244297"}},{"name":"Styrax microphyllus","term":"Styrax microphyllus","identifiers":{"contentmine":"CM.styracaceae165","wikidata":"Q17244314"}},{"name":"Styrax griseus","term":"Styrax griseus","identifiers":{"contentmine":"CM.styracaceae166","wikidata":"Q17244377"}},{"name":"Styrax cordatus","term":"Styrax cordatus","identifiers":{"contentmine":"CM.styracaceae167","wikidata":"Q17244433"}},{"name":"Styrax tuxtlensis","term":"Styrax tuxtlensis","identifiers":{"contentmine":"CM.styracaceae168","wikidata":"Q17244619"}},{"name":"Styrax nui","term":"Styrax nui","identifiers":{"contentmine":"CM.styracaceae169","wikidata":"Q17244699"}},{"name":"Styrax shiraiana","term":"Styrax shiraiana","identifiers":{"contentmine":"CM.styracaceae170","wikidata":"Q17244715"}},{"name":"Styrax siamensis","term":"Styrax siamensis","identifiers":{"contentmine":"CM.styracaceae171","wikidata":"Q17244929"}},{"name":"Styrax pefrit","term":"Styrax pefrit","identifiers":{"contentmine":"CM.styracaceae172","wikidata":"Q17244960"}},{"name":"Styrax uxpanapensis","term":"Styrax uxpanapensis","identifiers":{"contentmine":"CM.styracaceae173","wikidata":"Q17244982"}},{"name":"Styrax betongensis","term":"Styrax betongensis","identifiers":{"contentmine":"CM.styracaceae174","wikidata":"Q17245679"}},{"name":"Styrax bicolor","term":"Styrax bicolor","identifiers":{"contentmine":"CM.styracaceae175","wikidata":"Q17245946"}},{"name":"Styrax yapobodensis","term":"Styrax yapobodensis","identifiers":{"contentmine":"CM.styracaceae176","wikidata":"Q17247114"}},{"name":"Styrax shiraianus","term":"Styrax shiraianus","identifiers":{"contentmine":"CM.styracaceae177","wikidata":"Q21318394"}},{"name":"Alniphyllum eberhardtii","term":"Alniphyllum eberhardtii","identifiers":{"contentmine":"CM.styracaceae178","wikidata":"Q4734064"}},{"name":"Alniphyllum pterospermum","term":"Alniphyllum pterospermum","identifiers":{"contentmine":"CM.styracaceae179","wikidata":"Q10888709"}},{"name":"Alniphyllum fortunei","term":"Alniphyllum fortunei","identifiers":{"contentmine":"CM.styracaceae180","wikidata":"Q15248253"}},{"name":"Pterostyrax psilophyllus","term":"Pterostyrax psilophyllus","identifiers":{"contentmine":"CM.styracaceae181","wikidata":"Q655302"}},{"name":"Pterostyrax corymbosus","term":"Pterostyrax corymbosus","identifiers":{"contentmine":"CM.styracaceae182","wikidata":"Q3336052"}},{"name":"Pterostyrax hispidus","term":"Pterostyrax hispidus","identifiers":{"contentmine":"CM.styracaceae183","wikidata":"Q3410293"}},{"name":"Pterostyrax burmanicus","term":"Pterostyrax burmanicus","identifiers":{"contentmine":"CM.styracaceae184","wikidata":"Q17271738"}},{"name":"Halesia macgregorii","term":"Halesia macgregorii","identifiers":{"contentmine":"CM.styracaceae185","wikidata":"Q261250"}},{"name":"Halesia carolina","term":"Halesia carolina","identifiers":{"contentmine":"CM.styracaceae186","wikidata":"Q3125935"}},{"name":"Halesia monticola","term":"Halesia monticola","identifiers":{"contentmine":"CM.styracaceae187","wikidata":"Q5641509"}},{"name":"Halesia tetraptera","term":"Halesia tetraptera","identifiers":{"contentmine":"CM.styracaceae188","wikidata":"Q5641512"}},{"name":"Halesia diptera","term":"Halesia diptera","identifiers":{"contentmine":"CM.styracaceae189","wikidata":"Q9001859"}},{"name":"Halesia meehanii","term":"Halesia meehanii","identifiers":{"contentmine":"CM.styracaceae190","wikidata":"Q15303570"}},{"name":"Halesia hispida","term":"Halesia hispida","identifiers":{"contentmine":"CM.styracaceae191","wikidata":"Q15303571"}},{"name":"Halesia stenocarpa","term":"Halesia stenocarpa","identifiers":{"contentmine":"CM.styracaceae192","wikidata":"Q15303572"}},{"name":"Halesia reticulata","term":"Halesia reticulata","identifiers":{"contentmine":"CM.styracaceae193","wikidata":"Q15303573"}},{"name":"Halesia ternata","term":"Halesia ternata","identifiers":{"contentmine":"CM.styracaceae194","wikidata":"Q15303578"}},{"name":"Pamphilia vilcabambae","term":"Pamphilia vilcabambae","identifiers":{"contentmine":"CM.styracaceae195","wikidata":"Q15345597"}},{"name":"Melliodendron xylocarpum","term":"Melliodendron xylocarpum","identifiers":{"contentmine":"CM.styracaceae196","wikidata":"Q15236585"}},{"name":"Rehderodendron macrocarpum","term":"Rehderodendron macrocarpum","identifiers":{"contentmine":"CM.styracaceae197","wikidata":"Q3205953"}},{"name":"Rehderodendron kwangtungense","term":"Rehderodendron kwangtungense","identifiers":{"contentmine":"CM.styracaceae198","wikidata":"Q11061706"}},{"name":"Rehderodendron kweichowense","term":"Rehderodendron kweichowense","identifiers":{"contentmine":"CM.styracaceae199","wikidata":"Q15245554"}},{"name":"Rehderodendron indochinense","term":"Rehderodendron indochinense","identifiers":{"contentmine":"CM.styracaceae200","wikidata":"Q15247649"}},{"name":"Rehderodendron gongshanense","term":"Rehderodendron gongshanense","identifiers":{"contentmine":"CM.styracaceae201","wikidata":"Q15342395"}},{"name":"Bruinsmia polysperma","term":"Bruinsmia polysperma","identifiers":{"contentmine":"CM.styracaceae202","wikidata":"Q15316632"}},{"name":"Bruinsmia styracoides","term":"Bruinsmia styracoides","identifiers":{"contentmine":"CM.styracaceae203","wikidata":"Q15316717"}},{"name":"Parastyrax macrophyllus","term":"Parastyrax macrophyllus","identifiers":{"contentmine":"CM.styracaceae204","wikidata":"Q10934062"}},{"name":"Parastyrax lacei","term":"Parastyrax lacei","identifiers":{"contentmine":"CM.styracaceae205","wikidata":"Q15239992"}},{"name":"Huodendron biaristatum","term":"Huodendron biaristatum","identifiers":{"contentmine":"CM.styracaceae206","wikidata":"Q10912604"}},{"name":"Huodendron parviflorum","term":"Huodendron parviflorum","identifiers":{"contentmine":"CM.styracaceae207","wikidata":"Q11682651"}},{"name":"Huodendron tomentosum","term":"Huodendron tomentosum","identifiers":{"contentmine":"CM.styracaceae208","wikidata":"Q15247447"}},{"name":"Huodendron tibeticum","term":"Huodendron tibeticum","identifiers":{"contentmine":"CM.styracaceae209","wikidata":"Q15250665"}},{"name":"Changiostyrax dolichocarpa","term":"Changiostyrax dolichocarpa","identifiers":{"contentmine":"CM.styracaceae210","wikidata":"Q5072052"}},{"name":"Changiostyrax dolichocarpus","term":"Changiostyrax dolichocarpus","identifiers":{"contentmine":"CM.styracaceae211","wikidata":"Q15327045"}},{"name":"Styrax japonicus var. calycothrix","term":"Styrax japonicus var. calycothrix","identifiers":{"contentmine":"CM.styracaceae212","wikidata":"Q25131703"}},{"name":"Styrax japonicus var. japonicus","term":"Styrax japonicus var. japonicus","identifiers":{"contentmine":"CM.styracaceae213","wikidata":"Q25131704"}},{"name":"Sinojackia xylocarpa var. leshanensis","term":"Sinojackia xylocarpa var. leshanensis","identifiers":{"contentmine":"CM.styracaceae214","wikidata":"Q25131693"}},{"name":"Styrax platanifolius subsp. platanifolius","term":"Styrax platanifolius subsp. platanifolius","identifiers":{"contentmine":"CM.styracaceae215","wikidata":"Q24689164"}}]}
+{
+    "entries": [
+        {
+            "name": "Styracaceae",
+            "term": "Styracaceae",
+            "identifiers": {
+                "contentmine": "CM.styracaceae0",
+                "wikidata": "Q877464"
+            }
+        },
+        {
+            "name": "Sinojackia",
+            "term": "Sinojackia",
+            "identifiers": {
+                "contentmine": "CM.styracaceae1",
+                "wikidata": "Q286115"
+            }
+        },
+        {
+            "name": "Styrax",
+            "term": "Styrax",
+            "identifiers": {
+                "contentmine": "CM.styracaceae2",
+                "wikidata": "Q525062"
+            }
+        },
+        {
+            "name": "Alniphyllum",
+            "term": "Alniphyllum",
+            "identifiers": {
+                "contentmine": "CM.styracaceae3",
+                "wikidata": "Q1338560"
+            }
+        },
+        {
+            "name": "Pterostyrax",
+            "term": "Pterostyrax",
+            "identifiers": {
+                "contentmine": "CM.styracaceae4",
+                "wikidata": "Q2701015"
+            }
+        },
+        {
+            "name": "Halesia",
+            "term": "Halesia",
+            "identifiers": {
+                "contentmine": "CM.styracaceae5",
+                "wikidata": "Q2719926"
+            }
+        },
+        {
+            "name": "Pamphilia",
+            "term": "Pamphilia",
+            "identifiers": {
+                "contentmine": "CM.styracaceae6",
+                "wikidata": "Q5859890"
+            }
+        },
+        {
+            "name": "Melliodendron",
+            "term": "Melliodendron",
+            "identifiers": {
+                "contentmine": "CM.styracaceae7",
+                "wikidata": "Q6654388"
+            }
+        },
+        {
+            "name": "Rehderodendron",
+            "term": "Rehderodendron",
+            "identifiers": {
+                "contentmine": "CM.styracaceae8",
+                "wikidata": "Q7309787"
+            }
+        },
+        {
+            "name": "Bruinsmia",
+            "term": "Bruinsmia",
+            "identifiers": {
+                "contentmine": "CM.styracaceae9",
+                "wikidata": "Q8252768"
+            }
+        },
+        {
+            "name": "Parastyrax",
+            "term": "Parastyrax",
+            "identifiers": {
+                "contentmine": "CM.styracaceae10",
+                "wikidata": "Q9297359"
+            }
+        },
+        {
+            "name": "Huodendron",
+            "term": "Huodendron",
+            "identifiers": {
+                "contentmine": "CM.styracaceae11",
+                "wikidata": "Q10298942"
+            }
+        },
+        {
+            "name": "Changiostyrax",
+            "term": "Changiostyrax",
+            "identifiers": {
+                "contentmine": "CM.styracaceae12",
+                "wikidata": "Q15089691"
+            }
+        },
+        {
+            "name": "Sinojackia xylocarpa",
+            "term": "Sinojackia xylocarpa",
+            "identifiers": {
+                "contentmine": "CM.styracaceae13",
+                "wikidata": "Q1326058"
+            }
+        },
+        {
+            "name": "Changiostyrax dolichocarpa",
+            "term": "Changiostyrax dolichocarpa",
+            "identifiers": {
+                "contentmine": "CM.styracaceae14",
+                "wikidata": "Q2894831"
+            }
+        },
+        {
+            "name": "Sinojackia rehderiana",
+            "term": "Sinojackia rehderiana",
+            "identifiers": {
+                "contentmine": "CM.styracaceae15",
+                "wikidata": "Q3485033"
+            }
+        },
+        {
+            "name": "Sinojackia henryi",
+            "term": "Sinojackia henryi",
+            "identifiers": {
+                "contentmine": "CM.styracaceae16",
+                "wikidata": "Q11117260"
+            }
+        },
+        {
+            "name": "Sinojackia microcarpa",
+            "term": "Sinojackia microcarpa",
+            "identifiers": {
+                "contentmine": "CM.styracaceae17",
+                "wikidata": "Q15313171"
+            }
+        },
+        {
+            "name": "Sinojackia huangmeiensis",
+            "term": "Sinojackia huangmeiensis",
+            "identifiers": {
+                "contentmine": "CM.styracaceae18",
+                "wikidata": "Q15348679"
+            }
+        },
+        {
+            "name": "Sinojackia oblongicarpa",
+            "term": "Sinojackia oblongicarpa",
+            "identifiers": {
+                "contentmine": "CM.styracaceae19",
+                "wikidata": "Q15349756"
+            }
+        },
+        {
+            "name": "Sinojackia sarcocarpa",
+            "term": "Sinojackia sarcocarpa",
+            "identifiers": {
+                "contentmine": "CM.styracaceae20",
+                "wikidata": "Q15350483"
+            }
+        },
+        {
+            "name": "Styrax obassia",
+            "term": "Styrax obassia",
+            "identifiers": {
+                "contentmine": "CM.styracaceae21",
+                "wikidata": "Q845222"
+            }
+        },
+        {
+            "name": "Styrax japonicus",
+            "term": "Styrax japonicus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae22",
+                "wikidata": "Q910419"
+            }
+        },
+        {
+            "name": "Styrax hemsleyanus",
+            "term": "Styrax hemsleyanus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae23",
+                "wikidata": "Q1074216"
+            }
+        },
+        {
+            "name": "Styrax officinalis",
+            "term": "Styrax officinalis",
+            "identifiers": {
+                "contentmine": "CM.styracaceae24",
+                "wikidata": "Q1281140"
+            }
+        },
+        {
+            "name": "Styrax ferax",
+            "term": "Styrax ferax",
+            "identifiers": {
+                "contentmine": "CM.styracaceae25",
+                "wikidata": "Q1326043"
+            }
+        },
+        {
+            "name": "Styrax mathewsii",
+            "term": "Styrax mathewsii",
+            "identifiers": {
+                "contentmine": "CM.styracaceae26",
+                "wikidata": "Q1326082"
+            }
+        },
+        {
+            "name": "Styrax benzoin",
+            "term": "Styrax benzoin",
+            "identifiers": {
+                "contentmine": "CM.styracaceae27",
+                "wikidata": "Q2732635"
+            }
+        },
+        {
+            "name": "Styrax tonkinensis",
+            "term": "Styrax tonkinensis",
+            "identifiers": {
+                "contentmine": "CM.styracaceae28",
+                "wikidata": "Q3335679"
+            }
+        },
+        {
+            "name": "Styrax peruvianus",
+            "term": "Styrax peruvianus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae29",
+                "wikidata": "Q4117274"
+            }
+        },
+        {
+            "name": "Styrax argyrophyllus",
+            "term": "Styrax argyrophyllus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae30",
+                "wikidata": "Q5465446"
+            }
+        },
+        {
+            "name": "Styrax crotonoides",
+            "term": "Styrax crotonoides",
+            "identifiers": {
+                "contentmine": "CM.styracaceae31",
+                "wikidata": "Q5465450"
+            }
+        },
+        {
+            "name": "Styrax foveolaria",
+            "term": "Styrax foveolaria",
+            "identifiers": {
+                "contentmine": "CM.styracaceae32",
+                "wikidata": "Q5465455"
+            }
+        },
+        {
+            "name": "Styrax fraserensis",
+            "term": "Styrax fraserensis",
+            "identifiers": {
+                "contentmine": "CM.styracaceae33",
+                "wikidata": "Q5465457"
+            }
+        },
+        {
+            "name": "Styrax litseoides",
+            "term": "Styrax litseoides",
+            "identifiers": {
+                "contentmine": "CM.styracaceae34",
+                "wikidata": "Q5465460"
+            }
+        },
+        {
+            "name": "Styrax tafelbergensis",
+            "term": "Styrax tafelbergensis",
+            "identifiers": {
+                "contentmine": "CM.styracaceae35",
+                "wikidata": "Q5465465"
+            }
+        },
+        {
+            "name": "Styrax vilcabambae",
+            "term": "Styrax vilcabambae",
+            "identifiers": {
+                "contentmine": "CM.styracaceae36",
+                "wikidata": "Q5465468"
+            }
+        },
+        {
+            "name": "Styrax portoricensis",
+            "term": "Styrax portoricensis",
+            "identifiers": {
+                "contentmine": "CM.styracaceae37",
+                "wikidata": "Q5491220"
+            }
+        },
+        {
+            "name": "Styrax ferrugineus",
+            "term": "Styrax ferrugineus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae38",
+                "wikidata": "Q5640838"
+            }
+        },
+        {
+            "name": "Styrax americanus",
+            "term": "Styrax americanus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae39",
+                "wikidata": "Q6134685"
+            }
+        },
+        {
+            "name": "Styrax aureus",
+            "term": "Styrax aureus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae40",
+                "wikidata": "Q6134687"
+            }
+        },
+        {
+            "name": "Styrax paralleloneurus",
+            "term": "Styrax paralleloneurus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae41",
+                "wikidata": "Q6134690"
+            }
+        },
+        {
+            "name": "Styrax reticulatus",
+            "term": "Styrax reticulatus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae42",
+                "wikidata": "Q6134692"
+            }
+        },
+        {
+            "name": "Styrax platanifolius",
+            "term": "Styrax platanifolius",
+            "identifiers": {
+                "contentmine": "CM.styracaceae43",
+                "wikidata": "Q7629799"
+            }
+        },
+        {
+            "name": "Styrax socialis",
+            "term": "Styrax socialis",
+            "identifiers": {
+                "contentmine": "CM.styracaceae44",
+                "wikidata": "Q7629806"
+            }
+        },
+        {
+            "name": "Styrax chinensis",
+            "term": "Styrax chinensis",
+            "identifiers": {
+                "contentmine": "CM.styracaceae45",
+                "wikidata": "Q10872278"
+            }
+        },
+        {
+            "name": "Styrax hainanensis",
+            "term": "Styrax hainanensis",
+            "identifiers": {
+                "contentmine": "CM.styracaceae46",
+                "wikidata": "Q10910924"
+            }
+        },
+        {
+            "name": "Styrax formosanus",
+            "term": "Styrax formosanus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae47",
+                "wikidata": "Q10914670"
+            }
+        },
+        {
+            "name": "Styrax matsumurae",
+            "term": "Styrax matsumurae",
+            "identifiers": {
+                "contentmine": "CM.styracaceae48",
+                "wikidata": "Q10915096"
+            }
+        },
+        {
+            "name": "Styrax agrestis",
+            "term": "Styrax agrestis",
+            "identifiers": {
+                "contentmine": "CM.styracaceae49",
+                "wikidata": "Q10923531"
+            }
+        },
+        {
+            "name": "Styrax dasyanthus",
+            "term": "Styrax dasyanthus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae50",
+                "wikidata": "Q10928995"
+            }
+        },
+        {
+            "name": "Styrax huanus",
+            "term": "Styrax huanus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae51",
+                "wikidata": "Q10931295"
+            }
+        },
+        {
+            "name": "Styrax macrocarpus",
+            "term": "Styrax macrocarpus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae52",
+                "wikidata": "Q10935816"
+            }
+        },
+        {
+            "name": "Styrax grandiflorus",
+            "term": "Styrax grandiflorus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae53",
+                "wikidata": "Q10937633"
+            }
+        },
+        {
+            "name": "Styrax wuyuanensis",
+            "term": "Styrax wuyuanensis",
+            "identifiers": {
+                "contentmine": "CM.styracaceae54",
+                "wikidata": "Q10943976"
+            }
+        },
+        {
+            "name": "Styrax wilsonii",
+            "term": "Styrax wilsonii",
+            "identifiers": {
+                "contentmine": "CM.styracaceae55",
+                "wikidata": "Q10958107"
+            }
+        },
+        {
+            "name": "Styrax suberifolius",
+            "term": "Styrax suberifolius",
+            "identifiers": {
+                "contentmine": "CM.styracaceae56",
+                "wikidata": "Q11110575"
+            }
+        },
+        {
+            "name": "Styrax limprichtii",
+            "term": "Styrax limprichtii",
+            "identifiers": {
+                "contentmine": "CM.styracaceae57",
+                "wikidata": "Q11119888"
+            }
+        },
+        {
+            "name": "Styrax zhejiangensis",
+            "term": "Styrax zhejiangensis",
+            "identifiers": {
+                "contentmine": "CM.styracaceae58",
+                "wikidata": "Q11148716"
+            }
+        },
+        {
+            "name": "Styrax chrysocarpus",
+            "term": "Styrax chrysocarpus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae59",
+                "wikidata": "Q11177649"
+            }
+        },
+        {
+            "name": "Styrax serrulatus",
+            "term": "Styrax serrulatus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae60",
+                "wikidata": "Q11180340"
+            }
+        },
+        {
+            "name": "Styrax argentifolius",
+            "term": "Styrax argentifolius",
+            "identifiers": {
+                "contentmine": "CM.styracaceae61",
+                "wikidata": "Q15235841"
+            }
+        },
+        {
+            "name": "Styrax supaii",
+            "term": "Styrax supaii",
+            "identifiers": {
+                "contentmine": "CM.styracaceae62",
+                "wikidata": "Q15235842"
+            }
+        },
+        {
+            "name": "Styrax macranthus",
+            "term": "Styrax macranthus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae63",
+                "wikidata": "Q15236584"
+            }
+        },
+        {
+            "name": "Styrax benzoides",
+            "term": "Styrax benzoides",
+            "identifiers": {
+                "contentmine": "CM.styracaceae64",
+                "wikidata": "Q15238948"
+            }
+        },
+        {
+            "name": "Styrax roseus",
+            "term": "Styrax roseus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae65",
+                "wikidata": "Q15239138"
+            }
+        },
+        {
+            "name": "Styrax perkinsiae",
+            "term": "Styrax perkinsiae",
+            "identifiers": {
+                "contentmine": "CM.styracaceae66",
+                "wikidata": "Q15239425"
+            }
+        },
+        {
+            "name": "Styrax odoratissimus",
+            "term": "Styrax odoratissimus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae67",
+                "wikidata": "Q15239428"
+            }
+        },
+        {
+            "name": "Styrax rugosus",
+            "term": "Styrax rugosus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae68",
+                "wikidata": "Q15246187"
+            }
+        },
+        {
+            "name": "Styrax confusus",
+            "term": "Styrax confusus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae69",
+                "wikidata": "Q15246192"
+            }
+        },
+        {
+            "name": "Styrax faberi",
+            "term": "Styrax faberi",
+            "identifiers": {
+                "contentmine": "CM.styracaceae70",
+                "wikidata": "Q15250186"
+            }
+        },
+        {
+            "name": "Styrax calvescens",
+            "term": "Styrax calvescens",
+            "identifiers": {
+                "contentmine": "CM.styracaceae71",
+                "wikidata": "Q15252017"
+            }
+        },
+        {
+            "name": "Styrax argenteus",
+            "term": "Styrax argenteus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae72",
+                "wikidata": "Q15312484"
+            }
+        },
+        {
+            "name": "Styrax austromexicanus",
+            "term": "Styrax austromexicanus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae73",
+                "wikidata": "Q15312514"
+            }
+        },
+        {
+            "name": "Styrax bashanensis",
+            "term": "Styrax bashanensis",
+            "identifiers": {
+                "contentmine": "CM.styracaceae74",
+                "wikidata": "Q15312523"
+            }
+        },
+        {
+            "name": "Styrax acuminatus",
+            "term": "Styrax acuminatus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae75",
+                "wikidata": "Q15312530"
+            }
+        },
+        {
+            "name": "Styrax camporum",
+            "term": "Styrax camporum",
+            "identifiers": {
+                "contentmine": "CM.styracaceae76",
+                "wikidata": "Q15312580"
+            }
+        },
+        {
+            "name": "Styrax conterminus",
+            "term": "Styrax conterminus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae77",
+                "wikidata": "Q15312646"
+            }
+        },
+        {
+            "name": "Styrax curvirostratus",
+            "term": "Styrax curvirostratus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae78",
+                "wikidata": "Q15312666"
+            }
+        },
+        {
+            "name": "Styrax davillifolius",
+            "term": "Styrax davillifolius",
+            "identifiers": {
+                "contentmine": "CM.styracaceae79",
+                "wikidata": "Q15312716"
+            }
+        },
+        {
+            "name": "Styrax gentryi",
+            "term": "Styrax gentryi",
+            "identifiers": {
+                "contentmine": "CM.styracaceae80",
+                "wikidata": "Q15312725"
+            }
+        },
+        {
+            "name": "Styrax heterotrichus",
+            "term": "Styrax heterotrichus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae81",
+                "wikidata": "Q15312737"
+            }
+        },
+        {
+            "name": "Styrax duidae",
+            "term": "Styrax duidae",
+            "identifiers": {
+                "contentmine": "CM.styracaceae82",
+                "wikidata": "Q15312739"
+            }
+        },
+        {
+            "name": "Styrax glaber",
+            "term": "Styrax glaber",
+            "identifiers": {
+                "contentmine": "CM.styracaceae83",
+                "wikidata": "Q15312753"
+            }
+        },
+        {
+            "name": "Styrax glabratus",
+            "term": "Styrax glabratus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae84",
+                "wikidata": "Q15312782"
+            }
+        },
+        {
+            "name": "Styrax lanceolatus",
+            "term": "Styrax lanceolatus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae85",
+                "wikidata": "Q15312786"
+            }
+        },
+        {
+            "name": "Styrax hypargyreus",
+            "term": "Styrax hypargyreus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae86",
+                "wikidata": "Q15312801"
+            }
+        },
+        {
+            "name": "Styrax latifolius",
+            "term": "Styrax latifolius",
+            "identifiers": {
+                "contentmine": "CM.styracaceae87",
+                "wikidata": "Q15312808"
+            }
+        },
+        {
+            "name": "Styrax glabrescens",
+            "term": "Styrax glabrescens",
+            "identifiers": {
+                "contentmine": "CM.styracaceae88",
+                "wikidata": "Q15312811"
+            }
+        },
+        {
+            "name": "Styrax incarnatus",
+            "term": "Styrax incarnatus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae89",
+                "wikidata": "Q15312830"
+            }
+        },
+        {
+            "name": "Styrax leprosus",
+            "term": "Styrax leprosus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae90",
+                "wikidata": "Q15312836"
+            }
+        },
+        {
+            "name": "Styrax grandifolius",
+            "term": "Styrax grandifolius",
+            "identifiers": {
+                "contentmine": "CM.styracaceae91",
+                "wikidata": "Q15312861"
+            }
+        },
+        {
+            "name": "Styrax jaliscanus",
+            "term": "Styrax jaliscanus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae92",
+                "wikidata": "Q15312863"
+            }
+        },
+        {
+            "name": "Styrax guaiquinimae",
+            "term": "Styrax guaiquinimae",
+            "identifiers": {
+                "contentmine": "CM.styracaceae93",
+                "wikidata": "Q15312881"
+            }
+        },
+        {
+            "name": "Styrax nunezii",
+            "term": "Styrax nunezii",
+            "identifiers": {
+                "contentmine": "CM.styracaceae94",
+                "wikidata": "Q15312899"
+            }
+        },
+        {
+            "name": "Styrax guanayanus",
+            "term": "Styrax guanayanus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae95",
+                "wikidata": "Q15312906"
+            }
+        },
+        {
+            "name": "Styrax longipedicellatus",
+            "term": "Styrax longipedicellatus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae96",
+                "wikidata": "Q15312912"
+            }
+        },
+        {
+            "name": "Styrax guianensis",
+            "term": "Styrax guianensis",
+            "identifiers": {
+                "contentmine": "CM.styracaceae97",
+                "wikidata": "Q15312926"
+            }
+        },
+        {
+            "name": "Styrax oblongus",
+            "term": "Styrax oblongus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae98",
+                "wikidata": "Q15312958"
+            }
+        },
+        {
+            "name": "Styrax guyanensis",
+            "term": "Styrax guyanensis",
+            "identifiers": {
+                "contentmine": "CM.styracaceae99",
+                "wikidata": "Q15312961"
+            }
+        },
+        {
+            "name": "Styrax platanifolius subsp. stellatus",
+            "term": "Styrax platanifolius subsp. stellatus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae100",
+                "wikidata": "Q24689166"
+            }
+        },
+        {
+            "name": "Styrax platanifolius subsp. texanus",
+            "term": "Styrax platanifolius subsp. texanus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae101",
+                "wikidata": "Q24689167"
+            }
+        },
+        {
+            "name": "Styrax platanifolius subsp. youngiae",
+            "term": "Styrax platanifolius subsp. youngiae",
+            "identifiers": {
+                "contentmine": "CM.styracaceae102",
+                "wikidata": "Q24689170"
+            }
+        },
+        {
+            "name": "Huodendron biaristatum var. biaristatum",
+            "term": "Huodendron biaristatum var. biaristatum",
+            "identifiers": {
+                "contentmine": "CM.styracaceae103",
+                "wikidata": "Q25131689"
+            }
+        },
+        {
+            "name": "Huodendron biaristatum var. parviflorum",
+            "term": "Huodendron biaristatum var. parviflorum",
+            "identifiers": {
+                "contentmine": "CM.styracaceae104",
+                "wikidata": "Q25131690"
+            }
+        },
+        {
+            "name": "Styrax formosanus var. formosanus",
+            "term": "Styrax formosanus var. formosanus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae105",
+                "wikidata": "Q25131701"
+            }
+        },
+        {
+            "name": "Styrax formosanus var. hirtus",
+            "term": "Styrax formosanus var. hirtus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae106",
+                "wikidata": "Q25131702"
+            }
+        },
+        {
+            "name": "Styrax suberifolius var. hayataianus",
+            "term": "Styrax suberifolius var. hayataianus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae107",
+                "wikidata": "Q25131705"
+            }
+        },
+        {
+            "name": "Styrax suberifolius var. suberifolius",
+            "term": "Styrax suberifolius var. suberifolius",
+            "identifiers": {
+                "contentmine": "CM.styracaceae108",
+                "wikidata": "Q25131706"
+            }
+        },
+        {
+            "name": "Styrax confusus var. confusus",
+            "term": "Styrax confusus var. confusus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae109",
+                "wikidata": "Q25131694"
+            }
+        },
+        {
+            "name": "Styrax confusus var. microphyllus",
+            "term": "Styrax confusus var. microphyllus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae110",
+                "wikidata": "Q25131695"
+            }
+        },
+        {
+            "name": "Styrax confusus var. superbus",
+            "term": "Styrax confusus var. superbus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae111",
+                "wikidata": "Q25131697"
+            }
+        },
+        {
+            "name": "Huodendron tomentosum var. tomentosum",
+            "term": "Huodendron tomentosum var. tomentosum",
+            "identifiers": {
+                "contentmine": "CM.styracaceae112",
+                "wikidata": "Q25131692"
+            }
+        },
+        {
+            "name": "Styrax faberi var. amplexifolius",
+            "term": "Styrax faberi var. amplexifolius",
+            "identifiers": {
+                "contentmine": "CM.styracaceae113",
+                "wikidata": "Q25131698"
+            }
+        },
+        {
+            "name": "Styrax faberi var. faberi",
+            "term": "Styrax faberi var. faberi",
+            "identifiers": {
+                "contentmine": "CM.styracaceae114",
+                "wikidata": "Q25131699"
+            }
+        },
+        {
+            "name": "Styrax faberi var. formosanus",
+            "term": "Styrax faberi var. formosanus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae115",
+                "wikidata": "Q25131700"
+            }
+        },
+        {
+            "name": "Styrax macrocalyx",
+            "term": "Styrax macrocalyx",
+            "identifiers": {
+                "contentmine": "CM.styracaceae116",
+                "wikidata": "Q15312986"
+            }
+        },
+        {
+            "name": "Styrax pallidus",
+            "term": "Styrax pallidus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae117",
+                "wikidata": "Q15313017"
+            }
+        },
+        {
+            "name": "Styrax pavonii",
+            "term": "Styrax pavonii",
+            "identifiers": {
+                "contentmine": "CM.styracaceae118",
+                "wikidata": "Q15313045"
+            }
+        },
+        {
+            "name": "Styrax pedicellatus",
+            "term": "Styrax pedicellatus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae119",
+                "wikidata": "Q15313071"
+            }
+        },
+        {
+            "name": "Styrax pohlii",
+            "term": "Styrax pohlii",
+            "identifiers": {
+                "contentmine": "CM.styracaceae120",
+                "wikidata": "Q15313085"
+            }
+        },
+        {
+            "name": "Styrax macrophyllus",
+            "term": "Styrax macrophyllus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae121",
+                "wikidata": "Q15313086"
+            }
+        },
+        {
+            "name": "Styrax pentlandianus",
+            "term": "Styrax pentlandianus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae122",
+                "wikidata": "Q15313105"
+            }
+        },
+        {
+            "name": "Styrax magnus",
+            "term": "Styrax magnus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae123",
+                "wikidata": "Q15313121"
+            }
+        },
+        {
+            "name": "Styrax maninul",
+            "term": "Styrax maninul",
+            "identifiers": {
+                "contentmine": "CM.styracaceae124",
+                "wikidata": "Q15313141"
+            }
+        },
+        {
+            "name": "Styrax radians",
+            "term": "Styrax radians",
+            "identifiers": {
+                "contentmine": "CM.styracaceae125",
+                "wikidata": "Q15313146"
+            }
+        },
+        {
+            "name": "Styrax martii",
+            "term": "Styrax martii",
+            "identifiers": {
+                "contentmine": "CM.styracaceae126",
+                "wikidata": "Q15313168"
+            }
+        },
+        {
+            "name": "Styrax ramirezii",
+            "term": "Styrax ramirezii",
+            "identifiers": {
+                "contentmine": "CM.styracaceae127",
+                "wikidata": "Q15313170"
+            }
+        },
+        {
+            "name": "Styrax tomentosus",
+            "term": "Styrax tomentosus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae128",
+                "wikidata": "Q15313224"
+            }
+        },
+        {
+            "name": "Styrax neblinae",
+            "term": "Styrax neblinae",
+            "identifiers": {
+                "contentmine": "CM.styracaceae129",
+                "wikidata": "Q15313230"
+            }
+        },
+        {
+            "name": "Styrax rotundatus",
+            "term": "Styrax rotundatus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae130",
+                "wikidata": "Q15313232"
+            }
+        },
+        {
+            "name": "Styrax nicaraguensis",
+            "term": "Styrax nicaraguensis",
+            "identifiers": {
+                "contentmine": "CM.styracaceae131",
+                "wikidata": "Q15313261"
+            }
+        },
+        {
+            "name": "Styrax trichocalyx",
+            "term": "Styrax trichocalyx",
+            "identifiers": {
+                "contentmine": "CM.styracaceae132",
+                "wikidata": "Q15313297"
+            }
+        },
+        {
+            "name": "Styrax sieberi",
+            "term": "Styrax sieberi",
+            "identifiers": {
+                "contentmine": "CM.styracaceae133",
+                "wikidata": "Q15313310"
+            }
+        },
+        {
+            "name": "Styrax sipapoanus",
+            "term": "Styrax sipapoanus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae134",
+                "wikidata": "Q15313332"
+            }
+        },
+        {
+            "name": "Styrax warscewiczii",
+            "term": "Styrax warscewiczii",
+            "identifiers": {
+                "contentmine": "CM.styracaceae135",
+                "wikidata": "Q15313382"
+            }
+        },
+        {
+            "name": "Styrax steyermarkii",
+            "term": "Styrax steyermarkii",
+            "identifiers": {
+                "contentmine": "CM.styracaceae136",
+                "wikidata": "Q15313403"
+            }
+        },
+        {
+            "name": "Styrax subargenteus",
+            "term": "Styrax subargenteus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae137",
+                "wikidata": "Q15313433"
+            }
+        },
+        {
+            "name": "Styrax wurdackiorum",
+            "term": "Styrax wurdackiorum",
+            "identifiers": {
+                "contentmine": "CM.styracaceae138",
+                "wikidata": "Q15313451"
+            }
+        },
+        {
+            "name": "Styrax yutajensis",
+            "term": "Styrax yutajensis",
+            "identifiers": {
+                "contentmine": "CM.styracaceae139",
+                "wikidata": "Q15313506"
+            }
+        },
+        {
+            "name": "Styrax buchananii",
+            "term": "Styrax buchananii",
+            "identifiers": {
+                "contentmine": "CM.styracaceae140",
+                "wikidata": "Q17242085"
+            }
+        },
+        {
+            "name": "Styrax diplotrichus",
+            "term": "Styrax diplotrichus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae141",
+                "wikidata": "Q17242121"
+            }
+        },
+        {
+            "name": "Styrax redivivus",
+            "term": "Styrax redivivus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae142",
+                "wikidata": "Q17242290"
+            }
+        },
+        {
+            "name": "Styrax subheterotrichus",
+            "term": "Styrax subheterotrichus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae143",
+                "wikidata": "Q17242599"
+            }
+        },
+        {
+            "name": "Styrax obtusifolius",
+            "term": "Styrax obtusifolius",
+            "identifiers": {
+                "contentmine": "CM.styracaceae144",
+                "wikidata": "Q17242627"
+            }
+        },
+        {
+            "name": "Styrax ridleyanus",
+            "term": "Styrax ridleyanus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae145",
+                "wikidata": "Q17242693"
+            }
+        },
+        {
+            "name": "Styrax hookeri",
+            "term": "Styrax hookeri",
+            "identifiers": {
+                "contentmine": "CM.styracaceae146",
+                "wikidata": "Q17242736"
+            }
+        },
+        {
+            "name": "Styrax ochraceus",
+            "term": "Styrax ochraceus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae147",
+                "wikidata": "Q17242763"
+            }
+        },
+        {
+            "name": "Styrax casearifolius",
+            "term": "Styrax casearifolius",
+            "identifiers": {
+                "contentmine": "CM.styracaceae148",
+                "wikidata": "Q17242903"
+            }
+        },
+        {
+            "name": "Styrax hypochryseus",
+            "term": "Styrax hypochryseus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae149",
+                "wikidata": "Q17242992"
+            }
+        },
+        {
+            "name": "Styrax rigidifolius",
+            "term": "Styrax rigidifolius",
+            "identifiers": {
+                "contentmine": "CM.styracaceae150",
+                "wikidata": "Q17243033"
+            }
+        },
+        {
+            "name": "Styrax caudatus",
+            "term": "Styrax caudatus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae151",
+                "wikidata": "Q17243116"
+            }
+        },
+        {
+            "name": "Styrax cespedesii",
+            "term": "Styrax cespedesii",
+            "identifiers": {
+                "contentmine": "CM.styracaceae152",
+                "wikidata": "Q17243217"
+            }
+        },
+        {
+            "name": "Styrax annamensis",
+            "term": "Styrax annamensis",
+            "identifiers": {
+                "contentmine": "CM.styracaceae153",
+                "wikidata": "Q17243332"
+            }
+        },
+        {
+            "name": "Styrax chrysocalyx",
+            "term": "Styrax chrysocalyx",
+            "identifiers": {
+                "contentmine": "CM.styracaceae154",
+                "wikidata": "Q17243524"
+            }
+        },
+        {
+            "name": "Styrax oliganthes",
+            "term": "Styrax oliganthes",
+            "identifiers": {
+                "contentmine": "CM.styracaceae155",
+                "wikidata": "Q17243676"
+            }
+        },
+        {
+            "name": "Styrax rufopilosus",
+            "term": "Styrax rufopilosus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae156",
+                "wikidata": "Q17243694"
+            }
+        },
+        {
+            "name": "Styrax lancifolius",
+            "term": "Styrax lancifolius",
+            "identifiers": {
+                "contentmine": "CM.styracaceae157",
+                "wikidata": "Q17243752"
+            }
+        },
+        {
+            "name": "Styrax omuk",
+            "term": "Styrax omuk",
+            "identifiers": {
+                "contentmine": "CM.styracaceae158",
+                "wikidata": "Q17243873"
+            }
+        },
+        {
+            "name": "Styrax apricus",
+            "term": "Styrax apricus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae159",
+                "wikidata": "Q17243877"
+            }
+        },
+        {
+            "name": "Styrax manmul",
+            "term": "Styrax manmul",
+            "identifiers": {
+                "contentmine": "CM.styracaceae160",
+                "wikidata": "Q17244004"
+            }
+        },
+        {
+            "name": "Styrax lasiocalyx",
+            "term": "Styrax lasiocalyx",
+            "identifiers": {
+                "contentmine": "CM.styracaceae161",
+                "wikidata": "Q17244029"
+            }
+        },
+        {
+            "name": "Styrax schultzei",
+            "term": "Styrax schultzei",
+            "identifiers": {
+                "contentmine": "CM.styracaceae162",
+                "wikidata": "Q17244094"
+            }
+        },
+        {
+            "name": "Styrax trichostemon",
+            "term": "Styrax trichostemon",
+            "identifiers": {
+                "contentmine": "CM.styracaceae163",
+                "wikidata": "Q17244104"
+            }
+        },
+        {
+            "name": "Styrax pauciflorus",
+            "term": "Styrax pauciflorus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae164",
+                "wikidata": "Q17244297"
+            }
+        },
+        {
+            "name": "Styrax microphyllus",
+            "term": "Styrax microphyllus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae165",
+                "wikidata": "Q17244314"
+            }
+        },
+        {
+            "name": "Styrax griseus",
+            "term": "Styrax griseus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae166",
+                "wikidata": "Q17244377"
+            }
+        },
+        {
+            "name": "Styrax cordatus",
+            "term": "Styrax cordatus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae167",
+                "wikidata": "Q17244433"
+            }
+        },
+        {
+            "name": "Styrax tuxtlensis",
+            "term": "Styrax tuxtlensis",
+            "identifiers": {
+                "contentmine": "CM.styracaceae168",
+                "wikidata": "Q17244619"
+            }
+        },
+        {
+            "name": "Styrax nui",
+            "term": "Styrax nui",
+            "identifiers": {
+                "contentmine": "CM.styracaceae169",
+                "wikidata": "Q17244699"
+            }
+        },
+        {
+            "name": "Styrax shiraiana",
+            "term": "Styrax shiraiana",
+            "identifiers": {
+                "contentmine": "CM.styracaceae170",
+                "wikidata": "Q17244715"
+            }
+        },
+        {
+            "name": "Styrax siamensis",
+            "term": "Styrax siamensis",
+            "identifiers": {
+                "contentmine": "CM.styracaceae171",
+                "wikidata": "Q17244929"
+            }
+        },
+        {
+            "name": "Styrax pefrit",
+            "term": "Styrax pefrit",
+            "identifiers": {
+                "contentmine": "CM.styracaceae172",
+                "wikidata": "Q17244960"
+            }
+        },
+        {
+            "name": "Styrax uxpanapensis",
+            "term": "Styrax uxpanapensis",
+            "identifiers": {
+                "contentmine": "CM.styracaceae173",
+                "wikidata": "Q17244982"
+            }
+        },
+        {
+            "name": "Styrax betongensis",
+            "term": "Styrax betongensis",
+            "identifiers": {
+                "contentmine": "CM.styracaceae174",
+                "wikidata": "Q17245679"
+            }
+        },
+        {
+            "name": "Styrax bicolor",
+            "term": "Styrax bicolor",
+            "identifiers": {
+                "contentmine": "CM.styracaceae175",
+                "wikidata": "Q17245946"
+            }
+        },
+        {
+            "name": "Styrax yapobodensis",
+            "term": "Styrax yapobodensis",
+            "identifiers": {
+                "contentmine": "CM.styracaceae176",
+                "wikidata": "Q17247114"
+            }
+        },
+        {
+            "name": "Styrax shiraianus",
+            "term": "Styrax shiraianus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae177",
+                "wikidata": "Q21318394"
+            }
+        },
+        {
+            "name": "Alniphyllum eberhardtii",
+            "term": "Alniphyllum eberhardtii",
+            "identifiers": {
+                "contentmine": "CM.styracaceae178",
+                "wikidata": "Q4734064"
+            }
+        },
+        {
+            "name": "Alniphyllum pterospermum",
+            "term": "Alniphyllum pterospermum",
+            "identifiers": {
+                "contentmine": "CM.styracaceae179",
+                "wikidata": "Q10888709"
+            }
+        },
+        {
+            "name": "Alniphyllum fortunei",
+            "term": "Alniphyllum fortunei",
+            "identifiers": {
+                "contentmine": "CM.styracaceae180",
+                "wikidata": "Q15248253"
+            }
+        },
+        {
+            "name": "Pterostyrax psilophyllus",
+            "term": "Pterostyrax psilophyllus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae181",
+                "wikidata": "Q655302"
+            }
+        },
+        {
+            "name": "Pterostyrax corymbosus",
+            "term": "Pterostyrax corymbosus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae182",
+                "wikidata": "Q3336052"
+            }
+        },
+        {
+            "name": "Pterostyrax hispidus",
+            "term": "Pterostyrax hispidus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae183",
+                "wikidata": "Q3410293"
+            }
+        },
+        {
+            "name": "Pterostyrax burmanicus",
+            "term": "Pterostyrax burmanicus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae184",
+                "wikidata": "Q17271738"
+            }
+        },
+        {
+            "name": "Halesia macgregorii",
+            "term": "Halesia macgregorii",
+            "identifiers": {
+                "contentmine": "CM.styracaceae185",
+                "wikidata": "Q261250"
+            }
+        },
+        {
+            "name": "Halesia carolina",
+            "term": "Halesia carolina",
+            "identifiers": {
+                "contentmine": "CM.styracaceae186",
+                "wikidata": "Q3125935"
+            }
+        },
+        {
+            "name": "Halesia monticola",
+            "term": "Halesia monticola",
+            "identifiers": {
+                "contentmine": "CM.styracaceae187",
+                "wikidata": "Q5641509"
+            }
+        },
+        {
+            "name": "Halesia tetraptera",
+            "term": "Halesia tetraptera",
+            "identifiers": {
+                "contentmine": "CM.styracaceae188",
+                "wikidata": "Q5641512"
+            }
+        },
+        {
+            "name": "Halesia diptera",
+            "term": "Halesia diptera",
+            "identifiers": {
+                "contentmine": "CM.styracaceae189",
+                "wikidata": "Q9001859"
+            }
+        },
+        {
+            "name": "Halesia meehanii",
+            "term": "Halesia meehanii",
+            "identifiers": {
+                "contentmine": "CM.styracaceae190",
+                "wikidata": "Q15303570"
+            }
+        },
+        {
+            "name": "Halesia hispida",
+            "term": "Halesia hispida",
+            "identifiers": {
+                "contentmine": "CM.styracaceae191",
+                "wikidata": "Q15303571"
+            }
+        },
+        {
+            "name": "Halesia stenocarpa",
+            "term": "Halesia stenocarpa",
+            "identifiers": {
+                "contentmine": "CM.styracaceae192",
+                "wikidata": "Q15303572"
+            }
+        },
+        {
+            "name": "Halesia reticulata",
+            "term": "Halesia reticulata",
+            "identifiers": {
+                "contentmine": "CM.styracaceae193",
+                "wikidata": "Q15303573"
+            }
+        },
+        {
+            "name": "Halesia ternata",
+            "term": "Halesia ternata",
+            "identifiers": {
+                "contentmine": "CM.styracaceae194",
+                "wikidata": "Q15303578"
+            }
+        },
+        {
+            "name": "Pamphilia vilcabambae",
+            "term": "Pamphilia vilcabambae",
+            "identifiers": {
+                "contentmine": "CM.styracaceae195",
+                "wikidata": "Q15345597"
+            }
+        },
+        {
+            "name": "Melliodendron xylocarpum",
+            "term": "Melliodendron xylocarpum",
+            "identifiers": {
+                "contentmine": "CM.styracaceae196",
+                "wikidata": "Q15236585"
+            }
+        },
+        {
+            "name": "Rehderodendron macrocarpum",
+            "term": "Rehderodendron macrocarpum",
+            "identifiers": {
+                "contentmine": "CM.styracaceae197",
+                "wikidata": "Q3205953"
+            }
+        },
+        {
+            "name": "Rehderodendron kwangtungense",
+            "term": "Rehderodendron kwangtungense",
+            "identifiers": {
+                "contentmine": "CM.styracaceae198",
+                "wikidata": "Q11061706"
+            }
+        },
+        {
+            "name": "Rehderodendron kweichowense",
+            "term": "Rehderodendron kweichowense",
+            "identifiers": {
+                "contentmine": "CM.styracaceae199",
+                "wikidata": "Q15245554"
+            }
+        },
+        {
+            "name": "Rehderodendron indochinense",
+            "term": "Rehderodendron indochinense",
+            "identifiers": {
+                "contentmine": "CM.styracaceae200",
+                "wikidata": "Q15247649"
+            }
+        },
+        {
+            "name": "Rehderodendron gongshanense",
+            "term": "Rehderodendron gongshanense",
+            "identifiers": {
+                "contentmine": "CM.styracaceae201",
+                "wikidata": "Q15342395"
+            }
+        },
+        {
+            "name": "Bruinsmia polysperma",
+            "term": "Bruinsmia polysperma",
+            "identifiers": {
+                "contentmine": "CM.styracaceae202",
+                "wikidata": "Q15316632"
+            }
+        },
+        {
+            "name": "Bruinsmia styracoides",
+            "term": "Bruinsmia styracoides",
+            "identifiers": {
+                "contentmine": "CM.styracaceae203",
+                "wikidata": "Q15316717"
+            }
+        },
+        {
+            "name": "Parastyrax macrophyllus",
+            "term": "Parastyrax macrophyllus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae204",
+                "wikidata": "Q10934062"
+            }
+        },
+        {
+            "name": "Parastyrax lacei",
+            "term": "Parastyrax lacei",
+            "identifiers": {
+                "contentmine": "CM.styracaceae205",
+                "wikidata": "Q15239992"
+            }
+        },
+        {
+            "name": "Huodendron biaristatum",
+            "term": "Huodendron biaristatum",
+            "identifiers": {
+                "contentmine": "CM.styracaceae206",
+                "wikidata": "Q10912604"
+            }
+        },
+        {
+            "name": "Huodendron parviflorum",
+            "term": "Huodendron parviflorum",
+            "identifiers": {
+                "contentmine": "CM.styracaceae207",
+                "wikidata": "Q11682651"
+            }
+        },
+        {
+            "name": "Huodendron tomentosum",
+            "term": "Huodendron tomentosum",
+            "identifiers": {
+                "contentmine": "CM.styracaceae208",
+                "wikidata": "Q15247447"
+            }
+        },
+        {
+            "name": "Huodendron tibeticum",
+            "term": "Huodendron tibeticum",
+            "identifiers": {
+                "contentmine": "CM.styracaceae209",
+                "wikidata": "Q15250665"
+            }
+        },
+        {
+            "name": "Changiostyrax dolichocarpa",
+            "term": "Changiostyrax dolichocarpa",
+            "identifiers": {
+                "contentmine": "CM.styracaceae210",
+                "wikidata": "Q5072052"
+            }
+        },
+        {
+            "name": "Changiostyrax dolichocarpus",
+            "term": "Changiostyrax dolichocarpus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae211",
+                "wikidata": "Q15327045"
+            }
+        },
+        {
+            "name": "Styrax japonicus var. calycothrix",
+            "term": "Styrax japonicus var. calycothrix",
+            "identifiers": {
+                "contentmine": "CM.styracaceae212",
+                "wikidata": "Q25131703"
+            }
+        },
+        {
+            "name": "Styrax japonicus var. japonicus",
+            "term": "Styrax japonicus var. japonicus",
+            "identifiers": {
+                "contentmine": "CM.styracaceae213",
+                "wikidata": "Q25131704"
+            }
+        },
+        {
+            "name": "Sinojackia xylocarpa var. leshanensis",
+            "term": "Sinojackia xylocarpa var. leshanensis",
+            "identifiers": {
+                "contentmine": "CM.styracaceae214",
+                "wikidata": "Q25131693"
+            }
+        },
+        {
+            "name": "Styrax platanifolius subsp. platanifolius",
+            "term": "Styrax platanifolius subsp. platanifolius",
+            "identifiers": {
+                "contentmine": "CM.styracaceae215",
+                "wikidata": "Q24689164"
+            }
+        }
+    ],
+    "id": "CM.styracaceae"
+}

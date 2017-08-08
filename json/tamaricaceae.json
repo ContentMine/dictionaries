@@ -1,1 +1,1053 @@
-{"entries":[{"name":"Tamaricaceae","term":"Tamaricaceae","identifiers":{"contentmine":"CM.tamaricaceae0","wikidata":"Q161244"}},{"name":"Myricaria","term":"Myricaria","identifiers":{"contentmine":"CM.tamaricaceae1","wikidata":"Q159213"}},{"name":"tamarix","term":"tamarix","identifiers":{"contentmine":"CM.tamaricaceae2","wikidata":"Q164163"}},{"name":"Reaumuria","term":"Reaumuria","identifiers":{"contentmine":"CM.tamaricaceae3","wikidata":"Q1921718"}},{"name":"Myrtama","term":"Myrtama","identifiers":{"contentmine":"CM.tamaricaceae4","wikidata":"Q6035275"}},{"name":"Hololachna","term":"Hololachna","identifiers":{"contentmine":"CM.tamaricaceae5","wikidata":"Q9004504"}},{"name":"Tamaricaria","term":"Tamaricaria","identifiers":{"contentmine":"CM.tamaricaceae6","wikidata":"Q32262993"}},{"name":"Myricaria germanica","term":"Myricaria germanica","identifiers":{"contentmine":"CM.tamaricaceae7","wikidata":"Q162609"}},{"name":"Myricaria paniculata","term":"Myricaria paniculata","identifiers":{"contentmine":"CM.tamaricaceae8","wikidata":"Q10866124"}},{"name":"Myricaria squamosa","term":"Myricaria squamosa","identifiers":{"contentmine":"CM.tamaricaceae9","wikidata":"Q10894609"}},{"name":"Myricaria prostrata","term":"Myricaria prostrata","identifiers":{"contentmine":"CM.tamaricaceae10","wikidata":"Q10901703"}},{"name":"Myricaria rosea","term":"Myricaria rosea","identifiers":{"contentmine":"CM.tamaricaceae11","wikidata":"Q10910171"}},{"name":"Myricaria platyphylla","term":"Myricaria platyphylla","identifiers":{"contentmine":"CM.tamaricaceae12","wikidata":"Q10951262"}},{"name":"Myricaria bracteata","term":"Myricaria bracteata","identifiers":{"contentmine":"CM.tamaricaceae13","wikidata":"Q10951869"}},{"name":"Myricaria wardii","term":"Myricaria wardii","identifiers":{"contentmine":"CM.tamaricaceae14","wikidata":"Q10960183"}},{"name":"Myricaria pulcherrima","term":"Myricaria pulcherrima","identifiers":{"contentmine":"CM.tamaricaceae15","wikidata":"Q11072012"}},{"name":"Myricaria elegans","term":"Myricaria elegans","identifiers":{"contentmine":"CM.tamaricaceae16","wikidata":"Q15235808"}},{"name":"Myricaria laxiflora","term":"Myricaria laxiflora","identifiers":{"contentmine":"CM.tamaricaceae17","wikidata":"Q15245968"}},{"name":"Myricaria laxa","term":"Myricaria laxa","identifiers":{"contentmine":"CM.tamaricaceae18","wikidata":"Q15246804"}},{"name":"Myricaria alopecuroides","term":"Myricaria alopecuroides","identifiers":{"contentmine":"CM.tamaricaceae19","wikidata":"Q16417756"}},{"name":"Myricaria schartii","term":"Myricaria schartii","identifiers":{"contentmine":"CM.tamaricaceae20","wikidata":"Q18112810"}},{"name":"Myricaria albiflora","term":"Myricaria albiflora","identifiers":{"contentmine":"CM.tamaricaceae21","wikidata":"Q18112867"}},{"name":"Myricaria davurica","term":"Myricaria davurica","identifiers":{"contentmine":"CM.tamaricaceae22","wikidata":"Q18112877"}},{"name":"Myricaria longifolia","term":"Myricaria longifolia","identifiers":{"contentmine":"CM.tamaricaceae23","wikidata":"Q18112881"}},{"name":"Tamarix parviflora","term":"Tamarix parviflora","identifiers":{"contentmine":"CM.tamaricaceae24","wikidata":"Q160156"}},{"name":"Tamarix gallica","term":"Tamarix gallica","identifiers":{"contentmine":"CM.tamaricaceae25","wikidata":"Q164285"}},{"name":"Tamarix africana","term":"Tamarix africana","identifiers":{"contentmine":"CM.tamaricaceae26","wikidata":"Q1641972"}},{"name":"Tamarix smyrnensis","term":"Tamarix smyrnensis","identifiers":{"contentmine":"CM.tamaricaceae27","wikidata":"Q2391288"}},{"name":"Tamarix articulata","term":"Tamarix articulata","identifiers":{"contentmine":"CM.tamaricaceae28","wikidata":"Q2717418"}},{"name":"Tamarix aphylla","term":"Tamarix aphylla","identifiers":{"contentmine":"CM.tamaricaceae29","wikidata":"Q2889746"}},{"name":"Tamarix hispida","term":"Tamarix hispida","identifiers":{"contentmine":"CM.tamaricaceae30","wikidata":"Q3335372"}},{"name":"Tamarix dalmatica","term":"Tamarix dalmatica","identifiers":{"contentmine":"CM.tamaricaceae31","wikidata":"Q5489071"}},{"name":"Tamarix canariensis","term":"Tamarix canariensis","identifiers":{"contentmine":"CM.tamaricaceae32","wikidata":"Q5637949"}},{"name":"Tamarix ramosissima","term":"Tamarix ramosissima","identifiers":{"contentmine":"CM.tamaricaceae33","wikidata":"Q5860880"}},{"name":"Tamarix duezenlii","term":"Tamarix duezenlii","identifiers":{"contentmine":"CM.tamaricaceae34","wikidata":"Q6040480"}},{"name":"Tamarix boveana","term":"Tamarix boveana","identifiers":{"contentmine":"CM.tamaricaceae35","wikidata":"Q6138431"}},{"name":"Tamarix mascatensis","term":"Tamarix mascatensis","identifiers":{"contentmine":"CM.tamaricaceae36","wikidata":"Q6138435"}},{"name":"Tamarix negevensis","term":"Tamarix negevensis","identifiers":{"contentmine":"CM.tamaricaceae37","wikidata":"Q6548771"}},{"name":"Tamarix tetragyna","term":"Tamarix tetragyna","identifiers":{"contentmine":"CM.tamaricaceae38","wikidata":"Q6591328"}},{"name":"Tamarix jordanis","term":"Tamarix jordanis","identifiers":{"contentmine":"CM.tamaricaceae39","wikidata":"Q6623263"}},{"name":"Tamarix chinensis","term":"Tamarix chinensis","identifiers":{"contentmine":"CM.tamaricaceae40","wikidata":"Q6825364"}},{"name":"Tamarix tetrandra","term":"Tamarix tetrandra","identifiers":{"contentmine":"CM.tamaricaceae41","wikidata":"Q9355423"}},{"name":"Tamarix tarimensis","term":"Tamarix tarimensis","identifiers":{"contentmine":"CM.tamaricaceae42","wikidata":"Q10930954"}},{"name":"Tamarix hohenackeri","term":"Tamarix hohenackeri","identifiers":{"contentmine":"CM.tamaricaceae43","wikidata":"Q10933011"}},{"name":"Tamarix arceuthoides","term":"Tamarix arceuthoides","identifiers":{"contentmine":"CM.tamaricaceae44","wikidata":"Q10953447"}},{"name":"Tamarix taklamakanensis","term":"Tamarix taklamakanensis","identifiers":{"contentmine":"CM.tamaricaceae45","wikidata":"Q11140574"}},{"name":"Tamarix atlantis","term":"Tamarix atlantis","identifiers":{"contentmine":"CM.tamaricaceae46","wikidata":"Q12178348"}},{"name":"Tamarix arabica","term":"Tamarix arabica","identifiers":{"contentmine":"CM.tamaricaceae47","wikidata":"Q12178352"}},{"name":"Tamarix usneoides","term":"Tamarix usneoides","identifiers":{"contentmine":"CM.tamaricaceae48","wikidata":"Q13034175"}},{"name":"Tamarix tenuissima","term":"Tamarix tenuissima","identifiers":{"contentmine":"CM.tamaricaceae49","wikidata":"Q15235525"}},{"name":"Tamarix elongata","term":"Tamarix elongata","identifiers":{"contentmine":"CM.tamaricaceae50","wikidata":"Q15237959"}},{"name":"Tamarix androssowii","term":"Tamarix androssowii","identifiers":{"contentmine":"CM.tamaricaceae51","wikidata":"Q15239498"}},{"name":"Tamarix gracilis","term":"Tamarix gracilis","identifiers":{"contentmine":"CM.tamaricaceae52","wikidata":"Q15244059"}},{"name":"Tamarix leptostachya","term":"Tamarix leptostachya","identifiers":{"contentmine":"CM.tamaricaceae53","wikidata":"Q15245704"}},{"name":"Tamarix laxa","term":"Tamarix laxa","identifiers":{"contentmine":"CM.tamaricaceae54","wikidata":"Q15245903"}},{"name":"Tamarix karelinii","term":"Tamarix karelinii","identifiers":{"contentmine":"CM.tamaricaceae55","wikidata":"Q15246638"}},{"name":"Tamarix jintaensis","term":"Tamarix jintaensis","identifiers":{"contentmine":"CM.tamaricaceae56","wikidata":"Q15247229"}},{"name":"Tamarix mongolica","term":"Tamarix mongolica","identifiers":{"contentmine":"CM.tamaricaceae57","wikidata":"Q15247742"}},{"name":"Tamarix gansuensis","term":"Tamarix gansuensis","identifiers":{"contentmine":"CM.tamaricaceae58","wikidata":"Q15248879"}},{"name":"Tamarix austromongolica","term":"Tamarix austromongolica","identifiers":{"contentmine":"CM.tamaricaceae59","wikidata":"Q15250014"}},{"name":"Tamarix sachensis","term":"Tamarix sachensis","identifiers":{"contentmine":"CM.tamaricaceae60","wikidata":"Q15251417"}},{"name":"Tamarix meyeri","term":"Tamarix meyeri","identifiers":{"contentmine":"CM.tamaricaceae61","wikidata":"Q16639503"}},{"name":"Tamarix alii","term":"Tamarix alii","identifiers":{"contentmine":"CM.tamaricaceae62","wikidata":"Q18112485"}},{"name":"Tamarix dioica","term":"Tamarix dioica","identifiers":{"contentmine":"CM.tamaricaceae63","wikidata":"Q18112487"}},{"name":"Tamarix amplexicaulis","term":"Tamarix amplexicaulis","identifiers":{"contentmine":"CM.tamaricaceae64","wikidata":"Q18112489"}},{"name":"Tamarix dubia","term":"Tamarix dubia","identifiers":{"contentmine":"CM.tamaricaceae65","wikidata":"Q18112491"}},{"name":"Tamarix kasakhorum","term":"Tamarix kasakhorum","identifiers":{"contentmine":"CM.tamaricaceae66","wikidata":"Q18112493"}},{"name":"Tamarix octandra","term":"Tamarix octandra","identifiers":{"contentmine":"CM.tamaricaceae67","wikidata":"Q18112495"}},{"name":"Tamarix pakistanica","term":"Tamarix pakistanica","identifiers":{"contentmine":"CM.tamaricaceae68","wikidata":"Q18112499"}},{"name":"Tamarix kermanensis","term":"Tamarix kermanensis","identifiers":{"contentmine":"CM.tamaricaceae69","wikidata":"Q18112503"}},{"name":"Tamarix aralensis","term":"Tamarix aralensis","identifiers":{"contentmine":"CM.tamaricaceae70","wikidata":"Q18112505"}},{"name":"Tamarix palaestina","term":"Tamarix palaestina","identifiers":{"contentmine":"CM.tamaricaceae71","wikidata":"Q18112509"}},{"name":"Tamarix komarovii","term":"Tamarix komarovii","identifiers":{"contentmine":"CM.tamaricaceae72","wikidata":"Q18112511"}},{"name":"Tamarix ericoides","term":"Tamarix ericoides","identifiers":{"contentmine":"CM.tamaricaceae73","wikidata":"Q18112513"}},{"name":"Tamarix aravensis","term":"Tamarix aravensis","identifiers":{"contentmine":"CM.tamaricaceae74","wikidata":"Q18112515"}},{"name":"Tamarix passerinoides","term":"Tamarix passerinoides","identifiers":{"contentmine":"CM.tamaricaceae75","wikidata":"Q18112517"}},{"name":"Tamarix korolkowii","term":"Tamarix korolkowii","identifiers":{"contentmine":"CM.tamaricaceae76","wikidata":"Q18112519"}},{"name":"Tamarix eversmannii","term":"Tamarix eversmannii","identifiers":{"contentmine":"CM.tamaricaceae77","wikidata":"Q18112521"}},{"name":"Tamarix pycnocarpa","term":"Tamarix pycnocarpa","identifiers":{"contentmine":"CM.tamaricaceae78","wikidata":"Q18112523"}},{"name":"Tamarix kotschyi","term":"Tamarix kotschyi","identifiers":{"contentmine":"CM.tamaricaceae79","wikidata":"Q18112525"}},{"name":"Tamarix aucheriana","term":"Tamarix aucheriana","identifiers":{"contentmine":"CM.tamaricaceae80","wikidata":"Q18112527"}},{"name":"Tamarix florida","term":"Tamarix florida","identifiers":{"contentmine":"CM.tamaricaceae81","wikidata":"Q18112530"}},{"name":"Tamarix kutchensis","term":"Tamarix kutchensis","identifiers":{"contentmine":"CM.tamaricaceae82","wikidata":"Q18112532"}},{"name":"Tamarix salina","term":"Tamarix salina","identifiers":{"contentmine":"CM.tamaricaceae83","wikidata":"Q18112534"}},{"name":"Tamarix gennessarensis","term":"Tamarix gennessarensis","identifiers":{"contentmine":"CM.tamaricaceae84","wikidata":"Q18112537"}},{"name":"Tamarix sarenensis","term":"Tamarix sarenensis","identifiers":{"contentmine":"CM.tamaricaceae85","wikidata":"Q18112538"}},{"name":"Tamarix baluchistanica","term":"Tamarix baluchistanica","identifiers":{"contentmine":"CM.tamaricaceae86","wikidata":"Q18112540"}},{"name":"Tamarix senegalensis","term":"Tamarix senegalensis","identifiers":{"contentmine":"CM.tamaricaceae87","wikidata":"Q18112543"}},{"name":"Tamarix litwinowii","term":"Tamarix litwinowii","identifiers":{"contentmine":"CM.tamaricaceae88","wikidata":"Q18112545"}},{"name":"Tamarix brachystachys","term":"Tamarix brachystachys","identifiers":{"contentmine":"CM.tamaricaceae89","wikidata":"Q18112547"}},{"name":"Tamarix hampeana","term":"Tamarix hampeana","identifiers":{"contentmine":"CM.tamaricaceae90","wikidata":"Q18112549"}},{"name":"Tamarix macrocarpa","term":"Tamarix macrocarpa","identifiers":{"contentmine":"CM.tamaricaceae91","wikidata":"Q18112551"}},{"name":"Tamarix stricta","term":"Tamarix stricta","identifiers":{"contentmine":"CM.tamaricaceae92","wikidata":"Q18112553"}},{"name":"Tamarix sultanii","term":"Tamarix sultanii","identifiers":{"contentmine":"CM.tamaricaceae93","wikidata":"Q18112556"}},{"name":"Tamarix szowitsiana","term":"Tamarix szowitsiana","identifiers":{"contentmine":"CM.tamaricaceae94","wikidata":"Q18112558"}},{"name":"Tamarix indica","term":"Tamarix indica","identifiers":{"contentmine":"CM.tamaricaceae95","wikidata":"Q18112560"}},{"name":"Tamarix nilotica","term":"Tamarix nilotica","identifiers":{"contentmine":"CM.tamaricaceae96","wikidata":"Q18112568"}},{"name":"Tamarix germanica","term":"Tamarix germanica","identifiers":{"contentmine":"CM.tamaricaceae97","wikidata":"Q21877560"}},{"name":"Reaumuria hirtella","term":"Reaumuria hirtella","identifiers":{"contentmine":"CM.tamaricaceae98","wikidata":"Q6596490"}},{"name":"Reaumuria soongarica","term":"Reaumuria soongarica","identifiers":{"contentmine":"CM.tamaricaceae99","wikidata":"Q6735324"}},{"name":"Reaumuria alternifolia","term":"Reaumuria alternifolia","identifiers":{"contentmine":"CM.tamaricaceae100","wikidata":"Q10881420"}},{"name":"Reaumuria kaschgarica","term":"Reaumuria kaschgarica","identifiers":{"contentmine":"CM.tamaricaceae101","wikidata":"Q10881903"}},{"name":"Reaumuria trigyna","term":"Reaumuria trigyna","identifiers":{"contentmine":"CM.tamaricaceae102","wikidata":"Q11178354"}},{"name":"Reaumuria kermanensis","term":"Reaumuria kermanensis","identifiers":{"contentmine":"CM.tamaricaceae103","wikidata":"Q18112602"}},{"name":"Reaumuria korovinii","term":"Reaumuria korovinii","identifiers":{"contentmine":"CM.tamaricaceae104","wikidata":"Q18112604"}},{"name":"Reaumuria negevensis","term":"Reaumuria negevensis","identifiers":{"contentmine":"CM.tamaricaceae105","wikidata":"Q18112607"}},{"name":"Reaumuria oxiana","term":"Reaumuria oxiana","identifiers":{"contentmine":"CM.tamaricaceae106","wikidata":"Q18112610"}},{"name":"Reaumuria persica","term":"Reaumuria persica","identifiers":{"contentmine":"CM.tamaricaceae107","wikidata":"Q18112612"}},{"name":"Reaumuria reflexa","term":"Reaumuria reflexa","identifiers":{"contentmine":"CM.tamaricaceae108","wikidata":"Q18112614"}},{"name":"Reaumuria sivasica","term":"Reaumuria sivasica","identifiers":{"contentmine":"CM.tamaricaceae109","wikidata":"Q18112615"}},{"name":"Reaumuria sogdiana","term":"Reaumuria sogdiana","identifiers":{"contentmine":"CM.tamaricaceae110","wikidata":"Q18112617"}},{"name":"Reaumuria stocksii","term":"Reaumuria stocksii","identifiers":{"contentmine":"CM.tamaricaceae111","wikidata":"Q18112621"}},{"name":"Reaumuria tatarica","term":"Reaumuria tatarica","identifiers":{"contentmine":"CM.tamaricaceae112","wikidata":"Q18112623"}},{"name":"Reaumuria atreki","term":"Reaumuria atreki","identifiers":{"contentmine":"CM.tamaricaceae113","wikidata":"Q18112625"}},{"name":"Reaumuria babataghi","term":"Reaumuria babataghi","identifiers":{"contentmine":"CM.tamaricaceae114","wikidata":"Q18112627"}},{"name":"Reaumuria botschantzevii","term":"Reaumuria botschantzevii","identifiers":{"contentmine":"CM.tamaricaceae115","wikidata":"Q18112630"}},{"name":"Reaumuria floyeri","term":"Reaumuria floyeri","identifiers":{"contentmine":"CM.tamaricaceae116","wikidata":"Q18112633"}},{"name":"Reaumuria turkestanica","term":"Reaumuria turkestanica","identifiers":{"contentmine":"CM.tamaricaceae117","wikidata":"Q18112635"}},{"name":"Reaumuria fruticosa","term":"Reaumuria fruticosa","identifiers":{"contentmine":"CM.tamaricaceae118","wikidata":"Q18112637"}},{"name":"Reaumuria vermiculata","term":"Reaumuria vermiculata","identifiers":{"contentmine":"CM.tamaricaceae119","wikidata":"Q18112639"}},{"name":"Reaumuria halophila","term":"Reaumuria halophila","identifiers":{"contentmine":"CM.tamaricaceae120","wikidata":"Q18112640"}},{"name":"Reaumuria soongorica","term":"Reaumuria soongorica","identifiers":{"contentmine":"CM.tamaricaceae121","wikidata":"Q21309974"}},{"name":"Reaumuria songarica","term":"Reaumuria songarica","identifiers":{"contentmine":"CM.tamaricaceae122","wikidata":"Q29057098"}},{"name":"Myrtama elegans","term":"Myrtama elegans","identifiers":{"contentmine":"CM.tamaricaceae123","wikidata":"Q18112883"}},{"name":"Tamarix gallica nilotica","term":"Tamarix gallica nilotica","identifiers":{"contentmine":"CM.tamaricaceae124","wikidata":"Q3514688"}},{"name":"Tamarix africana var. africana","term":"Tamarix africana var. africana","identifiers":{"contentmine":"CM.tamaricaceae125","wikidata":"Q20061410"}},{"name":"Tamarix africana var. fluminensis","term":"Tamarix africana var. fluminensis","identifiers":{"contentmine":"CM.tamaricaceae126","wikidata":"Q20061411"}},{"name":"Myricaria elegans var. elegans","term":"Myricaria elegans var. elegans","identifiers":{"contentmine":"CM.tamaricaceae127","wikidata":"Q25131719"}},{"name":"Myricaria elegans var. tsetangensis","term":"Myricaria elegans var. tsetangensis","identifiers":{"contentmine":"CM.tamaricaceae128","wikidata":"Q25131720"}},{"name":"Tamarix laxa var. laxa","term":"Tamarix laxa var. laxa","identifiers":{"contentmine":"CM.tamaricaceae129","wikidata":"Q25131721"}},{"name":"Tamarix laxa var. polystachya","term":"Tamarix laxa var. polystachya","identifiers":{"contentmine":"CM.tamaricaceae130","wikidata":"Q25131722"}}]}
+{
+    "entries": [
+        {
+            "name": "Tamaricaceae",
+            "term": "Tamaricaceae",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae0",
+                "wikidata": "Q161244"
+            }
+        },
+        {
+            "name": "Myricaria",
+            "term": "Myricaria",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae1",
+                "wikidata": "Q159213"
+            }
+        },
+        {
+            "name": "tamarix",
+            "term": "tamarix",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae2",
+                "wikidata": "Q164163"
+            }
+        },
+        {
+            "name": "Reaumuria",
+            "term": "Reaumuria",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae3",
+                "wikidata": "Q1921718"
+            }
+        },
+        {
+            "name": "Myrtama",
+            "term": "Myrtama",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae4",
+                "wikidata": "Q6035275"
+            }
+        },
+        {
+            "name": "Hololachna",
+            "term": "Hololachna",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae5",
+                "wikidata": "Q9004504"
+            }
+        },
+        {
+            "name": "Tamaricaria",
+            "term": "Tamaricaria",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae6",
+                "wikidata": "Q32262993"
+            }
+        },
+        {
+            "name": "Myricaria germanica",
+            "term": "Myricaria germanica",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae7",
+                "wikidata": "Q162609"
+            }
+        },
+        {
+            "name": "Myricaria paniculata",
+            "term": "Myricaria paniculata",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae8",
+                "wikidata": "Q10866124"
+            }
+        },
+        {
+            "name": "Myricaria squamosa",
+            "term": "Myricaria squamosa",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae9",
+                "wikidata": "Q10894609"
+            }
+        },
+        {
+            "name": "Myricaria prostrata",
+            "term": "Myricaria prostrata",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae10",
+                "wikidata": "Q10901703"
+            }
+        },
+        {
+            "name": "Myricaria rosea",
+            "term": "Myricaria rosea",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae11",
+                "wikidata": "Q10910171"
+            }
+        },
+        {
+            "name": "Myricaria platyphylla",
+            "term": "Myricaria platyphylla",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae12",
+                "wikidata": "Q10951262"
+            }
+        },
+        {
+            "name": "Myricaria bracteata",
+            "term": "Myricaria bracteata",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae13",
+                "wikidata": "Q10951869"
+            }
+        },
+        {
+            "name": "Myricaria wardii",
+            "term": "Myricaria wardii",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae14",
+                "wikidata": "Q10960183"
+            }
+        },
+        {
+            "name": "Myricaria pulcherrima",
+            "term": "Myricaria pulcherrima",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae15",
+                "wikidata": "Q11072012"
+            }
+        },
+        {
+            "name": "Myricaria elegans",
+            "term": "Myricaria elegans",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae16",
+                "wikidata": "Q15235808"
+            }
+        },
+        {
+            "name": "Myricaria laxiflora",
+            "term": "Myricaria laxiflora",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae17",
+                "wikidata": "Q15245968"
+            }
+        },
+        {
+            "name": "Myricaria laxa",
+            "term": "Myricaria laxa",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae18",
+                "wikidata": "Q15246804"
+            }
+        },
+        {
+            "name": "Myricaria alopecuroides",
+            "term": "Myricaria alopecuroides",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae19",
+                "wikidata": "Q16417756"
+            }
+        },
+        {
+            "name": "Myricaria schartii",
+            "term": "Myricaria schartii",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae20",
+                "wikidata": "Q18112810"
+            }
+        },
+        {
+            "name": "Myricaria albiflora",
+            "term": "Myricaria albiflora",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae21",
+                "wikidata": "Q18112867"
+            }
+        },
+        {
+            "name": "Myricaria davurica",
+            "term": "Myricaria davurica",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae22",
+                "wikidata": "Q18112877"
+            }
+        },
+        {
+            "name": "Myricaria longifolia",
+            "term": "Myricaria longifolia",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae23",
+                "wikidata": "Q18112881"
+            }
+        },
+        {
+            "name": "Tamarix parviflora",
+            "term": "Tamarix parviflora",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae24",
+                "wikidata": "Q160156"
+            }
+        },
+        {
+            "name": "Tamarix gallica",
+            "term": "Tamarix gallica",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae25",
+                "wikidata": "Q164285"
+            }
+        },
+        {
+            "name": "Tamarix africana",
+            "term": "Tamarix africana",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae26",
+                "wikidata": "Q1641972"
+            }
+        },
+        {
+            "name": "Tamarix smyrnensis",
+            "term": "Tamarix smyrnensis",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae27",
+                "wikidata": "Q2391288"
+            }
+        },
+        {
+            "name": "Tamarix articulata",
+            "term": "Tamarix articulata",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae28",
+                "wikidata": "Q2717418"
+            }
+        },
+        {
+            "name": "Tamarix aphylla",
+            "term": "Tamarix aphylla",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae29",
+                "wikidata": "Q2889746"
+            }
+        },
+        {
+            "name": "Tamarix hispida",
+            "term": "Tamarix hispida",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae30",
+                "wikidata": "Q3335372"
+            }
+        },
+        {
+            "name": "Tamarix dalmatica",
+            "term": "Tamarix dalmatica",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae31",
+                "wikidata": "Q5489071"
+            }
+        },
+        {
+            "name": "Tamarix canariensis",
+            "term": "Tamarix canariensis",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae32",
+                "wikidata": "Q5637949"
+            }
+        },
+        {
+            "name": "Tamarix ramosissima",
+            "term": "Tamarix ramosissima",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae33",
+                "wikidata": "Q5860880"
+            }
+        },
+        {
+            "name": "Tamarix duezenlii",
+            "term": "Tamarix duezenlii",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae34",
+                "wikidata": "Q6040480"
+            }
+        },
+        {
+            "name": "Tamarix boveana",
+            "term": "Tamarix boveana",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae35",
+                "wikidata": "Q6138431"
+            }
+        },
+        {
+            "name": "Tamarix mascatensis",
+            "term": "Tamarix mascatensis",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae36",
+                "wikidata": "Q6138435"
+            }
+        },
+        {
+            "name": "Tamarix negevensis",
+            "term": "Tamarix negevensis",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae37",
+                "wikidata": "Q6548771"
+            }
+        },
+        {
+            "name": "Tamarix tetragyna",
+            "term": "Tamarix tetragyna",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae38",
+                "wikidata": "Q6591328"
+            }
+        },
+        {
+            "name": "Tamarix jordanis",
+            "term": "Tamarix jordanis",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae39",
+                "wikidata": "Q6623263"
+            }
+        },
+        {
+            "name": "Tamarix chinensis",
+            "term": "Tamarix chinensis",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae40",
+                "wikidata": "Q6825364"
+            }
+        },
+        {
+            "name": "Tamarix tetrandra",
+            "term": "Tamarix tetrandra",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae41",
+                "wikidata": "Q9355423"
+            }
+        },
+        {
+            "name": "Tamarix tarimensis",
+            "term": "Tamarix tarimensis",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae42",
+                "wikidata": "Q10930954"
+            }
+        },
+        {
+            "name": "Tamarix hohenackeri",
+            "term": "Tamarix hohenackeri",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae43",
+                "wikidata": "Q10933011"
+            }
+        },
+        {
+            "name": "Tamarix arceuthoides",
+            "term": "Tamarix arceuthoides",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae44",
+                "wikidata": "Q10953447"
+            }
+        },
+        {
+            "name": "Tamarix taklamakanensis",
+            "term": "Tamarix taklamakanensis",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae45",
+                "wikidata": "Q11140574"
+            }
+        },
+        {
+            "name": "Tamarix atlantis",
+            "term": "Tamarix atlantis",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae46",
+                "wikidata": "Q12178348"
+            }
+        },
+        {
+            "name": "Tamarix arabica",
+            "term": "Tamarix arabica",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae47",
+                "wikidata": "Q12178352"
+            }
+        },
+        {
+            "name": "Tamarix usneoides",
+            "term": "Tamarix usneoides",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae48",
+                "wikidata": "Q13034175"
+            }
+        },
+        {
+            "name": "Tamarix tenuissima",
+            "term": "Tamarix tenuissima",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae49",
+                "wikidata": "Q15235525"
+            }
+        },
+        {
+            "name": "Tamarix elongata",
+            "term": "Tamarix elongata",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae50",
+                "wikidata": "Q15237959"
+            }
+        },
+        {
+            "name": "Tamarix androssowii",
+            "term": "Tamarix androssowii",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae51",
+                "wikidata": "Q15239498"
+            }
+        },
+        {
+            "name": "Tamarix gracilis",
+            "term": "Tamarix gracilis",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae52",
+                "wikidata": "Q15244059"
+            }
+        },
+        {
+            "name": "Tamarix leptostachya",
+            "term": "Tamarix leptostachya",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae53",
+                "wikidata": "Q15245704"
+            }
+        },
+        {
+            "name": "Tamarix laxa",
+            "term": "Tamarix laxa",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae54",
+                "wikidata": "Q15245903"
+            }
+        },
+        {
+            "name": "Tamarix karelinii",
+            "term": "Tamarix karelinii",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae55",
+                "wikidata": "Q15246638"
+            }
+        },
+        {
+            "name": "Tamarix jintaensis",
+            "term": "Tamarix jintaensis",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae56",
+                "wikidata": "Q15247229"
+            }
+        },
+        {
+            "name": "Tamarix mongolica",
+            "term": "Tamarix mongolica",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae57",
+                "wikidata": "Q15247742"
+            }
+        },
+        {
+            "name": "Tamarix gansuensis",
+            "term": "Tamarix gansuensis",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae58",
+                "wikidata": "Q15248879"
+            }
+        },
+        {
+            "name": "Tamarix austromongolica",
+            "term": "Tamarix austromongolica",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae59",
+                "wikidata": "Q15250014"
+            }
+        },
+        {
+            "name": "Tamarix sachensis",
+            "term": "Tamarix sachensis",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae60",
+                "wikidata": "Q15251417"
+            }
+        },
+        {
+            "name": "Tamarix meyeri",
+            "term": "Tamarix meyeri",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae61",
+                "wikidata": "Q16639503"
+            }
+        },
+        {
+            "name": "Tamarix alii",
+            "term": "Tamarix alii",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae62",
+                "wikidata": "Q18112485"
+            }
+        },
+        {
+            "name": "Tamarix dioica",
+            "term": "Tamarix dioica",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae63",
+                "wikidata": "Q18112487"
+            }
+        },
+        {
+            "name": "Tamarix amplexicaulis",
+            "term": "Tamarix amplexicaulis",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae64",
+                "wikidata": "Q18112489"
+            }
+        },
+        {
+            "name": "Tamarix dubia",
+            "term": "Tamarix dubia",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae65",
+                "wikidata": "Q18112491"
+            }
+        },
+        {
+            "name": "Tamarix kasakhorum",
+            "term": "Tamarix kasakhorum",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae66",
+                "wikidata": "Q18112493"
+            }
+        },
+        {
+            "name": "Tamarix octandra",
+            "term": "Tamarix octandra",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae67",
+                "wikidata": "Q18112495"
+            }
+        },
+        {
+            "name": "Tamarix pakistanica",
+            "term": "Tamarix pakistanica",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae68",
+                "wikidata": "Q18112499"
+            }
+        },
+        {
+            "name": "Tamarix kermanensis",
+            "term": "Tamarix kermanensis",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae69",
+                "wikidata": "Q18112503"
+            }
+        },
+        {
+            "name": "Tamarix aralensis",
+            "term": "Tamarix aralensis",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae70",
+                "wikidata": "Q18112505"
+            }
+        },
+        {
+            "name": "Tamarix palaestina",
+            "term": "Tamarix palaestina",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae71",
+                "wikidata": "Q18112509"
+            }
+        },
+        {
+            "name": "Tamarix komarovii",
+            "term": "Tamarix komarovii",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae72",
+                "wikidata": "Q18112511"
+            }
+        },
+        {
+            "name": "Tamarix ericoides",
+            "term": "Tamarix ericoides",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae73",
+                "wikidata": "Q18112513"
+            }
+        },
+        {
+            "name": "Tamarix aravensis",
+            "term": "Tamarix aravensis",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae74",
+                "wikidata": "Q18112515"
+            }
+        },
+        {
+            "name": "Tamarix passerinoides",
+            "term": "Tamarix passerinoides",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae75",
+                "wikidata": "Q18112517"
+            }
+        },
+        {
+            "name": "Tamarix korolkowii",
+            "term": "Tamarix korolkowii",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae76",
+                "wikidata": "Q18112519"
+            }
+        },
+        {
+            "name": "Tamarix eversmannii",
+            "term": "Tamarix eversmannii",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae77",
+                "wikidata": "Q18112521"
+            }
+        },
+        {
+            "name": "Tamarix pycnocarpa",
+            "term": "Tamarix pycnocarpa",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae78",
+                "wikidata": "Q18112523"
+            }
+        },
+        {
+            "name": "Tamarix kotschyi",
+            "term": "Tamarix kotschyi",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae79",
+                "wikidata": "Q18112525"
+            }
+        },
+        {
+            "name": "Tamarix aucheriana",
+            "term": "Tamarix aucheriana",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae80",
+                "wikidata": "Q18112527"
+            }
+        },
+        {
+            "name": "Tamarix florida",
+            "term": "Tamarix florida",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae81",
+                "wikidata": "Q18112530"
+            }
+        },
+        {
+            "name": "Tamarix kutchensis",
+            "term": "Tamarix kutchensis",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae82",
+                "wikidata": "Q18112532"
+            }
+        },
+        {
+            "name": "Tamarix salina",
+            "term": "Tamarix salina",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae83",
+                "wikidata": "Q18112534"
+            }
+        },
+        {
+            "name": "Tamarix gennessarensis",
+            "term": "Tamarix gennessarensis",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae84",
+                "wikidata": "Q18112537"
+            }
+        },
+        {
+            "name": "Tamarix sarenensis",
+            "term": "Tamarix sarenensis",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae85",
+                "wikidata": "Q18112538"
+            }
+        },
+        {
+            "name": "Tamarix baluchistanica",
+            "term": "Tamarix baluchistanica",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae86",
+                "wikidata": "Q18112540"
+            }
+        },
+        {
+            "name": "Tamarix senegalensis",
+            "term": "Tamarix senegalensis",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae87",
+                "wikidata": "Q18112543"
+            }
+        },
+        {
+            "name": "Tamarix litwinowii",
+            "term": "Tamarix litwinowii",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae88",
+                "wikidata": "Q18112545"
+            }
+        },
+        {
+            "name": "Tamarix brachystachys",
+            "term": "Tamarix brachystachys",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae89",
+                "wikidata": "Q18112547"
+            }
+        },
+        {
+            "name": "Tamarix hampeana",
+            "term": "Tamarix hampeana",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae90",
+                "wikidata": "Q18112549"
+            }
+        },
+        {
+            "name": "Tamarix macrocarpa",
+            "term": "Tamarix macrocarpa",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae91",
+                "wikidata": "Q18112551"
+            }
+        },
+        {
+            "name": "Tamarix stricta",
+            "term": "Tamarix stricta",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae92",
+                "wikidata": "Q18112553"
+            }
+        },
+        {
+            "name": "Tamarix sultanii",
+            "term": "Tamarix sultanii",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae93",
+                "wikidata": "Q18112556"
+            }
+        },
+        {
+            "name": "Tamarix szowitsiana",
+            "term": "Tamarix szowitsiana",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae94",
+                "wikidata": "Q18112558"
+            }
+        },
+        {
+            "name": "Tamarix indica",
+            "term": "Tamarix indica",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae95",
+                "wikidata": "Q18112560"
+            }
+        },
+        {
+            "name": "Tamarix nilotica",
+            "term": "Tamarix nilotica",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae96",
+                "wikidata": "Q18112568"
+            }
+        },
+        {
+            "name": "Tamarix germanica",
+            "term": "Tamarix germanica",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae97",
+                "wikidata": "Q21877560"
+            }
+        },
+        {
+            "name": "Reaumuria hirtella",
+            "term": "Reaumuria hirtella",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae98",
+                "wikidata": "Q6596490"
+            }
+        },
+        {
+            "name": "Reaumuria soongarica",
+            "term": "Reaumuria soongarica",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae99",
+                "wikidata": "Q6735324"
+            }
+        },
+        {
+            "name": "Reaumuria alternifolia",
+            "term": "Reaumuria alternifolia",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae100",
+                "wikidata": "Q10881420"
+            }
+        },
+        {
+            "name": "Reaumuria kaschgarica",
+            "term": "Reaumuria kaschgarica",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae101",
+                "wikidata": "Q10881903"
+            }
+        },
+        {
+            "name": "Reaumuria trigyna",
+            "term": "Reaumuria trigyna",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae102",
+                "wikidata": "Q11178354"
+            }
+        },
+        {
+            "name": "Reaumuria kermanensis",
+            "term": "Reaumuria kermanensis",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae103",
+                "wikidata": "Q18112602"
+            }
+        },
+        {
+            "name": "Reaumuria korovinii",
+            "term": "Reaumuria korovinii",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae104",
+                "wikidata": "Q18112604"
+            }
+        },
+        {
+            "name": "Reaumuria negevensis",
+            "term": "Reaumuria negevensis",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae105",
+                "wikidata": "Q18112607"
+            }
+        },
+        {
+            "name": "Reaumuria oxiana",
+            "term": "Reaumuria oxiana",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae106",
+                "wikidata": "Q18112610"
+            }
+        },
+        {
+            "name": "Reaumuria persica",
+            "term": "Reaumuria persica",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae107",
+                "wikidata": "Q18112612"
+            }
+        },
+        {
+            "name": "Reaumuria reflexa",
+            "term": "Reaumuria reflexa",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae108",
+                "wikidata": "Q18112614"
+            }
+        },
+        {
+            "name": "Reaumuria sivasica",
+            "term": "Reaumuria sivasica",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae109",
+                "wikidata": "Q18112615"
+            }
+        },
+        {
+            "name": "Reaumuria sogdiana",
+            "term": "Reaumuria sogdiana",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae110",
+                "wikidata": "Q18112617"
+            }
+        },
+        {
+            "name": "Reaumuria stocksii",
+            "term": "Reaumuria stocksii",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae111",
+                "wikidata": "Q18112621"
+            }
+        },
+        {
+            "name": "Reaumuria tatarica",
+            "term": "Reaumuria tatarica",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae112",
+                "wikidata": "Q18112623"
+            }
+        },
+        {
+            "name": "Reaumuria atreki",
+            "term": "Reaumuria atreki",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae113",
+                "wikidata": "Q18112625"
+            }
+        },
+        {
+            "name": "Reaumuria babataghi",
+            "term": "Reaumuria babataghi",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae114",
+                "wikidata": "Q18112627"
+            }
+        },
+        {
+            "name": "Reaumuria botschantzevii",
+            "term": "Reaumuria botschantzevii",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae115",
+                "wikidata": "Q18112630"
+            }
+        },
+        {
+            "name": "Reaumuria floyeri",
+            "term": "Reaumuria floyeri",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae116",
+                "wikidata": "Q18112633"
+            }
+        },
+        {
+            "name": "Reaumuria turkestanica",
+            "term": "Reaumuria turkestanica",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae117",
+                "wikidata": "Q18112635"
+            }
+        },
+        {
+            "name": "Reaumuria fruticosa",
+            "term": "Reaumuria fruticosa",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae118",
+                "wikidata": "Q18112637"
+            }
+        },
+        {
+            "name": "Reaumuria vermiculata",
+            "term": "Reaumuria vermiculata",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae119",
+                "wikidata": "Q18112639"
+            }
+        },
+        {
+            "name": "Reaumuria halophila",
+            "term": "Reaumuria halophila",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae120",
+                "wikidata": "Q18112640"
+            }
+        },
+        {
+            "name": "Reaumuria soongorica",
+            "term": "Reaumuria soongorica",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae121",
+                "wikidata": "Q21309974"
+            }
+        },
+        {
+            "name": "Reaumuria songarica",
+            "term": "Reaumuria songarica",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae122",
+                "wikidata": "Q29057098"
+            }
+        },
+        {
+            "name": "Myrtama elegans",
+            "term": "Myrtama elegans",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae123",
+                "wikidata": "Q18112883"
+            }
+        },
+        {
+            "name": "Tamarix gallica nilotica",
+            "term": "Tamarix gallica nilotica",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae124",
+                "wikidata": "Q3514688"
+            }
+        },
+        {
+            "name": "Tamarix africana var. africana",
+            "term": "Tamarix africana var. africana",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae125",
+                "wikidata": "Q20061410"
+            }
+        },
+        {
+            "name": "Tamarix africana var. fluminensis",
+            "term": "Tamarix africana var. fluminensis",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae126",
+                "wikidata": "Q20061411"
+            }
+        },
+        {
+            "name": "Myricaria elegans var. elegans",
+            "term": "Myricaria elegans var. elegans",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae127",
+                "wikidata": "Q25131719"
+            }
+        },
+        {
+            "name": "Myricaria elegans var. tsetangensis",
+            "term": "Myricaria elegans var. tsetangensis",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae128",
+                "wikidata": "Q25131720"
+            }
+        },
+        {
+            "name": "Tamarix laxa var. laxa",
+            "term": "Tamarix laxa var. laxa",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae129",
+                "wikidata": "Q25131721"
+            }
+        },
+        {
+            "name": "Tamarix laxa var. polystachya",
+            "term": "Tamarix laxa var. polystachya",
+            "identifiers": {
+                "contentmine": "CM.tamaricaceae130",
+                "wikidata": "Q25131722"
+            }
+        }
+    ],
+    "id": "CM.tamaricaceae"
+}

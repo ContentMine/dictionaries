@@ -1,1 +1,3557 @@
-{"entries":[{"name":"Calophyllaceae","term":"Calophyllaceae","identifiers":{"contentmine":"CM.calophyllaceae0","wikidata":"Q133249"}},{"name":"Neotatea","term":"Neotatea","identifiers":{"contentmine":"CM.calophyllaceae1","wikidata":"Q146382"}},{"name":"Mahurea","term":"Mahurea","identifiers":{"contentmine":"CM.calophyllaceae2","wikidata":"Q955893"}},{"name":"Kielmeyera","term":"Kielmeyera","identifiers":{"contentmine":"CM.calophyllaceae3","wikidata":"Q956047"}},{"name":"Marila","term":"Marila","identifiers":{"contentmine":"CM.calophyllaceae4","wikidata":"Q1343607"}},{"name":"Calophyllum","term":"Calophyllum","identifiers":{"contentmine":"CM.calophyllaceae5","wikidata":"Q2697391"}},{"name":"Mesua","term":"Mesua","identifiers":{"contentmine":"CM.calophyllaceae6","wikidata":"Q3237856"}},{"name":"Mammea","term":"Mammea","identifiers":{"contentmine":"CM.calophyllaceae7","wikidata":"Q3285525"}},{"name":"Endodesmia","term":"Endodesmia","identifiers":{"contentmine":"CM.calophyllaceae8","wikidata":"Q3544078"}},{"name":"Caraipa","term":"Caraipa","identifiers":{"contentmine":"CM.calophyllaceae9","wikidata":"Q3544218"}},{"name":"Clusiella","term":"Clusiella","identifiers":{"contentmine":"CM.calophyllaceae10","wikidata":"Q5136673"}},{"name":"Kayea","term":"Kayea","identifiers":{"contentmine":"CM.calophyllaceae11","wikidata":"Q5843599"}},{"name":"Lebrunia","term":"Lebrunia","identifiers":{"contentmine":"CM.calophyllaceae12","wikidata":"Q6511435"}},{"name":"Poeciloneuron","term":"Poeciloneuron","identifiers":{"contentmine":"CM.calophyllaceae13","wikidata":"Q7207308"}},{"name":"Haploclathra","term":"Haploclathra","identifiers":{"contentmine":"CM.calophyllaceae14","wikidata":"Q9002037"}},{"name":"Nouhuysia","term":"Nouhuysia","identifiers":{"contentmine":"CM.calophyllaceae15","wikidata":"Q17565705"}},{"name":"Neotatea colombiana","term":"Neotatea colombiana","identifiers":{"contentmine":"CM.calophyllaceae16","wikidata":"Q15366687"}},{"name":"Neotatea duidae","term":"Neotatea duidae","identifiers":{"contentmine":"CM.calophyllaceae17","wikidata":"Q15366760"}},{"name":"Neotatea longifolia","term":"Neotatea longifolia","identifiers":{"contentmine":"CM.calophyllaceae18","wikidata":"Q15366838"}},{"name":"Neotatea neblinae","term":"Neotatea neblinae","identifiers":{"contentmine":"CM.calophyllaceae19","wikidata":"Q15366907"}},{"name":"Mahurea exstipulata","term":"Mahurea exstipulata","identifiers":{"contentmine":"CM.calophyllaceae20","wikidata":"Q15361189"}},{"name":"Mahurea palustris","term":"Mahurea palustris","identifiers":{"contentmine":"CM.calophyllaceae21","wikidata":"Q17565443"}},{"name":"Kielmeyera peruviana","term":"Kielmeyera peruviana","identifiers":{"contentmine":"CM.calophyllaceae22","wikidata":"Q5457190"}},{"name":"Kielmeyera coriacea","term":"Kielmeyera coriacea","identifiers":{"contentmine":"CM.calophyllaceae23","wikidata":"Q6405268"}},{"name":"Kielmeyera marauensis","term":"Kielmeyera marauensis","identifiers":{"contentmine":"CM.calophyllaceae24","wikidata":"Q15392519"}},{"name":"Kielmeyera occhioniana","term":"Kielmeyera occhioniana","identifiers":{"contentmine":"CM.calophyllaceae25","wikidata":"Q15392703"}},{"name":"Kielmeyera paniculata","term":"Kielmeyera paniculata","identifiers":{"contentmine":"CM.calophyllaceae26","wikidata":"Q15392920"}},{"name":"Kielmeyera rosea","term":"Kielmeyera rosea","identifiers":{"contentmine":"CM.calophyllaceae27","wikidata":"Q15393105"}},{"name":"Kielmeyera rufotomentosa","term":"Kielmeyera rufotomentosa","identifiers":{"contentmine":"CM.calophyllaceae28","wikidata":"Q15393311"}},{"name":"Kielmeyera rupestris","term":"Kielmeyera rupestris","identifiers":{"contentmine":"CM.calophyllaceae29","wikidata":"Q15393588"}},{"name":"Kielmeyera sigillata","term":"Kielmeyera sigillata","identifiers":{"contentmine":"CM.calophyllaceae30","wikidata":"Q15393803"}},{"name":"Kielmeyera similis","term":"Kielmeyera similis","identifiers":{"contentmine":"CM.calophyllaceae31","wikidata":"Q15393992"}},{"name":"Kielmeyera trichophora","term":"Kielmeyera trichophora","identifiers":{"contentmine":"CM.calophyllaceae32","wikidata":"Q15394210"}},{"name":"Kielmeyera anisosepala","term":"Kielmeyera anisosepala","identifiers":{"contentmine":"CM.calophyllaceae33","wikidata":"Q15394828"}},{"name":"Kielmeyera divergens","term":"Kielmeyera divergens","identifiers":{"contentmine":"CM.calophyllaceae34","wikidata":"Q15395674"}},{"name":"Kielmeyera grandiflora","term":"Kielmeyera grandiflora","identifiers":{"contentmine":"CM.calophyllaceae35","wikidata":"Q15396174"}},{"name":"Kielmeyera itacarensis","term":"Kielmeyera itacarensis","identifiers":{"contentmine":"CM.calophyllaceae36","wikidata":"Q15396646"}},{"name":"Kielmeyera juruenensis","term":"Kielmeyera juruenensis","identifiers":{"contentmine":"CM.calophyllaceae37","wikidata":"Q15397120"}},{"name":"Kielmeyera variabilis","term":"Kielmeyera variabilis","identifiers":{"contentmine":"CM.calophyllaceae38","wikidata":"Q17565444"}},{"name":"Kielmeyera tomentosa","term":"Kielmeyera tomentosa","identifiers":{"contentmine":"CM.calophyllaceae39","wikidata":"Q17565445"}},{"name":"Kielmeyera speciosa","term":"Kielmeyera speciosa","identifiers":{"contentmine":"CM.calophyllaceae40","wikidata":"Q17565446"}},{"name":"Kielmeyera rugosa","term":"Kielmeyera rugosa","identifiers":{"contentmine":"CM.calophyllaceae41","wikidata":"Q17565447"}},{"name":"Kielmeyera rubriflora","term":"Kielmeyera rubriflora","identifiers":{"contentmine":"CM.calophyllaceae42","wikidata":"Q17565448"}},{"name":"Kielmeyera rizziniana","term":"Kielmeyera rizziniana","identifiers":{"contentmine":"CM.calophyllaceae43","wikidata":"Q17565449"}},{"name":"Kielmeyera reticulata","term":"Kielmeyera reticulata","identifiers":{"contentmine":"CM.calophyllaceae44","wikidata":"Q17565450"}},{"name":"Kielmeyera regalis","term":"Kielmeyera regalis","identifiers":{"contentmine":"CM.calophyllaceae45","wikidata":"Q17565451"}},{"name":"Kielmeyera pumila","term":"Kielmeyera pumila","identifiers":{"contentmine":"CM.calophyllaceae46","wikidata":"Q17565452"}},{"name":"Kielmeyera pulcherrima","term":"Kielmeyera pulcherrima","identifiers":{"contentmine":"CM.calophyllaceae47","wikidata":"Q17565453"}},{"name":"Kielmeyera petiolaris","term":"Kielmeyera petiolaris","identifiers":{"contentmine":"CM.calophyllaceae48","wikidata":"Q17565454"}},{"name":"Kielmeyera obtecta","term":"Kielmeyera obtecta","identifiers":{"contentmine":"CM.calophyllaceae49","wikidata":"Q17565455"}},{"name":"Kielmeyera neriifolia","term":"Kielmeyera neriifolia","identifiers":{"contentmine":"CM.calophyllaceae50","wikidata":"Q17565456"}},{"name":"Kielmeyera neglecta","term":"Kielmeyera neglecta","identifiers":{"contentmine":"CM.calophyllaceae51","wikidata":"Q17565457"}},{"name":"Kielmeyera membranacea","term":"Kielmeyera membranacea","identifiers":{"contentmine":"CM.calophyllaceae52","wikidata":"Q17565458"}},{"name":"Kielmeyera lathrophyton","term":"Kielmeyera lathrophyton","identifiers":{"contentmine":"CM.calophyllaceae53","wikidata":"Q17565459"}},{"name":"Kielmeyera insignis","term":"Kielmeyera insignis","identifiers":{"contentmine":"CM.calophyllaceae54","wikidata":"Q17565460"}},{"name":"Kielmeyera humifusa","term":"Kielmeyera humifusa","identifiers":{"contentmine":"CM.calophyllaceae55","wikidata":"Q17565461"}},{"name":"Kielmeyera gracilis","term":"Kielmeyera gracilis","identifiers":{"contentmine":"CM.calophyllaceae56","wikidata":"Q17565462"}},{"name":"Kielmeyera falcata","term":"Kielmeyera falcata","identifiers":{"contentmine":"CM.calophyllaceae57","wikidata":"Q17565463"}},{"name":"Kielmeyera excelsa","term":"Kielmeyera excelsa","identifiers":{"contentmine":"CM.calophyllaceae58","wikidata":"Q17565464"}},{"name":"Kielmeyera elata","term":"Kielmeyera elata","identifiers":{"contentmine":"CM.calophyllaceae59","wikidata":"Q17565465"}},{"name":"Kielmeyera decipiens","term":"Kielmeyera decipiens","identifiers":{"contentmine":"CM.calophyllaceae60","wikidata":"Q17565466"}},{"name":"Kielmeyera cuspidata","term":"Kielmeyera cuspidata","identifiers":{"contentmine":"CM.calophyllaceae61","wikidata":"Q17565467"}},{"name":"Kielmeyera corymbosa","term":"Kielmeyera corymbosa","identifiers":{"contentmine":"CM.calophyllaceae62","wikidata":"Q17565468"}},{"name":"Kielmeyera bifaria","term":"Kielmeyera bifaria","identifiers":{"contentmine":"CM.calophyllaceae63","wikidata":"Q17565469"}},{"name":"Kielmeyera argentea","term":"Kielmeyera argentea","identifiers":{"contentmine":"CM.calophyllaceae64","wikidata":"Q17565470"}},{"name":"Kielmeyera amplexicaulis","term":"Kielmeyera amplexicaulis","identifiers":{"contentmine":"CM.calophyllaceae65","wikidata":"Q17565473"}},{"name":"Kielmeyera altissima","term":"Kielmeyera altissima","identifiers":{"contentmine":"CM.calophyllaceae66","wikidata":"Q17565474"}},{"name":"Kielmeyera albopunctata","term":"Kielmeyera albopunctata","identifiers":{"contentmine":"CM.calophyllaceae67","wikidata":"Q17565475"}},{"name":"Kielmeyera abdita","term":"Kielmeyera abdita","identifiers":{"contentmine":"CM.calophyllaceae68","wikidata":"Q17565477"}},{"name":"Kielmeyera appariciana","term":"Kielmeyera appariciana","identifiers":{"contentmine":"CM.calophyllaceae69","wikidata":"Q17565490"}},{"name":"Marila spiciformis","term":"Marila spiciformis","identifiers":{"contentmine":"CM.calophyllaceae70","wikidata":"Q5230216"}},{"name":"Marila saramaccana","term":"Marila saramaccana","identifiers":{"contentmine":"CM.calophyllaceae71","wikidata":"Q5458651"}},{"name":"Marila alternifolia","term":"Marila alternifolia","identifiers":{"contentmine":"CM.calophyllaceae72","wikidata":"Q15364038"}},{"name":"Marila cespedesiana","term":"Marila cespedesiana","identifiers":{"contentmine":"CM.calophyllaceae73","wikidata":"Q15364182"}},{"name":"Marila domingensis","term":"Marila domingensis","identifiers":{"contentmine":"CM.calophyllaceae74","wikidata":"Q15364250"}},{"name":"Marila grandiflora","term":"Marila grandiflora","identifiers":{"contentmine":"CM.calophyllaceae75","wikidata":"Q15364452"}},{"name":"Marila lactogena","term":"Marila lactogena","identifiers":{"contentmine":"CM.calophyllaceae76","wikidata":"Q15364545"}},{"name":"Marila laxiflora","term":"Marila laxiflora","identifiers":{"contentmine":"CM.calophyllaceae77","wikidata":"Q15364734"}},{"name":"Marila magnifica","term":"Marila magnifica","identifiers":{"contentmine":"CM.calophyllaceae78","wikidata":"Q15364839"}},{"name":"Marila nitida","term":"Marila nitida","identifiers":{"contentmine":"CM.calophyllaceae79","wikidata":"Q15365002"}},{"name":"Marila pluricostata","term":"Marila pluricostata","identifiers":{"contentmine":"CM.calophyllaceae80","wikidata":"Q15365157"}},{"name":"Marila tomentosa","term":"Marila tomentosa","identifiers":{"contentmine":"CM.calophyllaceae81","wikidata":"Q15365568"}},{"name":"Marila podantha","term":"Marila podantha","identifiers":{"contentmine":"CM.calophyllaceae82","wikidata":"Q17565483"}},{"name":"Marila parviflora","term":"Marila parviflora","identifiers":{"contentmine":"CM.calophyllaceae83","wikidata":"Q17565484"}},{"name":"Marila micrantha","term":"Marila micrantha","identifiers":{"contentmine":"CM.calophyllaceae84","wikidata":"Q17565486"}},{"name":"Marila geminata","term":"Marila geminata","identifiers":{"contentmine":"CM.calophyllaceae85","wikidata":"Q17565487"}},{"name":"Marila florenciana","term":"Marila florenciana","identifiers":{"contentmine":"CM.calophyllaceae86","wikidata":"Q17565489"}},{"name":"Marila dissitiflora","term":"Marila dissitiflora","identifiers":{"contentmine":"CM.calophyllaceae87","wikidata":"Q17565492"}},{"name":"Marila biflora","term":"Marila biflora","identifiers":{"contentmine":"CM.calophyllaceae88","wikidata":"Q17565494"}},{"name":"Marila racemosa","term":"Marila racemosa","identifiers":{"contentmine":"CM.calophyllaceae89","wikidata":"Q17565499"}},{"name":"Marila dolichandra","term":"Marila dolichandra","identifiers":{"contentmine":"CM.calophyllaceae90","wikidata":"Q17565505"}},{"name":"Calophyllum bicolor","term":"Calophyllum bicolor","identifiers":{"contentmine":"CM.calophyllaceae91","wikidata":"Q289368"}},{"name":"Calophyllum inophyllum","term":"Calophyllum inophyllum","identifiers":{"contentmine":"CM.calophyllaceae92","wikidata":"Q311471"}},{"name":"Calophyllum neo-ebudicum","term":"Calophyllum neo-ebudicum","identifiers":{"contentmine":"CM.calophyllaceae93","wikidata":"Q663927"}},{"name":"Calophyllum bracteatum","term":"Calophyllum bracteatum","identifiers":{"contentmine":"CM.calophyllaceae94","wikidata":"Q1342927"}},{"name":"Calophyllum havilandii","term":"Calophyllum havilandii","identifiers":{"contentmine":"CM.calophyllaceae95","wikidata":"Q1343006"}},{"name":"Calophyllum tomentosum","term":"Calophyllum tomentosum","identifiers":{"contentmine":"CM.calophyllaceae96","wikidata":"Q1384207"}},{"name":"Calophyllum insularum","term":"Calophyllum insularum","identifiers":{"contentmine":"CM.calophyllaceae97","wikidata":"Q1945389"}},{"name":"Calophyllum caledonicum","term":"Calophyllum caledonicum","identifiers":{"contentmine":"CM.calophyllaceae98","wikidata":"Q2934359"}},{"name":"Calophyllum spectabile","term":"Calophyllum spectabile","identifiers":{"contentmine":"CM.calophyllaceae99","wikidata":"Q2934361"}},{"name":"Calophyllum brasiliense","term":"Calophyllum brasiliense","identifiers":{"contentmine":"CM.calophyllaceae100","wikidata":"Q2934367"}},{"name":"Calophyllum tacamahaca","term":"Calophyllum tacamahaca","identifiers":{"contentmine":"CM.calophyllaceae101","wikidata":"Q3514162"}},{"name":"Calophyllum antillanum","term":"Calophyllum antillanum","identifiers":{"contentmine":"CM.calophyllaceae102","wikidata":"Q3595171"}},{"name":"Calophyllum acutiputamen","term":"Calophyllum acutiputamen","identifiers":{"contentmine":"CM.calophyllaceae103","wikidata":"Q5023203"}},{"name":"Calophyllum bifurcatum","term":"Calophyllum bifurcatum","identifiers":{"contentmine":"CM.calophyllaceae104","wikidata":"Q5023204"}},{"name":"Calophyllum brassii","term":"Calophyllum brassii","identifiers":{"contentmine":"CM.calophyllaceae105","wikidata":"Q5023205"}},{"name":"Calophyllum caudatum","term":"Calophyllum caudatum","identifiers":{"contentmine":"CM.calophyllaceae106","wikidata":"Q5023206"}},{"name":"Calophyllum chapelieri","term":"Calophyllum chapelieri","identifiers":{"contentmine":"CM.calophyllaceae107","wikidata":"Q5023207"}},{"name":"Calophyllum collinum","term":"Calophyllum collinum","identifiers":{"contentmine":"CM.calophyllaceae108","wikidata":"Q5023208"}},{"name":"Calophyllum confusum","term":"Calophyllum confusum","identifiers":{"contentmine":"CM.calophyllaceae109","wikidata":"Q5023209"}},{"name":"Calophyllum cordato-oblongum","term":"Calophyllum cordato-oblongum","identifiers":{"contentmine":"CM.calophyllaceae110","wikidata":"Q5023210"}},{"name":"Calophyllum cuneifolium","term":"Calophyllum cuneifolium","identifiers":{"contentmine":"CM.calophyllaceae111","wikidata":"Q5023211"}},{"name":"Calophyllum euryphyllum","term":"Calophyllum euryphyllum","identifiers":{"contentmine":"CM.calophyllaceae112","wikidata":"Q5023212"}},{"name":"Calophyllum goniocarpum","term":"Calophyllum goniocarpum","identifiers":{"contentmine":"CM.calophyllaceae113","wikidata":"Q5023213"}},{"name":"Calophyllum heterophyllum","term":"Calophyllum heterophyllum","identifiers":{"contentmine":"CM.calophyllaceae114","wikidata":"Q5023215"}},{"name":"Calophyllum hirasimum","term":"Calophyllum hirasimum","identifiers":{"contentmine":"CM.calophyllaceae115","wikidata":"Q5023216"}},{"name":"Calophyllum laticostatum","term":"Calophyllum laticostatum","identifiers":{"contentmine":"CM.calophyllaceae116","wikidata":"Q5023217"}},{"name":"Calophyllum moonii","term":"Calophyllum moonii","identifiers":{"contentmine":"CM.calophyllaceae117","wikidata":"Q5023218"}},{"name":"Calophyllum macrophyllum","term":"Calophyllum macrophyllum","identifiers":{"contentmine":"CM.calophyllaceae118","wikidata":"Q5023219"}},{"name":"Calophyllum morobense","term":"Calophyllum morobense","identifiers":{"contentmine":"CM.calophyllaceae119","wikidata":"Q5023220"}},{"name":"Calophyllum nubicola","term":"Calophyllum nubicola","identifiers":{"contentmine":"CM.calophyllaceae120","wikidata":"Q5023221"}},{"name":"Calophyllum novoguineense","term":"Calophyllum novoguineense","identifiers":{"contentmine":"CM.calophyllaceae121","wikidata":"Q5023222"}},{"name":"Calophyllum obscurum","term":"Calophyllum obscurum","identifiers":{"contentmine":"CM.calophyllaceae122","wikidata":"Q5023223"}},{"name":"Calophyllum papuanum","term":"Calophyllum papuanum","identifiers":{"contentmine":"CM.calophyllaceae123","wikidata":"Q5023224"}},{"name":"Calophyllum parvifolium","term":"Calophyllum parvifolium","identifiers":{"contentmine":"CM.calophyllaceae124","wikidata":"Q5023225"}},{"name":"Calophyllum pauciflorum","term":"Calophyllum pauciflorum","identifiers":{"contentmine":"CM.calophyllaceae125","wikidata":"Q5023226"}},{"name":"Calophyllum peekelii","term":"Calophyllum peekelii","identifiers":{"contentmine":"CM.calophyllaceae126","wikidata":"Q5023227"}},{"name":"Calophyllum persimile","term":"Calophyllum persimile","identifiers":{"contentmine":"CM.calophyllaceae127","wikidata":"Q5023230"}},{"name":"Calophyllum piluliferum","term":"Calophyllum piluliferum","identifiers":{"contentmine":"CM.calophyllaceae128","wikidata":"Q5023232"}},{"name":"Calophyllum pisiferum","term":"Calophyllum pisiferum","identifiers":{"contentmine":"CM.calophyllaceae129","wikidata":"Q5023233"}},{"name":"Calophyllum robustum","term":"Calophyllum robustum","identifiers":{"contentmine":"CM.calophyllaceae130","wikidata":"Q5023235"}},{"name":"Calophyllum rufinerve","term":"Calophyllum rufinerve","identifiers":{"contentmine":"CM.calophyllaceae131","wikidata":"Q5023236"}},{"name":"Calophyllum savannarum","term":"Calophyllum savannarum","identifiers":{"contentmine":"CM.calophyllaceae132","wikidata":"Q5023237"}},{"name":"Calophyllum sil","term":"Calophyllum sil","identifiers":{"contentmine":"CM.calophyllaceae133","wikidata":"Q5023238"}},{"name":"Calophyllum soulattri","term":"Calophyllum soulattri","identifiers":{"contentmine":"CM.calophyllaceae134","wikidata":"Q5023239"}},{"name":"Calophyllum streimannii","term":"Calophyllum streimannii","identifiers":{"contentmine":"CM.calophyllaceae135","wikidata":"Q5023241"}},{"name":"Calophyllum tetrapterum","term":"Calophyllum tetrapterum","identifiers":{"contentmine":"CM.calophyllaceae136","wikidata":"Q5023242"}},{"name":"Calophyllum thwaitesii","term":"Calophyllum thwaitesii","identifiers":{"contentmine":"CM.calophyllaceae137","wikidata":"Q5023243"}},{"name":"Calophyllum trapezifolium","term":"Calophyllum trapezifolium","identifiers":{"contentmine":"CM.calophyllaceae138","wikidata":"Q5023244"}},{"name":"Calophyllum vexans","term":"Calophyllum vexans","identifiers":{"contentmine":"CM.calophyllaceae139","wikidata":"Q5023245"}},{"name":"Calophyllum waliense","term":"Calophyllum waliense","identifiers":{"contentmine":"CM.calophyllaceae140","wikidata":"Q5023246"}},{"name":"Calophyllum walkeri","term":"Calophyllum walkeri","identifiers":{"contentmine":"CM.calophyllaceae141","wikidata":"Q5023247"}},{"name":"Calophyllum saigonense","term":"Calophyllum saigonense","identifiers":{"contentmine":"CM.calophyllaceae142","wikidata":"Q10752634"}},{"name":"Calophyllum blancoi","term":"Calophyllum blancoi","identifiers":{"contentmine":"CM.calophyllaceae143","wikidata":"Q10893586"}},{"name":"Calophyllum lanigerum","term":"Calophyllum lanigerum","identifiers":{"contentmine":"CM.calophyllaceae144","wikidata":"Q11707306"}},{"name":"Calophyllum polyanthum","term":"Calophyllum polyanthum","identifiers":{"contentmine":"CM.calophyllaceae145","wikidata":"Q13113357"}},{"name":"Calophyllum membranaceum","term":"Calophyllum membranaceum","identifiers":{"contentmine":"CM.calophyllaceae146","wikidata":"Q15230775"}},{"name":"Calophyllum apetalum","term":"Calophyllum apetalum","identifiers":{"contentmine":"CM.calophyllaceae147","wikidata":"Q15386593"}},{"name":"Calophyllum flavoramulum","term":"Calophyllum flavoramulum","identifiers":{"contentmine":"CM.calophyllaceae148","wikidata":"Q15386639"}},{"name":"Calophyllum dasypodium","term":"Calophyllum dasypodium","identifiers":{"contentmine":"CM.calophyllaceae149","wikidata":"Q15386646"}},{"name":"Calophyllum lankaensis","term":"Calophyllum lankaensis","identifiers":{"contentmine":"CM.calophyllaceae150","wikidata":"Q15386674"}},{"name":"Calophyllum calaba","term":"Calophyllum calaba","identifiers":{"contentmine":"CM.calophyllaceae151","wikidata":"Q15386689"}},{"name":"Calophyllum laxiflorum","term":"Calophyllum laxiflorum","identifiers":{"contentmine":"CM.calophyllaceae152","wikidata":"Q15386714"}},{"name":"Calophyllum rigidulum","term":"Calophyllum rigidulum","identifiers":{"contentmine":"CM.calophyllaceae153","wikidata":"Q15386752"}},{"name":"Calophyllum fraseri","term":"Calophyllum fraseri","identifiers":{"contentmine":"CM.calophyllaceae154","wikidata":"Q15386754"}},{"name":"Calophyllum calcicola","term":"Calophyllum calcicola","identifiers":{"contentmine":"CM.calophyllaceae155","wikidata":"Q15386764"}},{"name":"Calophyllum leleanii","term":"Calophyllum leleanii","identifiers":{"contentmine":"CM.calophyllaceae156","wikidata":"Q15386774"}},{"name":"Calophyllum morobensis","term":"Calophyllum morobensis","identifiers":{"contentmine":"CM.calophyllaceae157","wikidata":"Q15386779"}},{"name":"Calophyllum rivulare","term":"Calophyllum rivulare","identifiers":{"contentmine":"CM.calophyllaceae158","wikidata":"Q15386789"}},{"name":"Calophyllum archipelagi","term":"Calophyllum archipelagi","identifiers":{"contentmine":"CM.calophyllaceae159","wikidata":"Q15386800"}},{"name":"Calophyllum celebicum","term":"Calophyllum celebicum","identifiers":{"contentmine":"CM.calophyllaceae160","wikidata":"Q15386812"}},{"name":"Calophyllum roseocostatum","term":"Calophyllum roseocostatum","identifiers":{"contentmine":"CM.calophyllaceae161","wikidata":"Q15386817"}},{"name":"Calophyllum rigidum","term":"Calophyllum rigidum","identifiers":{"contentmine":"CM.calophyllaceae162","wikidata":"Q15386834"}},{"name":"Calophyllum depressinervosum","term":"Calophyllum depressinervosum","identifiers":{"contentmine":"CM.calophyllaceae163","wikidata":"Q15386852"}},{"name":"Calophyllum leptocladum","term":"Calophyllum leptocladum","identifiers":{"contentmine":"CM.calophyllaceae164","wikidata":"Q15386862"}},{"name":"Calophyllum garcinioides","term":"Calophyllum garcinioides","identifiers":{"contentmine":"CM.calophyllaceae165","wikidata":"Q15386873"}},{"name":"Calophyllum mukunense","term":"Calophyllum mukunense","identifiers":{"contentmine":"CM.calophyllaceae166","wikidata":"Q15386892"}},{"name":"Calophyllum rotundifolium","term":"Calophyllum rotundifolium","identifiers":{"contentmine":"CM.calophyllaceae167","wikidata":"Q15386909"}},{"name":"Calophyllum rugosum","term":"Calophyllum rugosum","identifiers":{"contentmine":"CM.calophyllaceae168","wikidata":"Q15386930"}},{"name":"Calophyllum canum","term":"Calophyllum canum","identifiers":{"contentmine":"CM.calophyllaceae169","wikidata":"Q15386936"}},{"name":"Calophyllum glaucescens","term":"Calophyllum glaucescens","identifiers":{"contentmine":"CM.calophyllaceae170","wikidata":"Q15386945"}},{"name":"Calophyllum ardens","term":"Calophyllum ardens","identifiers":{"contentmine":"CM.calophyllaceae171","wikidata":"Q15386952"}},{"name":"Calophyllum cerasiferum","term":"Calophyllum cerasiferum","identifiers":{"contentmine":"CM.calophyllaceae172","wikidata":"Q15386961"}},{"name":"Calophyllum teysmannii","term":"Calophyllum teysmannii","identifiers":{"contentmine":"CM.calophyllaceae173","wikidata":"Q15386969"}},{"name":"Calophyllum leucocarpum","term":"Calophyllum leucocarpum","identifiers":{"contentmine":"CM.calophyllaceae174","wikidata":"Q15386972"}},{"name":"Calophyllum rubiginosum","term":"Calophyllum rubiginosum","identifiers":{"contentmine":"CM.calophyllaceae175","wikidata":"Q15386985"}},{"name":"Calophyllum dioscurii","term":"Calophyllum dioscurii","identifiers":{"contentmine":"CM.calophyllaceae176","wikidata":"Q15386995"}},{"name":"Calophyllum multitudinis","term":"Calophyllum multitudinis","identifiers":{"contentmine":"CM.calophyllaceae177","wikidata":"Q15387003"}},{"name":"Calophyllum rupicola","term":"Calophyllum rupicola","identifiers":{"contentmine":"CM.calophyllaceae178","wikidata":"Q15387016"}},{"name":"Calophyllum carrii","term":"Calophyllum carrii","identifiers":{"contentmine":"CM.calophyllaceae179","wikidata":"Q15387027"}},{"name":"Calophyllum lineare","term":"Calophyllum lineare","identifiers":{"contentmine":"CM.calophyllaceae180","wikidata":"Q15387035"}},{"name":"Calophyllum rufigemmatum","term":"Calophyllum rufigemmatum","identifiers":{"contentmine":"CM.calophyllaceae181","wikidata":"Q15387045"}},{"name":"Calophyllum thorelii","term":"Calophyllum thorelii","identifiers":{"contentmine":"CM.calophyllaceae182","wikidata":"Q15387049"}},{"name":"Calophyllum articulatum","term":"Calophyllum articulatum","identifiers":{"contentmine":"CM.calophyllaceae183","wikidata":"Q15387075"}},{"name":"Calophyllum sakarium","term":"Calophyllum sakarium","identifiers":{"contentmine":"CM.calophyllaceae184","wikidata":"Q15387106"}},{"name":"Calophyllum castaneum","term":"Calophyllum castaneum","identifiers":{"contentmine":"CM.calophyllaceae185","wikidata":"Q15387138"}},{"name":"Calophyllum pelewense","term":"Calophyllum pelewense","identifiers":{"contentmine":"CM.calophyllaceae186","wikidata":"Q15387146"}},{"name":"Calophyllum gracilipes","term":"Calophyllum gracilipes","identifiers":{"contentmine":"CM.calophyllaceae187","wikidata":"Q15387165"}},{"name":"Calophyllum thuriferum","term":"Calophyllum thuriferum","identifiers":{"contentmine":"CM.calophyllaceae188","wikidata":"Q15387172"}},{"name":"Calophyllum lingulatum","term":"Calophyllum lingulatum","identifiers":{"contentmine":"CM.calophyllaceae189","wikidata":"Q15387177"}},{"name":"Calophyllum dispar","term":"Calophyllum dispar","identifiers":{"contentmine":"CM.calophyllaceae190","wikidata":"Q15387198"}},{"name":"Calophyllum sclerophyllum","term":"Calophyllum sclerophyllum","identifiers":{"contentmine":"CM.calophyllaceae191","wikidata":"Q15387208"}},{"name":"Calophyllum aurantiacum","term":"Calophyllum aurantiacum","identifiers":{"contentmine":"CM.calophyllaceae192","wikidata":"Q15387227"}},{"name":"Calophyllum ceriferum","term":"Calophyllum ceriferum","identifiers":{"contentmine":"CM.calophyllaceae193","wikidata":"Q15387266"}},{"name":"Calophyllum gracillimum","term":"Calophyllum gracillimum","identifiers":{"contentmine":"CM.calophyllaceae194","wikidata":"Q15387309"}},{"name":"Calophyllum vitiense","term":"Calophyllum vitiense","identifiers":{"contentmine":"CM.calophyllaceae195","wikidata":"Q15387335"}},{"name":"Calophyllum lonchophyllum","term":"Calophyllum lonchophyllum","identifiers":{"contentmine":"CM.calophyllaceae196","wikidata":"Q15387337"}},{"name":"Calophyllum dongnaiense","term":"Calophyllum dongnaiense","identifiers":{"contentmine":"CM.calophyllaceae197","wikidata":"Q15387344"}},{"name":"Calophyllum pentapetalum","term":"Calophyllum pentapetalum","identifiers":{"contentmine":"CM.calophyllaceae198","wikidata":"Q15387347"}},{"name":"Calophyllum scriblitifolium","term":"Calophyllum scriblitifolium","identifiers":{"contentmine":"CM.calophyllaceae199","wikidata":"Q15387373"}},{"name":"Calophyllum nodosum","term":"Calophyllum nodosum","identifiers":{"contentmine":"CM.calophyllaceae200","wikidata":"Q15387380"}},{"name":"Calophyllum grandiflorum","term":"Calophyllum grandiflorum","identifiers":{"contentmine":"CM.calophyllaceae201","wikidata":"Q15387386"}},{"name":"Calophyllum aureobrunnescens","term":"Calophyllum aureobrunnescens","identifiers":{"contentmine":"CM.calophyllaceae202","wikidata":"Q15387407"}},{"name":"Calophyllum longifolium","term":"Calophyllum longifolium","identifiers":{"contentmine":"CM.calophyllaceae203","wikidata":"Q15387468"}},{"name":"Calophyllum griseum","term":"Calophyllum griseum","identifiers":{"contentmine":"CM.calophyllaceae204","wikidata":"Q15387478"}},{"name":"Calophyllum drouhardii","term":"Calophyllum drouhardii","identifiers":{"contentmine":"CM.calophyllaceae205","wikidata":"Q15387481"}},{"name":"Calophyllum tournanense","term":"Calophyllum tournanense","identifiers":{"contentmine":"CM.calophyllaceae206","wikidata":"Q15387566"}},{"name":"Calophyllum soualattri","term":"Calophyllum soualattri","identifiers":{"contentmine":"CM.calophyllaceae207","wikidata":"Q15387570"}},{"name":"Calophyllum pervillei","term":"Calophyllum pervillei","identifiers":{"contentmine":"CM.calophyllaceae208","wikidata":"Q15387595"}},{"name":"Calophyllum lowei","term":"Calophyllum lowei","identifiers":{"contentmine":"CM.calophyllaceae209","wikidata":"Q15387601"}},{"name":"Calophyllum dryobalanoides","term":"Calophyllum dryobalanoides","identifiers":{"contentmine":"CM.calophyllaceae210","wikidata":"Q15387649"}},{"name":"Calophyllum clemensorum","term":"Calophyllum clemensorum","identifiers":{"contentmine":"CM.calophyllaceae211","wikidata":"Q15387656"}},{"name":"Calophyllum aureum","term":"Calophyllum aureum","identifiers":{"contentmine":"CM.calophyllaceae212","wikidata":"Q15387666"}},{"name":"Calophyllum trachycaule","term":"Calophyllum trachycaule","identifiers":{"contentmine":"CM.calophyllaceae213","wikidata":"Q15387678"}},{"name":"Calophyllum stipitatum","term":"Calophyllum stipitatum","identifiers":{"contentmine":"CM.calophyllaceae214","wikidata":"Q15387687"}},{"name":"Calophyllum obliquinervium","term":"Calophyllum obliquinervium","identifiers":{"contentmine":"CM.calophyllaceae215","wikidata":"Q15387699"}},{"name":"Calophyllum hosei","term":"Calophyllum hosei","identifiers":{"contentmine":"CM.calophyllaceae216","wikidata":"Q15387732"}},{"name":"Calophyllum macrocarpum","term":"Calophyllum macrocarpum","identifiers":{"contentmine":"CM.calophyllaceae217","wikidata":"Q15387756"}},{"name":"Calophyllum pinetorum","term":"Calophyllum pinetorum","identifiers":{"contentmine":"CM.calophyllaceae218","wikidata":"Q15387777"}},{"name":"Calophyllum suberosum","term":"Calophyllum suberosum","identifiers":{"contentmine":"CM.calophyllaceae219","wikidata":"Q15387813"}},{"name":"Calophyllum humbertii","term":"Calophyllum humbertii","identifiers":{"contentmine":"CM.calophyllaceae220","wikidata":"Q15387825"}},{"name":"Calophyllum undulatum","term":"Calophyllum undulatum","identifiers":{"contentmine":"CM.calophyllaceae221","wikidata":"Q15387826"}},{"name":"Calophyllum echinatum","term":"Calophyllum echinatum","identifiers":{"contentmine":"CM.calophyllaceae222","wikidata":"Q15387837"}},{"name":"Calophyllum austroindicum","term":"Calophyllum austroindicum","identifiers":{"contentmine":"CM.calophyllaceae223","wikidata":"Q15387840"}},{"name":"Calophyllum oliganthum","term":"Calophyllum oliganthum","identifiers":{"contentmine":"CM.calophyllaceae224","wikidata":"Q15387883"}},{"name":"Calophyllum poilanei","term":"Calophyllum poilanei","identifiers":{"contentmine":"CM.calophyllaceae225","wikidata":"Q15387899"}},{"name":"Calophyllum subhorizontale","term":"Calophyllum subhorizontale","identifiers":{"contentmine":"CM.calophyllaceae226","wikidata":"Q15387914"}},{"name":"Calophyllum wallichiana","term":"Calophyllum wallichiana","identifiers":{"contentmine":"CM.calophyllaceae227","wikidata":"Q15387923"}},{"name":"Calophyllum utile","term":"Calophyllum utile","identifiers":{"contentmine":"CM.calophyllaceae228","wikidata":"Q15387925"}},{"name":"Calophyllum incumbens","term":"Calophyllum incumbens","identifiers":{"contentmine":"CM.calophyllaceae229","wikidata":"Q15387945"}},{"name":"Calophyllum balansae","term":"Calophyllum balansae","identifiers":{"contentmine":"CM.calophyllaceae230","wikidata":"Q15387963"}},{"name":"Calophyllum subsessile","term":"Calophyllum subsessile","identifiers":{"contentmine":"CM.calophyllaceae231","wikidata":"Q15388011"}},{"name":"Calophyllum pachyphyllum","term":"Calophyllum pachyphyllum","identifiers":{"contentmine":"CM.calophyllaceae232","wikidata":"Q15388018"}},{"name":"Calophyllum elegans","term":"Calophyllum elegans","identifiers":{"contentmine":"CM.calophyllaceae233","wikidata":"Q15388023"}},{"name":"Calophyllum vanoverberghii","term":"Calophyllum vanoverberghii","identifiers":{"contentmine":"CM.calophyllaceae234","wikidata":"Q15388028"}},{"name":"Calophyllum milvum","term":"Calophyllum milvum","identifiers":{"contentmine":"CM.calophyllaceae235","wikidata":"Q15388031"}},{"name":"Calophyllum comorense","term":"Calophyllum comorense","identifiers":{"contentmine":"CM.calophyllaceae236","wikidata":"Q15388079"}},{"name":"Calophyllum sundaicum","term":"Calophyllum sundaicum","identifiers":{"contentmine":"CM.calophyllaceae237","wikidata":"Q15388127"}},{"name":"Calophyllum venulosum","term":"Calophyllum venulosum","identifiers":{"contentmine":"CM.calophyllaceae238","wikidata":"Q15388129"}},{"name":"Calophyllum banyengii","term":"Calophyllum banyengii","identifiers":{"contentmine":"CM.calophyllaceae239","wikidata":"Q15388132"}},{"name":"Calophyllum paniculatum","term":"Calophyllum paniculatum","identifiers":{"contentmine":"CM.calophyllaceae240","wikidata":"Q15388157"}},{"name":"Calophyllum molle","term":"Calophyllum molle","identifiers":{"contentmine":"CM.calophyllaceae241","wikidata":"Q15388176"}},{"name":"Calophyllum praetermissum","term":"Calophyllum praetermissum","identifiers":{"contentmine":"CM.calophyllaceae242","wikidata":"Q15388189"}},{"name":"Calophyllum whitfordii","term":"Calophyllum whitfordii","identifiers":{"contentmine":"CM.calophyllaceae243","wikidata":"Q15388222"}},{"name":"Calophyllum symingtonianum","term":"Calophyllum symingtonianum","identifiers":{"contentmine":"CM.calophyllaceae244","wikidata":"Q15388241"}},{"name":"Calophyllum vergens","term":"Calophyllum vergens","identifiers":{"contentmine":"CM.calophyllaceae245","wikidata":"Q15388248"}},{"name":"Calophyllum ellipticum","term":"Calophyllum ellipticum","identifiers":{"contentmine":"CM.calophyllaceae246","wikidata":"Q15388273"}},{"name":"Calophyllum vernicosum","term":"Calophyllum vernicosum","identifiers":{"contentmine":"CM.calophyllaceae247","wikidata":"Q15388342"}},{"name":"Calophyllum pulcherrimum","term":"Calophyllum pulcherrimum","identifiers":{"contentmine":"CM.calophyllaceae248","wikidata":"Q15388351"}},{"name":"Calophyllum parkeri","term":"Calophyllum parkeri","identifiers":{"contentmine":"CM.calophyllaceae249","wikidata":"Q15388371"}},{"name":"Calophyllum biflorum","term":"Calophyllum biflorum","identifiers":{"contentmine":"CM.calophyllaceae250","wikidata":"Q15388406"}},{"name":"Calophyllum complanatum","term":"Calophyllum complanatum","identifiers":{"contentmine":"CM.calophyllaceae251","wikidata":"Q15388441"}},{"name":"Calophyllum verticillatum","term":"Calophyllum verticillatum","identifiers":{"contentmine":"CM.calophyllaceae252","wikidata":"Q15388473"}},{"name":"Calophyllum enervosum","term":"Calophyllum enervosum","identifiers":{"contentmine":"CM.calophyllaceae253","wikidata":"Q15388489"}},{"name":"Calophyllum woodii","term":"Calophyllum woodii","identifiers":{"contentmine":"CM.calophyllaceae254","wikidata":"Q15388505"}},{"name":"Calophyllum pyriforme","term":"Calophyllum pyriforme","identifiers":{"contentmine":"CM.calophyllaceae255","wikidata":"Q15388516"}},{"name":"Calophyllum parviflorum","term":"Calophyllum parviflorum","identifiers":{"contentmine":"CM.calophyllaceae256","wikidata":"Q15388541"}},{"name":"Calophyllum recedens","term":"Calophyllum recedens","identifiers":{"contentmine":"CM.calophyllaceae257","wikidata":"Q15388668"}},{"name":"Calophyllum eputamen","term":"Calophyllum eputamen","identifiers":{"contentmine":"CM.calophyllaceae258","wikidata":"Q15388706"}},{"name":"Calophyllum brachyphyllum","term":"Calophyllum brachyphyllum","identifiers":{"contentmine":"CM.calophyllaceae259","wikidata":"Q15388785"}},{"name":"Calophyllum confertum","term":"Calophyllum confertum","identifiers":{"contentmine":"CM.calophyllaceae260","wikidata":"Q15388821"}},{"name":"Calophyllum recurvatum","term":"Calophyllum recurvatum","identifiers":{"contentmine":"CM.calophyllaceae261","wikidata":"Q15388897"}},{"name":"Calophyllum exiticostatum","term":"Calophyllum exiticostatum","identifiers":{"contentmine":"CM.calophyllaceae262","wikidata":"Q15388960"}},{"name":"Calophyllum coriaceum","term":"Calophyllum coriaceum","identifiers":{"contentmine":"CM.calophyllaceae263","wikidata":"Q15389210"}},{"name":"Calophyllum ferrugineum","term":"Calophyllum ferrugineum","identifiers":{"contentmine":"CM.calophyllaceae264","wikidata":"Q15389214"}},{"name":"Calophyllum fibrosum","term":"Calophyllum fibrosum","identifiers":{"contentmine":"CM.calophyllaceae265","wikidata":"Q15389459"}},{"name":"Calophyllum costatum","term":"Calophyllum costatum","identifiers":{"contentmine":"CM.calophyllaceae266","wikidata":"Q15389935"}},{"name":"Calophyllum costulatum","term":"Calophyllum costulatum","identifiers":{"contentmine":"CM.calophyllaceae267","wikidata":"Q15390454"}},{"name":"Calophyllum cucullatum","term":"Calophyllum cucullatum","identifiers":{"contentmine":"CM.calophyllaceae268","wikidata":"Q15391065"}},{"name":"Calophyllum acidus","term":"Calophyllum acidus","identifiers":{"contentmine":"CM.calophyllaceae269","wikidata":"Q15393434"}},{"name":"Calophyllum aerarium","term":"Calophyllum aerarium","identifiers":{"contentmine":"CM.calophyllaceae270","wikidata":"Q15394005"}},{"name":"Calophyllum alboramulum","term":"Calophyllum alboramulum","identifiers":{"contentmine":"CM.calophyllaceae271","wikidata":"Q15394843"}},{"name":"Calophyllum amblyphyllum","term":"Calophyllum amblyphyllum","identifiers":{"contentmine":"CM.calophyllaceae272","wikidata":"Q15395960"}},{"name":"Calophyllum andersonii","term":"Calophyllum andersonii","identifiers":{"contentmine":"CM.calophyllaceae273","wikidata":"Q15396659"}},{"name":"Calophyllum angulare","term":"Calophyllum angulare","identifiers":{"contentmine":"CM.calophyllaceae274","wikidata":"Q15397343"}},{"name":"Calophyllum touranense","term":"Calophyllum touranense","identifiers":{"contentmine":"CM.calophyllaceae275","wikidata":"Q17565266"}},{"name":"Calophyllum pubescens","term":"Calophyllum pubescens","identifiers":{"contentmine":"CM.calophyllaceae276","wikidata":"Q17565267"}},{"name":"Calophyllum pascalianum","term":"Calophyllum pascalianum","identifiers":{"contentmine":"CM.calophyllaceae277","wikidata":"Q17565268"}},{"name":"Calophyllum mesoamericanum","term":"Calophyllum mesoamericanum","identifiers":{"contentmine":"CM.calophyllaceae278","wikidata":"Q17565269"}},{"name":"Calophyllum mariae","term":"Calophyllum mariae","identifiers":{"contentmine":"CM.calophyllaceae279","wikidata":"Q17565270"}},{"name":"Calophyllum lowii","term":"Calophyllum lowii","identifiers":{"contentmine":"CM.calophyllaceae280","wikidata":"Q17565271"}},{"name":"Calophyllum dasypodum","term":"Calophyllum dasypodum","identifiers":{"contentmine":"CM.calophyllaceae281","wikidata":"Q17565272"}},{"name":"Calophyllum wallichianum","term":"Calophyllum wallichianum","identifiers":{"contentmine":"CM.calophyllaceae282","wikidata":"Q21250618"}},{"name":"Mesua ferrea","term":"Mesua ferrea","identifiers":{"contentmine":"CM.calophyllaceae283","wikidata":"Q2001737"}},{"name":"Mesua daphnifolia","term":"Mesua daphnifolia","identifiers":{"contentmine":"CM.calophyllaceae284","wikidata":"Q5403848"}},{"name":"Mesua elegans","term":"Mesua elegans","identifiers":{"contentmine":"CM.calophyllaceae285","wikidata":"Q5403854"}},{"name":"Mesua kunstleri","term":"Mesua kunstleri","identifiers":{"contentmine":"CM.calophyllaceae286","wikidata":"Q5403860"}},{"name":"Mesua nivenii","term":"Mesua nivenii","identifiers":{"contentmine":"CM.calophyllaceae287","wikidata":"Q5403865"}},{"name":"Mesua nuda","term":"Mesua nuda","identifiers":{"contentmine":"CM.calophyllaceae288","wikidata":"Q5403871"}},{"name":"Mesua wrayi","term":"Mesua wrayi","identifiers":{"contentmine":"CM.calophyllaceae289","wikidata":"Q5403877"}},{"name":"Mesua rosea","term":"Mesua rosea","identifiers":{"contentmine":"CM.calophyllaceae290","wikidata":"Q5438213"}},{"name":"Mesua kochummenia","term":"Mesua kochummenia","identifiers":{"contentmine":"CM.calophyllaceae291","wikidata":"Q5459064"}},{"name":"Mesua purseglovei","term":"Mesua purseglovei","identifiers":{"contentmine":"CM.calophyllaceae292","wikidata":"Q5459067"}},{"name":"Mesua manii","term":"Mesua manii","identifiers":{"contentmine":"CM.calophyllaceae293","wikidata":"Q5487547"}},{"name":"Mesua stylosa","term":"Mesua stylosa","identifiers":{"contentmine":"CM.calophyllaceae294","wikidata":"Q6822170"}},{"name":"Mesua beccariana","term":"Mesua beccariana","identifiers":{"contentmine":"CM.calophyllaceae295","wikidata":"Q15365107"}},{"name":"Mesua hexapetala","term":"Mesua hexapetala","identifiers":{"contentmine":"CM.calophyllaceae296","wikidata":"Q15365409"}},{"name":"Mesua macrophylla","term":"Mesua macrophylla","identifiers":{"contentmine":"CM.calophyllaceae297","wikidata":"Q15365645"}},{"name":"Mesua pustulata","term":"Mesua pustulata","identifiers":{"contentmine":"CM.calophyllaceae298","wikidata":"Q15366022"}},{"name":"Mesua acuminatissima","term":"Mesua acuminatissima","identifiers":{"contentmine":"CM.calophyllaceae299","wikidata":"Q15366078"}},{"name":"Mesua assamica","term":"Mesua assamica","identifiers":{"contentmine":"CM.calophyllaceae300","wikidata":"Q15366186"}},{"name":"Mesua kochummeniana","term":"Mesua kochummeniana","identifiers":{"contentmine":"CM.calophyllaceae301","wikidata":"Q17565431"}},{"name":"Mesua grandis","term":"Mesua grandis","identifiers":{"contentmine":"CM.calophyllaceae302","wikidata":"Q17565432"}},{"name":"Mesua garciae","term":"Mesua garciae","identifiers":{"contentmine":"CM.calophyllaceae303","wikidata":"Q17565433"}},{"name":"Mesua floribunda","term":"Mesua floribunda","identifiers":{"contentmine":"CM.calophyllaceae304","wikidata":"Q17565434"}},{"name":"Mesua eugeniifolia","term":"Mesua eugeniifolia","identifiers":{"contentmine":"CM.calophyllaceae305","wikidata":"Q17565435"}},{"name":"Mesua elmeri","term":"Mesua elmeri","identifiers":{"contentmine":"CM.calophyllaceae306","wikidata":"Q17565436"}},{"name":"Mesua coriacea","term":"Mesua coriacea","identifiers":{"contentmine":"CM.calophyllaceae307","wikidata":"Q17565437"}},{"name":"Mesua clemensorum","term":"Mesua clemensorum","identifiers":{"contentmine":"CM.calophyllaceae308","wikidata":"Q17565438"}},{"name":"Mesua caudata","term":"Mesua caudata","identifiers":{"contentmine":"CM.calophyllaceae309","wikidata":"Q17565439"}},{"name":"Mesua catharinae","term":"Mesua catharinae","identifiers":{"contentmine":"CM.calophyllaceae310","wikidata":"Q17565440"}},{"name":"Mesua calophylloides","term":"Mesua calophylloides","identifiers":{"contentmine":"CM.calophyllaceae311","wikidata":"Q17565441"}},{"name":"Mesua bilabiata","term":"Mesua bilabiata","identifiers":{"contentmine":"CM.calophyllaceae312","wikidata":"Q17565442"}},{"name":"Mesua oblongifolia","term":"Mesua oblongifolia","identifiers":{"contentmine":"CM.calophyllaceae313","wikidata":"Q17565471"}},{"name":"Mesua nervosa","term":"Mesua nervosa","identifiers":{"contentmine":"CM.calophyllaceae314","wikidata":"Q17565472"}},{"name":"Mesua megalocarpa","term":"Mesua megalocarpa","identifiers":{"contentmine":"CM.calophyllaceae315","wikidata":"Q17565476"}},{"name":"Mesua macrantha","term":"Mesua macrantha","identifiers":{"contentmine":"CM.calophyllaceae316","wikidata":"Q17565480"}},{"name":"Mesua lepidota","term":"Mesua lepidota","identifiers":{"contentmine":"CM.calophyllaceae317","wikidata":"Q17565481"}},{"name":"Mesua larnachiana","term":"Mesua larnachiana","identifiers":{"contentmine":"CM.calophyllaceae318","wikidata":"Q17565482"}},{"name":"Mesua korthalsiana","term":"Mesua korthalsiana","identifiers":{"contentmine":"CM.calophyllaceae319","wikidata":"Q17565485"}},{"name":"Mesua thwaitesii","term":"Mesua thwaitesii","identifiers":{"contentmine":"CM.calophyllaceae320","wikidata":"Q17565706"}},{"name":"Mesua sukoeana","term":"Mesua sukoeana","identifiers":{"contentmine":"CM.calophyllaceae321","wikidata":"Q17565707"}},{"name":"Mesua rivulorum","term":"Mesua rivulorum","identifiers":{"contentmine":"CM.calophyllaceae322","wikidata":"Q17565708"}},{"name":"Mesua racemosa","term":"Mesua racemosa","identifiers":{"contentmine":"CM.calophyllaceae323","wikidata":"Q17565709"}},{"name":"Mesua pulchella","term":"Mesua pulchella","identifiers":{"contentmine":"CM.calophyllaceae324","wikidata":"Q17565710"}},{"name":"Mesua planigemma","term":"Mesua planigemma","identifiers":{"contentmine":"CM.calophyllaceae325","wikidata":"Q17565711"}},{"name":"Mesua parviflora","term":"Mesua parviflora","identifiers":{"contentmine":"CM.calophyllaceae326","wikidata":"Q17565713"}},{"name":"Mesua paniculata","term":"Mesua paniculata","identifiers":{"contentmine":"CM.calophyllaceae327","wikidata":"Q17565714"}},{"name":"Mesua paludosa","term":"Mesua paludosa","identifiers":{"contentmine":"CM.calophyllaceae328","wikidata":"Q17565715"}},{"name":"Mesua navesii","term":"Mesua navesii","identifiers":{"contentmine":"CM.calophyllaceae329","wikidata":"Q17565716"}},{"name":"Mesua myrtifolia","term":"Mesua myrtifolia","identifiers":{"contentmine":"CM.calophyllaceae330","wikidata":"Q17565717"}},{"name":"Mesua macrocarpa","term":"Mesua macrocarpa","identifiers":{"contentmine":"CM.calophyllaceae331","wikidata":"Q17565718"}},{"name":"Mesua lanceolata","term":"Mesua lanceolata","identifiers":{"contentmine":"CM.calophyllaceae332","wikidata":"Q17565719"}},{"name":"Mesua philippinensis","term":"Mesua philippinensis","identifiers":{"contentmine":"CM.calophyllaceae333","wikidata":"Q17566310"}},{"name":"Mammea americana","term":"Mammea americana","identifiers":{"contentmine":"CM.calophyllaceae334","wikidata":"Q1888040"}},{"name":"Mammea grandifolia","term":"Mammea grandifolia","identifiers":{"contentmine":"CM.calophyllaceae335","wikidata":"Q5458470"}},{"name":"Mammea malayana","term":"Mammea malayana","identifiers":{"contentmine":"CM.calophyllaceae336","wikidata":"Q5458473"}},{"name":"Mammea papuana","term":"Mammea papuana","identifiers":{"contentmine":"CM.calophyllaceae337","wikidata":"Q5458477"}},{"name":"Mammea papyracea","term":"Mammea papyracea","identifiers":{"contentmine":"CM.calophyllaceae338","wikidata":"Q5458481"}},{"name":"Mammea timorensis","term":"Mammea timorensis","identifiers":{"contentmine":"CM.calophyllaceae339","wikidata":"Q5458484"}},{"name":"Mammea usambarensis","term":"Mammea usambarensis","identifiers":{"contentmine":"CM.calophyllaceae340","wikidata":"Q5458487"}},{"name":"Mammea veimauriensis","term":"Mammea veimauriensis","identifiers":{"contentmine":"CM.calophyllaceae341","wikidata":"Q5458490"}},{"name":"Mammea immansueta","term":"Mammea immansueta","identifiers":{"contentmine":"CM.calophyllaceae342","wikidata":"Q5473055"}},{"name":"Mammea novoguineensis","term":"Mammea novoguineensis","identifiers":{"contentmine":"CM.calophyllaceae343","wikidata":"Q5500016"}},{"name":"Mammea siamensis","term":"Mammea siamensis","identifiers":{"contentmine":"CM.calophyllaceae344","wikidata":"Q6639920"}},{"name":"Mammea suriga","term":"Mammea suriga","identifiers":{"contentmine":"CM.calophyllaceae345","wikidata":"Q6745791"}},{"name":"Mammea sanguinea","term":"Mammea sanguinea","identifiers":{"contentmine":"CM.calophyllaceae346","wikidata":"Q15362164"}},{"name":"Mammea sessiliflora","term":"Mammea sessiliflora","identifiers":{"contentmine":"CM.calophyllaceae347","wikidata":"Q15362203"}},{"name":"Mammea yunnanensis","term":"Mammea yunnanensis","identifiers":{"contentmine":"CM.calophyllaceae348","wikidata":"Q15362219"}},{"name":"Mammea subsessilifolia","term":"Mammea subsessilifolia","identifiers":{"contentmine":"CM.calophyllaceae349","wikidata":"Q15362309"}},{"name":"Mammea africana","term":"Mammea africana","identifiers":{"contentmine":"CM.calophyllaceae350","wikidata":"Q15362394"}},{"name":"Mammea touriga","term":"Mammea touriga","identifiers":{"contentmine":"CM.calophyllaceae351","wikidata":"Q15362401"}},{"name":"Mammea angustifolia","term":"Mammea angustifolia","identifiers":{"contentmine":"CM.calophyllaceae352","wikidata":"Q15362612"}},{"name":"Mammea antongilensis","term":"Mammea antongilensis","identifiers":{"contentmine":"CM.calophyllaceae353","wikidata":"Q15362767"}},{"name":"Mammea bongo","term":"Mammea bongo","identifiers":{"contentmine":"CM.calophyllaceae354","wikidata":"Q15362829"}},{"name":"Mammea decaryana","term":"Mammea decaryana","identifiers":{"contentmine":"CM.calophyllaceae355","wikidata":"Q15362929"}},{"name":"Mammea eugenioides","term":"Mammea eugenioides","identifiers":{"contentmine":"CM.calophyllaceae356","wikidata":"Q15363076"}},{"name":"Mammea glaucifolia","term":"Mammea glaucifolia","identifiers":{"contentmine":"CM.calophyllaceae357","wikidata":"Q15363157"}},{"name":"Mammea megaphylla","term":"Mammea megaphylla","identifiers":{"contentmine":"CM.calophyllaceae358","wikidata":"Q15363321"}},{"name":"Mammea perrieri","term":"Mammea perrieri","identifiers":{"contentmine":"CM.calophyllaceae359","wikidata":"Q15363397"}},{"name":"Mammea pseudoprotorhus","term":"Mammea pseudoprotorhus","identifiers":{"contentmine":"CM.calophyllaceae360","wikidata":"Q15363479"}},{"name":"Mammea punctata","term":"Mammea punctata","identifiers":{"contentmine":"CM.calophyllaceae361","wikidata":"Q15363643"}},{"name":"Mammea zeereae","term":"Mammea zeereae","identifiers":{"contentmine":"CM.calophyllaceae362","wikidata":"Q17565244"}},{"name":"Mammea woodii","term":"Mammea woodii","identifiers":{"contentmine":"CM.calophyllaceae363","wikidata":"Q17565245"}},{"name":"Mammea sinclairii","term":"Mammea sinclairii","identifiers":{"contentmine":"CM.calophyllaceae364","wikidata":"Q17565246"}},{"name":"Mammea reticulata","term":"Mammea reticulata","identifiers":{"contentmine":"CM.calophyllaceae365","wikidata":"Q17565247"}},{"name":"Mammea ramiflora","term":"Mammea ramiflora","identifiers":{"contentmine":"CM.calophyllaceae366","wikidata":"Q17565248"}},{"name":"Mammea odorata","term":"Mammea odorata","identifiers":{"contentmine":"CM.calophyllaceae367","wikidata":"Q17565249"}},{"name":"Mammea neurophylla","term":"Mammea neurophylla","identifiers":{"contentmine":"CM.calophyllaceae368","wikidata":"Q17565250"}},{"name":"Mammea nervosa","term":"Mammea nervosa","identifiers":{"contentmine":"CM.calophyllaceae369","wikidata":"Q17565251"}},{"name":"Mammea micrantha","term":"Mammea micrantha","identifiers":{"contentmine":"CM.calophyllaceae370","wikidata":"Q17565252"}},{"name":"Mammea lancilimba","term":"Mammea lancilimba","identifiers":{"contentmine":"CM.calophyllaceae371","wikidata":"Q17565253"}},{"name":"Mammea harmandii","term":"Mammea harmandii","identifiers":{"contentmine":"CM.calophyllaceae372","wikidata":"Q17565254"}},{"name":"Mammea glauca","term":"Mammea glauca","identifiers":{"contentmine":"CM.calophyllaceae373","wikidata":"Q17565255"}},{"name":"Mammea cordata","term":"Mammea cordata","identifiers":{"contentmine":"CM.calophyllaceae374","wikidata":"Q17565256"}},{"name":"Mammea congregata","term":"Mammea congregata","identifiers":{"contentmine":"CM.calophyllaceae375","wikidata":"Q17565257"}},{"name":"Mammea cauliflora","term":"Mammea cauliflora","identifiers":{"contentmine":"CM.calophyllaceae376","wikidata":"Q17565258"}},{"name":"Mammea calophylloides","term":"Mammea calophylloides","identifiers":{"contentmine":"CM.calophyllaceae377","wikidata":"Q17565259"}},{"name":"Mammea calciphila","term":"Mammea calciphila","identifiers":{"contentmine":"CM.calophyllaceae378","wikidata":"Q17565260"}},{"name":"Mammea brevipetiolata","term":"Mammea brevipetiolata","identifiers":{"contentmine":"CM.calophyllaceae379","wikidata":"Q17565261"}},{"name":"Mammea brevipes","term":"Mammea brevipes","identifiers":{"contentmine":"CM.calophyllaceae380","wikidata":"Q17565262"}},{"name":"Mammea aruana","term":"Mammea aruana","identifiers":{"contentmine":"CM.calophyllaceae381","wikidata":"Q17565263"}},{"name":"Mammea anastomosans","term":"Mammea anastomosans","identifiers":{"contentmine":"CM.calophyllaceae382","wikidata":"Q17565264"}},{"name":"Mammea acuminata","term":"Mammea acuminata","identifiers":{"contentmine":"CM.calophyllaceae383","wikidata":"Q17565265"}},{"name":"Mammea asiatica","term":"Mammea asiatica","identifiers":{"contentmine":"CM.calophyllaceae384","wikidata":"Q21976279"}},{"name":"Endodesmia calophylloides","term":"Endodesmia calophylloides","identifiers":{"contentmine":"CM.calophyllaceae385","wikidata":"Q15375170"}},{"name":"Caraipa utilis","term":"Caraipa utilis","identifiers":{"contentmine":"CM.calophyllaceae386","wikidata":"Q5037635"}},{"name":"Caraipa jaramilloi","term":"Caraipa jaramilloi","identifiers":{"contentmine":"CM.calophyllaceae387","wikidata":"Q5037638"}},{"name":"Caraipa surinamensis","term":"Caraipa surinamensis","identifiers":{"contentmine":"CM.calophyllaceae388","wikidata":"Q15387161"}},{"name":"Caraipa heterocarpa","term":"Caraipa heterocarpa","identifiers":{"contentmine":"CM.calophyllaceae389","wikidata":"Q15387235"}},{"name":"Caraipa tereticaulis","term":"Caraipa tereticaulis","identifiers":{"contentmine":"CM.calophyllaceae390","wikidata":"Q15387331"}},{"name":"Caraipa llanorum","term":"Caraipa llanorum","identifiers":{"contentmine":"CM.calophyllaceae391","wikidata":"Q15387361"}},{"name":"Caraipa valioi","term":"Caraipa valioi","identifiers":{"contentmine":"CM.calophyllaceae392","wikidata":"Q15387433"}},{"name":"Caraipa longipedicellata","term":"Caraipa longipedicellata","identifiers":{"contentmine":"CM.calophyllaceae393","wikidata":"Q15387661"}},{"name":"Caraipa longisepala","term":"Caraipa longisepala","identifiers":{"contentmine":"CM.calophyllaceae394","wikidata":"Q15387910"}},{"name":"Caraipa minor","term":"Caraipa minor","identifiers":{"contentmine":"CM.calophyllaceae395","wikidata":"Q15388220"}},{"name":"Caraipa multinervia","term":"Caraipa multinervia","identifiers":{"contentmine":"CM.calophyllaceae396","wikidata":"Q15388529"}},{"name":"Caraipa myrcioides","term":"Caraipa myrcioides","identifiers":{"contentmine":"CM.calophyllaceae397","wikidata":"Q15388809"}},{"name":"Caraipa odorata","term":"Caraipa odorata","identifiers":{"contentmine":"CM.calophyllaceae398","wikidata":"Q15389102"}},{"name":"Caraipa parvielliptica","term":"Caraipa parvielliptica","identifiers":{"contentmine":"CM.calophyllaceae399","wikidata":"Q15389463"}},{"name":"Caraipa parvifolia","term":"Caraipa parvifolia","identifiers":{"contentmine":"CM.calophyllaceae400","wikidata":"Q15389875"}},{"name":"Caraipa ampla","term":"Caraipa ampla","identifiers":{"contentmine":"CM.calophyllaceae401","wikidata":"Q15389972"}},{"name":"Caraipa aracaensis","term":"Caraipa aracaensis","identifiers":{"contentmine":"CM.calophyllaceae402","wikidata":"Q15390236"}},{"name":"Caraipa psilocarpa","term":"Caraipa psilocarpa","identifiers":{"contentmine":"CM.calophyllaceae403","wikidata":"Q15390253"}},{"name":"Caraipa costata","term":"Caraipa costata","identifiers":{"contentmine":"CM.calophyllaceae404","wikidata":"Q15390736"}},{"name":"Caraipa punctulata","term":"Caraipa punctulata","identifiers":{"contentmine":"CM.calophyllaceae405","wikidata":"Q15390790"}},{"name":"Caraipa racemosa","term":"Caraipa racemosa","identifiers":{"contentmine":"CM.calophyllaceae406","wikidata":"Q15391241"}},{"name":"Caraipa densifolia","term":"Caraipa densifolia","identifiers":{"contentmine":"CM.calophyllaceae407","wikidata":"Q15391324"}},{"name":"Caraipa richardiana","term":"Caraipa richardiana","identifiers":{"contentmine":"CM.calophyllaceae408","wikidata":"Q15391738"}},{"name":"Caraipa duckeana","term":"Caraipa duckeana","identifiers":{"contentmine":"CM.calophyllaceae409","wikidata":"Q15392449"}},{"name":"Caraipa rodriguesii","term":"Caraipa rodriguesii","identifiers":{"contentmine":"CM.calophyllaceae410","wikidata":"Q15392752"}},{"name":"Caraipa foveolata","term":"Caraipa foveolata","identifiers":{"contentmine":"CM.calophyllaceae411","wikidata":"Q15392914"}},{"name":"Caraipa savannarum","term":"Caraipa savannarum","identifiers":{"contentmine":"CM.calophyllaceae412","wikidata":"Q15393292"}},{"name":"Caraipa grandifolia","term":"Caraipa grandifolia","identifiers":{"contentmine":"CM.calophyllaceae413","wikidata":"Q15393590"}},{"name":"Caraipa andina","term":"Caraipa andina","identifiers":{"contentmine":"CM.calophyllaceae414","wikidata":"Q17565498"}},{"name":"Clusiella elegans","term":"Clusiella elegans","identifiers":{"contentmine":"CM.calophyllaceae415","wikidata":"Q5136666"}},{"name":"Clusiella albiflora","term":"Clusiella albiflora","identifiers":{"contentmine":"CM.calophyllaceae416","wikidata":"Q15355440"}},{"name":"Clusiella amplexicaulis","term":"Clusiella amplexicaulis","identifiers":{"contentmine":"CM.calophyllaceae417","wikidata":"Q15355459"}},{"name":"Clusiella axillaris","term":"Clusiella axillaris","identifiers":{"contentmine":"CM.calophyllaceae418","wikidata":"Q15355491"}},{"name":"Clusiella cordifolia","term":"Clusiella cordifolia","identifiers":{"contentmine":"CM.calophyllaceae419","wikidata":"Q15355522"}},{"name":"Clusiella impressinervis","term":"Clusiella impressinervis","identifiers":{"contentmine":"CM.calophyllaceae420","wikidata":"Q15355607"}},{"name":"Clusiella isthmensis","term":"Clusiella isthmensis","identifiers":{"contentmine":"CM.calophyllaceae421","wikidata":"Q15355640"}},{"name":"Clusiella macropetala","term":"Clusiella macropetala","identifiers":{"contentmine":"CM.calophyllaceae422","wikidata":"Q15355666"}},{"name":"Clusiella pendula","term":"Clusiella pendula","identifiers":{"contentmine":"CM.calophyllaceae423","wikidata":"Q15355700"}},{"name":"Kayea coriacea","term":"Kayea coriacea","identifiers":{"contentmine":"CM.calophyllaceae424","wikidata":"Q5457123"}},{"name":"Kayea macrophylla","term":"Kayea macrophylla","identifiers":{"contentmine":"CM.calophyllaceae425","wikidata":"Q5457126"}},{"name":"Kayea ferruginea","term":"Kayea ferruginea","identifiers":{"contentmine":"CM.calophyllaceae426","wikidata":"Q6380546"}},{"name":"Kayea paniculata","term":"Kayea paniculata","identifiers":{"contentmine":"CM.calophyllaceae427","wikidata":"Q15394452"}},{"name":"Poeciloneuron pauciflorum","term":"Poeciloneuron pauciflorum","identifiers":{"contentmine":"CM.calophyllaceae428","wikidata":"Q117861"}},{"name":"Poeciloneuron indicum","term":"Poeciloneuron indicum","identifiers":{"contentmine":"CM.calophyllaceae429","wikidata":"Q13113404"}},{"name":"Haploclathra paniculata","term":"Haploclathra paniculata","identifiers":{"contentmine":"CM.calophyllaceae430","wikidata":"Q15390570"}},{"name":"Haploclathra leiantha","term":"Haploclathra leiantha","identifiers":{"contentmine":"CM.calophyllaceae431","wikidata":"Q15392660"}},{"name":"Haploclathra grandiflora","term":"Haploclathra grandiflora","identifiers":{"contentmine":"CM.calophyllaceae432","wikidata":"Q17565478"}},{"name":"Haploclathra cordata","term":"Haploclathra cordata","identifiers":{"contentmine":"CM.calophyllaceae433","wikidata":"Q17565479"}},{"name":"Nouhuysia pauciflora","term":"Nouhuysia pauciflora","identifiers":{"contentmine":"CM.calophyllaceae434","wikidata":"Q17565699"}},{"name":"Nouhuysia papuana","term":"Nouhuysia papuana","identifiers":{"contentmine":"CM.calophyllaceae435","wikidata":"Q17565700"}},{"name":"Nouhuysia pachyphylla","term":"Nouhuysia pachyphylla","identifiers":{"contentmine":"CM.calophyllaceae436","wikidata":"Q17565701"}},{"name":"Nouhuysia novoguineensis","term":"Nouhuysia novoguineensis","identifiers":{"contentmine":"CM.calophyllaceae437","wikidata":"Q17565702"}},{"name":"Nouhuysia elaeocarpoides","term":"Nouhuysia elaeocarpoides","identifiers":{"contentmine":"CM.calophyllaceae438","wikidata":"Q17565703"}},{"name":"Nouhuysia arfakensis","term":"Nouhuysia arfakensis","identifiers":{"contentmine":"CM.calophyllaceae439","wikidata":"Q17565704"}},{"name":"Calophyllum inophyllum var. inophyllum","term":"Calophyllum inophyllum var. inophyllum","identifiers":{"contentmine":"CM.calophyllaceae440","wikidata":"Q21379317"}},{"name":"Calophyllum inophyllum var. takamaka","term":"Calophyllum inophyllum var. takamaka","identifiers":{"contentmine":"CM.calophyllaceae441","wikidata":"Q21379320"}},{"name":"Calophyllum inophyllum var. wakamatsui","term":"Calophyllum inophyllum var. wakamatsui","identifiers":{"contentmine":"CM.calophyllaceae442","wikidata":"Q21379323"}},{"name":"Calophyllum carrii var. longigemmatum","term":"Calophyllum carrii var. longigemmatum","identifiers":{"contentmine":"CM.calophyllaceae443","wikidata":"Q28112183"}}]}
+{
+    "entries": [
+        {
+            "name": "Calophyllaceae",
+            "term": "Calophyllaceae",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae0",
+                "wikidata": "Q133249"
+            }
+        },
+        {
+            "name": "Neotatea",
+            "term": "Neotatea",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae1",
+                "wikidata": "Q146382"
+            }
+        },
+        {
+            "name": "Mahurea",
+            "term": "Mahurea",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae2",
+                "wikidata": "Q955893"
+            }
+        },
+        {
+            "name": "Kielmeyera",
+            "term": "Kielmeyera",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae3",
+                "wikidata": "Q956047"
+            }
+        },
+        {
+            "name": "Marila",
+            "term": "Marila",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae4",
+                "wikidata": "Q1343607"
+            }
+        },
+        {
+            "name": "Calophyllum",
+            "term": "Calophyllum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae5",
+                "wikidata": "Q2697391"
+            }
+        },
+        {
+            "name": "Mesua",
+            "term": "Mesua",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae6",
+                "wikidata": "Q3237856"
+            }
+        },
+        {
+            "name": "Mammea",
+            "term": "Mammea",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae7",
+                "wikidata": "Q3285525"
+            }
+        },
+        {
+            "name": "Endodesmia",
+            "term": "Endodesmia",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae8",
+                "wikidata": "Q3544078"
+            }
+        },
+        {
+            "name": "Caraipa",
+            "term": "Caraipa",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae9",
+                "wikidata": "Q3544218"
+            }
+        },
+        {
+            "name": "Clusiella",
+            "term": "Clusiella",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae10",
+                "wikidata": "Q5136673"
+            }
+        },
+        {
+            "name": "Kayea",
+            "term": "Kayea",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae11",
+                "wikidata": "Q5843599"
+            }
+        },
+        {
+            "name": "Lebrunia",
+            "term": "Lebrunia",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae12",
+                "wikidata": "Q6511435"
+            }
+        },
+        {
+            "name": "Poeciloneuron",
+            "term": "Poeciloneuron",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae13",
+                "wikidata": "Q7207308"
+            }
+        },
+        {
+            "name": "Haploclathra",
+            "term": "Haploclathra",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae14",
+                "wikidata": "Q9002037"
+            }
+        },
+        {
+            "name": "Nouhuysia",
+            "term": "Nouhuysia",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae15",
+                "wikidata": "Q17565705"
+            }
+        },
+        {
+            "name": "Neotatea colombiana",
+            "term": "Neotatea colombiana",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae16",
+                "wikidata": "Q15366687"
+            }
+        },
+        {
+            "name": "Neotatea duidae",
+            "term": "Neotatea duidae",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae17",
+                "wikidata": "Q15366760"
+            }
+        },
+        {
+            "name": "Neotatea longifolia",
+            "term": "Neotatea longifolia",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae18",
+                "wikidata": "Q15366838"
+            }
+        },
+        {
+            "name": "Neotatea neblinae",
+            "term": "Neotatea neblinae",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae19",
+                "wikidata": "Q15366907"
+            }
+        },
+        {
+            "name": "Mahurea exstipulata",
+            "term": "Mahurea exstipulata",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae20",
+                "wikidata": "Q15361189"
+            }
+        },
+        {
+            "name": "Mahurea palustris",
+            "term": "Mahurea palustris",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae21",
+                "wikidata": "Q17565443"
+            }
+        },
+        {
+            "name": "Kielmeyera peruviana",
+            "term": "Kielmeyera peruviana",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae22",
+                "wikidata": "Q5457190"
+            }
+        },
+        {
+            "name": "Kielmeyera coriacea",
+            "term": "Kielmeyera coriacea",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae23",
+                "wikidata": "Q6405268"
+            }
+        },
+        {
+            "name": "Kielmeyera marauensis",
+            "term": "Kielmeyera marauensis",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae24",
+                "wikidata": "Q15392519"
+            }
+        },
+        {
+            "name": "Kielmeyera occhioniana",
+            "term": "Kielmeyera occhioniana",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae25",
+                "wikidata": "Q15392703"
+            }
+        },
+        {
+            "name": "Kielmeyera paniculata",
+            "term": "Kielmeyera paniculata",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae26",
+                "wikidata": "Q15392920"
+            }
+        },
+        {
+            "name": "Kielmeyera rosea",
+            "term": "Kielmeyera rosea",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae27",
+                "wikidata": "Q15393105"
+            }
+        },
+        {
+            "name": "Kielmeyera rufotomentosa",
+            "term": "Kielmeyera rufotomentosa",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae28",
+                "wikidata": "Q15393311"
+            }
+        },
+        {
+            "name": "Kielmeyera rupestris",
+            "term": "Kielmeyera rupestris",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae29",
+                "wikidata": "Q15393588"
+            }
+        },
+        {
+            "name": "Kielmeyera sigillata",
+            "term": "Kielmeyera sigillata",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae30",
+                "wikidata": "Q15393803"
+            }
+        },
+        {
+            "name": "Kielmeyera similis",
+            "term": "Kielmeyera similis",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae31",
+                "wikidata": "Q15393992"
+            }
+        },
+        {
+            "name": "Kielmeyera trichophora",
+            "term": "Kielmeyera trichophora",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae32",
+                "wikidata": "Q15394210"
+            }
+        },
+        {
+            "name": "Kielmeyera anisosepala",
+            "term": "Kielmeyera anisosepala",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae33",
+                "wikidata": "Q15394828"
+            }
+        },
+        {
+            "name": "Kielmeyera divergens",
+            "term": "Kielmeyera divergens",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae34",
+                "wikidata": "Q15395674"
+            }
+        },
+        {
+            "name": "Kielmeyera grandiflora",
+            "term": "Kielmeyera grandiflora",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae35",
+                "wikidata": "Q15396174"
+            }
+        },
+        {
+            "name": "Kielmeyera itacarensis",
+            "term": "Kielmeyera itacarensis",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae36",
+                "wikidata": "Q15396646"
+            }
+        },
+        {
+            "name": "Kielmeyera juruenensis",
+            "term": "Kielmeyera juruenensis",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae37",
+                "wikidata": "Q15397120"
+            }
+        },
+        {
+            "name": "Kielmeyera variabilis",
+            "term": "Kielmeyera variabilis",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae38",
+                "wikidata": "Q17565444"
+            }
+        },
+        {
+            "name": "Kielmeyera tomentosa",
+            "term": "Kielmeyera tomentosa",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae39",
+                "wikidata": "Q17565445"
+            }
+        },
+        {
+            "name": "Kielmeyera speciosa",
+            "term": "Kielmeyera speciosa",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae40",
+                "wikidata": "Q17565446"
+            }
+        },
+        {
+            "name": "Kielmeyera rugosa",
+            "term": "Kielmeyera rugosa",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae41",
+                "wikidata": "Q17565447"
+            }
+        },
+        {
+            "name": "Kielmeyera rubriflora",
+            "term": "Kielmeyera rubriflora",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae42",
+                "wikidata": "Q17565448"
+            }
+        },
+        {
+            "name": "Kielmeyera rizziniana",
+            "term": "Kielmeyera rizziniana",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae43",
+                "wikidata": "Q17565449"
+            }
+        },
+        {
+            "name": "Kielmeyera reticulata",
+            "term": "Kielmeyera reticulata",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae44",
+                "wikidata": "Q17565450"
+            }
+        },
+        {
+            "name": "Kielmeyera regalis",
+            "term": "Kielmeyera regalis",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae45",
+                "wikidata": "Q17565451"
+            }
+        },
+        {
+            "name": "Kielmeyera pumila",
+            "term": "Kielmeyera pumila",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae46",
+                "wikidata": "Q17565452"
+            }
+        },
+        {
+            "name": "Kielmeyera pulcherrima",
+            "term": "Kielmeyera pulcherrima",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae47",
+                "wikidata": "Q17565453"
+            }
+        },
+        {
+            "name": "Kielmeyera petiolaris",
+            "term": "Kielmeyera petiolaris",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae48",
+                "wikidata": "Q17565454"
+            }
+        },
+        {
+            "name": "Kielmeyera obtecta",
+            "term": "Kielmeyera obtecta",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae49",
+                "wikidata": "Q17565455"
+            }
+        },
+        {
+            "name": "Kielmeyera neriifolia",
+            "term": "Kielmeyera neriifolia",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae50",
+                "wikidata": "Q17565456"
+            }
+        },
+        {
+            "name": "Kielmeyera neglecta",
+            "term": "Kielmeyera neglecta",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae51",
+                "wikidata": "Q17565457"
+            }
+        },
+        {
+            "name": "Kielmeyera membranacea",
+            "term": "Kielmeyera membranacea",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae52",
+                "wikidata": "Q17565458"
+            }
+        },
+        {
+            "name": "Kielmeyera lathrophyton",
+            "term": "Kielmeyera lathrophyton",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae53",
+                "wikidata": "Q17565459"
+            }
+        },
+        {
+            "name": "Kielmeyera insignis",
+            "term": "Kielmeyera insignis",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae54",
+                "wikidata": "Q17565460"
+            }
+        },
+        {
+            "name": "Kielmeyera humifusa",
+            "term": "Kielmeyera humifusa",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae55",
+                "wikidata": "Q17565461"
+            }
+        },
+        {
+            "name": "Kielmeyera gracilis",
+            "term": "Kielmeyera gracilis",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae56",
+                "wikidata": "Q17565462"
+            }
+        },
+        {
+            "name": "Kielmeyera falcata",
+            "term": "Kielmeyera falcata",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae57",
+                "wikidata": "Q17565463"
+            }
+        },
+        {
+            "name": "Kielmeyera excelsa",
+            "term": "Kielmeyera excelsa",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae58",
+                "wikidata": "Q17565464"
+            }
+        },
+        {
+            "name": "Kielmeyera elata",
+            "term": "Kielmeyera elata",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae59",
+                "wikidata": "Q17565465"
+            }
+        },
+        {
+            "name": "Kielmeyera decipiens",
+            "term": "Kielmeyera decipiens",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae60",
+                "wikidata": "Q17565466"
+            }
+        },
+        {
+            "name": "Kielmeyera cuspidata",
+            "term": "Kielmeyera cuspidata",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae61",
+                "wikidata": "Q17565467"
+            }
+        },
+        {
+            "name": "Kielmeyera corymbosa",
+            "term": "Kielmeyera corymbosa",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae62",
+                "wikidata": "Q17565468"
+            }
+        },
+        {
+            "name": "Kielmeyera bifaria",
+            "term": "Kielmeyera bifaria",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae63",
+                "wikidata": "Q17565469"
+            }
+        },
+        {
+            "name": "Kielmeyera argentea",
+            "term": "Kielmeyera argentea",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae64",
+                "wikidata": "Q17565470"
+            }
+        },
+        {
+            "name": "Kielmeyera amplexicaulis",
+            "term": "Kielmeyera amplexicaulis",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae65",
+                "wikidata": "Q17565473"
+            }
+        },
+        {
+            "name": "Kielmeyera altissima",
+            "term": "Kielmeyera altissima",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae66",
+                "wikidata": "Q17565474"
+            }
+        },
+        {
+            "name": "Kielmeyera albopunctata",
+            "term": "Kielmeyera albopunctata",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae67",
+                "wikidata": "Q17565475"
+            }
+        },
+        {
+            "name": "Kielmeyera abdita",
+            "term": "Kielmeyera abdita",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae68",
+                "wikidata": "Q17565477"
+            }
+        },
+        {
+            "name": "Kielmeyera appariciana",
+            "term": "Kielmeyera appariciana",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae69",
+                "wikidata": "Q17565490"
+            }
+        },
+        {
+            "name": "Marila spiciformis",
+            "term": "Marila spiciformis",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae70",
+                "wikidata": "Q5230216"
+            }
+        },
+        {
+            "name": "Marila saramaccana",
+            "term": "Marila saramaccana",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae71",
+                "wikidata": "Q5458651"
+            }
+        },
+        {
+            "name": "Marila alternifolia",
+            "term": "Marila alternifolia",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae72",
+                "wikidata": "Q15364038"
+            }
+        },
+        {
+            "name": "Marila cespedesiana",
+            "term": "Marila cespedesiana",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae73",
+                "wikidata": "Q15364182"
+            }
+        },
+        {
+            "name": "Marila domingensis",
+            "term": "Marila domingensis",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae74",
+                "wikidata": "Q15364250"
+            }
+        },
+        {
+            "name": "Marila grandiflora",
+            "term": "Marila grandiflora",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae75",
+                "wikidata": "Q15364452"
+            }
+        },
+        {
+            "name": "Marila lactogena",
+            "term": "Marila lactogena",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae76",
+                "wikidata": "Q15364545"
+            }
+        },
+        {
+            "name": "Marila laxiflora",
+            "term": "Marila laxiflora",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae77",
+                "wikidata": "Q15364734"
+            }
+        },
+        {
+            "name": "Marila magnifica",
+            "term": "Marila magnifica",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae78",
+                "wikidata": "Q15364839"
+            }
+        },
+        {
+            "name": "Marila nitida",
+            "term": "Marila nitida",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae79",
+                "wikidata": "Q15365002"
+            }
+        },
+        {
+            "name": "Marila pluricostata",
+            "term": "Marila pluricostata",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae80",
+                "wikidata": "Q15365157"
+            }
+        },
+        {
+            "name": "Marila tomentosa",
+            "term": "Marila tomentosa",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae81",
+                "wikidata": "Q15365568"
+            }
+        },
+        {
+            "name": "Marila podantha",
+            "term": "Marila podantha",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae82",
+                "wikidata": "Q17565483"
+            }
+        },
+        {
+            "name": "Marila parviflora",
+            "term": "Marila parviflora",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae83",
+                "wikidata": "Q17565484"
+            }
+        },
+        {
+            "name": "Marila micrantha",
+            "term": "Marila micrantha",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae84",
+                "wikidata": "Q17565486"
+            }
+        },
+        {
+            "name": "Marila geminata",
+            "term": "Marila geminata",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae85",
+                "wikidata": "Q17565487"
+            }
+        },
+        {
+            "name": "Marila florenciana",
+            "term": "Marila florenciana",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae86",
+                "wikidata": "Q17565489"
+            }
+        },
+        {
+            "name": "Marila dissitiflora",
+            "term": "Marila dissitiflora",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae87",
+                "wikidata": "Q17565492"
+            }
+        },
+        {
+            "name": "Marila biflora",
+            "term": "Marila biflora",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae88",
+                "wikidata": "Q17565494"
+            }
+        },
+        {
+            "name": "Marila racemosa",
+            "term": "Marila racemosa",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae89",
+                "wikidata": "Q17565499"
+            }
+        },
+        {
+            "name": "Marila dolichandra",
+            "term": "Marila dolichandra",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae90",
+                "wikidata": "Q17565505"
+            }
+        },
+        {
+            "name": "Calophyllum bicolor",
+            "term": "Calophyllum bicolor",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae91",
+                "wikidata": "Q289368"
+            }
+        },
+        {
+            "name": "Calophyllum inophyllum",
+            "term": "Calophyllum inophyllum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae92",
+                "wikidata": "Q311471"
+            }
+        },
+        {
+            "name": "Calophyllum neo-ebudicum",
+            "term": "Calophyllum neo-ebudicum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae93",
+                "wikidata": "Q663927"
+            }
+        },
+        {
+            "name": "Calophyllum bracteatum",
+            "term": "Calophyllum bracteatum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae94",
+                "wikidata": "Q1342927"
+            }
+        },
+        {
+            "name": "Calophyllum havilandii",
+            "term": "Calophyllum havilandii",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae95",
+                "wikidata": "Q1343006"
+            }
+        },
+        {
+            "name": "Calophyllum tomentosum",
+            "term": "Calophyllum tomentosum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae96",
+                "wikidata": "Q1384207"
+            }
+        },
+        {
+            "name": "Calophyllum insularum",
+            "term": "Calophyllum insularum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae97",
+                "wikidata": "Q1945389"
+            }
+        },
+        {
+            "name": "Calophyllum caledonicum",
+            "term": "Calophyllum caledonicum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae98",
+                "wikidata": "Q2934359"
+            }
+        },
+        {
+            "name": "Calophyllum spectabile",
+            "term": "Calophyllum spectabile",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae99",
+                "wikidata": "Q2934361"
+            }
+        },
+        {
+            "name": "Calophyllum brasiliense",
+            "term": "Calophyllum brasiliense",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae100",
+                "wikidata": "Q2934367"
+            }
+        },
+        {
+            "name": "Calophyllum tacamahaca",
+            "term": "Calophyllum tacamahaca",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae101",
+                "wikidata": "Q3514162"
+            }
+        },
+        {
+            "name": "Calophyllum antillanum",
+            "term": "Calophyllum antillanum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae102",
+                "wikidata": "Q3595171"
+            }
+        },
+        {
+            "name": "Calophyllum acutiputamen",
+            "term": "Calophyllum acutiputamen",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae103",
+                "wikidata": "Q5023203"
+            }
+        },
+        {
+            "name": "Calophyllum bifurcatum",
+            "term": "Calophyllum bifurcatum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae104",
+                "wikidata": "Q5023204"
+            }
+        },
+        {
+            "name": "Calophyllum brassii",
+            "term": "Calophyllum brassii",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae105",
+                "wikidata": "Q5023205"
+            }
+        },
+        {
+            "name": "Calophyllum caudatum",
+            "term": "Calophyllum caudatum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae106",
+                "wikidata": "Q5023206"
+            }
+        },
+        {
+            "name": "Calophyllum chapelieri",
+            "term": "Calophyllum chapelieri",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae107",
+                "wikidata": "Q5023207"
+            }
+        },
+        {
+            "name": "Calophyllum collinum",
+            "term": "Calophyllum collinum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae108",
+                "wikidata": "Q5023208"
+            }
+        },
+        {
+            "name": "Calophyllum confusum",
+            "term": "Calophyllum confusum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae109",
+                "wikidata": "Q5023209"
+            }
+        },
+        {
+            "name": "Calophyllum cordato-oblongum",
+            "term": "Calophyllum cordato-oblongum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae110",
+                "wikidata": "Q5023210"
+            }
+        },
+        {
+            "name": "Calophyllum cuneifolium",
+            "term": "Calophyllum cuneifolium",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae111",
+                "wikidata": "Q5023211"
+            }
+        },
+        {
+            "name": "Calophyllum euryphyllum",
+            "term": "Calophyllum euryphyllum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae112",
+                "wikidata": "Q5023212"
+            }
+        },
+        {
+            "name": "Calophyllum goniocarpum",
+            "term": "Calophyllum goniocarpum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae113",
+                "wikidata": "Q5023213"
+            }
+        },
+        {
+            "name": "Calophyllum heterophyllum",
+            "term": "Calophyllum heterophyllum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae114",
+                "wikidata": "Q5023215"
+            }
+        },
+        {
+            "name": "Calophyllum hirasimum",
+            "term": "Calophyllum hirasimum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae115",
+                "wikidata": "Q5023216"
+            }
+        },
+        {
+            "name": "Calophyllum laticostatum",
+            "term": "Calophyllum laticostatum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae116",
+                "wikidata": "Q5023217"
+            }
+        },
+        {
+            "name": "Calophyllum moonii",
+            "term": "Calophyllum moonii",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae117",
+                "wikidata": "Q5023218"
+            }
+        },
+        {
+            "name": "Calophyllum macrophyllum",
+            "term": "Calophyllum macrophyllum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae118",
+                "wikidata": "Q5023219"
+            }
+        },
+        {
+            "name": "Calophyllum morobense",
+            "term": "Calophyllum morobense",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae119",
+                "wikidata": "Q5023220"
+            }
+        },
+        {
+            "name": "Calophyllum nubicola",
+            "term": "Calophyllum nubicola",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae120",
+                "wikidata": "Q5023221"
+            }
+        },
+        {
+            "name": "Calophyllum novoguineense",
+            "term": "Calophyllum novoguineense",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae121",
+                "wikidata": "Q5023222"
+            }
+        },
+        {
+            "name": "Calophyllum obscurum",
+            "term": "Calophyllum obscurum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae122",
+                "wikidata": "Q5023223"
+            }
+        },
+        {
+            "name": "Calophyllum papuanum",
+            "term": "Calophyllum papuanum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae123",
+                "wikidata": "Q5023224"
+            }
+        },
+        {
+            "name": "Calophyllum parvifolium",
+            "term": "Calophyllum parvifolium",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae124",
+                "wikidata": "Q5023225"
+            }
+        },
+        {
+            "name": "Calophyllum pauciflorum",
+            "term": "Calophyllum pauciflorum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae125",
+                "wikidata": "Q5023226"
+            }
+        },
+        {
+            "name": "Calophyllum peekelii",
+            "term": "Calophyllum peekelii",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae126",
+                "wikidata": "Q5023227"
+            }
+        },
+        {
+            "name": "Calophyllum persimile",
+            "term": "Calophyllum persimile",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae127",
+                "wikidata": "Q5023230"
+            }
+        },
+        {
+            "name": "Calophyllum piluliferum",
+            "term": "Calophyllum piluliferum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae128",
+                "wikidata": "Q5023232"
+            }
+        },
+        {
+            "name": "Calophyllum pisiferum",
+            "term": "Calophyllum pisiferum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae129",
+                "wikidata": "Q5023233"
+            }
+        },
+        {
+            "name": "Calophyllum robustum",
+            "term": "Calophyllum robustum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae130",
+                "wikidata": "Q5023235"
+            }
+        },
+        {
+            "name": "Calophyllum rufinerve",
+            "term": "Calophyllum rufinerve",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae131",
+                "wikidata": "Q5023236"
+            }
+        },
+        {
+            "name": "Calophyllum savannarum",
+            "term": "Calophyllum savannarum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae132",
+                "wikidata": "Q5023237"
+            }
+        },
+        {
+            "name": "Calophyllum sil",
+            "term": "Calophyllum sil",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae133",
+                "wikidata": "Q5023238"
+            }
+        },
+        {
+            "name": "Calophyllum soulattri",
+            "term": "Calophyllum soulattri",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae134",
+                "wikidata": "Q5023239"
+            }
+        },
+        {
+            "name": "Calophyllum streimannii",
+            "term": "Calophyllum streimannii",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae135",
+                "wikidata": "Q5023241"
+            }
+        },
+        {
+            "name": "Calophyllum tetrapterum",
+            "term": "Calophyllum tetrapterum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae136",
+                "wikidata": "Q5023242"
+            }
+        },
+        {
+            "name": "Calophyllum thwaitesii",
+            "term": "Calophyllum thwaitesii",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae137",
+                "wikidata": "Q5023243"
+            }
+        },
+        {
+            "name": "Calophyllum trapezifolium",
+            "term": "Calophyllum trapezifolium",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae138",
+                "wikidata": "Q5023244"
+            }
+        },
+        {
+            "name": "Calophyllum vexans",
+            "term": "Calophyllum vexans",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae139",
+                "wikidata": "Q5023245"
+            }
+        },
+        {
+            "name": "Calophyllum waliense",
+            "term": "Calophyllum waliense",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae140",
+                "wikidata": "Q5023246"
+            }
+        },
+        {
+            "name": "Calophyllum walkeri",
+            "term": "Calophyllum walkeri",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae141",
+                "wikidata": "Q5023247"
+            }
+        },
+        {
+            "name": "Calophyllum saigonense",
+            "term": "Calophyllum saigonense",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae142",
+                "wikidata": "Q10752634"
+            }
+        },
+        {
+            "name": "Calophyllum blancoi",
+            "term": "Calophyllum blancoi",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae143",
+                "wikidata": "Q10893586"
+            }
+        },
+        {
+            "name": "Calophyllum lanigerum",
+            "term": "Calophyllum lanigerum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae144",
+                "wikidata": "Q11707306"
+            }
+        },
+        {
+            "name": "Calophyllum polyanthum",
+            "term": "Calophyllum polyanthum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae145",
+                "wikidata": "Q13113357"
+            }
+        },
+        {
+            "name": "Calophyllum membranaceum",
+            "term": "Calophyllum membranaceum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae146",
+                "wikidata": "Q15230775"
+            }
+        },
+        {
+            "name": "Calophyllum apetalum",
+            "term": "Calophyllum apetalum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae147",
+                "wikidata": "Q15386593"
+            }
+        },
+        {
+            "name": "Calophyllum flavoramulum",
+            "term": "Calophyllum flavoramulum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae148",
+                "wikidata": "Q15386639"
+            }
+        },
+        {
+            "name": "Calophyllum dasypodium",
+            "term": "Calophyllum dasypodium",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae149",
+                "wikidata": "Q15386646"
+            }
+        },
+        {
+            "name": "Calophyllum lankaensis",
+            "term": "Calophyllum lankaensis",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae150",
+                "wikidata": "Q15386674"
+            }
+        },
+        {
+            "name": "Calophyllum calaba",
+            "term": "Calophyllum calaba",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae151",
+                "wikidata": "Q15386689"
+            }
+        },
+        {
+            "name": "Calophyllum laxiflorum",
+            "term": "Calophyllum laxiflorum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae152",
+                "wikidata": "Q15386714"
+            }
+        },
+        {
+            "name": "Calophyllum rigidulum",
+            "term": "Calophyllum rigidulum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae153",
+                "wikidata": "Q15386752"
+            }
+        },
+        {
+            "name": "Calophyllum fraseri",
+            "term": "Calophyllum fraseri",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae154",
+                "wikidata": "Q15386754"
+            }
+        },
+        {
+            "name": "Calophyllum calcicola",
+            "term": "Calophyllum calcicola",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae155",
+                "wikidata": "Q15386764"
+            }
+        },
+        {
+            "name": "Calophyllum leleanii",
+            "term": "Calophyllum leleanii",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae156",
+                "wikidata": "Q15386774"
+            }
+        },
+        {
+            "name": "Calophyllum morobensis",
+            "term": "Calophyllum morobensis",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae157",
+                "wikidata": "Q15386779"
+            }
+        },
+        {
+            "name": "Calophyllum rivulare",
+            "term": "Calophyllum rivulare",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae158",
+                "wikidata": "Q15386789"
+            }
+        },
+        {
+            "name": "Calophyllum archipelagi",
+            "term": "Calophyllum archipelagi",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae159",
+                "wikidata": "Q15386800"
+            }
+        },
+        {
+            "name": "Calophyllum celebicum",
+            "term": "Calophyllum celebicum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae160",
+                "wikidata": "Q15386812"
+            }
+        },
+        {
+            "name": "Calophyllum roseocostatum",
+            "term": "Calophyllum roseocostatum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae161",
+                "wikidata": "Q15386817"
+            }
+        },
+        {
+            "name": "Calophyllum rigidum",
+            "term": "Calophyllum rigidum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae162",
+                "wikidata": "Q15386834"
+            }
+        },
+        {
+            "name": "Calophyllum depressinervosum",
+            "term": "Calophyllum depressinervosum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae163",
+                "wikidata": "Q15386852"
+            }
+        },
+        {
+            "name": "Calophyllum leptocladum",
+            "term": "Calophyllum leptocladum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae164",
+                "wikidata": "Q15386862"
+            }
+        },
+        {
+            "name": "Calophyllum garcinioides",
+            "term": "Calophyllum garcinioides",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae165",
+                "wikidata": "Q15386873"
+            }
+        },
+        {
+            "name": "Calophyllum mukunense",
+            "term": "Calophyllum mukunense",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae166",
+                "wikidata": "Q15386892"
+            }
+        },
+        {
+            "name": "Calophyllum rotundifolium",
+            "term": "Calophyllum rotundifolium",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae167",
+                "wikidata": "Q15386909"
+            }
+        },
+        {
+            "name": "Calophyllum rugosum",
+            "term": "Calophyllum rugosum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae168",
+                "wikidata": "Q15386930"
+            }
+        },
+        {
+            "name": "Calophyllum canum",
+            "term": "Calophyllum canum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae169",
+                "wikidata": "Q15386936"
+            }
+        },
+        {
+            "name": "Calophyllum glaucescens",
+            "term": "Calophyllum glaucescens",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae170",
+                "wikidata": "Q15386945"
+            }
+        },
+        {
+            "name": "Calophyllum ardens",
+            "term": "Calophyllum ardens",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae171",
+                "wikidata": "Q15386952"
+            }
+        },
+        {
+            "name": "Calophyllum cerasiferum",
+            "term": "Calophyllum cerasiferum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae172",
+                "wikidata": "Q15386961"
+            }
+        },
+        {
+            "name": "Calophyllum teysmannii",
+            "term": "Calophyllum teysmannii",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae173",
+                "wikidata": "Q15386969"
+            }
+        },
+        {
+            "name": "Calophyllum leucocarpum",
+            "term": "Calophyllum leucocarpum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae174",
+                "wikidata": "Q15386972"
+            }
+        },
+        {
+            "name": "Calophyllum rubiginosum",
+            "term": "Calophyllum rubiginosum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae175",
+                "wikidata": "Q15386985"
+            }
+        },
+        {
+            "name": "Calophyllum dioscurii",
+            "term": "Calophyllum dioscurii",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae176",
+                "wikidata": "Q15386995"
+            }
+        },
+        {
+            "name": "Calophyllum multitudinis",
+            "term": "Calophyllum multitudinis",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae177",
+                "wikidata": "Q15387003"
+            }
+        },
+        {
+            "name": "Calophyllum rupicola",
+            "term": "Calophyllum rupicola",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae178",
+                "wikidata": "Q15387016"
+            }
+        },
+        {
+            "name": "Calophyllum carrii",
+            "term": "Calophyllum carrii",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae179",
+                "wikidata": "Q15387027"
+            }
+        },
+        {
+            "name": "Calophyllum lineare",
+            "term": "Calophyllum lineare",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae180",
+                "wikidata": "Q15387035"
+            }
+        },
+        {
+            "name": "Calophyllum rufigemmatum",
+            "term": "Calophyllum rufigemmatum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae181",
+                "wikidata": "Q15387045"
+            }
+        },
+        {
+            "name": "Calophyllum thorelii",
+            "term": "Calophyllum thorelii",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae182",
+                "wikidata": "Q15387049"
+            }
+        },
+        {
+            "name": "Calophyllum articulatum",
+            "term": "Calophyllum articulatum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae183",
+                "wikidata": "Q15387075"
+            }
+        },
+        {
+            "name": "Calophyllum sakarium",
+            "term": "Calophyllum sakarium",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae184",
+                "wikidata": "Q15387106"
+            }
+        },
+        {
+            "name": "Calophyllum castaneum",
+            "term": "Calophyllum castaneum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae185",
+                "wikidata": "Q15387138"
+            }
+        },
+        {
+            "name": "Calophyllum pelewense",
+            "term": "Calophyllum pelewense",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae186",
+                "wikidata": "Q15387146"
+            }
+        },
+        {
+            "name": "Calophyllum gracilipes",
+            "term": "Calophyllum gracilipes",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae187",
+                "wikidata": "Q15387165"
+            }
+        },
+        {
+            "name": "Calophyllum thuriferum",
+            "term": "Calophyllum thuriferum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae188",
+                "wikidata": "Q15387172"
+            }
+        },
+        {
+            "name": "Calophyllum lingulatum",
+            "term": "Calophyllum lingulatum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae189",
+                "wikidata": "Q15387177"
+            }
+        },
+        {
+            "name": "Calophyllum dispar",
+            "term": "Calophyllum dispar",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae190",
+                "wikidata": "Q15387198"
+            }
+        },
+        {
+            "name": "Calophyllum sclerophyllum",
+            "term": "Calophyllum sclerophyllum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae191",
+                "wikidata": "Q15387208"
+            }
+        },
+        {
+            "name": "Calophyllum aurantiacum",
+            "term": "Calophyllum aurantiacum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae192",
+                "wikidata": "Q15387227"
+            }
+        },
+        {
+            "name": "Calophyllum ceriferum",
+            "term": "Calophyllum ceriferum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae193",
+                "wikidata": "Q15387266"
+            }
+        },
+        {
+            "name": "Calophyllum gracillimum",
+            "term": "Calophyllum gracillimum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae194",
+                "wikidata": "Q15387309"
+            }
+        },
+        {
+            "name": "Calophyllum vitiense",
+            "term": "Calophyllum vitiense",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae195",
+                "wikidata": "Q15387335"
+            }
+        },
+        {
+            "name": "Calophyllum lonchophyllum",
+            "term": "Calophyllum lonchophyllum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae196",
+                "wikidata": "Q15387337"
+            }
+        },
+        {
+            "name": "Calophyllum dongnaiense",
+            "term": "Calophyllum dongnaiense",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae197",
+                "wikidata": "Q15387344"
+            }
+        },
+        {
+            "name": "Calophyllum pentapetalum",
+            "term": "Calophyllum pentapetalum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae198",
+                "wikidata": "Q15387347"
+            }
+        },
+        {
+            "name": "Calophyllum scriblitifolium",
+            "term": "Calophyllum scriblitifolium",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae199",
+                "wikidata": "Q15387373"
+            }
+        },
+        {
+            "name": "Calophyllum nodosum",
+            "term": "Calophyllum nodosum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae200",
+                "wikidata": "Q15387380"
+            }
+        },
+        {
+            "name": "Calophyllum grandiflorum",
+            "term": "Calophyllum grandiflorum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae201",
+                "wikidata": "Q15387386"
+            }
+        },
+        {
+            "name": "Calophyllum aureobrunnescens",
+            "term": "Calophyllum aureobrunnescens",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae202",
+                "wikidata": "Q15387407"
+            }
+        },
+        {
+            "name": "Calophyllum longifolium",
+            "term": "Calophyllum longifolium",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae203",
+                "wikidata": "Q15387468"
+            }
+        },
+        {
+            "name": "Calophyllum griseum",
+            "term": "Calophyllum griseum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae204",
+                "wikidata": "Q15387478"
+            }
+        },
+        {
+            "name": "Calophyllum drouhardii",
+            "term": "Calophyllum drouhardii",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae205",
+                "wikidata": "Q15387481"
+            }
+        },
+        {
+            "name": "Calophyllum tournanense",
+            "term": "Calophyllum tournanense",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae206",
+                "wikidata": "Q15387566"
+            }
+        },
+        {
+            "name": "Calophyllum soualattri",
+            "term": "Calophyllum soualattri",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae207",
+                "wikidata": "Q15387570"
+            }
+        },
+        {
+            "name": "Calophyllum pervillei",
+            "term": "Calophyllum pervillei",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae208",
+                "wikidata": "Q15387595"
+            }
+        },
+        {
+            "name": "Calophyllum lowei",
+            "term": "Calophyllum lowei",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae209",
+                "wikidata": "Q15387601"
+            }
+        },
+        {
+            "name": "Calophyllum dryobalanoides",
+            "term": "Calophyllum dryobalanoides",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae210",
+                "wikidata": "Q15387649"
+            }
+        },
+        {
+            "name": "Calophyllum clemensorum",
+            "term": "Calophyllum clemensorum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae211",
+                "wikidata": "Q15387656"
+            }
+        },
+        {
+            "name": "Calophyllum aureum",
+            "term": "Calophyllum aureum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae212",
+                "wikidata": "Q15387666"
+            }
+        },
+        {
+            "name": "Calophyllum trachycaule",
+            "term": "Calophyllum trachycaule",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae213",
+                "wikidata": "Q15387678"
+            }
+        },
+        {
+            "name": "Calophyllum stipitatum",
+            "term": "Calophyllum stipitatum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae214",
+                "wikidata": "Q15387687"
+            }
+        },
+        {
+            "name": "Calophyllum obliquinervium",
+            "term": "Calophyllum obliquinervium",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae215",
+                "wikidata": "Q15387699"
+            }
+        },
+        {
+            "name": "Calophyllum hosei",
+            "term": "Calophyllum hosei",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae216",
+                "wikidata": "Q15387732"
+            }
+        },
+        {
+            "name": "Calophyllum macrocarpum",
+            "term": "Calophyllum macrocarpum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae217",
+                "wikidata": "Q15387756"
+            }
+        },
+        {
+            "name": "Calophyllum pinetorum",
+            "term": "Calophyllum pinetorum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae218",
+                "wikidata": "Q15387777"
+            }
+        },
+        {
+            "name": "Calophyllum suberosum",
+            "term": "Calophyllum suberosum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae219",
+                "wikidata": "Q15387813"
+            }
+        },
+        {
+            "name": "Calophyllum humbertii",
+            "term": "Calophyllum humbertii",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae220",
+                "wikidata": "Q15387825"
+            }
+        },
+        {
+            "name": "Calophyllum undulatum",
+            "term": "Calophyllum undulatum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae221",
+                "wikidata": "Q15387826"
+            }
+        },
+        {
+            "name": "Calophyllum echinatum",
+            "term": "Calophyllum echinatum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae222",
+                "wikidata": "Q15387837"
+            }
+        },
+        {
+            "name": "Calophyllum austroindicum",
+            "term": "Calophyllum austroindicum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae223",
+                "wikidata": "Q15387840"
+            }
+        },
+        {
+            "name": "Calophyllum oliganthum",
+            "term": "Calophyllum oliganthum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae224",
+                "wikidata": "Q15387883"
+            }
+        },
+        {
+            "name": "Calophyllum poilanei",
+            "term": "Calophyllum poilanei",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae225",
+                "wikidata": "Q15387899"
+            }
+        },
+        {
+            "name": "Calophyllum subhorizontale",
+            "term": "Calophyllum subhorizontale",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae226",
+                "wikidata": "Q15387914"
+            }
+        },
+        {
+            "name": "Calophyllum wallichiana",
+            "term": "Calophyllum wallichiana",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae227",
+                "wikidata": "Q15387923"
+            }
+        },
+        {
+            "name": "Calophyllum utile",
+            "term": "Calophyllum utile",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae228",
+                "wikidata": "Q15387925"
+            }
+        },
+        {
+            "name": "Calophyllum incumbens",
+            "term": "Calophyllum incumbens",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae229",
+                "wikidata": "Q15387945"
+            }
+        },
+        {
+            "name": "Calophyllum balansae",
+            "term": "Calophyllum balansae",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae230",
+                "wikidata": "Q15387963"
+            }
+        },
+        {
+            "name": "Calophyllum subsessile",
+            "term": "Calophyllum subsessile",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae231",
+                "wikidata": "Q15388011"
+            }
+        },
+        {
+            "name": "Calophyllum pachyphyllum",
+            "term": "Calophyllum pachyphyllum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae232",
+                "wikidata": "Q15388018"
+            }
+        },
+        {
+            "name": "Calophyllum elegans",
+            "term": "Calophyllum elegans",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae233",
+                "wikidata": "Q15388023"
+            }
+        },
+        {
+            "name": "Calophyllum vanoverberghii",
+            "term": "Calophyllum vanoverberghii",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae234",
+                "wikidata": "Q15388028"
+            }
+        },
+        {
+            "name": "Calophyllum milvum",
+            "term": "Calophyllum milvum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae235",
+                "wikidata": "Q15388031"
+            }
+        },
+        {
+            "name": "Calophyllum comorense",
+            "term": "Calophyllum comorense",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae236",
+                "wikidata": "Q15388079"
+            }
+        },
+        {
+            "name": "Calophyllum sundaicum",
+            "term": "Calophyllum sundaicum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae237",
+                "wikidata": "Q15388127"
+            }
+        },
+        {
+            "name": "Calophyllum venulosum",
+            "term": "Calophyllum venulosum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae238",
+                "wikidata": "Q15388129"
+            }
+        },
+        {
+            "name": "Calophyllum banyengii",
+            "term": "Calophyllum banyengii",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae239",
+                "wikidata": "Q15388132"
+            }
+        },
+        {
+            "name": "Calophyllum paniculatum",
+            "term": "Calophyllum paniculatum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae240",
+                "wikidata": "Q15388157"
+            }
+        },
+        {
+            "name": "Calophyllum molle",
+            "term": "Calophyllum molle",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae241",
+                "wikidata": "Q15388176"
+            }
+        },
+        {
+            "name": "Calophyllum praetermissum",
+            "term": "Calophyllum praetermissum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae242",
+                "wikidata": "Q15388189"
+            }
+        },
+        {
+            "name": "Calophyllum whitfordii",
+            "term": "Calophyllum whitfordii",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae243",
+                "wikidata": "Q15388222"
+            }
+        },
+        {
+            "name": "Calophyllum symingtonianum",
+            "term": "Calophyllum symingtonianum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae244",
+                "wikidata": "Q15388241"
+            }
+        },
+        {
+            "name": "Calophyllum vergens",
+            "term": "Calophyllum vergens",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae245",
+                "wikidata": "Q15388248"
+            }
+        },
+        {
+            "name": "Calophyllum ellipticum",
+            "term": "Calophyllum ellipticum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae246",
+                "wikidata": "Q15388273"
+            }
+        },
+        {
+            "name": "Calophyllum vernicosum",
+            "term": "Calophyllum vernicosum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae247",
+                "wikidata": "Q15388342"
+            }
+        },
+        {
+            "name": "Calophyllum pulcherrimum",
+            "term": "Calophyllum pulcherrimum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae248",
+                "wikidata": "Q15388351"
+            }
+        },
+        {
+            "name": "Calophyllum parkeri",
+            "term": "Calophyllum parkeri",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae249",
+                "wikidata": "Q15388371"
+            }
+        },
+        {
+            "name": "Calophyllum biflorum",
+            "term": "Calophyllum biflorum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae250",
+                "wikidata": "Q15388406"
+            }
+        },
+        {
+            "name": "Calophyllum complanatum",
+            "term": "Calophyllum complanatum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae251",
+                "wikidata": "Q15388441"
+            }
+        },
+        {
+            "name": "Calophyllum verticillatum",
+            "term": "Calophyllum verticillatum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae252",
+                "wikidata": "Q15388473"
+            }
+        },
+        {
+            "name": "Calophyllum enervosum",
+            "term": "Calophyllum enervosum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae253",
+                "wikidata": "Q15388489"
+            }
+        },
+        {
+            "name": "Calophyllum woodii",
+            "term": "Calophyllum woodii",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae254",
+                "wikidata": "Q15388505"
+            }
+        },
+        {
+            "name": "Calophyllum pyriforme",
+            "term": "Calophyllum pyriforme",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae255",
+                "wikidata": "Q15388516"
+            }
+        },
+        {
+            "name": "Calophyllum parviflorum",
+            "term": "Calophyllum parviflorum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae256",
+                "wikidata": "Q15388541"
+            }
+        },
+        {
+            "name": "Calophyllum recedens",
+            "term": "Calophyllum recedens",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae257",
+                "wikidata": "Q15388668"
+            }
+        },
+        {
+            "name": "Calophyllum eputamen",
+            "term": "Calophyllum eputamen",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae258",
+                "wikidata": "Q15388706"
+            }
+        },
+        {
+            "name": "Calophyllum brachyphyllum",
+            "term": "Calophyllum brachyphyllum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae259",
+                "wikidata": "Q15388785"
+            }
+        },
+        {
+            "name": "Calophyllum confertum",
+            "term": "Calophyllum confertum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae260",
+                "wikidata": "Q15388821"
+            }
+        },
+        {
+            "name": "Calophyllum recurvatum",
+            "term": "Calophyllum recurvatum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae261",
+                "wikidata": "Q15388897"
+            }
+        },
+        {
+            "name": "Calophyllum exiticostatum",
+            "term": "Calophyllum exiticostatum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae262",
+                "wikidata": "Q15388960"
+            }
+        },
+        {
+            "name": "Calophyllum coriaceum",
+            "term": "Calophyllum coriaceum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae263",
+                "wikidata": "Q15389210"
+            }
+        },
+        {
+            "name": "Calophyllum ferrugineum",
+            "term": "Calophyllum ferrugineum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae264",
+                "wikidata": "Q15389214"
+            }
+        },
+        {
+            "name": "Calophyllum fibrosum",
+            "term": "Calophyllum fibrosum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae265",
+                "wikidata": "Q15389459"
+            }
+        },
+        {
+            "name": "Calophyllum costatum",
+            "term": "Calophyllum costatum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae266",
+                "wikidata": "Q15389935"
+            }
+        },
+        {
+            "name": "Calophyllum costulatum",
+            "term": "Calophyllum costulatum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae267",
+                "wikidata": "Q15390454"
+            }
+        },
+        {
+            "name": "Calophyllum cucullatum",
+            "term": "Calophyllum cucullatum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae268",
+                "wikidata": "Q15391065"
+            }
+        },
+        {
+            "name": "Calophyllum acidus",
+            "term": "Calophyllum acidus",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae269",
+                "wikidata": "Q15393434"
+            }
+        },
+        {
+            "name": "Calophyllum aerarium",
+            "term": "Calophyllum aerarium",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae270",
+                "wikidata": "Q15394005"
+            }
+        },
+        {
+            "name": "Calophyllum alboramulum",
+            "term": "Calophyllum alboramulum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae271",
+                "wikidata": "Q15394843"
+            }
+        },
+        {
+            "name": "Calophyllum amblyphyllum",
+            "term": "Calophyllum amblyphyllum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae272",
+                "wikidata": "Q15395960"
+            }
+        },
+        {
+            "name": "Calophyllum andersonii",
+            "term": "Calophyllum andersonii",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae273",
+                "wikidata": "Q15396659"
+            }
+        },
+        {
+            "name": "Calophyllum angulare",
+            "term": "Calophyllum angulare",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae274",
+                "wikidata": "Q15397343"
+            }
+        },
+        {
+            "name": "Calophyllum touranense",
+            "term": "Calophyllum touranense",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae275",
+                "wikidata": "Q17565266"
+            }
+        },
+        {
+            "name": "Calophyllum pubescens",
+            "term": "Calophyllum pubescens",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae276",
+                "wikidata": "Q17565267"
+            }
+        },
+        {
+            "name": "Calophyllum pascalianum",
+            "term": "Calophyllum pascalianum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae277",
+                "wikidata": "Q17565268"
+            }
+        },
+        {
+            "name": "Calophyllum mesoamericanum",
+            "term": "Calophyllum mesoamericanum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae278",
+                "wikidata": "Q17565269"
+            }
+        },
+        {
+            "name": "Calophyllum mariae",
+            "term": "Calophyllum mariae",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae279",
+                "wikidata": "Q17565270"
+            }
+        },
+        {
+            "name": "Calophyllum lowii",
+            "term": "Calophyllum lowii",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae280",
+                "wikidata": "Q17565271"
+            }
+        },
+        {
+            "name": "Calophyllum dasypodum",
+            "term": "Calophyllum dasypodum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae281",
+                "wikidata": "Q17565272"
+            }
+        },
+        {
+            "name": "Calophyllum wallichianum",
+            "term": "Calophyllum wallichianum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae282",
+                "wikidata": "Q21250618"
+            }
+        },
+        {
+            "name": "Mesua ferrea",
+            "term": "Mesua ferrea",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae283",
+                "wikidata": "Q2001737"
+            }
+        },
+        {
+            "name": "Mesua daphnifolia",
+            "term": "Mesua daphnifolia",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae284",
+                "wikidata": "Q5403848"
+            }
+        },
+        {
+            "name": "Mesua elegans",
+            "term": "Mesua elegans",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae285",
+                "wikidata": "Q5403854"
+            }
+        },
+        {
+            "name": "Mesua kunstleri",
+            "term": "Mesua kunstleri",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae286",
+                "wikidata": "Q5403860"
+            }
+        },
+        {
+            "name": "Mesua nivenii",
+            "term": "Mesua nivenii",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae287",
+                "wikidata": "Q5403865"
+            }
+        },
+        {
+            "name": "Mesua nuda",
+            "term": "Mesua nuda",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae288",
+                "wikidata": "Q5403871"
+            }
+        },
+        {
+            "name": "Mesua wrayi",
+            "term": "Mesua wrayi",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae289",
+                "wikidata": "Q5403877"
+            }
+        },
+        {
+            "name": "Mesua rosea",
+            "term": "Mesua rosea",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae290",
+                "wikidata": "Q5438213"
+            }
+        },
+        {
+            "name": "Mesua kochummenia",
+            "term": "Mesua kochummenia",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae291",
+                "wikidata": "Q5459064"
+            }
+        },
+        {
+            "name": "Mesua purseglovei",
+            "term": "Mesua purseglovei",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae292",
+                "wikidata": "Q5459067"
+            }
+        },
+        {
+            "name": "Mesua manii",
+            "term": "Mesua manii",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae293",
+                "wikidata": "Q5487547"
+            }
+        },
+        {
+            "name": "Mesua stylosa",
+            "term": "Mesua stylosa",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae294",
+                "wikidata": "Q6822170"
+            }
+        },
+        {
+            "name": "Mesua beccariana",
+            "term": "Mesua beccariana",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae295",
+                "wikidata": "Q15365107"
+            }
+        },
+        {
+            "name": "Mesua hexapetala",
+            "term": "Mesua hexapetala",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae296",
+                "wikidata": "Q15365409"
+            }
+        },
+        {
+            "name": "Mesua macrophylla",
+            "term": "Mesua macrophylla",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae297",
+                "wikidata": "Q15365645"
+            }
+        },
+        {
+            "name": "Mesua pustulata",
+            "term": "Mesua pustulata",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae298",
+                "wikidata": "Q15366022"
+            }
+        },
+        {
+            "name": "Mesua acuminatissima",
+            "term": "Mesua acuminatissima",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae299",
+                "wikidata": "Q15366078"
+            }
+        },
+        {
+            "name": "Mesua assamica",
+            "term": "Mesua assamica",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae300",
+                "wikidata": "Q15366186"
+            }
+        },
+        {
+            "name": "Mesua kochummeniana",
+            "term": "Mesua kochummeniana",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae301",
+                "wikidata": "Q17565431"
+            }
+        },
+        {
+            "name": "Mesua grandis",
+            "term": "Mesua grandis",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae302",
+                "wikidata": "Q17565432"
+            }
+        },
+        {
+            "name": "Mesua garciae",
+            "term": "Mesua garciae",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae303",
+                "wikidata": "Q17565433"
+            }
+        },
+        {
+            "name": "Mesua floribunda",
+            "term": "Mesua floribunda",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae304",
+                "wikidata": "Q17565434"
+            }
+        },
+        {
+            "name": "Mesua eugeniifolia",
+            "term": "Mesua eugeniifolia",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae305",
+                "wikidata": "Q17565435"
+            }
+        },
+        {
+            "name": "Mesua elmeri",
+            "term": "Mesua elmeri",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae306",
+                "wikidata": "Q17565436"
+            }
+        },
+        {
+            "name": "Mesua coriacea",
+            "term": "Mesua coriacea",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae307",
+                "wikidata": "Q17565437"
+            }
+        },
+        {
+            "name": "Mesua clemensorum",
+            "term": "Mesua clemensorum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae308",
+                "wikidata": "Q17565438"
+            }
+        },
+        {
+            "name": "Mesua caudata",
+            "term": "Mesua caudata",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae309",
+                "wikidata": "Q17565439"
+            }
+        },
+        {
+            "name": "Mesua catharinae",
+            "term": "Mesua catharinae",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae310",
+                "wikidata": "Q17565440"
+            }
+        },
+        {
+            "name": "Mesua calophylloides",
+            "term": "Mesua calophylloides",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae311",
+                "wikidata": "Q17565441"
+            }
+        },
+        {
+            "name": "Mesua bilabiata",
+            "term": "Mesua bilabiata",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae312",
+                "wikidata": "Q17565442"
+            }
+        },
+        {
+            "name": "Mesua oblongifolia",
+            "term": "Mesua oblongifolia",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae313",
+                "wikidata": "Q17565471"
+            }
+        },
+        {
+            "name": "Mesua nervosa",
+            "term": "Mesua nervosa",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae314",
+                "wikidata": "Q17565472"
+            }
+        },
+        {
+            "name": "Mesua megalocarpa",
+            "term": "Mesua megalocarpa",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae315",
+                "wikidata": "Q17565476"
+            }
+        },
+        {
+            "name": "Mesua macrantha",
+            "term": "Mesua macrantha",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae316",
+                "wikidata": "Q17565480"
+            }
+        },
+        {
+            "name": "Mesua lepidota",
+            "term": "Mesua lepidota",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae317",
+                "wikidata": "Q17565481"
+            }
+        },
+        {
+            "name": "Mesua larnachiana",
+            "term": "Mesua larnachiana",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae318",
+                "wikidata": "Q17565482"
+            }
+        },
+        {
+            "name": "Mesua korthalsiana",
+            "term": "Mesua korthalsiana",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae319",
+                "wikidata": "Q17565485"
+            }
+        },
+        {
+            "name": "Mesua thwaitesii",
+            "term": "Mesua thwaitesii",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae320",
+                "wikidata": "Q17565706"
+            }
+        },
+        {
+            "name": "Mesua sukoeana",
+            "term": "Mesua sukoeana",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae321",
+                "wikidata": "Q17565707"
+            }
+        },
+        {
+            "name": "Mesua rivulorum",
+            "term": "Mesua rivulorum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae322",
+                "wikidata": "Q17565708"
+            }
+        },
+        {
+            "name": "Mesua racemosa",
+            "term": "Mesua racemosa",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae323",
+                "wikidata": "Q17565709"
+            }
+        },
+        {
+            "name": "Mesua pulchella",
+            "term": "Mesua pulchella",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae324",
+                "wikidata": "Q17565710"
+            }
+        },
+        {
+            "name": "Mesua planigemma",
+            "term": "Mesua planigemma",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae325",
+                "wikidata": "Q17565711"
+            }
+        },
+        {
+            "name": "Mesua parviflora",
+            "term": "Mesua parviflora",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae326",
+                "wikidata": "Q17565713"
+            }
+        },
+        {
+            "name": "Mesua paniculata",
+            "term": "Mesua paniculata",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae327",
+                "wikidata": "Q17565714"
+            }
+        },
+        {
+            "name": "Mesua paludosa",
+            "term": "Mesua paludosa",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae328",
+                "wikidata": "Q17565715"
+            }
+        },
+        {
+            "name": "Mesua navesii",
+            "term": "Mesua navesii",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae329",
+                "wikidata": "Q17565716"
+            }
+        },
+        {
+            "name": "Mesua myrtifolia",
+            "term": "Mesua myrtifolia",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae330",
+                "wikidata": "Q17565717"
+            }
+        },
+        {
+            "name": "Mesua macrocarpa",
+            "term": "Mesua macrocarpa",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae331",
+                "wikidata": "Q17565718"
+            }
+        },
+        {
+            "name": "Mesua lanceolata",
+            "term": "Mesua lanceolata",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae332",
+                "wikidata": "Q17565719"
+            }
+        },
+        {
+            "name": "Mesua philippinensis",
+            "term": "Mesua philippinensis",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae333",
+                "wikidata": "Q17566310"
+            }
+        },
+        {
+            "name": "Mammea americana",
+            "term": "Mammea americana",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae334",
+                "wikidata": "Q1888040"
+            }
+        },
+        {
+            "name": "Mammea grandifolia",
+            "term": "Mammea grandifolia",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae335",
+                "wikidata": "Q5458470"
+            }
+        },
+        {
+            "name": "Mammea malayana",
+            "term": "Mammea malayana",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae336",
+                "wikidata": "Q5458473"
+            }
+        },
+        {
+            "name": "Mammea papuana",
+            "term": "Mammea papuana",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae337",
+                "wikidata": "Q5458477"
+            }
+        },
+        {
+            "name": "Mammea papyracea",
+            "term": "Mammea papyracea",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae338",
+                "wikidata": "Q5458481"
+            }
+        },
+        {
+            "name": "Mammea timorensis",
+            "term": "Mammea timorensis",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae339",
+                "wikidata": "Q5458484"
+            }
+        },
+        {
+            "name": "Mammea usambarensis",
+            "term": "Mammea usambarensis",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae340",
+                "wikidata": "Q5458487"
+            }
+        },
+        {
+            "name": "Mammea veimauriensis",
+            "term": "Mammea veimauriensis",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae341",
+                "wikidata": "Q5458490"
+            }
+        },
+        {
+            "name": "Mammea immansueta",
+            "term": "Mammea immansueta",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae342",
+                "wikidata": "Q5473055"
+            }
+        },
+        {
+            "name": "Mammea novoguineensis",
+            "term": "Mammea novoguineensis",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae343",
+                "wikidata": "Q5500016"
+            }
+        },
+        {
+            "name": "Mammea siamensis",
+            "term": "Mammea siamensis",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae344",
+                "wikidata": "Q6639920"
+            }
+        },
+        {
+            "name": "Mammea suriga",
+            "term": "Mammea suriga",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae345",
+                "wikidata": "Q6745791"
+            }
+        },
+        {
+            "name": "Mammea sanguinea",
+            "term": "Mammea sanguinea",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae346",
+                "wikidata": "Q15362164"
+            }
+        },
+        {
+            "name": "Mammea sessiliflora",
+            "term": "Mammea sessiliflora",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae347",
+                "wikidata": "Q15362203"
+            }
+        },
+        {
+            "name": "Mammea yunnanensis",
+            "term": "Mammea yunnanensis",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae348",
+                "wikidata": "Q15362219"
+            }
+        },
+        {
+            "name": "Mammea subsessilifolia",
+            "term": "Mammea subsessilifolia",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae349",
+                "wikidata": "Q15362309"
+            }
+        },
+        {
+            "name": "Mammea africana",
+            "term": "Mammea africana",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae350",
+                "wikidata": "Q15362394"
+            }
+        },
+        {
+            "name": "Mammea touriga",
+            "term": "Mammea touriga",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae351",
+                "wikidata": "Q15362401"
+            }
+        },
+        {
+            "name": "Mammea angustifolia",
+            "term": "Mammea angustifolia",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae352",
+                "wikidata": "Q15362612"
+            }
+        },
+        {
+            "name": "Mammea antongilensis",
+            "term": "Mammea antongilensis",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae353",
+                "wikidata": "Q15362767"
+            }
+        },
+        {
+            "name": "Mammea bongo",
+            "term": "Mammea bongo",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae354",
+                "wikidata": "Q15362829"
+            }
+        },
+        {
+            "name": "Mammea decaryana",
+            "term": "Mammea decaryana",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae355",
+                "wikidata": "Q15362929"
+            }
+        },
+        {
+            "name": "Mammea eugenioides",
+            "term": "Mammea eugenioides",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae356",
+                "wikidata": "Q15363076"
+            }
+        },
+        {
+            "name": "Mammea glaucifolia",
+            "term": "Mammea glaucifolia",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae357",
+                "wikidata": "Q15363157"
+            }
+        },
+        {
+            "name": "Mammea megaphylla",
+            "term": "Mammea megaphylla",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae358",
+                "wikidata": "Q15363321"
+            }
+        },
+        {
+            "name": "Mammea perrieri",
+            "term": "Mammea perrieri",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae359",
+                "wikidata": "Q15363397"
+            }
+        },
+        {
+            "name": "Mammea pseudoprotorhus",
+            "term": "Mammea pseudoprotorhus",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae360",
+                "wikidata": "Q15363479"
+            }
+        },
+        {
+            "name": "Mammea punctata",
+            "term": "Mammea punctata",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae361",
+                "wikidata": "Q15363643"
+            }
+        },
+        {
+            "name": "Mammea zeereae",
+            "term": "Mammea zeereae",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae362",
+                "wikidata": "Q17565244"
+            }
+        },
+        {
+            "name": "Mammea woodii",
+            "term": "Mammea woodii",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae363",
+                "wikidata": "Q17565245"
+            }
+        },
+        {
+            "name": "Mammea sinclairii",
+            "term": "Mammea sinclairii",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae364",
+                "wikidata": "Q17565246"
+            }
+        },
+        {
+            "name": "Mammea reticulata",
+            "term": "Mammea reticulata",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae365",
+                "wikidata": "Q17565247"
+            }
+        },
+        {
+            "name": "Mammea ramiflora",
+            "term": "Mammea ramiflora",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae366",
+                "wikidata": "Q17565248"
+            }
+        },
+        {
+            "name": "Mammea odorata",
+            "term": "Mammea odorata",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae367",
+                "wikidata": "Q17565249"
+            }
+        },
+        {
+            "name": "Mammea neurophylla",
+            "term": "Mammea neurophylla",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae368",
+                "wikidata": "Q17565250"
+            }
+        },
+        {
+            "name": "Mammea nervosa",
+            "term": "Mammea nervosa",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae369",
+                "wikidata": "Q17565251"
+            }
+        },
+        {
+            "name": "Mammea micrantha",
+            "term": "Mammea micrantha",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae370",
+                "wikidata": "Q17565252"
+            }
+        },
+        {
+            "name": "Mammea lancilimba",
+            "term": "Mammea lancilimba",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae371",
+                "wikidata": "Q17565253"
+            }
+        },
+        {
+            "name": "Mammea harmandii",
+            "term": "Mammea harmandii",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae372",
+                "wikidata": "Q17565254"
+            }
+        },
+        {
+            "name": "Mammea glauca",
+            "term": "Mammea glauca",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae373",
+                "wikidata": "Q17565255"
+            }
+        },
+        {
+            "name": "Mammea cordata",
+            "term": "Mammea cordata",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae374",
+                "wikidata": "Q17565256"
+            }
+        },
+        {
+            "name": "Mammea congregata",
+            "term": "Mammea congregata",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae375",
+                "wikidata": "Q17565257"
+            }
+        },
+        {
+            "name": "Mammea cauliflora",
+            "term": "Mammea cauliflora",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae376",
+                "wikidata": "Q17565258"
+            }
+        },
+        {
+            "name": "Mammea calophylloides",
+            "term": "Mammea calophylloides",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae377",
+                "wikidata": "Q17565259"
+            }
+        },
+        {
+            "name": "Mammea calciphila",
+            "term": "Mammea calciphila",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae378",
+                "wikidata": "Q17565260"
+            }
+        },
+        {
+            "name": "Mammea brevipetiolata",
+            "term": "Mammea brevipetiolata",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae379",
+                "wikidata": "Q17565261"
+            }
+        },
+        {
+            "name": "Mammea brevipes",
+            "term": "Mammea brevipes",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae380",
+                "wikidata": "Q17565262"
+            }
+        },
+        {
+            "name": "Mammea aruana",
+            "term": "Mammea aruana",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae381",
+                "wikidata": "Q17565263"
+            }
+        },
+        {
+            "name": "Mammea anastomosans",
+            "term": "Mammea anastomosans",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae382",
+                "wikidata": "Q17565264"
+            }
+        },
+        {
+            "name": "Mammea acuminata",
+            "term": "Mammea acuminata",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae383",
+                "wikidata": "Q17565265"
+            }
+        },
+        {
+            "name": "Mammea asiatica",
+            "term": "Mammea asiatica",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae384",
+                "wikidata": "Q21976279"
+            }
+        },
+        {
+            "name": "Endodesmia calophylloides",
+            "term": "Endodesmia calophylloides",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae385",
+                "wikidata": "Q15375170"
+            }
+        },
+        {
+            "name": "Caraipa utilis",
+            "term": "Caraipa utilis",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae386",
+                "wikidata": "Q5037635"
+            }
+        },
+        {
+            "name": "Caraipa jaramilloi",
+            "term": "Caraipa jaramilloi",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae387",
+                "wikidata": "Q5037638"
+            }
+        },
+        {
+            "name": "Caraipa surinamensis",
+            "term": "Caraipa surinamensis",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae388",
+                "wikidata": "Q15387161"
+            }
+        },
+        {
+            "name": "Caraipa heterocarpa",
+            "term": "Caraipa heterocarpa",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae389",
+                "wikidata": "Q15387235"
+            }
+        },
+        {
+            "name": "Caraipa tereticaulis",
+            "term": "Caraipa tereticaulis",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae390",
+                "wikidata": "Q15387331"
+            }
+        },
+        {
+            "name": "Caraipa llanorum",
+            "term": "Caraipa llanorum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae391",
+                "wikidata": "Q15387361"
+            }
+        },
+        {
+            "name": "Caraipa valioi",
+            "term": "Caraipa valioi",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae392",
+                "wikidata": "Q15387433"
+            }
+        },
+        {
+            "name": "Caraipa longipedicellata",
+            "term": "Caraipa longipedicellata",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae393",
+                "wikidata": "Q15387661"
+            }
+        },
+        {
+            "name": "Caraipa longisepala",
+            "term": "Caraipa longisepala",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae394",
+                "wikidata": "Q15387910"
+            }
+        },
+        {
+            "name": "Caraipa minor",
+            "term": "Caraipa minor",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae395",
+                "wikidata": "Q15388220"
+            }
+        },
+        {
+            "name": "Caraipa multinervia",
+            "term": "Caraipa multinervia",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae396",
+                "wikidata": "Q15388529"
+            }
+        },
+        {
+            "name": "Caraipa myrcioides",
+            "term": "Caraipa myrcioides",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae397",
+                "wikidata": "Q15388809"
+            }
+        },
+        {
+            "name": "Caraipa odorata",
+            "term": "Caraipa odorata",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae398",
+                "wikidata": "Q15389102"
+            }
+        },
+        {
+            "name": "Caraipa parvielliptica",
+            "term": "Caraipa parvielliptica",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae399",
+                "wikidata": "Q15389463"
+            }
+        },
+        {
+            "name": "Caraipa parvifolia",
+            "term": "Caraipa parvifolia",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae400",
+                "wikidata": "Q15389875"
+            }
+        },
+        {
+            "name": "Caraipa ampla",
+            "term": "Caraipa ampla",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae401",
+                "wikidata": "Q15389972"
+            }
+        },
+        {
+            "name": "Caraipa aracaensis",
+            "term": "Caraipa aracaensis",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae402",
+                "wikidata": "Q15390236"
+            }
+        },
+        {
+            "name": "Caraipa psilocarpa",
+            "term": "Caraipa psilocarpa",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae403",
+                "wikidata": "Q15390253"
+            }
+        },
+        {
+            "name": "Caraipa costata",
+            "term": "Caraipa costata",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae404",
+                "wikidata": "Q15390736"
+            }
+        },
+        {
+            "name": "Caraipa punctulata",
+            "term": "Caraipa punctulata",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae405",
+                "wikidata": "Q15390790"
+            }
+        },
+        {
+            "name": "Caraipa racemosa",
+            "term": "Caraipa racemosa",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae406",
+                "wikidata": "Q15391241"
+            }
+        },
+        {
+            "name": "Caraipa densifolia",
+            "term": "Caraipa densifolia",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae407",
+                "wikidata": "Q15391324"
+            }
+        },
+        {
+            "name": "Caraipa richardiana",
+            "term": "Caraipa richardiana",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae408",
+                "wikidata": "Q15391738"
+            }
+        },
+        {
+            "name": "Caraipa duckeana",
+            "term": "Caraipa duckeana",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae409",
+                "wikidata": "Q15392449"
+            }
+        },
+        {
+            "name": "Caraipa rodriguesii",
+            "term": "Caraipa rodriguesii",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae410",
+                "wikidata": "Q15392752"
+            }
+        },
+        {
+            "name": "Caraipa foveolata",
+            "term": "Caraipa foveolata",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae411",
+                "wikidata": "Q15392914"
+            }
+        },
+        {
+            "name": "Caraipa savannarum",
+            "term": "Caraipa savannarum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae412",
+                "wikidata": "Q15393292"
+            }
+        },
+        {
+            "name": "Caraipa grandifolia",
+            "term": "Caraipa grandifolia",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae413",
+                "wikidata": "Q15393590"
+            }
+        },
+        {
+            "name": "Caraipa andina",
+            "term": "Caraipa andina",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae414",
+                "wikidata": "Q17565498"
+            }
+        },
+        {
+            "name": "Clusiella elegans",
+            "term": "Clusiella elegans",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae415",
+                "wikidata": "Q5136666"
+            }
+        },
+        {
+            "name": "Clusiella albiflora",
+            "term": "Clusiella albiflora",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae416",
+                "wikidata": "Q15355440"
+            }
+        },
+        {
+            "name": "Clusiella amplexicaulis",
+            "term": "Clusiella amplexicaulis",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae417",
+                "wikidata": "Q15355459"
+            }
+        },
+        {
+            "name": "Clusiella axillaris",
+            "term": "Clusiella axillaris",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae418",
+                "wikidata": "Q15355491"
+            }
+        },
+        {
+            "name": "Clusiella cordifolia",
+            "term": "Clusiella cordifolia",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae419",
+                "wikidata": "Q15355522"
+            }
+        },
+        {
+            "name": "Clusiella impressinervis",
+            "term": "Clusiella impressinervis",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae420",
+                "wikidata": "Q15355607"
+            }
+        },
+        {
+            "name": "Clusiella isthmensis",
+            "term": "Clusiella isthmensis",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae421",
+                "wikidata": "Q15355640"
+            }
+        },
+        {
+            "name": "Clusiella macropetala",
+            "term": "Clusiella macropetala",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae422",
+                "wikidata": "Q15355666"
+            }
+        },
+        {
+            "name": "Clusiella pendula",
+            "term": "Clusiella pendula",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae423",
+                "wikidata": "Q15355700"
+            }
+        },
+        {
+            "name": "Kayea coriacea",
+            "term": "Kayea coriacea",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae424",
+                "wikidata": "Q5457123"
+            }
+        },
+        {
+            "name": "Kayea macrophylla",
+            "term": "Kayea macrophylla",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae425",
+                "wikidata": "Q5457126"
+            }
+        },
+        {
+            "name": "Kayea ferruginea",
+            "term": "Kayea ferruginea",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae426",
+                "wikidata": "Q6380546"
+            }
+        },
+        {
+            "name": "Kayea paniculata",
+            "term": "Kayea paniculata",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae427",
+                "wikidata": "Q15394452"
+            }
+        },
+        {
+            "name": "Poeciloneuron pauciflorum",
+            "term": "Poeciloneuron pauciflorum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae428",
+                "wikidata": "Q117861"
+            }
+        },
+        {
+            "name": "Poeciloneuron indicum",
+            "term": "Poeciloneuron indicum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae429",
+                "wikidata": "Q13113404"
+            }
+        },
+        {
+            "name": "Haploclathra paniculata",
+            "term": "Haploclathra paniculata",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae430",
+                "wikidata": "Q15390570"
+            }
+        },
+        {
+            "name": "Haploclathra leiantha",
+            "term": "Haploclathra leiantha",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae431",
+                "wikidata": "Q15392660"
+            }
+        },
+        {
+            "name": "Haploclathra grandiflora",
+            "term": "Haploclathra grandiflora",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae432",
+                "wikidata": "Q17565478"
+            }
+        },
+        {
+            "name": "Haploclathra cordata",
+            "term": "Haploclathra cordata",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae433",
+                "wikidata": "Q17565479"
+            }
+        },
+        {
+            "name": "Nouhuysia pauciflora",
+            "term": "Nouhuysia pauciflora",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae434",
+                "wikidata": "Q17565699"
+            }
+        },
+        {
+            "name": "Nouhuysia papuana",
+            "term": "Nouhuysia papuana",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae435",
+                "wikidata": "Q17565700"
+            }
+        },
+        {
+            "name": "Nouhuysia pachyphylla",
+            "term": "Nouhuysia pachyphylla",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae436",
+                "wikidata": "Q17565701"
+            }
+        },
+        {
+            "name": "Nouhuysia novoguineensis",
+            "term": "Nouhuysia novoguineensis",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae437",
+                "wikidata": "Q17565702"
+            }
+        },
+        {
+            "name": "Nouhuysia elaeocarpoides",
+            "term": "Nouhuysia elaeocarpoides",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae438",
+                "wikidata": "Q17565703"
+            }
+        },
+        {
+            "name": "Nouhuysia arfakensis",
+            "term": "Nouhuysia arfakensis",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae439",
+                "wikidata": "Q17565704"
+            }
+        },
+        {
+            "name": "Calophyllum inophyllum var. inophyllum",
+            "term": "Calophyllum inophyllum var. inophyllum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae440",
+                "wikidata": "Q21379317"
+            }
+        },
+        {
+            "name": "Calophyllum inophyllum var. takamaka",
+            "term": "Calophyllum inophyllum var. takamaka",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae441",
+                "wikidata": "Q21379320"
+            }
+        },
+        {
+            "name": "Calophyllum inophyllum var. wakamatsui",
+            "term": "Calophyllum inophyllum var. wakamatsui",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae442",
+                "wikidata": "Q21379323"
+            }
+        },
+        {
+            "name": "Calophyllum carrii var. longigemmatum",
+            "term": "Calophyllum carrii var. longigemmatum",
+            "identifiers": {
+                "contentmine": "CM.calophyllaceae443",
+                "wikidata": "Q28112183"
+            }
+        }
+    ],
+    "id": "CM.calophyllaceae"
+}

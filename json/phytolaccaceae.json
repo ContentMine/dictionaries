@@ -1,1 +1,645 @@
-{"entries":[{"name":"Phytolaccaceae","term":"Phytolaccaceae","identifiers":{"contentmine":"CM.phytolaccaceae0","wikidata":"Q156981"}},{"name":"Nowickea","term":"Nowickea","identifiers":{"contentmine":"CM.phytolaccaceae1","wikidata":"Q310071"}},{"name":"Ercilla","term":"Ercilla","identifiers":{"contentmine":"CM.phytolaccaceae2","wikidata":"Q1348619"}},{"name":"Rivina","term":"Rivina","identifiers":{"contentmine":"CM.phytolaccaceae3","wikidata":"Q2714585"}},{"name":"Petiveria","term":"Petiveria","identifiers":{"contentmine":"CM.phytolaccaceae4","wikidata":"Q2913546"}},{"name":"Trichostigma","term":"Trichostigma","identifiers":{"contentmine":"CM.phytolaccaceae5","wikidata":"Q3004024"}},{"name":"Agdestis","term":"Agdestis","identifiers":{"contentmine":"CM.phytolaccaceae6","wikidata":"Q5390212"}},{"name":"Gallesia","term":"Gallesia","identifiers":{"contentmine":"CM.phytolaccaceae7","wikidata":"Q8963370"}},{"name":"Hilleria","term":"Hilleria","identifiers":{"contentmine":"CM.phytolaccaceae8","wikidata":"Q9003801"}},{"name":"Ledenbergia","term":"Ledenbergia","identifiers":{"contentmine":"CM.phytolaccaceae9","wikidata":"Q9021153"}},{"name":"Schindleria","term":"Schindleria","identifiers":{"contentmine":"CM.phytolaccaceae10","wikidata":"Q9074998"}},{"name":"Seguieria","term":"Seguieria","identifiers":{"contentmine":"CM.phytolaccaceae11","wikidata":"Q9075574"}},{"name":"Monococcus","term":"Monococcus","identifiers":{"contentmine":"CM.phytolaccaceae12","wikidata":"Q10331892"}},{"name":"Phytolaccoideae","term":"Phytolaccoideae","identifiers":{"contentmine":"CM.phytolaccaceae13","wikidata":"Q15614141"}},{"name":"Villamilla","term":"Villamilla","identifiers":{"contentmine":"CM.phytolaccaceae14","wikidata":"Q17396319"}},{"name":"Sarcoca","term":"Sarcoca","identifiers":{"contentmine":"CM.phytolaccaceae15","wikidata":"Q17396326"}},{"name":"Pircunia","term":"Pircunia","identifiers":{"contentmine":"CM.phytolaccaceae16","wikidata":"Q17396327"}},{"name":"Mohlana","term":"Mohlana","identifiers":{"contentmine":"CM.phytolaccaceae17","wikidata":"Q17396329"}},{"name":"Flueckigera","term":"Flueckigera","identifiers":{"contentmine":"CM.phytolaccaceae18","wikidata":"Q17396338"}},{"name":"Albertokuntzea","term":"Albertokuntzea","identifiers":{"contentmine":"CM.phytolaccaceae19","wikidata":"Q17396346"}},{"name":"Anisomeria","term":"Anisomeria","identifiers":{"contentmine":"CM.phytolaccaceae20","wikidata":"Q17457769"}},{"name":"Agdestidoideae","term":"Agdestidoideae","identifiers":{"contentmine":"CM.phytolaccaceae21","wikidata":"Q29841316"}},{"name":"Ercilla spicata","term":"Ercilla spicata","identifiers":{"contentmine":"CM.phytolaccaceae22","wikidata":"Q17233688"}},{"name":"Ercilla syncarpellata","term":"Ercilla syncarpellata","identifiers":{"contentmine":"CM.phytolaccaceae23","wikidata":"Q17233704"}},{"name":"Ercilla volubilis","term":"Ercilla volubilis","identifiers":{"contentmine":"CM.phytolaccaceae24","wikidata":"Q21262800"}},{"name":"Rivina humilis","term":"Rivina humilis","identifiers":{"contentmine":"CM.phytolaccaceae25","wikidata":"Q886492"}},{"name":"Rivina brasiliensis","term":"Rivina brasiliensis","identifiers":{"contentmine":"CM.phytolaccaceae26","wikidata":"Q17245727"}},{"name":"Petiveria alliacea","term":"Petiveria alliacea","identifiers":{"contentmine":"CM.phytolaccaceae27","wikidata":"Q311518"}},{"name":"Trichostigma octandrum","term":"Trichostigma octandrum","identifiers":{"contentmine":"CM.phytolaccaceae28","wikidata":"Q7841038"}},{"name":"Trichostigma peruvianum","term":"Trichostigma peruvianum","identifiers":{"contentmine":"CM.phytolaccaceae29","wikidata":"Q7841042"}},{"name":"Trichostigma polyandrum","term":"Trichostigma polyandrum","identifiers":{"contentmine":"CM.phytolaccaceae30","wikidata":"Q17247369"}},{"name":"Agdestis clematidea","term":"Agdestis clematidea","identifiers":{"contentmine":"CM.phytolaccaceae31","wikidata":"Q17235300"}},{"name":"Gallesia integrifolia","term":"Gallesia integrifolia","identifiers":{"contentmine":"CM.phytolaccaceae32","wikidata":"Q10346233"}},{"name":"Hilleria latifolia","term":"Hilleria latifolia","identifiers":{"contentmine":"CM.phytolaccaceae33","wikidata":"Q17247747"}},{"name":"Hilleria secunda","term":"Hilleria secunda","identifiers":{"contentmine":"CM.phytolaccaceae34","wikidata":"Q17466384"}},{"name":"Ledenbergia macrantha","term":"Ledenbergia macrantha","identifiers":{"contentmine":"CM.phytolaccaceae35","wikidata":"Q17241217"}},{"name":"Ledenbergia seguierioides","term":"Ledenbergia seguierioides","identifiers":{"contentmine":"CM.phytolaccaceae36","wikidata":"Q17465888"}},{"name":"Ledenbergia roseosana","term":"Ledenbergia roseosana","identifiers":{"contentmine":"CM.phytolaccaceae37","wikidata":"Q21274314"}},{"name":"Schindleria densiflora","term":"Schindleria densiflora","identifiers":{"contentmine":"CM.phytolaccaceae38","wikidata":"Q17250278"}},{"name":"Seguieria americana","term":"Seguieria americana","identifiers":{"contentmine":"CM.phytolaccaceae39","wikidata":"Q17234154"}},{"name":"Seguieria macrophylla","term":"Seguieria macrophylla","identifiers":{"contentmine":"CM.phytolaccaceae40","wikidata":"Q17234165"}},{"name":"Seguieria langsdorffii","term":"Seguieria langsdorffii","identifiers":{"contentmine":"CM.phytolaccaceae41","wikidata":"Q17234187"}},{"name":"Seguieria aculeata","term":"Seguieria aculeata","identifiers":{"contentmine":"CM.phytolaccaceae42","wikidata":"Q21298093"}},{"name":"Monococcus echinophorus","term":"Monococcus echinophorus","identifiers":{"contentmine":"CM.phytolaccaceae43","wikidata":"Q1944967"}},{"name":"Phytolacca","term":"Phytolacca","identifiers":{"contentmine":"CM.phytolaccaceae44","wikidata":"Q162075"}},{"name":"Anisomeria littoralis","term":"Anisomeria littoralis","identifiers":{"contentmine":"CM.phytolaccaceae45","wikidata":"Q6385428"}},{"name":"Anisomeria chilensis","term":"Anisomeria chilensis","identifiers":{"contentmine":"CM.phytolaccaceae46","wikidata":"Q17240512"}},{"name":"Anisomeria coriacea","term":"Anisomeria coriacea","identifiers":{"contentmine":"CM.phytolaccaceae47","wikidata":"Q17240604"}},{"name":"Anisomeria densiflora","term":"Anisomeria densiflora","identifiers":{"contentmine":"CM.phytolaccaceae48","wikidata":"Q17240954"}},{"name":"Anisomeria fruticosa","term":"Anisomeria fruticosa","identifiers":{"contentmine":"CM.phytolaccaceae49","wikidata":"Q17241223"}},{"name":"Phytolacca americana","term":"Phytolacca americana","identifiers":{"contentmine":"CM.phytolaccaceae50","wikidata":"Q157853"}},{"name":"Phytolacca dioica","term":"Phytolacca dioica","identifiers":{"contentmine":"CM.phytolaccaceae51","wikidata":"Q937654"}},{"name":"Phytolacca acinosa","term":"Phytolacca acinosa","identifiers":{"contentmine":"CM.phytolaccaceae52","wikidata":"Q1569312"}},{"name":"Phytolacca decandra","term":"Phytolacca decandra","identifiers":{"contentmine":"CM.phytolaccaceae53","wikidata":"Q2917659"}},{"name":"Sarcoca dodecandra","term":"Sarcoca dodecandra","identifiers":{"contentmine":"CM.phytolaccaceae54","wikidata":"Q3295085"}},{"name":"Phytolacca bogotensis","term":"Phytolacca bogotensis","identifiers":{"contentmine":"CM.phytolaccaceae55","wikidata":"Q6074768"}},{"name":"Phytolacca icosandra","term":"Phytolacca icosandra","identifiers":{"contentmine":"CM.phytolaccaceae56","wikidata":"Q7189796"}},{"name":"Phytolacca polyandra","term":"Phytolacca polyandra","identifiers":{"contentmine":"CM.phytolaccaceae57","wikidata":"Q10933179"}},{"name":"Phytolacca japonica","term":"Phytolacca japonica","identifiers":{"contentmine":"CM.phytolaccaceae58","wikidata":"Q11086311"}},{"name":"Phytolacca abyssinica","term":"Phytolacca abyssinica","identifiers":{"contentmine":"CM.phytolaccaceae59","wikidata":"Q12219761"}},{"name":"Phytolacca sandwicensis","term":"Phytolacca sandwicensis","identifiers":{"contentmine":"CM.phytolaccaceae60","wikidata":"Q12219762"}},{"name":"Phytolacca dodecandra","term":"Phytolacca dodecandra","identifiers":{"contentmine":"CM.phytolaccaceae61","wikidata":"Q12219763"}},{"name":"Phytolacca heptandra","term":"Phytolacca heptandra","identifiers":{"contentmine":"CM.phytolaccaceae62","wikidata":"Q12219764"}},{"name":"Phytolacca octandra","term":"Phytolacca octandra","identifiers":{"contentmine":"CM.phytolaccaceae63","wikidata":"Q12219765"}},{"name":"Phytolacca heteropetala","term":"Phytolacca heteropetala","identifiers":{"contentmine":"CM.phytolaccaceae64","wikidata":"Q12219766"}},{"name":"Phytolacca rivinoides","term":"Phytolacca rivinoides","identifiers":{"contentmine":"CM.phytolaccaceae65","wikidata":"Q12219768"}},{"name":"Phytolacca pruinosa","term":"Phytolacca pruinosa","identifiers":{"contentmine":"CM.phytolaccaceae66","wikidata":"Q16967034"}},{"name":"Phytolacca thyrsiflora","term":"Phytolacca thyrsiflora","identifiers":{"contentmine":"CM.phytolaccaceae67","wikidata":"Q17242884"}},{"name":"Phytolacca esculenta","term":"Phytolacca esculenta","identifiers":{"contentmine":"CM.phytolaccaceae68","wikidata":"Q17244662"}},{"name":"Phytolacca meziana","term":"Phytolacca meziana","identifiers":{"contentmine":"CM.phytolaccaceae69","wikidata":"Q17244904"}},{"name":"Phytolacca rugosa","term":"Phytolacca rugosa","identifiers":{"contentmine":"CM.phytolaccaceae70","wikidata":"Q17245352"}},{"name":"Phytolacca sanguinea","term":"Phytolacca sanguinea","identifiers":{"contentmine":"CM.phytolaccaceae71","wikidata":"Q17245591"}},{"name":"Phytolacca heterotepala","term":"Phytolacca heterotepala","identifiers":{"contentmine":"CM.phytolaccaceae72","wikidata":"Q18463244"}},{"name":"Phytolacca tetramera","term":"Phytolacca tetramera","identifiers":{"contentmine":"CM.phytolaccaceae73","wikidata":"Q20021998"}},{"name":"Phytolacca clavigera","term":"Phytolacca clavigera","identifiers":{"contentmine":"CM.phytolaccaceae74","wikidata":"Q21307095"}},{"name":"Phytolacca subg. Phytolacca","term":"Phytolacca subg. Phytolacca","identifiers":{"contentmine":"CM.phytolaccaceae75","wikidata":"Q21382528"}},{"name":"Phytolacca asiatica","term":"Phytolacca asiatica","identifiers":{"contentmine":"CM.phytolaccaceae76","wikidata":"Q21876250"}},{"name":"Phytolacca americana var. americana","term":"Phytolacca americana var. americana","identifiers":{"contentmine":"CM.phytolaccaceae77","wikidata":"Q24692844"}},{"name":"Phytolacca americana var. rigida","term":"Phytolacca americana var. rigida","identifiers":{"contentmine":"CM.phytolaccaceae78","wikidata":"Q24692845"}},{"name":"Phytolacca sect. Phytolacca","term":"Phytolacca sect. Phytolacca","identifiers":{"contentmine":"CM.phytolaccaceae79","wikidata":"Q21378451"}}]}
+{
+    "entries": [
+        {
+            "name": "Phytolaccaceae",
+            "term": "Phytolaccaceae",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae0",
+                "wikidata": "Q156981"
+            }
+        },
+        {
+            "name": "Nowickea",
+            "term": "Nowickea",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae1",
+                "wikidata": "Q310071"
+            }
+        },
+        {
+            "name": "Ercilla",
+            "term": "Ercilla",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae2",
+                "wikidata": "Q1348619"
+            }
+        },
+        {
+            "name": "Rivina",
+            "term": "Rivina",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae3",
+                "wikidata": "Q2714585"
+            }
+        },
+        {
+            "name": "Petiveria",
+            "term": "Petiveria",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae4",
+                "wikidata": "Q2913546"
+            }
+        },
+        {
+            "name": "Trichostigma",
+            "term": "Trichostigma",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae5",
+                "wikidata": "Q3004024"
+            }
+        },
+        {
+            "name": "Agdestis",
+            "term": "Agdestis",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae6",
+                "wikidata": "Q5390212"
+            }
+        },
+        {
+            "name": "Gallesia",
+            "term": "Gallesia",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae7",
+                "wikidata": "Q8963370"
+            }
+        },
+        {
+            "name": "Hilleria",
+            "term": "Hilleria",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae8",
+                "wikidata": "Q9003801"
+            }
+        },
+        {
+            "name": "Ledenbergia",
+            "term": "Ledenbergia",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae9",
+                "wikidata": "Q9021153"
+            }
+        },
+        {
+            "name": "Schindleria",
+            "term": "Schindleria",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae10",
+                "wikidata": "Q9074998"
+            }
+        },
+        {
+            "name": "Seguieria",
+            "term": "Seguieria",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae11",
+                "wikidata": "Q9075574"
+            }
+        },
+        {
+            "name": "Monococcus",
+            "term": "Monococcus",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae12",
+                "wikidata": "Q10331892"
+            }
+        },
+        {
+            "name": "Phytolaccoideae",
+            "term": "Phytolaccoideae",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae13",
+                "wikidata": "Q15614141"
+            }
+        },
+        {
+            "name": "Villamilla",
+            "term": "Villamilla",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae14",
+                "wikidata": "Q17396319"
+            }
+        },
+        {
+            "name": "Sarcoca",
+            "term": "Sarcoca",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae15",
+                "wikidata": "Q17396326"
+            }
+        },
+        {
+            "name": "Pircunia",
+            "term": "Pircunia",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae16",
+                "wikidata": "Q17396327"
+            }
+        },
+        {
+            "name": "Mohlana",
+            "term": "Mohlana",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae17",
+                "wikidata": "Q17396329"
+            }
+        },
+        {
+            "name": "Flueckigera",
+            "term": "Flueckigera",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae18",
+                "wikidata": "Q17396338"
+            }
+        },
+        {
+            "name": "Albertokuntzea",
+            "term": "Albertokuntzea",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae19",
+                "wikidata": "Q17396346"
+            }
+        },
+        {
+            "name": "Anisomeria",
+            "term": "Anisomeria",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae20",
+                "wikidata": "Q17457769"
+            }
+        },
+        {
+            "name": "Agdestidoideae",
+            "term": "Agdestidoideae",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae21",
+                "wikidata": "Q29841316"
+            }
+        },
+        {
+            "name": "Ercilla spicata",
+            "term": "Ercilla spicata",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae22",
+                "wikidata": "Q17233688"
+            }
+        },
+        {
+            "name": "Ercilla syncarpellata",
+            "term": "Ercilla syncarpellata",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae23",
+                "wikidata": "Q17233704"
+            }
+        },
+        {
+            "name": "Ercilla volubilis",
+            "term": "Ercilla volubilis",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae24",
+                "wikidata": "Q21262800"
+            }
+        },
+        {
+            "name": "Rivina humilis",
+            "term": "Rivina humilis",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae25",
+                "wikidata": "Q886492"
+            }
+        },
+        {
+            "name": "Rivina brasiliensis",
+            "term": "Rivina brasiliensis",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae26",
+                "wikidata": "Q17245727"
+            }
+        },
+        {
+            "name": "Petiveria alliacea",
+            "term": "Petiveria alliacea",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae27",
+                "wikidata": "Q311518"
+            }
+        },
+        {
+            "name": "Trichostigma octandrum",
+            "term": "Trichostigma octandrum",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae28",
+                "wikidata": "Q7841038"
+            }
+        },
+        {
+            "name": "Trichostigma peruvianum",
+            "term": "Trichostigma peruvianum",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae29",
+                "wikidata": "Q7841042"
+            }
+        },
+        {
+            "name": "Trichostigma polyandrum",
+            "term": "Trichostigma polyandrum",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae30",
+                "wikidata": "Q17247369"
+            }
+        },
+        {
+            "name": "Agdestis clematidea",
+            "term": "Agdestis clematidea",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae31",
+                "wikidata": "Q17235300"
+            }
+        },
+        {
+            "name": "Gallesia integrifolia",
+            "term": "Gallesia integrifolia",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae32",
+                "wikidata": "Q10346233"
+            }
+        },
+        {
+            "name": "Hilleria latifolia",
+            "term": "Hilleria latifolia",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae33",
+                "wikidata": "Q17247747"
+            }
+        },
+        {
+            "name": "Hilleria secunda",
+            "term": "Hilleria secunda",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae34",
+                "wikidata": "Q17466384"
+            }
+        },
+        {
+            "name": "Ledenbergia macrantha",
+            "term": "Ledenbergia macrantha",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae35",
+                "wikidata": "Q17241217"
+            }
+        },
+        {
+            "name": "Ledenbergia seguierioides",
+            "term": "Ledenbergia seguierioides",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae36",
+                "wikidata": "Q17465888"
+            }
+        },
+        {
+            "name": "Ledenbergia roseosana",
+            "term": "Ledenbergia roseosana",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae37",
+                "wikidata": "Q21274314"
+            }
+        },
+        {
+            "name": "Schindleria densiflora",
+            "term": "Schindleria densiflora",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae38",
+                "wikidata": "Q17250278"
+            }
+        },
+        {
+            "name": "Seguieria americana",
+            "term": "Seguieria americana",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae39",
+                "wikidata": "Q17234154"
+            }
+        },
+        {
+            "name": "Seguieria macrophylla",
+            "term": "Seguieria macrophylla",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae40",
+                "wikidata": "Q17234165"
+            }
+        },
+        {
+            "name": "Seguieria langsdorffii",
+            "term": "Seguieria langsdorffii",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae41",
+                "wikidata": "Q17234187"
+            }
+        },
+        {
+            "name": "Seguieria aculeata",
+            "term": "Seguieria aculeata",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae42",
+                "wikidata": "Q21298093"
+            }
+        },
+        {
+            "name": "Monococcus echinophorus",
+            "term": "Monococcus echinophorus",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae43",
+                "wikidata": "Q1944967"
+            }
+        },
+        {
+            "name": "Phytolacca",
+            "term": "Phytolacca",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae44",
+                "wikidata": "Q162075"
+            }
+        },
+        {
+            "name": "Anisomeria littoralis",
+            "term": "Anisomeria littoralis",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae45",
+                "wikidata": "Q6385428"
+            }
+        },
+        {
+            "name": "Anisomeria chilensis",
+            "term": "Anisomeria chilensis",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae46",
+                "wikidata": "Q17240512"
+            }
+        },
+        {
+            "name": "Anisomeria coriacea",
+            "term": "Anisomeria coriacea",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae47",
+                "wikidata": "Q17240604"
+            }
+        },
+        {
+            "name": "Anisomeria densiflora",
+            "term": "Anisomeria densiflora",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae48",
+                "wikidata": "Q17240954"
+            }
+        },
+        {
+            "name": "Anisomeria fruticosa",
+            "term": "Anisomeria fruticosa",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae49",
+                "wikidata": "Q17241223"
+            }
+        },
+        {
+            "name": "Phytolacca americana",
+            "term": "Phytolacca americana",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae50",
+                "wikidata": "Q157853"
+            }
+        },
+        {
+            "name": "Phytolacca dioica",
+            "term": "Phytolacca dioica",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae51",
+                "wikidata": "Q937654"
+            }
+        },
+        {
+            "name": "Phytolacca acinosa",
+            "term": "Phytolacca acinosa",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae52",
+                "wikidata": "Q1569312"
+            }
+        },
+        {
+            "name": "Phytolacca decandra",
+            "term": "Phytolacca decandra",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae53",
+                "wikidata": "Q2917659"
+            }
+        },
+        {
+            "name": "Sarcoca dodecandra",
+            "term": "Sarcoca dodecandra",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae54",
+                "wikidata": "Q3295085"
+            }
+        },
+        {
+            "name": "Phytolacca bogotensis",
+            "term": "Phytolacca bogotensis",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae55",
+                "wikidata": "Q6074768"
+            }
+        },
+        {
+            "name": "Phytolacca icosandra",
+            "term": "Phytolacca icosandra",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae56",
+                "wikidata": "Q7189796"
+            }
+        },
+        {
+            "name": "Phytolacca polyandra",
+            "term": "Phytolacca polyandra",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae57",
+                "wikidata": "Q10933179"
+            }
+        },
+        {
+            "name": "Phytolacca japonica",
+            "term": "Phytolacca japonica",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae58",
+                "wikidata": "Q11086311"
+            }
+        },
+        {
+            "name": "Phytolacca abyssinica",
+            "term": "Phytolacca abyssinica",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae59",
+                "wikidata": "Q12219761"
+            }
+        },
+        {
+            "name": "Phytolacca sandwicensis",
+            "term": "Phytolacca sandwicensis",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae60",
+                "wikidata": "Q12219762"
+            }
+        },
+        {
+            "name": "Phytolacca dodecandra",
+            "term": "Phytolacca dodecandra",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae61",
+                "wikidata": "Q12219763"
+            }
+        },
+        {
+            "name": "Phytolacca heptandra",
+            "term": "Phytolacca heptandra",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae62",
+                "wikidata": "Q12219764"
+            }
+        },
+        {
+            "name": "Phytolacca octandra",
+            "term": "Phytolacca octandra",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae63",
+                "wikidata": "Q12219765"
+            }
+        },
+        {
+            "name": "Phytolacca heteropetala",
+            "term": "Phytolacca heteropetala",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae64",
+                "wikidata": "Q12219766"
+            }
+        },
+        {
+            "name": "Phytolacca rivinoides",
+            "term": "Phytolacca rivinoides",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae65",
+                "wikidata": "Q12219768"
+            }
+        },
+        {
+            "name": "Phytolacca pruinosa",
+            "term": "Phytolacca pruinosa",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae66",
+                "wikidata": "Q16967034"
+            }
+        },
+        {
+            "name": "Phytolacca thyrsiflora",
+            "term": "Phytolacca thyrsiflora",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae67",
+                "wikidata": "Q17242884"
+            }
+        },
+        {
+            "name": "Phytolacca esculenta",
+            "term": "Phytolacca esculenta",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae68",
+                "wikidata": "Q17244662"
+            }
+        },
+        {
+            "name": "Phytolacca meziana",
+            "term": "Phytolacca meziana",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae69",
+                "wikidata": "Q17244904"
+            }
+        },
+        {
+            "name": "Phytolacca rugosa",
+            "term": "Phytolacca rugosa",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae70",
+                "wikidata": "Q17245352"
+            }
+        },
+        {
+            "name": "Phytolacca sanguinea",
+            "term": "Phytolacca sanguinea",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae71",
+                "wikidata": "Q17245591"
+            }
+        },
+        {
+            "name": "Phytolacca heterotepala",
+            "term": "Phytolacca heterotepala",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae72",
+                "wikidata": "Q18463244"
+            }
+        },
+        {
+            "name": "Phytolacca tetramera",
+            "term": "Phytolacca tetramera",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae73",
+                "wikidata": "Q20021998"
+            }
+        },
+        {
+            "name": "Phytolacca clavigera",
+            "term": "Phytolacca clavigera",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae74",
+                "wikidata": "Q21307095"
+            }
+        },
+        {
+            "name": "Phytolacca subg. Phytolacca",
+            "term": "Phytolacca subg. Phytolacca",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae75",
+                "wikidata": "Q21382528"
+            }
+        },
+        {
+            "name": "Phytolacca asiatica",
+            "term": "Phytolacca asiatica",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae76",
+                "wikidata": "Q21876250"
+            }
+        },
+        {
+            "name": "Phytolacca americana var. americana",
+            "term": "Phytolacca americana var. americana",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae77",
+                "wikidata": "Q24692844"
+            }
+        },
+        {
+            "name": "Phytolacca americana var. rigida",
+            "term": "Phytolacca americana var. rigida",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae78",
+                "wikidata": "Q24692845"
+            }
+        },
+        {
+            "name": "Phytolacca sect. Phytolacca",
+            "term": "Phytolacca sect. Phytolacca",
+            "identifiers": {
+                "contentmine": "CM.phytolaccaceae79",
+                "wikidata": "Q21378451"
+            }
+        }
+    ],
+    "id": "CM.phytolaccaceae"
+}

@@ -1,1 +1,2229 @@
-{"entries":[{"name":"Icacinaceae","term":"Icacinaceae","identifiers":{"contentmine":"CM.icacinaceae0","wikidata":"Q133316"}},{"name":"Emmotum","term":"Emmotum","identifiers":{"contentmine":"CM.icacinaceae1","wikidata":"Q580109"}},{"name":"Hosiea","term":"Hosiea","identifiers":{"contentmine":"CM.icacinaceae2","wikidata":"Q590136"}},{"name":"Mappia","term":"Mappia","identifiers":{"contentmine":"CM.icacinaceae3","wikidata":"Q1334900"}},{"name":"Calatola","term":"Calatola","identifiers":{"contentmine":"CM.icacinaceae4","wikidata":"Q1338444"}},{"name":"Alsodeiopsis","term":"Alsodeiopsis","identifiers":{"contentmine":"CM.icacinaceae5","wikidata":"Q1338585"}},{"name":"Sarcostigma","term":"Sarcostigma","identifiers":{"contentmine":"CM.icacinaceae6","wikidata":"Q2841118"}},{"name":"Cassinopsis","term":"Cassinopsis","identifiers":{"contentmine":"CM.icacinaceae7","wikidata":"Q3302841"}},{"name":"Apodytes","term":"Apodytes","identifiers":{"contentmine":"CM.icacinaceae8","wikidata":"Q5262538"}},{"name":"Rhaphiostylis","term":"Rhaphiostylis","identifiers":{"contentmine":"CM.icacinaceae9","wikidata":"Q5401722"}},{"name":"Natsiatum","term":"Natsiatum","identifiers":{"contentmine":"CM.icacinaceae10","wikidata":"Q5406794"}},{"name":"Stachyanthus","term":"Stachyanthus","identifiers":{"contentmine":"CM.icacinaceae11","wikidata":"Q5838419"}},{"name":"Oecopetalum","term":"Oecopetalum","identifiers":{"contentmine":"CM.icacinaceae12","wikidata":"Q6049103"}},{"name":"Ottoschulzia","term":"Ottoschulzia","identifiers":{"contentmine":"CM.icacinaceae13","wikidata":"Q6054767"}},{"name":"Phytocrene","term":"Phytocrene","identifiers":{"contentmine":"CM.icacinaceae14","wikidata":"Q6074756"}},{"name":"Pleurisanthes","term":"Pleurisanthes","identifiers":{"contentmine":"CM.icacinaceae15","wikidata":"Q6080676"}},{"name":"Polycephalium","term":"Polycephalium","identifiers":{"contentmine":"CM.icacinaceae16","wikidata":"Q6082078"}},{"name":"Poraqueiba","term":"Poraqueiba","identifiers":{"contentmine":"CM.icacinaceae17","wikidata":"Q6082865"}},{"name":"Rhyticaryum","term":"Rhyticaryum","identifiers":{"contentmine":"CM.icacinaceae18","wikidata":"Q6107855"}},{"name":"Pyrenacantha","term":"Pyrenacantha","identifiers":{"contentmine":"CM.icacinaceae19","wikidata":"Q7263429"}},{"name":"Casimirella","term":"Casimirella","identifiers":{"contentmine":"CM.icacinaceae20","wikidata":"Q8342024"}},{"name":"Chlamydocarya","term":"Chlamydocarya","identifiers":{"contentmine":"CM.icacinaceae21","wikidata":"Q8345467"}},{"name":"Desmostachys","term":"Desmostachys","identifiers":{"contentmine":"CM.icacinaceae22","wikidata":"Q8355097"}},{"name":"Icacina","term":"Icacina","identifiers":{"contentmine":"CM.icacinaceae23","wikidata":"Q9006646"}},{"name":"Mappianthus","term":"Mappianthus","identifiers":{"contentmine":"CM.icacinaceae24","wikidata":"Q9028386"}},{"name":"Merrilliodendron","term":"Merrilliodendron","identifiers":{"contentmine":"CM.icacinaceae25","wikidata":"Q9031807"}},{"name":"Natsiatopsis","term":"Natsiatopsis","identifiers":{"contentmine":"CM.icacinaceae26","wikidata":"Q9048904"}},{"name":"Nothapodytes","term":"Nothapodytes","identifiers":{"contentmine":"CM.icacinaceae27","wikidata":"Q9050804"}},{"name":"Pittosporopsis","term":"Pittosporopsis","identifiers":{"contentmine":"CM.icacinaceae28","wikidata":"Q9060166"}},{"name":"Polyporandra","term":"Polyporandra","identifiers":{"contentmine":"CM.icacinaceae29","wikidata":"Q9061549"}},{"name":"Iodes","term":"Iodes","identifiers":{"contentmine":"CM.icacinaceae30","wikidata":"Q9286362"}},{"name":"Pteleocarpa","term":"Pteleocarpa","identifiers":{"contentmine":"CM.icacinaceae31","wikidata":"Q15938438"}},{"name":"Platea","term":"Platea","identifiers":{"contentmine":"CM.icacinaceae32","wikidata":"Q16855010"}},{"name":"Ryticaryum","term":"Ryticaryum","identifiers":{"contentmine":"CM.icacinaceae33","wikidata":"Q18173118"}},{"name":"Miquelia","term":"Miquelia","identifiers":{"contentmine":"CM.icacinaceae34","wikidata":"Q18173125"}},{"name":"Lavigeria","term":"Lavigeria","identifiers":{"contentmine":"CM.icacinaceae35","wikidata":"Q18340099"}},{"name":"Leretia","term":"Leretia","identifiers":{"contentmine":"CM.icacinaceae36","wikidata":"Q18340101"}},{"name":"Icacineae","term":"Icacineae","identifiers":{"contentmine":"CM.icacinaceae37","wikidata":"Q18657317"}},{"name":"Sleumeria","term":"Sleumeria","identifiers":{"contentmine":"CM.icacinaceae38","wikidata":"Q21078589"}},{"name":"Icacinicaryites","term":"Icacinicaryites","identifiers":{"contentmine":"CM.icacinaceae39","wikidata":"Q21216265"}},{"name":"Palaeophytocrene","term":"Palaeophytocrene","identifiers":{"contentmine":"CM.icacinaceae40","wikidata":"Q21397147"}},{"name":"Icacinicarya","term":"Icacinicarya","identifiers":{"contentmine":"CM.icacinaceae41","wikidata":"Q21397152"}},{"name":"Iodicarpa","term":"Iodicarpa","identifiers":{"contentmine":"CM.icacinaceae42","wikidata":"Q21397506"}},{"name":"Comicilabium","term":"Comicilabium","identifiers":{"contentmine":"CM.icacinaceae43","wikidata":"Q21397613"}},{"name":"Emmotum nitens","term":"Emmotum nitens","identifiers":{"contentmine":"CM.icacinaceae44","wikidata":"Q18072642"}},{"name":"Emmotum orbiculatum","term":"Emmotum orbiculatum","identifiers":{"contentmine":"CM.icacinaceae45","wikidata":"Q18072659"}},{"name":"Emmotum yapacanum","term":"Emmotum yapacanum","identifiers":{"contentmine":"CM.icacinaceae46","wikidata":"Q18072675"}},{"name":"Emmotum acuminatum","term":"Emmotum acuminatum","identifiers":{"contentmine":"CM.icacinaceae47","wikidata":"Q18072850"}},{"name":"Emmotum affine","term":"Emmotum affine","identifiers":{"contentmine":"CM.icacinaceae48","wikidata":"Q18072871"}},{"name":"Emmotum amazonicum","term":"Emmotum amazonicum","identifiers":{"contentmine":"CM.icacinaceae49","wikidata":"Q18072896"}},{"name":"Emmotum celiae","term":"Emmotum celiae","identifiers":{"contentmine":"CM.icacinaceae50","wikidata":"Q18072930"}},{"name":"Emmotum conjunctum","term":"Emmotum conjunctum","identifiers":{"contentmine":"CM.icacinaceae51","wikidata":"Q18073021"}},{"name":"Emmotum fagifolium","term":"Emmotum fagifolium","identifiers":{"contentmine":"CM.icacinaceae52","wikidata":"Q18073064"}},{"name":"Emmotum floribundum","term":"Emmotum floribundum","identifiers":{"contentmine":"CM.icacinaceae53","wikidata":"Q18073126"}},{"name":"Emmotum fulvum","term":"Emmotum fulvum","identifiers":{"contentmine":"CM.icacinaceae54","wikidata":"Q18073182"}},{"name":"Emmotum glabrum","term":"Emmotum glabrum","identifiers":{"contentmine":"CM.icacinaceae55","wikidata":"Q18073231"}},{"name":"Emmotum harleyi","term":"Emmotum harleyi","identifiers":{"contentmine":"CM.icacinaceae56","wikidata":"Q18073262"}},{"name":"Hosiea sinensis","term":"Hosiea sinensis","identifiers":{"contentmine":"CM.icacinaceae57","wikidata":"Q11085997"}},{"name":"Hosiea japonica","term":"Hosiea japonica","identifiers":{"contentmine":"CM.icacinaceae58","wikidata":"Q18072664"}},{"name":"Mappia racemosa","term":"Mappia racemosa","identifiers":{"contentmine":"CM.icacinaceae59","wikidata":"Q5458625"}},{"name":"Mappia angustifolia","term":"Mappia angustifolia","identifiers":{"contentmine":"CM.icacinaceae60","wikidata":"Q18080581"}},{"name":"Mappia longipes","term":"Mappia longipes","identifiers":{"contentmine":"CM.icacinaceae61","wikidata":"Q18080803"}},{"name":"Mappia mexicana","term":"Mappia mexicana","identifiers":{"contentmine":"CM.icacinaceae62","wikidata":"Q18081028"}},{"name":"Mappia multiflora","term":"Mappia multiflora","identifiers":{"contentmine":"CM.icacinaceae63","wikidata":"Q18081143"}},{"name":"Calatola columbiana","term":"Calatola columbiana","identifiers":{"contentmine":"CM.icacinaceae64","wikidata":"Q5469068"}},{"name":"Calatola costaricensis","term":"Calatola costaricensis","identifiers":{"contentmine":"CM.icacinaceae65","wikidata":"Q18082984"}},{"name":"Calatola laevigata","term":"Calatola laevigata","identifiers":{"contentmine":"CM.icacinaceae66","wikidata":"Q18083341"}},{"name":"Calatola mollis","term":"Calatola mollis","identifiers":{"contentmine":"CM.icacinaceae67","wikidata":"Q18083954"}},{"name":"Calatola microcarpa","term":"Calatola microcarpa","identifiers":{"contentmine":"CM.icacinaceae68","wikidata":"Q18084085"}},{"name":"Calatola sanquininensis","term":"Calatola sanquininensis","identifiers":{"contentmine":"CM.icacinaceae69","wikidata":"Q18084200"}},{"name":"Calatola uxpanapensis","term":"Calatola uxpanapensis","identifiers":{"contentmine":"CM.icacinaceae70","wikidata":"Q18084277"}},{"name":"Alsodeiopsis schumannii","term":"Alsodeiopsis schumannii","identifiers":{"contentmine":"CM.icacinaceae71","wikidata":"Q4735822"}},{"name":"Alsodeiopsis staudtii","term":"Alsodeiopsis staudtii","identifiers":{"contentmine":"CM.icacinaceae72","wikidata":"Q18075313"}},{"name":"Alsodeiopsis chippii","term":"Alsodeiopsis chippii","identifiers":{"contentmine":"CM.icacinaceae73","wikidata":"Q18075404"}},{"name":"Alsodeiopsis mannii","term":"Alsodeiopsis mannii","identifiers":{"contentmine":"CM.icacinaceae74","wikidata":"Q18075484"}},{"name":"Alsodeiopsis weissenborniana","term":"Alsodeiopsis weissenborniana","identifiers":{"contentmine":"CM.icacinaceae75","wikidata":"Q18075522"}},{"name":"Alsodeiopsis poggei","term":"Alsodeiopsis poggei","identifiers":{"contentmine":"CM.icacinaceae76","wikidata":"Q18075603"}},{"name":"Alsodeiopsis zenkeri","term":"Alsodeiopsis zenkeri","identifiers":{"contentmine":"CM.icacinaceae77","wikidata":"Q18075624"}},{"name":"Alsodeiopsis rubra","term":"Alsodeiopsis rubra","identifiers":{"contentmine":"CM.icacinaceae78","wikidata":"Q18075863"}},{"name":"Alsodeiopsis villosa","term":"Alsodeiopsis villosa","identifiers":{"contentmine":"CM.icacinaceae79","wikidata":"Q18082160"}},{"name":"Alsodeiopsis rowlandii","term":"Alsodeiopsis rowlandii","identifiers":{"contentmine":"CM.icacinaceae80","wikidata":"Q18082195"}},{"name":"Sarcostigma kleinii","term":"Sarcostigma kleinii","identifiers":{"contentmine":"CM.icacinaceae81","wikidata":"Q13114815"}},{"name":"Sarcostigma paniculata","term":"Sarcostigma paniculata","identifiers":{"contentmine":"CM.icacinaceae82","wikidata":"Q18078054"}},{"name":"Cassinopsis chapelieri","term":"Cassinopsis chapelieri","identifiers":{"contentmine":"CM.icacinaceae83","wikidata":"Q18082616"}},{"name":"Cassinopsis ciliata","term":"Cassinopsis ciliata","identifiers":{"contentmine":"CM.icacinaceae84","wikidata":"Q18083110"}},{"name":"Cassinopsis ilicifolia","term":"Cassinopsis ilicifolia","identifiers":{"contentmine":"CM.icacinaceae85","wikidata":"Q18083373"}},{"name":"Cassinopsis madagascariensis","term":"Cassinopsis madagascariensis","identifiers":{"contentmine":"CM.icacinaceae86","wikidata":"Q18083615"}},{"name":"Cassinopsis tinifoiia","term":"Cassinopsis tinifoiia","identifiers":{"contentmine":"CM.icacinaceae87","wikidata":"Q18083952"}},{"name":"Cassinopsis tomentosa","term":"Cassinopsis tomentosa","identifiers":{"contentmine":"CM.icacinaceae88","wikidata":"Q18084180"}},{"name":"Apodytes dimidiata","term":"Apodytes dimidiata","identifiers":{"contentmine":"CM.icacinaceae89","wikidata":"Q4780197"}},{"name":"Apodytes bebile","term":"Apodytes bebile","identifiers":{"contentmine":"CM.icacinaceae90","wikidata":"Q18075999"}},{"name":"Apodytes abbottii","term":"Apodytes abbottii","identifiers":{"contentmine":"CM.icacinaceae91","wikidata":"Q18076267"}},{"name":"Apodytes geldenhuysii","term":"Apodytes geldenhuysii","identifiers":{"contentmine":"CM.icacinaceae92","wikidata":"Q18076583"}},{"name":"Apodytes grandifolia","term":"Apodytes grandifolia","identifiers":{"contentmine":"CM.icacinaceae93","wikidata":"Q18076677"}},{"name":"Apodytes thouvenotii","term":"Apodytes thouvenotii","identifiers":{"contentmine":"CM.icacinaceae94","wikidata":"Q18076863"}},{"name":"Apodytes clusiifolia","term":"Apodytes clusiifolia","identifiers":{"contentmine":"CM.icacinaceae95","wikidata":"Q18082311"}},{"name":"Apodytes brachystylis","term":"Apodytes brachystylis","identifiers":{"contentmine":"CM.icacinaceae96","wikidata":"Q18083457"}},{"name":"Rhaphiostylis beninensis","term":"Rhaphiostylis beninensis","identifiers":{"contentmine":"CM.icacinaceae97","wikidata":"Q18015702"}},{"name":"Rhaphiostylis cordifolia","term":"Rhaphiostylis cordifolia","identifiers":{"contentmine":"CM.icacinaceae98","wikidata":"Q18076144"}},{"name":"Rhaphiostylis fusca","term":"Rhaphiostylis fusca","identifiers":{"contentmine":"CM.icacinaceae99","wikidata":"Q18076412"}},{"name":"Rhaphiostylis madagascariensis","term":"Rhaphiostylis madagascariensis","identifiers":{"contentmine":"CM.icacinaceae100","wikidata":"Q18076530"}},{"name":"Rhaphiostylis ovatifolia","term":"Rhaphiostylis ovatifolia","identifiers":{"contentmine":"CM.icacinaceae101","wikidata":"Q18076634"}},{"name":"Rhaphiostylis parvifolia","term":"Rhaphiostylis parvifolia","identifiers":{"contentmine":"CM.icacinaceae102","wikidata":"Q18077036"}},{"name":"Rhaphiostylis poggei","term":"Rhaphiostylis poggei","identifiers":{"contentmine":"CM.icacinaceae103","wikidata":"Q18077388"}},{"name":"Rhaphiostylis preussii","term":"Rhaphiostylis preussii","identifiers":{"contentmine":"CM.icacinaceae104","wikidata":"Q18077765"}},{"name":"Rhaphiostylis subsessilifolia","term":"Rhaphiostylis subsessilifolia","identifiers":{"contentmine":"CM.icacinaceae105","wikidata":"Q18078407"}},{"name":"Rhaphiostylis elegans","term":"Rhaphiostylis elegans","identifiers":{"contentmine":"CM.icacinaceae106","wikidata":"Q18081802"}},{"name":"Rhaphiostylis ferruginea","term":"Rhaphiostylis ferruginea","identifiers":{"contentmine":"CM.icacinaceae107","wikidata":"Q18083823"}},{"name":"Natsiatum herpeticum","term":"Natsiatum herpeticum","identifiers":{"contentmine":"CM.icacinaceae108","wikidata":"Q15235502"}},{"name":"Stachyanthus devredii","term":"Stachyanthus devredii","identifiers":{"contentmine":"CM.icacinaceae109","wikidata":"Q18073136"}},{"name":"Stachyanthus donisii","term":"Stachyanthus donisii","identifiers":{"contentmine":"CM.icacinaceae110","wikidata":"Q18073174"}},{"name":"Stachyanthus cuneatus","term":"Stachyanthus cuneatus","identifiers":{"contentmine":"CM.icacinaceae111","wikidata":"Q18073184"}},{"name":"Stachyanthus occidentalis","term":"Stachyanthus occidentalis","identifiers":{"contentmine":"CM.icacinaceae112","wikidata":"Q18073230"}},{"name":"Stachyanthus zenkeri","term":"Stachyanthus zenkeri","identifiers":{"contentmine":"CM.icacinaceae113","wikidata":"Q18073309"}},{"name":"Oecopetalum greenmanii","term":"Oecopetalum greenmanii","identifiers":{"contentmine":"CM.icacinaceae114","wikidata":"Q18076229"}},{"name":"Oecopetalum guatemalense","term":"Oecopetalum guatemalense","identifiers":{"contentmine":"CM.icacinaceae115","wikidata":"Q18076315"}},{"name":"Oecopetalum mexicanum","term":"Oecopetalum mexicanum","identifiers":{"contentmine":"CM.icacinaceae116","wikidata":"Q18076366"}},{"name":"Ottoschulzia rhodoxylon","term":"Ottoschulzia rhodoxylon","identifiers":{"contentmine":"CM.icacinaceae117","wikidata":"Q7109994"}},{"name":"Ottoschulzia cubensis","term":"Ottoschulzia cubensis","identifiers":{"contentmine":"CM.icacinaceae118","wikidata":"Q18078567"}},{"name":"Ottoschulzia domingensis","term":"Ottoschulzia domingensis","identifiers":{"contentmine":"CM.icacinaceae119","wikidata":"Q18078646"}},{"name":"Ottoschulzia pallida","term":"Ottoschulzia pallida","identifiers":{"contentmine":"CM.icacinaceae120","wikidata":"Q18078699"}},{"name":"Phytocrene racemosa","term":"Phytocrene racemosa","identifiers":{"contentmine":"CM.icacinaceae121","wikidata":"Q18075969"}},{"name":"Phytocrene borneensis","term":"Phytocrene borneensis","identifiers":{"contentmine":"CM.icacinaceae122","wikidata":"Q18076003"}},{"name":"Phytocrene trichura","term":"Phytocrene trichura","identifiers":{"contentmine":"CM.icacinaceae123","wikidata":"Q18076103"}},{"name":"Phytocrene hirsuta","term":"Phytocrene hirsuta","identifiers":{"contentmine":"CM.icacinaceae124","wikidata":"Q18076231"}},{"name":"Phytocrene interrupta","term":"Phytocrene interrupta","identifiers":{"contentmine":"CM.icacinaceae125","wikidata":"Q18076381"}},{"name":"Phytocrene macrophylla","term":"Phytocrene macrophylla","identifiers":{"contentmine":"CM.icacinaceae126","wikidata":"Q18076589"}},{"name":"Phytocrene oblonga","term":"Phytocrene oblonga","identifiers":{"contentmine":"CM.icacinaceae127","wikidata":"Q18076731"}},{"name":"Phytocrene palmata","term":"Phytocrene palmata","identifiers":{"contentmine":"CM.icacinaceae128","wikidata":"Q18076858"}},{"name":"Phytocrene anomala","term":"Phytocrene anomala","identifiers":{"contentmine":"CM.icacinaceae129","wikidata":"Q18082415"}},{"name":"Phytocrene integerrima","term":"Phytocrene integerrima","identifiers":{"contentmine":"CM.icacinaceae130","wikidata":"Q18083008"}},{"name":"Phytocrene bracteata","term":"Phytocrene bracteata","identifiers":{"contentmine":"CM.icacinaceae131","wikidata":"Q18083441"}},{"name":"Phytocrene blancoi","term":"Phytocrene blancoi","identifiers":{"contentmine":"CM.icacinaceae132","wikidata":"Q21307153"}},{"name":"Pleurisanthes artocarpis","term":"Pleurisanthes artocarpis","identifiers":{"contentmine":"CM.icacinaceae133","wikidata":"Q18078501"}},{"name":"Pleurisanthes brasiliensis","term":"Pleurisanthes brasiliensis","identifiers":{"contentmine":"CM.icacinaceae134","wikidata":"Q18078729"}},{"name":"Pleurisanthes emarginata","term":"Pleurisanthes emarginata","identifiers":{"contentmine":"CM.icacinaceae135","wikidata":"Q18078931"}},{"name":"Pleurisanthes flava","term":"Pleurisanthes flava","identifiers":{"contentmine":"CM.icacinaceae136","wikidata":"Q18079028"}},{"name":"Pleurisanthes howardii","term":"Pleurisanthes howardii","identifiers":{"contentmine":"CM.icacinaceae137","wikidata":"Q18079167"}},{"name":"Pleurisanthes parviflora","term":"Pleurisanthes parviflora","identifiers":{"contentmine":"CM.icacinaceae138","wikidata":"Q18079422"}},{"name":"Pleurisanthes simpliciflora","term":"Pleurisanthes simpliciflora","identifiers":{"contentmine":"CM.icacinaceae139","wikidata":"Q18079547"}},{"name":"Polycephalium capitatum","term":"Polycephalium capitatum","identifiers":{"contentmine":"CM.icacinaceae140","wikidata":"Q18079045"}},{"name":"Polycephalium lobatum","term":"Polycephalium lobatum","identifiers":{"contentmine":"CM.icacinaceae141","wikidata":"Q18079116"}},{"name":"Poraqueiba sericea","term":"Poraqueiba sericea","identifiers":{"contentmine":"CM.icacinaceae142","wikidata":"Q6082867"}},{"name":"Poraqueiba guianensis","term":"Poraqueiba guianensis","identifiers":{"contentmine":"CM.icacinaceae143","wikidata":"Q18083353"}},{"name":"Poraqueiba paraensis","term":"Poraqueiba paraensis","identifiers":{"contentmine":"CM.icacinaceae144","wikidata":"Q18083604"}},{"name":"Pyrenacantha cordicula","term":"Pyrenacantha cordicula","identifiers":{"contentmine":"CM.icacinaceae145","wikidata":"Q5477501"}},{"name":"Pyrenacantha malvifolia","term":"Pyrenacantha malvifolia","identifiers":{"contentmine":"CM.icacinaceae146","wikidata":"Q7263428"}},{"name":"Pyrenacantha volubilis","term":"Pyrenacantha volubilis","identifiers":{"contentmine":"CM.icacinaceae147","wikidata":"Q10898596"}},{"name":"Pyrenacantha gabonica","term":"Pyrenacantha gabonica","identifiers":{"contentmine":"CM.icacinaceae148","wikidata":"Q18074766"}},{"name":"Pyrenacantha chlorantha","term":"Pyrenacantha chlorantha","identifiers":{"contentmine":"CM.icacinaceae149","wikidata":"Q18074882"}},{"name":"Pyrenacantha laetevirens","term":"Pyrenacantha laetevirens","identifiers":{"contentmine":"CM.icacinaceae150","wikidata":"Q18074935"}},{"name":"Pyrenacantha glabrescens","term":"Pyrenacantha glabrescens","identifiers":{"contentmine":"CM.icacinaceae151","wikidata":"Q18074956"}},{"name":"Pyrenacantha lebrunii","term":"Pyrenacantha lebrunii","identifiers":{"contentmine":"CM.icacinaceae152","wikidata":"Q18075060"}},{"name":"Pyrenacantha longirostrata","term":"Pyrenacantha longirostrata","identifiers":{"contentmine":"CM.icacinaceae153","wikidata":"Q18075158"}},{"name":"Pyrenacantha grandifolia","term":"Pyrenacantha grandifolia","identifiers":{"contentmine":"CM.icacinaceae154","wikidata":"Q18075302"}},{"name":"Pyrenacantha humblotii","term":"Pyrenacantha humblotii","identifiers":{"contentmine":"CM.icacinaceae155","wikidata":"Q18075346"}},{"name":"Pyrenacantha perrieri","term":"Pyrenacantha perrieri","identifiers":{"contentmine":"CM.icacinaceae156","wikidata":"Q18075389"}},{"name":"Pyrenacantha kaurabassana","term":"Pyrenacantha kaurabassana","identifiers":{"contentmine":"CM.icacinaceae157","wikidata":"Q18075406"}},{"name":"Pyrenacantha kirkii","term":"Pyrenacantha kirkii","identifiers":{"contentmine":"CM.icacinaceae158","wikidata":"Q18075515"}},{"name":"Pyrenacantha klaineana","term":"Pyrenacantha klaineana","identifiers":{"contentmine":"CM.icacinaceae159","wikidata":"Q18075609"}},{"name":"Pyrenacantha rakotozafyi","term":"Pyrenacantha rakotozafyi","identifiers":{"contentmine":"CM.icacinaceae160","wikidata":"Q18075653"}},{"name":"Pyrenacantha andapensis","term":"Pyrenacantha andapensis","identifiers":{"contentmine":"CM.icacinaceae161","wikidata":"Q18075720"}},{"name":"Pyrenacantha sylvestris","term":"Pyrenacantha sylvestris","identifiers":{"contentmine":"CM.icacinaceae162","wikidata":"Q18076145"}},{"name":"Pyrenacantha vogeliana","term":"Pyrenacantha vogeliana","identifiers":{"contentmine":"CM.icacinaceae163","wikidata":"Q18076443"}},{"name":"Pyrenacantha ambrensis","term":"Pyrenacantha ambrensis","identifiers":{"contentmine":"CM.icacinaceae164","wikidata":"Q18081376"}},{"name":"Pyrenacantha tropophila","term":"Pyrenacantha tropophila","identifiers":{"contentmine":"CM.icacinaceae165","wikidata":"Q18081763"}},{"name":"Pyrenacantha grandiflora","term":"Pyrenacantha grandiflora","identifiers":{"contentmine":"CM.icacinaceae166","wikidata":"Q18081789"}},{"name":"Pyrenacantha acuminata","term":"Pyrenacantha acuminata","identifiers":{"contentmine":"CM.icacinaceae167","wikidata":"Q18082437"}},{"name":"Pyrenacantha puberula","term":"Pyrenacantha puberula","identifiers":{"contentmine":"CM.icacinaceae168","wikidata":"Q18082615"}},{"name":"Pyrenacantha staudtii","term":"Pyrenacantha staudtii","identifiers":{"contentmine":"CM.icacinaceae169","wikidata":"Q18082671"}},{"name":"Pyrenacantha repanda","term":"Pyrenacantha repanda","identifiers":{"contentmine":"CM.icacinaceae170","wikidata":"Q18082752"}},{"name":"Pyrenacantha capitata","term":"Pyrenacantha capitata","identifiers":{"contentmine":"CM.icacinaceae171","wikidata":"Q18083119"}},{"name":"Pyrenacantha scandens","term":"Pyrenacantha scandens","identifiers":{"contentmine":"CM.icacinaceae172","wikidata":"Q18083195"}},{"name":"Pyrenacantha villiersii","term":"Pyrenacantha villiersii","identifiers":{"contentmine":"CM.icacinaceae173","wikidata":"Q18083745"}},{"name":"Pyrenacantha occidentalis","term":"Pyrenacantha occidentalis","identifiers":{"contentmine":"CM.icacinaceae174","wikidata":"Q21397633"}},{"name":"Casimirella ampla","term":"Casimirella ampla","identifiers":{"contentmine":"CM.icacinaceae175","wikidata":"Q18081555"}},{"name":"Casimirella beckii","term":"Casimirella beckii","identifiers":{"contentmine":"CM.icacinaceae176","wikidata":"Q18081735"}},{"name":"Casimirella crispula","term":"Casimirella crispula","identifiers":{"contentmine":"CM.icacinaceae177","wikidata":"Q18081947"}},{"name":"Casimirella diversifolia","term":"Casimirella diversifolia","identifiers":{"contentmine":"CM.icacinaceae178","wikidata":"Q18082035"}},{"name":"Casimirella guaranitica","term":"Casimirella guaranitica","identifiers":{"contentmine":"CM.icacinaceae179","wikidata":"Q18082102"}},{"name":"Casimirella lanata","term":"Casimirella lanata","identifiers":{"contentmine":"CM.icacinaceae180","wikidata":"Q18082315"}},{"name":"Casimirella rupestris","term":"Casimirella rupestris","identifiers":{"contentmine":"CM.icacinaceae181","wikidata":"Q18082638"}},{"name":"Chlamydocarya gossweileri","term":"Chlamydocarya gossweileri","identifiers":{"contentmine":"CM.icacinaceae182","wikidata":"Q18074175"}},{"name":"Chlamydocarya macrocarpa","term":"Chlamydocarya macrocarpa","identifiers":{"contentmine":"CM.icacinaceae183","wikidata":"Q18074288"}},{"name":"Chlamydocarya soyauxii","term":"Chlamydocarya soyauxii","identifiers":{"contentmine":"CM.icacinaceae184","wikidata":"Q18074374"}},{"name":"Chlamydocarya thomsoniana","term":"Chlamydocarya thomsoniana","identifiers":{"contentmine":"CM.icacinaceae185","wikidata":"Q18074468"}},{"name":"Chlamydocarya anhydathoda","term":"Chlamydocarya anhydathoda","identifiers":{"contentmine":"CM.icacinaceae186","wikidata":"Q18075243"}},{"name":"Desmostachys vogelii","term":"Desmostachys vogelii","identifiers":{"contentmine":"CM.icacinaceae187","wikidata":"Q18079035"}},{"name":"Desmostachys brevipes","term":"Desmostachys brevipes","identifiers":{"contentmine":"CM.icacinaceae188","wikidata":"Q18081412"}},{"name":"Desmostachys oblongifolia","term":"Desmostachys oblongifolia","identifiers":{"contentmine":"CM.icacinaceae189","wikidata":"Q18081564"}},{"name":"Desmostachys planchoniana","term":"Desmostachys planchoniana","identifiers":{"contentmine":"CM.icacinaceae190","wikidata":"Q18081716"}},{"name":"Desmostachys tenuifolius","term":"Desmostachys tenuifolius","identifiers":{"contentmine":"CM.icacinaceae191","wikidata":"Q18081855"}},{"name":"Icacina claessensii","term":"Icacina claessensii","identifiers":{"contentmine":"CM.icacinaceae192","wikidata":"Q18074913"}},{"name":"Icacina trichantha","term":"Icacina trichantha","identifiers":{"contentmine":"CM.icacinaceae193","wikidata":"Q18075612"}},{"name":"Icacina guessfeldtii","term":"Icacina guessfeldtii","identifiers":{"contentmine":"CM.icacinaceae194","wikidata":"Q18081629"}},{"name":"Icacina mannii","term":"Icacina mannii","identifiers":{"contentmine":"CM.icacinaceae195","wikidata":"Q18081919"}},{"name":"Icacina oliviformis","term":"Icacina oliviformis","identifiers":{"contentmine":"CM.icacinaceae196","wikidata":"Q18082511"}},{"name":"Mappianthus iodoides","term":"Mappianthus iodoides","identifiers":{"contentmine":"CM.icacinaceae197","wikidata":"Q10948556"}},{"name":"Merrilliodendron megacarpum","term":"Merrilliodendron megacarpum","identifiers":{"contentmine":"CM.icacinaceae198","wikidata":"Q17271539"}},{"name":"Natsiatopsis thunbergiifolia","term":"Natsiatopsis thunbergiifolia","identifiers":{"contentmine":"CM.icacinaceae199","wikidata":"Q15250303"}},{"name":"Nothapodytes obtusifolia","term":"Nothapodytes obtusifolia","identifiers":{"contentmine":"CM.icacinaceae200","wikidata":"Q10888600"}},{"name":"Nothapodytes collina","term":"Nothapodytes collina","identifiers":{"contentmine":"CM.icacinaceae201","wikidata":"Q10910912"}},{"name":"Nothapodytes tomentosa","term":"Nothapodytes tomentosa","identifiers":{"contentmine":"CM.icacinaceae202","wikidata":"Q11126381"}},{"name":"Nothapodytes nimmoniana","term":"Nothapodytes nimmoniana","identifiers":{"contentmine":"CM.icacinaceae203","wikidata":"Q13113387"}},{"name":"Nothapodytes pittosporoides","term":"Nothapodytes pittosporoides","identifiers":{"contentmine":"CM.icacinaceae204","wikidata":"Q15247284"}},{"name":"Nothapodytes foetida","term":"Nothapodytes foetida","identifiers":{"contentmine":"CM.icacinaceae205","wikidata":"Q15250898"}},{"name":"Nothapodytes obscura","term":"Nothapodytes obscura","identifiers":{"contentmine":"CM.icacinaceae206","wikidata":"Q15251444"}},{"name":"Nothapodytes minutiflora","term":"Nothapodytes minutiflora","identifiers":{"contentmine":"CM.icacinaceae207","wikidata":"Q17236095"}},{"name":"Nothapodytes montana","term":"Nothapodytes montana","identifiers":{"contentmine":"CM.icacinaceae208","wikidata":"Q17236340"}},{"name":"Nothapodytes amamianus","term":"Nothapodytes amamianus","identifiers":{"contentmine":"CM.icacinaceae209","wikidata":"Q17271012"}},{"name":"Nothapodytes zeylanica","term":"Nothapodytes zeylanica","identifiers":{"contentmine":"CM.icacinaceae210","wikidata":"Q17271023"}},{"name":"Pittosporopsis kerrii","term":"Pittosporopsis kerrii","identifiers":{"contentmine":"CM.icacinaceae211","wikidata":"Q10888626"}},{"name":"Polyporandra scandens","term":"Polyporandra scandens","identifiers":{"contentmine":"CM.icacinaceae212","wikidata":"Q18081171"}},{"name":"Iodes balansae","term":"Iodes balansae","identifiers":{"contentmine":"CM.icacinaceae213","wikidata":"Q10935824"}},{"name":"Iodes vitiginea","term":"Iodes vitiginea","identifiers":{"contentmine":"CM.icacinaceae214","wikidata":"Q10959203"}},{"name":"Iodes cirrhosa","term":"Iodes cirrhosa","identifiers":{"contentmine":"CM.icacinaceae215","wikidata":"Q11071436"}},{"name":"Iodes seguinii","term":"Iodes seguinii","identifiers":{"contentmine":"CM.icacinaceae216","wikidata":"Q15246800"}},{"name":"Iodes philippinensis","term":"Iodes philippinensis","identifiers":{"contentmine":"CM.icacinaceae217","wikidata":"Q18074587"}},{"name":"Iodes pierlotii","term":"Iodes pierlotii","identifiers":{"contentmine":"CM.icacinaceae218","wikidata":"Q18074644"}},{"name":"Iodes globulifera","term":"Iodes globulifera","identifiers":{"contentmine":"CM.icacinaceae219","wikidata":"Q18074696"}},{"name":"Iodes seretii","term":"Iodes seretii","identifiers":{"contentmine":"CM.icacinaceae220","wikidata":"Q18074703"}},{"name":"Iodes kamerunensis","term":"Iodes kamerunensis","identifiers":{"contentmine":"CM.icacinaceae221","wikidata":"Q18074849"}},{"name":"Iodes reticulata","term":"Iodes reticulata","identifiers":{"contentmine":"CM.icacinaceae222","wikidata":"Q18074858"}},{"name":"Iodes yangambiensis","term":"Iodes yangambiensis","identifiers":{"contentmine":"CM.icacinaceae223","wikidata":"Q18074892"}},{"name":"Iodes klaineana","term":"Iodes klaineana","identifiers":{"contentmine":"CM.icacinaceae224","wikidata":"Q18074949"}},{"name":"Iodes usambarensis","term":"Iodes usambarensis","identifiers":{"contentmine":"CM.icacinaceae225","wikidata":"Q18074950"}},{"name":"Iodes yatesii","term":"Iodes yatesii","identifiers":{"contentmine":"CM.icacinaceae226","wikidata":"Q18075029"}},{"name":"Iodes velutina","term":"Iodes velutina","identifiers":{"contentmine":"CM.icacinaceae227","wikidata":"Q18075072"}},{"name":"Iodes liberica","term":"Iodes liberica","identifiers":{"contentmine":"CM.icacinaceae228","wikidata":"Q18075080"}},{"name":"Iodes madagascariensis","term":"Iodes madagascariensis","identifiers":{"contentmine":"CM.icacinaceae229","wikidata":"Q18075131"}},{"name":"Iodes nectarifera","term":"Iodes nectarifera","identifiers":{"contentmine":"CM.icacinaceae230","wikidata":"Q18075299"}},{"name":"Iodes ovalis","term":"Iodes ovalis","identifiers":{"contentmine":"CM.icacinaceae231","wikidata":"Q18075345"}},{"name":"Iodes hookeriana","term":"Iodes hookeriana","identifiers":{"contentmine":"CM.icacinaceae232","wikidata":"Q18081440"}},{"name":"Iodes africana","term":"Iodes africana","identifiers":{"contentmine":"CM.icacinaceae233","wikidata":"Q18081777"}},{"name":"Iodes perrieri","term":"Iodes perrieri","identifiers":{"contentmine":"CM.icacinaceae234","wikidata":"Q18082658"}},{"name":"Iodes multireticulata","term":"Iodes multireticulata","identifiers":{"contentmine":"CM.icacinaceae235","wikidata":"Q21397497"}},{"name":"Iodes chandlerae","term":"Iodes chandlerae","identifiers":{"contentmine":"CM.icacinaceae236","wikidata":"Q21397501"}},{"name":"Pteleocarpa lamponga","term":"Pteleocarpa lamponga","identifiers":{"contentmine":"CM.icacinaceae237","wikidata":"Q7256659"}},{"name":"Platea parvifolia","term":"Platea parvifolia","identifiers":{"contentmine":"CM.icacinaceae238","wikidata":"Q10870396"}},{"name":"Platea latifolia","term":"Platea latifolia","identifiers":{"contentmine":"CM.icacinaceae239","wikidata":"Q15237863"}},{"name":"Platea bullata","term":"Platea bullata","identifiers":{"contentmine":"CM.icacinaceae240","wikidata":"Q17245133"}},{"name":"Platea excelsa","term":"Platea excelsa","identifiers":{"contentmine":"CM.icacinaceae241","wikidata":"Q17245264"}},{"name":"Platea malayana","term":"Platea malayana","identifiers":{"contentmine":"CM.icacinaceae242","wikidata":"Q17245675"}},{"name":"Platea parviflora","term":"Platea parviflora","identifiers":{"contentmine":"CM.icacinaceae243","wikidata":"Q17245986"}},{"name":"Platea sclerophylla","term":"Platea sclerophylla","identifiers":{"contentmine":"CM.icacinaceae244","wikidata":"Q17246109"}},{"name":"Ryticaryum fasciculatum","term":"Ryticaryum fasciculatum","identifiers":{"contentmine":"CM.icacinaceae245","wikidata":"Q18076455"}},{"name":"Ryticaryum gracile","term":"Ryticaryum gracile","identifiers":{"contentmine":"CM.icacinaceae246","wikidata":"Q18076479"}},{"name":"Ryticaryum elegans","term":"Ryticaryum elegans","identifiers":{"contentmine":"CM.icacinaceae247","wikidata":"Q18076624"}},{"name":"Ryticaryum longifolium","term":"Ryticaryum longifolium","identifiers":{"contentmine":"CM.icacinaceae248","wikidata":"Q18076989"}},{"name":"Ryticaryum lucidum","term":"Ryticaryum lucidum","identifiers":{"contentmine":"CM.icacinaceae249","wikidata":"Q18077242"}},{"name":"Ryticaryum macrocarpum","term":"Ryticaryum macrocarpum","identifiers":{"contentmine":"CM.icacinaceae250","wikidata":"Q18077337"}},{"name":"Ryticaryum novoguineense","term":"Ryticaryum novoguineense","identifiers":{"contentmine":"CM.icacinaceae251","wikidata":"Q18077861"}},{"name":"Ryticaryum oleraceum","term":"Ryticaryum oleraceum","identifiers":{"contentmine":"CM.icacinaceae252","wikidata":"Q18078066"}},{"name":"Ryticaryum oxycarpum","term":"Ryticaryum oxycarpum","identifiers":{"contentmine":"CM.icacinaceae253","wikidata":"Q18078212"}},{"name":"Ryticaryum purpurascens","term":"Ryticaryum purpurascens","identifiers":{"contentmine":"CM.icacinaceae254","wikidata":"Q18078329"}},{"name":"Ryticaryum racemosum","term":"Ryticaryum racemosum","identifiers":{"contentmine":"CM.icacinaceae255","wikidata":"Q18078457"}},{"name":"Ryticaryum rotundatum","term":"Ryticaryum rotundatum","identifiers":{"contentmine":"CM.icacinaceae256","wikidata":"Q18078570"}},{"name":"Miquelia celebica","term":"Miquelia celebica","identifiers":{"contentmine":"CM.icacinaceae257","wikidata":"Q18073016"}},{"name":"Miquelia paniculata","term":"Miquelia paniculata","identifiers":{"contentmine":"CM.icacinaceae258","wikidata":"Q18073043"}},{"name":"Miquelia philippinensis","term":"Miquelia philippinensis","identifiers":{"contentmine":"CM.icacinaceae259","wikidata":"Q18073101"}},{"name":"Miquelia assamica","term":"Miquelia assamica","identifiers":{"contentmine":"CM.icacinaceae260","wikidata":"Q18073105"}},{"name":"Miquelia caudata","term":"Miquelia caudata","identifiers":{"contentmine":"CM.icacinaceae261","wikidata":"Q18073151"}},{"name":"Miquelia reticulata","term":"Miquelia reticulata","identifiers":{"contentmine":"CM.icacinaceae262","wikidata":"Q18073200"}},{"name":"Miquelia thorelii","term":"Miquelia thorelii","identifiers":{"contentmine":"CM.icacinaceae263","wikidata":"Q18073243"}},{"name":"Miquelia umbellata","term":"Miquelia umbellata","identifiers":{"contentmine":"CM.icacinaceae264","wikidata":"Q18073319"}},{"name":"Lavigeria macrocarpa","term":"Lavigeria macrocarpa","identifiers":{"contentmine":"CM.icacinaceae265","wikidata":"Q18076536"}},{"name":"Leretia cordata","term":"Leretia cordata","identifiers":{"contentmine":"CM.icacinaceae266","wikidata":"Q18078206"}},{"name":"Sleumeria auriculata","term":"Sleumeria auriculata","identifiers":{"contentmine":"CM.icacinaceae267","wikidata":"Q18082819"}},{"name":"Icacinicaryites corruga","term":"Icacinicaryites corruga","identifiers":{"contentmine":"CM.icacinaceae268","wikidata":"Q21397167"}},{"name":"Icacinicaryites linchensis","term":"Icacinicaryites linchensis","identifiers":{"contentmine":"CM.icacinaceae269","wikidata":"Q21397171"}},{"name":"Palaeophytocrene hancockii","term":"Palaeophytocrene hancockii","identifiers":{"contentmine":"CM.icacinaceae270","wikidata":"Q21397623"}},{"name":"Palaeophytocrene pseudopersica","term":"Palaeophytocrene pseudopersica","identifiers":{"contentmine":"CM.icacinaceae271","wikidata":"Q21397628"}},{"name":"Icacinicarya collinsonae","term":"Icacinicarya collinsonae","identifiers":{"contentmine":"CM.icacinaceae272","wikidata":"Q21397157"}},{"name":"Icacinicarya dictyota","term":"Icacinicarya dictyota","identifiers":{"contentmine":"CM.icacinaceae273","wikidata":"Q21397162"}},{"name":"Iodicarpa ampla","term":"Iodicarpa ampla","identifiers":{"contentmine":"CM.icacinaceae274","wikidata":"Q21397510"}},{"name":"Iodicarpa lenticularis","term":"Iodicarpa lenticularis","identifiers":{"contentmine":"CM.icacinaceae275","wikidata":"Q21397515"}},{"name":"Comicilabium atkinsii","term":"Comicilabium atkinsii","identifiers":{"contentmine":"CM.icacinaceae276","wikidata":"Q21397618"}},{"name":"Phytocrene macrophylla var. macrophylla","term":"Phytocrene macrophylla var. macrophylla","identifiers":{"contentmine":"CM.icacinaceae277","wikidata":"Q25999125"}}]}
+{
+    "entries": [
+        {
+            "name": "Icacinaceae",
+            "term": "Icacinaceae",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae0",
+                "wikidata": "Q133316"
+            }
+        },
+        {
+            "name": "Emmotum",
+            "term": "Emmotum",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae1",
+                "wikidata": "Q580109"
+            }
+        },
+        {
+            "name": "Hosiea",
+            "term": "Hosiea",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae2",
+                "wikidata": "Q590136"
+            }
+        },
+        {
+            "name": "Mappia",
+            "term": "Mappia",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae3",
+                "wikidata": "Q1334900"
+            }
+        },
+        {
+            "name": "Calatola",
+            "term": "Calatola",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae4",
+                "wikidata": "Q1338444"
+            }
+        },
+        {
+            "name": "Alsodeiopsis",
+            "term": "Alsodeiopsis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae5",
+                "wikidata": "Q1338585"
+            }
+        },
+        {
+            "name": "Sarcostigma",
+            "term": "Sarcostigma",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae6",
+                "wikidata": "Q2841118"
+            }
+        },
+        {
+            "name": "Cassinopsis",
+            "term": "Cassinopsis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae7",
+                "wikidata": "Q3302841"
+            }
+        },
+        {
+            "name": "Apodytes",
+            "term": "Apodytes",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae8",
+                "wikidata": "Q5262538"
+            }
+        },
+        {
+            "name": "Rhaphiostylis",
+            "term": "Rhaphiostylis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae9",
+                "wikidata": "Q5401722"
+            }
+        },
+        {
+            "name": "Natsiatum",
+            "term": "Natsiatum",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae10",
+                "wikidata": "Q5406794"
+            }
+        },
+        {
+            "name": "Stachyanthus",
+            "term": "Stachyanthus",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae11",
+                "wikidata": "Q5838419"
+            }
+        },
+        {
+            "name": "Oecopetalum",
+            "term": "Oecopetalum",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae12",
+                "wikidata": "Q6049103"
+            }
+        },
+        {
+            "name": "Ottoschulzia",
+            "term": "Ottoschulzia",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae13",
+                "wikidata": "Q6054767"
+            }
+        },
+        {
+            "name": "Phytocrene",
+            "term": "Phytocrene",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae14",
+                "wikidata": "Q6074756"
+            }
+        },
+        {
+            "name": "Pleurisanthes",
+            "term": "Pleurisanthes",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae15",
+                "wikidata": "Q6080676"
+            }
+        },
+        {
+            "name": "Polycephalium",
+            "term": "Polycephalium",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae16",
+                "wikidata": "Q6082078"
+            }
+        },
+        {
+            "name": "Poraqueiba",
+            "term": "Poraqueiba",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae17",
+                "wikidata": "Q6082865"
+            }
+        },
+        {
+            "name": "Rhyticaryum",
+            "term": "Rhyticaryum",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae18",
+                "wikidata": "Q6107855"
+            }
+        },
+        {
+            "name": "Pyrenacantha",
+            "term": "Pyrenacantha",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae19",
+                "wikidata": "Q7263429"
+            }
+        },
+        {
+            "name": "Casimirella",
+            "term": "Casimirella",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae20",
+                "wikidata": "Q8342024"
+            }
+        },
+        {
+            "name": "Chlamydocarya",
+            "term": "Chlamydocarya",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae21",
+                "wikidata": "Q8345467"
+            }
+        },
+        {
+            "name": "Desmostachys",
+            "term": "Desmostachys",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae22",
+                "wikidata": "Q8355097"
+            }
+        },
+        {
+            "name": "Icacina",
+            "term": "Icacina",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae23",
+                "wikidata": "Q9006646"
+            }
+        },
+        {
+            "name": "Mappianthus",
+            "term": "Mappianthus",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae24",
+                "wikidata": "Q9028386"
+            }
+        },
+        {
+            "name": "Merrilliodendron",
+            "term": "Merrilliodendron",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae25",
+                "wikidata": "Q9031807"
+            }
+        },
+        {
+            "name": "Natsiatopsis",
+            "term": "Natsiatopsis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae26",
+                "wikidata": "Q9048904"
+            }
+        },
+        {
+            "name": "Nothapodytes",
+            "term": "Nothapodytes",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae27",
+                "wikidata": "Q9050804"
+            }
+        },
+        {
+            "name": "Pittosporopsis",
+            "term": "Pittosporopsis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae28",
+                "wikidata": "Q9060166"
+            }
+        },
+        {
+            "name": "Polyporandra",
+            "term": "Polyporandra",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae29",
+                "wikidata": "Q9061549"
+            }
+        },
+        {
+            "name": "Iodes",
+            "term": "Iodes",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae30",
+                "wikidata": "Q9286362"
+            }
+        },
+        {
+            "name": "Pteleocarpa",
+            "term": "Pteleocarpa",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae31",
+                "wikidata": "Q15938438"
+            }
+        },
+        {
+            "name": "Platea",
+            "term": "Platea",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae32",
+                "wikidata": "Q16855010"
+            }
+        },
+        {
+            "name": "Ryticaryum",
+            "term": "Ryticaryum",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae33",
+                "wikidata": "Q18173118"
+            }
+        },
+        {
+            "name": "Miquelia",
+            "term": "Miquelia",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae34",
+                "wikidata": "Q18173125"
+            }
+        },
+        {
+            "name": "Lavigeria",
+            "term": "Lavigeria",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae35",
+                "wikidata": "Q18340099"
+            }
+        },
+        {
+            "name": "Leretia",
+            "term": "Leretia",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae36",
+                "wikidata": "Q18340101"
+            }
+        },
+        {
+            "name": "Icacineae",
+            "term": "Icacineae",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae37",
+                "wikidata": "Q18657317"
+            }
+        },
+        {
+            "name": "Sleumeria",
+            "term": "Sleumeria",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae38",
+                "wikidata": "Q21078589"
+            }
+        },
+        {
+            "name": "Icacinicaryites",
+            "term": "Icacinicaryites",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae39",
+                "wikidata": "Q21216265"
+            }
+        },
+        {
+            "name": "Palaeophytocrene",
+            "term": "Palaeophytocrene",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae40",
+                "wikidata": "Q21397147"
+            }
+        },
+        {
+            "name": "Icacinicarya",
+            "term": "Icacinicarya",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae41",
+                "wikidata": "Q21397152"
+            }
+        },
+        {
+            "name": "Iodicarpa",
+            "term": "Iodicarpa",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae42",
+                "wikidata": "Q21397506"
+            }
+        },
+        {
+            "name": "Comicilabium",
+            "term": "Comicilabium",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae43",
+                "wikidata": "Q21397613"
+            }
+        },
+        {
+            "name": "Emmotum nitens",
+            "term": "Emmotum nitens",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae44",
+                "wikidata": "Q18072642"
+            }
+        },
+        {
+            "name": "Emmotum orbiculatum",
+            "term": "Emmotum orbiculatum",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae45",
+                "wikidata": "Q18072659"
+            }
+        },
+        {
+            "name": "Emmotum yapacanum",
+            "term": "Emmotum yapacanum",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae46",
+                "wikidata": "Q18072675"
+            }
+        },
+        {
+            "name": "Emmotum acuminatum",
+            "term": "Emmotum acuminatum",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae47",
+                "wikidata": "Q18072850"
+            }
+        },
+        {
+            "name": "Emmotum affine",
+            "term": "Emmotum affine",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae48",
+                "wikidata": "Q18072871"
+            }
+        },
+        {
+            "name": "Emmotum amazonicum",
+            "term": "Emmotum amazonicum",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae49",
+                "wikidata": "Q18072896"
+            }
+        },
+        {
+            "name": "Emmotum celiae",
+            "term": "Emmotum celiae",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae50",
+                "wikidata": "Q18072930"
+            }
+        },
+        {
+            "name": "Emmotum conjunctum",
+            "term": "Emmotum conjunctum",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae51",
+                "wikidata": "Q18073021"
+            }
+        },
+        {
+            "name": "Emmotum fagifolium",
+            "term": "Emmotum fagifolium",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae52",
+                "wikidata": "Q18073064"
+            }
+        },
+        {
+            "name": "Emmotum floribundum",
+            "term": "Emmotum floribundum",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae53",
+                "wikidata": "Q18073126"
+            }
+        },
+        {
+            "name": "Emmotum fulvum",
+            "term": "Emmotum fulvum",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae54",
+                "wikidata": "Q18073182"
+            }
+        },
+        {
+            "name": "Emmotum glabrum",
+            "term": "Emmotum glabrum",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae55",
+                "wikidata": "Q18073231"
+            }
+        },
+        {
+            "name": "Emmotum harleyi",
+            "term": "Emmotum harleyi",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae56",
+                "wikidata": "Q18073262"
+            }
+        },
+        {
+            "name": "Hosiea sinensis",
+            "term": "Hosiea sinensis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae57",
+                "wikidata": "Q11085997"
+            }
+        },
+        {
+            "name": "Hosiea japonica",
+            "term": "Hosiea japonica",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae58",
+                "wikidata": "Q18072664"
+            }
+        },
+        {
+            "name": "Mappia racemosa",
+            "term": "Mappia racemosa",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae59",
+                "wikidata": "Q5458625"
+            }
+        },
+        {
+            "name": "Mappia angustifolia",
+            "term": "Mappia angustifolia",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae60",
+                "wikidata": "Q18080581"
+            }
+        },
+        {
+            "name": "Mappia longipes",
+            "term": "Mappia longipes",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae61",
+                "wikidata": "Q18080803"
+            }
+        },
+        {
+            "name": "Mappia mexicana",
+            "term": "Mappia mexicana",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae62",
+                "wikidata": "Q18081028"
+            }
+        },
+        {
+            "name": "Mappia multiflora",
+            "term": "Mappia multiflora",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae63",
+                "wikidata": "Q18081143"
+            }
+        },
+        {
+            "name": "Calatola columbiana",
+            "term": "Calatola columbiana",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae64",
+                "wikidata": "Q5469068"
+            }
+        },
+        {
+            "name": "Calatola costaricensis",
+            "term": "Calatola costaricensis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae65",
+                "wikidata": "Q18082984"
+            }
+        },
+        {
+            "name": "Calatola laevigata",
+            "term": "Calatola laevigata",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae66",
+                "wikidata": "Q18083341"
+            }
+        },
+        {
+            "name": "Calatola mollis",
+            "term": "Calatola mollis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae67",
+                "wikidata": "Q18083954"
+            }
+        },
+        {
+            "name": "Calatola microcarpa",
+            "term": "Calatola microcarpa",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae68",
+                "wikidata": "Q18084085"
+            }
+        },
+        {
+            "name": "Calatola sanquininensis",
+            "term": "Calatola sanquininensis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae69",
+                "wikidata": "Q18084200"
+            }
+        },
+        {
+            "name": "Calatola uxpanapensis",
+            "term": "Calatola uxpanapensis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae70",
+                "wikidata": "Q18084277"
+            }
+        },
+        {
+            "name": "Alsodeiopsis schumannii",
+            "term": "Alsodeiopsis schumannii",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae71",
+                "wikidata": "Q4735822"
+            }
+        },
+        {
+            "name": "Alsodeiopsis staudtii",
+            "term": "Alsodeiopsis staudtii",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae72",
+                "wikidata": "Q18075313"
+            }
+        },
+        {
+            "name": "Alsodeiopsis chippii",
+            "term": "Alsodeiopsis chippii",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae73",
+                "wikidata": "Q18075404"
+            }
+        },
+        {
+            "name": "Alsodeiopsis mannii",
+            "term": "Alsodeiopsis mannii",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae74",
+                "wikidata": "Q18075484"
+            }
+        },
+        {
+            "name": "Alsodeiopsis weissenborniana",
+            "term": "Alsodeiopsis weissenborniana",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae75",
+                "wikidata": "Q18075522"
+            }
+        },
+        {
+            "name": "Alsodeiopsis poggei",
+            "term": "Alsodeiopsis poggei",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae76",
+                "wikidata": "Q18075603"
+            }
+        },
+        {
+            "name": "Alsodeiopsis zenkeri",
+            "term": "Alsodeiopsis zenkeri",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae77",
+                "wikidata": "Q18075624"
+            }
+        },
+        {
+            "name": "Alsodeiopsis rubra",
+            "term": "Alsodeiopsis rubra",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae78",
+                "wikidata": "Q18075863"
+            }
+        },
+        {
+            "name": "Alsodeiopsis villosa",
+            "term": "Alsodeiopsis villosa",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae79",
+                "wikidata": "Q18082160"
+            }
+        },
+        {
+            "name": "Alsodeiopsis rowlandii",
+            "term": "Alsodeiopsis rowlandii",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae80",
+                "wikidata": "Q18082195"
+            }
+        },
+        {
+            "name": "Sarcostigma kleinii",
+            "term": "Sarcostigma kleinii",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae81",
+                "wikidata": "Q13114815"
+            }
+        },
+        {
+            "name": "Sarcostigma paniculata",
+            "term": "Sarcostigma paniculata",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae82",
+                "wikidata": "Q18078054"
+            }
+        },
+        {
+            "name": "Cassinopsis chapelieri",
+            "term": "Cassinopsis chapelieri",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae83",
+                "wikidata": "Q18082616"
+            }
+        },
+        {
+            "name": "Cassinopsis ciliata",
+            "term": "Cassinopsis ciliata",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae84",
+                "wikidata": "Q18083110"
+            }
+        },
+        {
+            "name": "Cassinopsis ilicifolia",
+            "term": "Cassinopsis ilicifolia",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae85",
+                "wikidata": "Q18083373"
+            }
+        },
+        {
+            "name": "Cassinopsis madagascariensis",
+            "term": "Cassinopsis madagascariensis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae86",
+                "wikidata": "Q18083615"
+            }
+        },
+        {
+            "name": "Cassinopsis tinifoiia",
+            "term": "Cassinopsis tinifoiia",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae87",
+                "wikidata": "Q18083952"
+            }
+        },
+        {
+            "name": "Cassinopsis tomentosa",
+            "term": "Cassinopsis tomentosa",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae88",
+                "wikidata": "Q18084180"
+            }
+        },
+        {
+            "name": "Apodytes dimidiata",
+            "term": "Apodytes dimidiata",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae89",
+                "wikidata": "Q4780197"
+            }
+        },
+        {
+            "name": "Apodytes bebile",
+            "term": "Apodytes bebile",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae90",
+                "wikidata": "Q18075999"
+            }
+        },
+        {
+            "name": "Apodytes abbottii",
+            "term": "Apodytes abbottii",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae91",
+                "wikidata": "Q18076267"
+            }
+        },
+        {
+            "name": "Apodytes geldenhuysii",
+            "term": "Apodytes geldenhuysii",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae92",
+                "wikidata": "Q18076583"
+            }
+        },
+        {
+            "name": "Apodytes grandifolia",
+            "term": "Apodytes grandifolia",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae93",
+                "wikidata": "Q18076677"
+            }
+        },
+        {
+            "name": "Apodytes thouvenotii",
+            "term": "Apodytes thouvenotii",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae94",
+                "wikidata": "Q18076863"
+            }
+        },
+        {
+            "name": "Apodytes clusiifolia",
+            "term": "Apodytes clusiifolia",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae95",
+                "wikidata": "Q18082311"
+            }
+        },
+        {
+            "name": "Apodytes brachystylis",
+            "term": "Apodytes brachystylis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae96",
+                "wikidata": "Q18083457"
+            }
+        },
+        {
+            "name": "Rhaphiostylis beninensis",
+            "term": "Rhaphiostylis beninensis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae97",
+                "wikidata": "Q18015702"
+            }
+        },
+        {
+            "name": "Rhaphiostylis cordifolia",
+            "term": "Rhaphiostylis cordifolia",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae98",
+                "wikidata": "Q18076144"
+            }
+        },
+        {
+            "name": "Rhaphiostylis fusca",
+            "term": "Rhaphiostylis fusca",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae99",
+                "wikidata": "Q18076412"
+            }
+        },
+        {
+            "name": "Rhaphiostylis madagascariensis",
+            "term": "Rhaphiostylis madagascariensis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae100",
+                "wikidata": "Q18076530"
+            }
+        },
+        {
+            "name": "Rhaphiostylis ovatifolia",
+            "term": "Rhaphiostylis ovatifolia",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae101",
+                "wikidata": "Q18076634"
+            }
+        },
+        {
+            "name": "Rhaphiostylis parvifolia",
+            "term": "Rhaphiostylis parvifolia",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae102",
+                "wikidata": "Q18077036"
+            }
+        },
+        {
+            "name": "Rhaphiostylis poggei",
+            "term": "Rhaphiostylis poggei",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae103",
+                "wikidata": "Q18077388"
+            }
+        },
+        {
+            "name": "Rhaphiostylis preussii",
+            "term": "Rhaphiostylis preussii",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae104",
+                "wikidata": "Q18077765"
+            }
+        },
+        {
+            "name": "Rhaphiostylis subsessilifolia",
+            "term": "Rhaphiostylis subsessilifolia",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae105",
+                "wikidata": "Q18078407"
+            }
+        },
+        {
+            "name": "Rhaphiostylis elegans",
+            "term": "Rhaphiostylis elegans",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae106",
+                "wikidata": "Q18081802"
+            }
+        },
+        {
+            "name": "Rhaphiostylis ferruginea",
+            "term": "Rhaphiostylis ferruginea",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae107",
+                "wikidata": "Q18083823"
+            }
+        },
+        {
+            "name": "Natsiatum herpeticum",
+            "term": "Natsiatum herpeticum",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae108",
+                "wikidata": "Q15235502"
+            }
+        },
+        {
+            "name": "Stachyanthus devredii",
+            "term": "Stachyanthus devredii",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae109",
+                "wikidata": "Q18073136"
+            }
+        },
+        {
+            "name": "Stachyanthus donisii",
+            "term": "Stachyanthus donisii",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae110",
+                "wikidata": "Q18073174"
+            }
+        },
+        {
+            "name": "Stachyanthus cuneatus",
+            "term": "Stachyanthus cuneatus",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae111",
+                "wikidata": "Q18073184"
+            }
+        },
+        {
+            "name": "Stachyanthus occidentalis",
+            "term": "Stachyanthus occidentalis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae112",
+                "wikidata": "Q18073230"
+            }
+        },
+        {
+            "name": "Stachyanthus zenkeri",
+            "term": "Stachyanthus zenkeri",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae113",
+                "wikidata": "Q18073309"
+            }
+        },
+        {
+            "name": "Oecopetalum greenmanii",
+            "term": "Oecopetalum greenmanii",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae114",
+                "wikidata": "Q18076229"
+            }
+        },
+        {
+            "name": "Oecopetalum guatemalense",
+            "term": "Oecopetalum guatemalense",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae115",
+                "wikidata": "Q18076315"
+            }
+        },
+        {
+            "name": "Oecopetalum mexicanum",
+            "term": "Oecopetalum mexicanum",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae116",
+                "wikidata": "Q18076366"
+            }
+        },
+        {
+            "name": "Ottoschulzia rhodoxylon",
+            "term": "Ottoschulzia rhodoxylon",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae117",
+                "wikidata": "Q7109994"
+            }
+        },
+        {
+            "name": "Ottoschulzia cubensis",
+            "term": "Ottoschulzia cubensis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae118",
+                "wikidata": "Q18078567"
+            }
+        },
+        {
+            "name": "Ottoschulzia domingensis",
+            "term": "Ottoschulzia domingensis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae119",
+                "wikidata": "Q18078646"
+            }
+        },
+        {
+            "name": "Ottoschulzia pallida",
+            "term": "Ottoschulzia pallida",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae120",
+                "wikidata": "Q18078699"
+            }
+        },
+        {
+            "name": "Phytocrene racemosa",
+            "term": "Phytocrene racemosa",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae121",
+                "wikidata": "Q18075969"
+            }
+        },
+        {
+            "name": "Phytocrene borneensis",
+            "term": "Phytocrene borneensis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae122",
+                "wikidata": "Q18076003"
+            }
+        },
+        {
+            "name": "Phytocrene trichura",
+            "term": "Phytocrene trichura",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae123",
+                "wikidata": "Q18076103"
+            }
+        },
+        {
+            "name": "Phytocrene hirsuta",
+            "term": "Phytocrene hirsuta",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae124",
+                "wikidata": "Q18076231"
+            }
+        },
+        {
+            "name": "Phytocrene interrupta",
+            "term": "Phytocrene interrupta",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae125",
+                "wikidata": "Q18076381"
+            }
+        },
+        {
+            "name": "Phytocrene macrophylla",
+            "term": "Phytocrene macrophylla",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae126",
+                "wikidata": "Q18076589"
+            }
+        },
+        {
+            "name": "Phytocrene oblonga",
+            "term": "Phytocrene oblonga",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae127",
+                "wikidata": "Q18076731"
+            }
+        },
+        {
+            "name": "Phytocrene palmata",
+            "term": "Phytocrene palmata",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae128",
+                "wikidata": "Q18076858"
+            }
+        },
+        {
+            "name": "Phytocrene anomala",
+            "term": "Phytocrene anomala",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae129",
+                "wikidata": "Q18082415"
+            }
+        },
+        {
+            "name": "Phytocrene integerrima",
+            "term": "Phytocrene integerrima",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae130",
+                "wikidata": "Q18083008"
+            }
+        },
+        {
+            "name": "Phytocrene bracteata",
+            "term": "Phytocrene bracteata",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae131",
+                "wikidata": "Q18083441"
+            }
+        },
+        {
+            "name": "Phytocrene blancoi",
+            "term": "Phytocrene blancoi",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae132",
+                "wikidata": "Q21307153"
+            }
+        },
+        {
+            "name": "Pleurisanthes artocarpis",
+            "term": "Pleurisanthes artocarpis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae133",
+                "wikidata": "Q18078501"
+            }
+        },
+        {
+            "name": "Pleurisanthes brasiliensis",
+            "term": "Pleurisanthes brasiliensis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae134",
+                "wikidata": "Q18078729"
+            }
+        },
+        {
+            "name": "Pleurisanthes emarginata",
+            "term": "Pleurisanthes emarginata",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae135",
+                "wikidata": "Q18078931"
+            }
+        },
+        {
+            "name": "Pleurisanthes flava",
+            "term": "Pleurisanthes flava",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae136",
+                "wikidata": "Q18079028"
+            }
+        },
+        {
+            "name": "Pleurisanthes howardii",
+            "term": "Pleurisanthes howardii",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae137",
+                "wikidata": "Q18079167"
+            }
+        },
+        {
+            "name": "Pleurisanthes parviflora",
+            "term": "Pleurisanthes parviflora",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae138",
+                "wikidata": "Q18079422"
+            }
+        },
+        {
+            "name": "Pleurisanthes simpliciflora",
+            "term": "Pleurisanthes simpliciflora",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae139",
+                "wikidata": "Q18079547"
+            }
+        },
+        {
+            "name": "Polycephalium capitatum",
+            "term": "Polycephalium capitatum",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae140",
+                "wikidata": "Q18079045"
+            }
+        },
+        {
+            "name": "Polycephalium lobatum",
+            "term": "Polycephalium lobatum",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae141",
+                "wikidata": "Q18079116"
+            }
+        },
+        {
+            "name": "Poraqueiba sericea",
+            "term": "Poraqueiba sericea",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae142",
+                "wikidata": "Q6082867"
+            }
+        },
+        {
+            "name": "Poraqueiba guianensis",
+            "term": "Poraqueiba guianensis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae143",
+                "wikidata": "Q18083353"
+            }
+        },
+        {
+            "name": "Poraqueiba paraensis",
+            "term": "Poraqueiba paraensis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae144",
+                "wikidata": "Q18083604"
+            }
+        },
+        {
+            "name": "Pyrenacantha cordicula",
+            "term": "Pyrenacantha cordicula",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae145",
+                "wikidata": "Q5477501"
+            }
+        },
+        {
+            "name": "Pyrenacantha malvifolia",
+            "term": "Pyrenacantha malvifolia",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae146",
+                "wikidata": "Q7263428"
+            }
+        },
+        {
+            "name": "Pyrenacantha volubilis",
+            "term": "Pyrenacantha volubilis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae147",
+                "wikidata": "Q10898596"
+            }
+        },
+        {
+            "name": "Pyrenacantha gabonica",
+            "term": "Pyrenacantha gabonica",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae148",
+                "wikidata": "Q18074766"
+            }
+        },
+        {
+            "name": "Pyrenacantha chlorantha",
+            "term": "Pyrenacantha chlorantha",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae149",
+                "wikidata": "Q18074882"
+            }
+        },
+        {
+            "name": "Pyrenacantha laetevirens",
+            "term": "Pyrenacantha laetevirens",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae150",
+                "wikidata": "Q18074935"
+            }
+        },
+        {
+            "name": "Pyrenacantha glabrescens",
+            "term": "Pyrenacantha glabrescens",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae151",
+                "wikidata": "Q18074956"
+            }
+        },
+        {
+            "name": "Pyrenacantha lebrunii",
+            "term": "Pyrenacantha lebrunii",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae152",
+                "wikidata": "Q18075060"
+            }
+        },
+        {
+            "name": "Pyrenacantha longirostrata",
+            "term": "Pyrenacantha longirostrata",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae153",
+                "wikidata": "Q18075158"
+            }
+        },
+        {
+            "name": "Pyrenacantha grandifolia",
+            "term": "Pyrenacantha grandifolia",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae154",
+                "wikidata": "Q18075302"
+            }
+        },
+        {
+            "name": "Pyrenacantha humblotii",
+            "term": "Pyrenacantha humblotii",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae155",
+                "wikidata": "Q18075346"
+            }
+        },
+        {
+            "name": "Pyrenacantha perrieri",
+            "term": "Pyrenacantha perrieri",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae156",
+                "wikidata": "Q18075389"
+            }
+        },
+        {
+            "name": "Pyrenacantha kaurabassana",
+            "term": "Pyrenacantha kaurabassana",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae157",
+                "wikidata": "Q18075406"
+            }
+        },
+        {
+            "name": "Pyrenacantha kirkii",
+            "term": "Pyrenacantha kirkii",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae158",
+                "wikidata": "Q18075515"
+            }
+        },
+        {
+            "name": "Pyrenacantha klaineana",
+            "term": "Pyrenacantha klaineana",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae159",
+                "wikidata": "Q18075609"
+            }
+        },
+        {
+            "name": "Pyrenacantha rakotozafyi",
+            "term": "Pyrenacantha rakotozafyi",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae160",
+                "wikidata": "Q18075653"
+            }
+        },
+        {
+            "name": "Pyrenacantha andapensis",
+            "term": "Pyrenacantha andapensis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae161",
+                "wikidata": "Q18075720"
+            }
+        },
+        {
+            "name": "Pyrenacantha sylvestris",
+            "term": "Pyrenacantha sylvestris",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae162",
+                "wikidata": "Q18076145"
+            }
+        },
+        {
+            "name": "Pyrenacantha vogeliana",
+            "term": "Pyrenacantha vogeliana",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae163",
+                "wikidata": "Q18076443"
+            }
+        },
+        {
+            "name": "Pyrenacantha ambrensis",
+            "term": "Pyrenacantha ambrensis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae164",
+                "wikidata": "Q18081376"
+            }
+        },
+        {
+            "name": "Pyrenacantha tropophila",
+            "term": "Pyrenacantha tropophila",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae165",
+                "wikidata": "Q18081763"
+            }
+        },
+        {
+            "name": "Pyrenacantha grandiflora",
+            "term": "Pyrenacantha grandiflora",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae166",
+                "wikidata": "Q18081789"
+            }
+        },
+        {
+            "name": "Pyrenacantha acuminata",
+            "term": "Pyrenacantha acuminata",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae167",
+                "wikidata": "Q18082437"
+            }
+        },
+        {
+            "name": "Pyrenacantha puberula",
+            "term": "Pyrenacantha puberula",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae168",
+                "wikidata": "Q18082615"
+            }
+        },
+        {
+            "name": "Pyrenacantha staudtii",
+            "term": "Pyrenacantha staudtii",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae169",
+                "wikidata": "Q18082671"
+            }
+        },
+        {
+            "name": "Pyrenacantha repanda",
+            "term": "Pyrenacantha repanda",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae170",
+                "wikidata": "Q18082752"
+            }
+        },
+        {
+            "name": "Pyrenacantha capitata",
+            "term": "Pyrenacantha capitata",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae171",
+                "wikidata": "Q18083119"
+            }
+        },
+        {
+            "name": "Pyrenacantha scandens",
+            "term": "Pyrenacantha scandens",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae172",
+                "wikidata": "Q18083195"
+            }
+        },
+        {
+            "name": "Pyrenacantha villiersii",
+            "term": "Pyrenacantha villiersii",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae173",
+                "wikidata": "Q18083745"
+            }
+        },
+        {
+            "name": "Pyrenacantha occidentalis",
+            "term": "Pyrenacantha occidentalis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae174",
+                "wikidata": "Q21397633"
+            }
+        },
+        {
+            "name": "Casimirella ampla",
+            "term": "Casimirella ampla",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae175",
+                "wikidata": "Q18081555"
+            }
+        },
+        {
+            "name": "Casimirella beckii",
+            "term": "Casimirella beckii",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae176",
+                "wikidata": "Q18081735"
+            }
+        },
+        {
+            "name": "Casimirella crispula",
+            "term": "Casimirella crispula",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae177",
+                "wikidata": "Q18081947"
+            }
+        },
+        {
+            "name": "Casimirella diversifolia",
+            "term": "Casimirella diversifolia",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae178",
+                "wikidata": "Q18082035"
+            }
+        },
+        {
+            "name": "Casimirella guaranitica",
+            "term": "Casimirella guaranitica",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae179",
+                "wikidata": "Q18082102"
+            }
+        },
+        {
+            "name": "Casimirella lanata",
+            "term": "Casimirella lanata",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae180",
+                "wikidata": "Q18082315"
+            }
+        },
+        {
+            "name": "Casimirella rupestris",
+            "term": "Casimirella rupestris",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae181",
+                "wikidata": "Q18082638"
+            }
+        },
+        {
+            "name": "Chlamydocarya gossweileri",
+            "term": "Chlamydocarya gossweileri",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae182",
+                "wikidata": "Q18074175"
+            }
+        },
+        {
+            "name": "Chlamydocarya macrocarpa",
+            "term": "Chlamydocarya macrocarpa",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae183",
+                "wikidata": "Q18074288"
+            }
+        },
+        {
+            "name": "Chlamydocarya soyauxii",
+            "term": "Chlamydocarya soyauxii",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae184",
+                "wikidata": "Q18074374"
+            }
+        },
+        {
+            "name": "Chlamydocarya thomsoniana",
+            "term": "Chlamydocarya thomsoniana",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae185",
+                "wikidata": "Q18074468"
+            }
+        },
+        {
+            "name": "Chlamydocarya anhydathoda",
+            "term": "Chlamydocarya anhydathoda",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae186",
+                "wikidata": "Q18075243"
+            }
+        },
+        {
+            "name": "Desmostachys vogelii",
+            "term": "Desmostachys vogelii",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae187",
+                "wikidata": "Q18079035"
+            }
+        },
+        {
+            "name": "Desmostachys brevipes",
+            "term": "Desmostachys brevipes",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae188",
+                "wikidata": "Q18081412"
+            }
+        },
+        {
+            "name": "Desmostachys oblongifolia",
+            "term": "Desmostachys oblongifolia",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae189",
+                "wikidata": "Q18081564"
+            }
+        },
+        {
+            "name": "Desmostachys planchoniana",
+            "term": "Desmostachys planchoniana",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae190",
+                "wikidata": "Q18081716"
+            }
+        },
+        {
+            "name": "Desmostachys tenuifolius",
+            "term": "Desmostachys tenuifolius",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae191",
+                "wikidata": "Q18081855"
+            }
+        },
+        {
+            "name": "Icacina claessensii",
+            "term": "Icacina claessensii",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae192",
+                "wikidata": "Q18074913"
+            }
+        },
+        {
+            "name": "Icacina trichantha",
+            "term": "Icacina trichantha",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae193",
+                "wikidata": "Q18075612"
+            }
+        },
+        {
+            "name": "Icacina guessfeldtii",
+            "term": "Icacina guessfeldtii",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae194",
+                "wikidata": "Q18081629"
+            }
+        },
+        {
+            "name": "Icacina mannii",
+            "term": "Icacina mannii",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae195",
+                "wikidata": "Q18081919"
+            }
+        },
+        {
+            "name": "Icacina oliviformis",
+            "term": "Icacina oliviformis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae196",
+                "wikidata": "Q18082511"
+            }
+        },
+        {
+            "name": "Mappianthus iodoides",
+            "term": "Mappianthus iodoides",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae197",
+                "wikidata": "Q10948556"
+            }
+        },
+        {
+            "name": "Merrilliodendron megacarpum",
+            "term": "Merrilliodendron megacarpum",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae198",
+                "wikidata": "Q17271539"
+            }
+        },
+        {
+            "name": "Natsiatopsis thunbergiifolia",
+            "term": "Natsiatopsis thunbergiifolia",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae199",
+                "wikidata": "Q15250303"
+            }
+        },
+        {
+            "name": "Nothapodytes obtusifolia",
+            "term": "Nothapodytes obtusifolia",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae200",
+                "wikidata": "Q10888600"
+            }
+        },
+        {
+            "name": "Nothapodytes collina",
+            "term": "Nothapodytes collina",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae201",
+                "wikidata": "Q10910912"
+            }
+        },
+        {
+            "name": "Nothapodytes tomentosa",
+            "term": "Nothapodytes tomentosa",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae202",
+                "wikidata": "Q11126381"
+            }
+        },
+        {
+            "name": "Nothapodytes nimmoniana",
+            "term": "Nothapodytes nimmoniana",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae203",
+                "wikidata": "Q13113387"
+            }
+        },
+        {
+            "name": "Nothapodytes pittosporoides",
+            "term": "Nothapodytes pittosporoides",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae204",
+                "wikidata": "Q15247284"
+            }
+        },
+        {
+            "name": "Nothapodytes foetida",
+            "term": "Nothapodytes foetida",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae205",
+                "wikidata": "Q15250898"
+            }
+        },
+        {
+            "name": "Nothapodytes obscura",
+            "term": "Nothapodytes obscura",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae206",
+                "wikidata": "Q15251444"
+            }
+        },
+        {
+            "name": "Nothapodytes minutiflora",
+            "term": "Nothapodytes minutiflora",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae207",
+                "wikidata": "Q17236095"
+            }
+        },
+        {
+            "name": "Nothapodytes montana",
+            "term": "Nothapodytes montana",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae208",
+                "wikidata": "Q17236340"
+            }
+        },
+        {
+            "name": "Nothapodytes amamianus",
+            "term": "Nothapodytes amamianus",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae209",
+                "wikidata": "Q17271012"
+            }
+        },
+        {
+            "name": "Nothapodytes zeylanica",
+            "term": "Nothapodytes zeylanica",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae210",
+                "wikidata": "Q17271023"
+            }
+        },
+        {
+            "name": "Pittosporopsis kerrii",
+            "term": "Pittosporopsis kerrii",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae211",
+                "wikidata": "Q10888626"
+            }
+        },
+        {
+            "name": "Polyporandra scandens",
+            "term": "Polyporandra scandens",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae212",
+                "wikidata": "Q18081171"
+            }
+        },
+        {
+            "name": "Iodes balansae",
+            "term": "Iodes balansae",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae213",
+                "wikidata": "Q10935824"
+            }
+        },
+        {
+            "name": "Iodes vitiginea",
+            "term": "Iodes vitiginea",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae214",
+                "wikidata": "Q10959203"
+            }
+        },
+        {
+            "name": "Iodes cirrhosa",
+            "term": "Iodes cirrhosa",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae215",
+                "wikidata": "Q11071436"
+            }
+        },
+        {
+            "name": "Iodes seguinii",
+            "term": "Iodes seguinii",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae216",
+                "wikidata": "Q15246800"
+            }
+        },
+        {
+            "name": "Iodes philippinensis",
+            "term": "Iodes philippinensis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae217",
+                "wikidata": "Q18074587"
+            }
+        },
+        {
+            "name": "Iodes pierlotii",
+            "term": "Iodes pierlotii",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae218",
+                "wikidata": "Q18074644"
+            }
+        },
+        {
+            "name": "Iodes globulifera",
+            "term": "Iodes globulifera",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae219",
+                "wikidata": "Q18074696"
+            }
+        },
+        {
+            "name": "Iodes seretii",
+            "term": "Iodes seretii",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae220",
+                "wikidata": "Q18074703"
+            }
+        },
+        {
+            "name": "Iodes kamerunensis",
+            "term": "Iodes kamerunensis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae221",
+                "wikidata": "Q18074849"
+            }
+        },
+        {
+            "name": "Iodes reticulata",
+            "term": "Iodes reticulata",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae222",
+                "wikidata": "Q18074858"
+            }
+        },
+        {
+            "name": "Iodes yangambiensis",
+            "term": "Iodes yangambiensis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae223",
+                "wikidata": "Q18074892"
+            }
+        },
+        {
+            "name": "Iodes klaineana",
+            "term": "Iodes klaineana",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae224",
+                "wikidata": "Q18074949"
+            }
+        },
+        {
+            "name": "Iodes usambarensis",
+            "term": "Iodes usambarensis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae225",
+                "wikidata": "Q18074950"
+            }
+        },
+        {
+            "name": "Iodes yatesii",
+            "term": "Iodes yatesii",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae226",
+                "wikidata": "Q18075029"
+            }
+        },
+        {
+            "name": "Iodes velutina",
+            "term": "Iodes velutina",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae227",
+                "wikidata": "Q18075072"
+            }
+        },
+        {
+            "name": "Iodes liberica",
+            "term": "Iodes liberica",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae228",
+                "wikidata": "Q18075080"
+            }
+        },
+        {
+            "name": "Iodes madagascariensis",
+            "term": "Iodes madagascariensis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae229",
+                "wikidata": "Q18075131"
+            }
+        },
+        {
+            "name": "Iodes nectarifera",
+            "term": "Iodes nectarifera",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae230",
+                "wikidata": "Q18075299"
+            }
+        },
+        {
+            "name": "Iodes ovalis",
+            "term": "Iodes ovalis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae231",
+                "wikidata": "Q18075345"
+            }
+        },
+        {
+            "name": "Iodes hookeriana",
+            "term": "Iodes hookeriana",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae232",
+                "wikidata": "Q18081440"
+            }
+        },
+        {
+            "name": "Iodes africana",
+            "term": "Iodes africana",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae233",
+                "wikidata": "Q18081777"
+            }
+        },
+        {
+            "name": "Iodes perrieri",
+            "term": "Iodes perrieri",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae234",
+                "wikidata": "Q18082658"
+            }
+        },
+        {
+            "name": "Iodes multireticulata",
+            "term": "Iodes multireticulata",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae235",
+                "wikidata": "Q21397497"
+            }
+        },
+        {
+            "name": "Iodes chandlerae",
+            "term": "Iodes chandlerae",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae236",
+                "wikidata": "Q21397501"
+            }
+        },
+        {
+            "name": "Pteleocarpa lamponga",
+            "term": "Pteleocarpa lamponga",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae237",
+                "wikidata": "Q7256659"
+            }
+        },
+        {
+            "name": "Platea parvifolia",
+            "term": "Platea parvifolia",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae238",
+                "wikidata": "Q10870396"
+            }
+        },
+        {
+            "name": "Platea latifolia",
+            "term": "Platea latifolia",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae239",
+                "wikidata": "Q15237863"
+            }
+        },
+        {
+            "name": "Platea bullata",
+            "term": "Platea bullata",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae240",
+                "wikidata": "Q17245133"
+            }
+        },
+        {
+            "name": "Platea excelsa",
+            "term": "Platea excelsa",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae241",
+                "wikidata": "Q17245264"
+            }
+        },
+        {
+            "name": "Platea malayana",
+            "term": "Platea malayana",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae242",
+                "wikidata": "Q17245675"
+            }
+        },
+        {
+            "name": "Platea parviflora",
+            "term": "Platea parviflora",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae243",
+                "wikidata": "Q17245986"
+            }
+        },
+        {
+            "name": "Platea sclerophylla",
+            "term": "Platea sclerophylla",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae244",
+                "wikidata": "Q17246109"
+            }
+        },
+        {
+            "name": "Ryticaryum fasciculatum",
+            "term": "Ryticaryum fasciculatum",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae245",
+                "wikidata": "Q18076455"
+            }
+        },
+        {
+            "name": "Ryticaryum gracile",
+            "term": "Ryticaryum gracile",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae246",
+                "wikidata": "Q18076479"
+            }
+        },
+        {
+            "name": "Ryticaryum elegans",
+            "term": "Ryticaryum elegans",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae247",
+                "wikidata": "Q18076624"
+            }
+        },
+        {
+            "name": "Ryticaryum longifolium",
+            "term": "Ryticaryum longifolium",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae248",
+                "wikidata": "Q18076989"
+            }
+        },
+        {
+            "name": "Ryticaryum lucidum",
+            "term": "Ryticaryum lucidum",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae249",
+                "wikidata": "Q18077242"
+            }
+        },
+        {
+            "name": "Ryticaryum macrocarpum",
+            "term": "Ryticaryum macrocarpum",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae250",
+                "wikidata": "Q18077337"
+            }
+        },
+        {
+            "name": "Ryticaryum novoguineense",
+            "term": "Ryticaryum novoguineense",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae251",
+                "wikidata": "Q18077861"
+            }
+        },
+        {
+            "name": "Ryticaryum oleraceum",
+            "term": "Ryticaryum oleraceum",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae252",
+                "wikidata": "Q18078066"
+            }
+        },
+        {
+            "name": "Ryticaryum oxycarpum",
+            "term": "Ryticaryum oxycarpum",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae253",
+                "wikidata": "Q18078212"
+            }
+        },
+        {
+            "name": "Ryticaryum purpurascens",
+            "term": "Ryticaryum purpurascens",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae254",
+                "wikidata": "Q18078329"
+            }
+        },
+        {
+            "name": "Ryticaryum racemosum",
+            "term": "Ryticaryum racemosum",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae255",
+                "wikidata": "Q18078457"
+            }
+        },
+        {
+            "name": "Ryticaryum rotundatum",
+            "term": "Ryticaryum rotundatum",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae256",
+                "wikidata": "Q18078570"
+            }
+        },
+        {
+            "name": "Miquelia celebica",
+            "term": "Miquelia celebica",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae257",
+                "wikidata": "Q18073016"
+            }
+        },
+        {
+            "name": "Miquelia paniculata",
+            "term": "Miquelia paniculata",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae258",
+                "wikidata": "Q18073043"
+            }
+        },
+        {
+            "name": "Miquelia philippinensis",
+            "term": "Miquelia philippinensis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae259",
+                "wikidata": "Q18073101"
+            }
+        },
+        {
+            "name": "Miquelia assamica",
+            "term": "Miquelia assamica",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae260",
+                "wikidata": "Q18073105"
+            }
+        },
+        {
+            "name": "Miquelia caudata",
+            "term": "Miquelia caudata",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae261",
+                "wikidata": "Q18073151"
+            }
+        },
+        {
+            "name": "Miquelia reticulata",
+            "term": "Miquelia reticulata",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae262",
+                "wikidata": "Q18073200"
+            }
+        },
+        {
+            "name": "Miquelia thorelii",
+            "term": "Miquelia thorelii",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae263",
+                "wikidata": "Q18073243"
+            }
+        },
+        {
+            "name": "Miquelia umbellata",
+            "term": "Miquelia umbellata",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae264",
+                "wikidata": "Q18073319"
+            }
+        },
+        {
+            "name": "Lavigeria macrocarpa",
+            "term": "Lavigeria macrocarpa",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae265",
+                "wikidata": "Q18076536"
+            }
+        },
+        {
+            "name": "Leretia cordata",
+            "term": "Leretia cordata",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae266",
+                "wikidata": "Q18078206"
+            }
+        },
+        {
+            "name": "Sleumeria auriculata",
+            "term": "Sleumeria auriculata",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae267",
+                "wikidata": "Q18082819"
+            }
+        },
+        {
+            "name": "Icacinicaryites corruga",
+            "term": "Icacinicaryites corruga",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae268",
+                "wikidata": "Q21397167"
+            }
+        },
+        {
+            "name": "Icacinicaryites linchensis",
+            "term": "Icacinicaryites linchensis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae269",
+                "wikidata": "Q21397171"
+            }
+        },
+        {
+            "name": "Palaeophytocrene hancockii",
+            "term": "Palaeophytocrene hancockii",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae270",
+                "wikidata": "Q21397623"
+            }
+        },
+        {
+            "name": "Palaeophytocrene pseudopersica",
+            "term": "Palaeophytocrene pseudopersica",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae271",
+                "wikidata": "Q21397628"
+            }
+        },
+        {
+            "name": "Icacinicarya collinsonae",
+            "term": "Icacinicarya collinsonae",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae272",
+                "wikidata": "Q21397157"
+            }
+        },
+        {
+            "name": "Icacinicarya dictyota",
+            "term": "Icacinicarya dictyota",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae273",
+                "wikidata": "Q21397162"
+            }
+        },
+        {
+            "name": "Iodicarpa ampla",
+            "term": "Iodicarpa ampla",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae274",
+                "wikidata": "Q21397510"
+            }
+        },
+        {
+            "name": "Iodicarpa lenticularis",
+            "term": "Iodicarpa lenticularis",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae275",
+                "wikidata": "Q21397515"
+            }
+        },
+        {
+            "name": "Comicilabium atkinsii",
+            "term": "Comicilabium atkinsii",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae276",
+                "wikidata": "Q21397618"
+            }
+        },
+        {
+            "name": "Phytocrene macrophylla var. macrophylla",
+            "term": "Phytocrene macrophylla var. macrophylla",
+            "identifiers": {
+                "contentmine": "CM.icacinaceae277",
+                "wikidata": "Q25999125"
+            }
+        }
+    ],
+    "id": "CM.icacinaceae"
+}

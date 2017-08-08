@@ -1,1 +1,3069 @@
-{"entries":[{"name":"Lecythidaceae","term":"Lecythidaceae","identifiers":{"contentmine":"CM.lecythidaceae0","wikidata":"Q161929"}},{"name":"Gustavia","term":"Gustavia","identifiers":{"contentmine":"CM.lecythidaceae1","wikidata":"Q141042"}},{"name":"Couroupita","term":"Couroupita","identifiers":{"contentmine":"CM.lecythidaceae2","wikidata":"Q159309"}},{"name":"Eschweilera","term":"Eschweilera","identifiers":{"contentmine":"CM.lecythidaceae3","wikidata":"Q287974"}},{"name":"Asteranthos","term":"Asteranthos","identifiers":{"contentmine":"CM.lecythidaceae4","wikidata":"Q717680"}},{"name":"Abdulmajidia","term":"Abdulmajidia","identifiers":{"contentmine":"CM.lecythidaceae5","wikidata":"Q772824"}},{"name":"Lecythis","term":"Lecythis","identifiers":{"contentmine":"CM.lecythidaceae6","wikidata":"Q1786738"}},{"name":"Napoleonaea","term":"Napoleonaea","identifiers":{"contentmine":"CM.lecythidaceae7","wikidata":"Q2583585"}},{"name":"Barringtonia","term":"Barringtonia","identifiers":{"contentmine":"CM.lecythidaceae8","wikidata":"Q2673561"}},{"name":"Cariniana","term":"Cariniana","identifiers":{"contentmine":"CM.lecythidaceae9","wikidata":"Q2709975"}},{"name":"Foetidia","term":"Foetidia","identifiers":{"contentmine":"CM.lecythidaceae10","wikidata":"Q3074797"}},{"name":"Corythophora","term":"Corythophora","identifiers":{"contentmine":"CM.lecythidaceae11","wikidata":"Q5173793"}},{"name":"Couratari","term":"Couratari","identifiers":{"contentmine":"CM.lecythidaceae12","wikidata":"Q5178100"}},{"name":"Grias","term":"Grias","identifiers":{"contentmine":"CM.lecythidaceae13","wikidata":"Q5608540"}},{"name":"Lecythidoideae","term":"Lecythidoideae","identifiers":{"contentmine":"CM.lecythidaceae14","wikidata":"Q5972430"}},{"name":"Planchonioideae","term":"Planchonioideae","identifiers":{"contentmine":"CM.lecythidaceae15","wikidata":"Q6077554"}},{"name":"Planchonia","term":"Planchonia","identifiers":{"contentmine":"CM.lecythidaceae16","wikidata":"Q7200985"}},{"name":"Rhaptopetalum","term":"Rhaptopetalum","identifiers":{"contentmine":"CM.lecythidaceae17","wikidata":"Q7320260"}},{"name":"Scytopetaloideae","term":"Scytopetaloideae","identifiers":{"contentmine":"CM.lecythidaceae18","wikidata":"Q16830135"}},{"name":"Astherantos","term":"Astherantos","identifiers":{"contentmine":"CM.lecythidaceae19","wikidata":"Q21078792"}},{"name":"Napoleonaeoideae","term":"Napoleonaeoideae","identifiers":{"contentmine":"CM.lecythidaceae20","wikidata":"Q21230888"}},{"name":"Foetidioideae","term":"Foetidioideae","identifiers":{"contentmine":"CM.lecythidaceae21","wikidata":"Q21445796"}},{"name":"Gustavia superba","term":"Gustavia superba","identifiers":{"contentmine":"CM.lecythidaceae22","wikidata":"Q655360"}},{"name":"Gustavia gracillima","term":"Gustavia gracillima","identifiers":{"contentmine":"CM.lecythidaceae23","wikidata":"Q1593386"}},{"name":"Gustavia acuminata","term":"Gustavia acuminata","identifiers":{"contentmine":"CM.lecythidaceae24","wikidata":"Q5455504"}},{"name":"Gustavia foliosa","term":"Gustavia foliosa","identifiers":{"contentmine":"CM.lecythidaceae25","wikidata":"Q5455508"}},{"name":"Gustavia fosteri","term":"Gustavia fosteri","identifiers":{"contentmine":"CM.lecythidaceae26","wikidata":"Q5455512"}},{"name":"Gustavia pubescens","term":"Gustavia pubescens","identifiers":{"contentmine":"CM.lecythidaceae27","wikidata":"Q5455516"}},{"name":"Gustavia santanderiensis","term":"Gustavia santanderiensis","identifiers":{"contentmine":"CM.lecythidaceae28","wikidata":"Q5455520"}},{"name":"Gustavia sessilis","term":"Gustavia sessilis","identifiers":{"contentmine":"CM.lecythidaceae29","wikidata":"Q5455525"}},{"name":"Gustavia verticillata","term":"Gustavia verticillata","identifiers":{"contentmine":"CM.lecythidaceae30","wikidata":"Q5455530"}},{"name":"Gustavia angustifolia","term":"Gustavia angustifolia","identifiers":{"contentmine":"CM.lecythidaceae31","wikidata":"Q5471385"}},{"name":"Gustavia dodsonii","term":"Gustavia dodsonii","identifiers":{"contentmine":"CM.lecythidaceae32","wikidata":"Q5471388"}},{"name":"Gustavia excelsa","term":"Gustavia excelsa","identifiers":{"contentmine":"CM.lecythidaceae33","wikidata":"Q5471390"}},{"name":"Gustavia longepetiolata","term":"Gustavia longepetiolata","identifiers":{"contentmine":"CM.lecythidaceae34","wikidata":"Q5471396"}},{"name":"Gustavia monocaulis","term":"Gustavia monocaulis","identifiers":{"contentmine":"CM.lecythidaceae35","wikidata":"Q5471400"}},{"name":"Gustavia petiolata","term":"Gustavia petiolata","identifiers":{"contentmine":"CM.lecythidaceae36","wikidata":"Q5471404"}},{"name":"Gustavia serrata","term":"Gustavia serrata","identifiers":{"contentmine":"CM.lecythidaceae37","wikidata":"Q5471407"}},{"name":"Gustavia latifolia","term":"Gustavia latifolia","identifiers":{"contentmine":"CM.lecythidaceae38","wikidata":"Q5485423"}},{"name":"Gustavia longifuniculata","term":"Gustavia longifuniculata","identifiers":{"contentmine":"CM.lecythidaceae39","wikidata":"Q5621327"}},{"name":"Gustavia hexapetala","term":"Gustavia hexapetala","identifiers":{"contentmine":"CM.lecythidaceae40","wikidata":"Q5889406"}},{"name":"Gustavia erythrocarpa","term":"Gustavia erythrocarpa","identifiers":{"contentmine":"CM.lecythidaceae41","wikidata":"Q8008729"}},{"name":"Gustavia augusta","term":"Gustavia augusta","identifiers":{"contentmine":"CM.lecythidaceae42","wikidata":"Q10306640"}},{"name":"Gustavia tejerae","term":"Gustavia tejerae","identifiers":{"contentmine":"CM.lecythidaceae43","wikidata":"Q15393123"}},{"name":"Gustavia terminaliflora","term":"Gustavia terminaliflora","identifiers":{"contentmine":"CM.lecythidaceae44","wikidata":"Q15393273"}},{"name":"Gustavia gentryi","term":"Gustavia gentryi","identifiers":{"contentmine":"CM.lecythidaceae45","wikidata":"Q15393689"}},{"name":"Gustavia brachycarpa","term":"Gustavia brachycarpa","identifiers":{"contentmine":"CM.lecythidaceae46","wikidata":"Q15394371"}},{"name":"Gustavia coriacea","term":"Gustavia coriacea","identifiers":{"contentmine":"CM.lecythidaceae47","wikidata":"Q15394482"}},{"name":"Gustavia gigantophylla","term":"Gustavia gigantophylla","identifiers":{"contentmine":"CM.lecythidaceae48","wikidata":"Q15394569"}},{"name":"Gustavia dubia","term":"Gustavia dubia","identifiers":{"contentmine":"CM.lecythidaceae49","wikidata":"Q15394597"}},{"name":"Gustavia elliptica","term":"Gustavia elliptica","identifiers":{"contentmine":"CM.lecythidaceae50","wikidata":"Q15394723"}},{"name":"Gustavia flagellata","term":"Gustavia flagellata","identifiers":{"contentmine":"CM.lecythidaceae51","wikidata":"Q15394856"}},{"name":"Gustavia gracillipes","term":"Gustavia gracillipes","identifiers":{"contentmine":"CM.lecythidaceae52","wikidata":"Q15395382"}},{"name":"Gustavia grandibracteata","term":"Gustavia grandibracteata","identifiers":{"contentmine":"CM.lecythidaceae53","wikidata":"Q15396195"}},{"name":"Gustavia inakuama","term":"Gustavia inakuama","identifiers":{"contentmine":"CM.lecythidaceae54","wikidata":"Q15398063"}},{"name":"Gustavia longifolia","term":"Gustavia longifolia","identifiers":{"contentmine":"CM.lecythidaceae55","wikidata":"Q15399283"}},{"name":"Gustavia longipetiolata","term":"Gustavia longipetiolata","identifiers":{"contentmine":"CM.lecythidaceae56","wikidata":"Q15399908"}},{"name":"Gustavia macarenensis","term":"Gustavia macarenensis","identifiers":{"contentmine":"CM.lecythidaceae57","wikidata":"Q15400226"}},{"name":"Gustavia nana","term":"Gustavia nana","identifiers":{"contentmine":"CM.lecythidaceae58","wikidata":"Q15400553"}},{"name":"Gustavia parviflora","term":"Gustavia parviflora","identifiers":{"contentmine":"CM.lecythidaceae59","wikidata":"Q15400712"}},{"name":"Gustavia poeppigiana","term":"Gustavia poeppigiana","identifiers":{"contentmine":"CM.lecythidaceae60","wikidata":"Q15400852"}},{"name":"Gustavia pulchra","term":"Gustavia pulchra","identifiers":{"contentmine":"CM.lecythidaceae61","wikidata":"Q15400973"}},{"name":"Gustavia romeroi","term":"Gustavia romeroi","identifiers":{"contentmine":"CM.lecythidaceae62","wikidata":"Q15401066"}},{"name":"Gustavia speciosa","term":"Gustavia speciosa","identifiers":{"contentmine":"CM.lecythidaceae63","wikidata":"Q15401129"}},{"name":"Gustavia acuta","term":"Gustavia acuta","identifiers":{"contentmine":"CM.lecythidaceae64","wikidata":"Q17136249"}},{"name":"Gustavia sect. Grandibracteata","term":"Gustavia sect. Grandibracteata","identifiers":{"contentmine":"CM.lecythidaceae65","wikidata":"Q21377367"}},{"name":"Gustavia sect. Hexapetala","term":"Gustavia sect. Hexapetala","identifiers":{"contentmine":"CM.lecythidaceae66","wikidata":"Q21377368"}},{"name":"Couroupita guianensis","term":"Couroupita guianensis","identifiers":{"contentmine":"CM.lecythidaceae67","wikidata":"Q161823"}},{"name":"Couroupita nicaraguensis","term":"Couroupita nicaraguensis","identifiers":{"contentmine":"CM.lecythidaceae68","wikidata":"Q5178153"}},{"name":"Couroupita subsessilis","term":"Couroupita subsessilis","identifiers":{"contentmine":"CM.lecythidaceae69","wikidata":"Q10261276"}},{"name":"Eschweilera baguensis","term":"Eschweilera baguensis","identifiers":{"contentmine":"CM.lecythidaceae70","wikidata":"Q507347"}},{"name":"Eschweilera integrifolia","term":"Eschweilera integrifolia","identifiers":{"contentmine":"CM.lecythidaceae71","wikidata":"Q5391863"}},{"name":"Eschweilera pittieri","term":"Eschweilera pittieri","identifiers":{"contentmine":"CM.lecythidaceae72","wikidata":"Q5391865"}},{"name":"Eschweilera alvimii","term":"Eschweilera alvimii","identifiers":{"contentmine":"CM.lecythidaceae73","wikidata":"Q5397224"}},{"name":"Eschweilera atropetiolata","term":"Eschweilera atropetiolata","identifiers":{"contentmine":"CM.lecythidaceae74","wikidata":"Q5397225"}},{"name":"Eschweilera amplexifolia","term":"Eschweilera amplexifolia","identifiers":{"contentmine":"CM.lecythidaceae75","wikidata":"Q5397227"}},{"name":"Eschweilera beebei","term":"Eschweilera beebei","identifiers":{"contentmine":"CM.lecythidaceae76","wikidata":"Q5397230"}},{"name":"Eschweilera boltenii","term":"Eschweilera boltenii","identifiers":{"contentmine":"CM.lecythidaceae77","wikidata":"Q5397236"}},{"name":"Eschweilera bogotensis","term":"Eschweilera bogotensis","identifiers":{"contentmine":"CM.lecythidaceae78","wikidata":"Q5397237"}},{"name":"Eschweilera compressa","term":"Eschweilera compressa","identifiers":{"contentmine":"CM.lecythidaceae79","wikidata":"Q5397241"}},{"name":"Eschweilera cyathiformis","term":"Eschweilera cyathiformis","identifiers":{"contentmine":"CM.lecythidaceae80","wikidata":"Q5397244"}},{"name":"Eschweilera fanshawei","term":"Eschweilera fanshawei","identifiers":{"contentmine":"CM.lecythidaceae81","wikidata":"Q5397249"}},{"name":"Eschweilera jacquelyniae","term":"Eschweilera jacquelyniae","identifiers":{"contentmine":"CM.lecythidaceae82","wikidata":"Q5397253"}},{"name":"Eschweilera longirachis","term":"Eschweilera longirachis","identifiers":{"contentmine":"CM.lecythidaceae83","wikidata":"Q5397254"}},{"name":"Eschweilera mexicana","term":"Eschweilera mexicana","identifiers":{"contentmine":"CM.lecythidaceae84","wikidata":"Q5397257"}},{"name":"Eschweilera obversa","term":"Eschweilera obversa","identifiers":{"contentmine":"CM.lecythidaceae85","wikidata":"Q5397265"}},{"name":"Eschweilera punctata","term":"Eschweilera punctata","identifiers":{"contentmine":"CM.lecythidaceae86","wikidata":"Q5397266"}},{"name":"Eschweilera potaroensis","term":"Eschweilera potaroensis","identifiers":{"contentmine":"CM.lecythidaceae87","wikidata":"Q5397268"}},{"name":"Eschweilera rabeliana","term":"Eschweilera rabeliana","identifiers":{"contentmine":"CM.lecythidaceae88","wikidata":"Q5397270"}},{"name":"Eschweilera rhododendrifolia","term":"Eschweilera rhododendrifolia","identifiers":{"contentmine":"CM.lecythidaceae89","wikidata":"Q5397275"}},{"name":"Eschweilera rimbachii","term":"Eschweilera rimbachii","identifiers":{"contentmine":"CM.lecythidaceae90","wikidata":"Q5397279"}},{"name":"Eschweilera rionegrense","term":"Eschweilera rionegrense","identifiers":{"contentmine":"CM.lecythidaceae91","wikidata":"Q5397280"}},{"name":"Eschweilera rodriguesiana","term":"Eschweilera rodriguesiana","identifiers":{"contentmine":"CM.lecythidaceae92","wikidata":"Q5397281"}},{"name":"Eschweilera roraimensis","term":"Eschweilera roraimensis","identifiers":{"contentmine":"CM.lecythidaceae93","wikidata":"Q5397283"}},{"name":"Eschweilera sclerophylla","term":"Eschweilera sclerophylla","identifiers":{"contentmine":"CM.lecythidaceae94","wikidata":"Q5397287"}},{"name":"Eschweilera squamata","term":"Eschweilera squamata","identifiers":{"contentmine":"CM.lecythidaceae95","wikidata":"Q5397290"}},{"name":"Eschweilera tetrapetala","term":"Eschweilera tetrapetala","identifiers":{"contentmine":"CM.lecythidaceae96","wikidata":"Q5397293"}},{"name":"Eschweilera venezuelica","term":"Eschweilera venezuelica","identifiers":{"contentmine":"CM.lecythidaceae97","wikidata":"Q5397295"}},{"name":"Eschweilera carinata","term":"Eschweilera carinata","identifiers":{"contentmine":"CM.lecythidaceae98","wikidata":"Q5453867"}},{"name":"Eschweilera integricalyx","term":"Eschweilera integricalyx","identifiers":{"contentmine":"CM.lecythidaceae99","wikidata":"Q5453874"}},{"name":"Eschweilera subcordata","term":"Eschweilera subcordata","identifiers":{"contentmine":"CM.lecythidaceae100","wikidata":"Q5453892"}},{"name":"Eschweilera amazonicaformis","term":"Eschweilera amazonicaformis","identifiers":{"contentmine":"CM.lecythidaceae101","wikidata":"Q9286775"}},{"name":"Eschweilera piresii","term":"Eschweilera piresii","identifiers":{"contentmine":"CM.lecythidaceae102","wikidata":"Q10274270"}},{"name":"Eschweilera coriacea","term":"Eschweilera coriacea","identifiers":{"contentmine":"CM.lecythidaceae103","wikidata":"Q10327268"}},{"name":"Eschweilera ovata","term":"Eschweilera ovata","identifiers":{"contentmine":"CM.lecythidaceae104","wikidata":"Q15290578"}},{"name":"Eschweilera biflava","term":"Eschweilera biflava","identifiers":{"contentmine":"CM.lecythidaceae105","wikidata":"Q15392079"}},{"name":"Eschweilera cabrerana","term":"Eschweilera cabrerana","identifiers":{"contentmine":"CM.lecythidaceae106","wikidata":"Q15392212"}},{"name":"Eschweilera bracteosa","term":"Eschweilera bracteosa","identifiers":{"contentmine":"CM.lecythidaceae107","wikidata":"Q15392291"}},{"name":"Eschweilera juruensis","term":"Eschweilera juruensis","identifiers":{"contentmine":"CM.lecythidaceae108","wikidata":"Q15392467"}},{"name":"Eschweilera calyculata","term":"Eschweilera calyculata","identifiers":{"contentmine":"CM.lecythidaceae109","wikidata":"Q15392486"}},{"name":"Eschweilera klugii","term":"Eschweilera klugii","identifiers":{"contentmine":"CM.lecythidaceae110","wikidata":"Q15392557"}},{"name":"Eschweilera caudiculata","term":"Eschweilera caudiculata","identifiers":{"contentmine":"CM.lecythidaceae111","wikidata":"Q15392615"}},{"name":"Eschweilera macrocarpa","term":"Eschweilera macrocarpa","identifiers":{"contentmine":"CM.lecythidaceae112","wikidata":"Q15392629"}},{"name":"Eschweilera laevicarpa","term":"Eschweilera laevicarpa","identifiers":{"contentmine":"CM.lecythidaceae113","wikidata":"Q15392683"}},{"name":"Eschweilera chartaceifolia","term":"Eschweilera chartaceifolia","identifiers":{"contentmine":"CM.lecythidaceae114","wikidata":"Q15392730"}},{"name":"Eschweilera praealta","term":"Eschweilera praealta","identifiers":{"contentmine":"CM.lecythidaceae115","wikidata":"Q15392755"}},{"name":"Eschweilera mattos-silvae","term":"Eschweilera mattos-silvae","identifiers":{"contentmine":"CM.lecythidaceae116","wikidata":"Q15392768"}},{"name":"Eschweilera longipedicellata","term":"Eschweilera longipedicellata","identifiers":{"contentmine":"CM.lecythidaceae117","wikidata":"Q15392783"}},{"name":"Eschweilera collina","term":"Eschweilera collina","identifiers":{"contentmine":"CM.lecythidaceae118","wikidata":"Q15392871"}},{"name":"Eschweilera pseudodecolorans","term":"Eschweilera pseudodecolorans","identifiers":{"contentmine":"CM.lecythidaceae119","wikidata":"Q15392910"}},{"name":"Eschweilera micrantha","term":"Eschweilera micrantha","identifiers":{"contentmine":"CM.lecythidaceae120","wikidata":"Q15392918"}},{"name":"Eschweilera complanata","term":"Eschweilera complanata","identifiers":{"contentmine":"CM.lecythidaceae121","wikidata":"Q15393026"}},{"name":"Eschweilera rankiniae","term":"Eschweilera rankiniae","identifiers":{"contentmine":"CM.lecythidaceae122","wikidata":"Q15393048"}},{"name":"Eschweilera microcalyx","term":"Eschweilera microcalyx","identifiers":{"contentmine":"CM.lecythidaceae123","wikidata":"Q15393069"}},{"name":"Eschweilera congestiflora","term":"Eschweilera congestiflora","identifiers":{"contentmine":"CM.lecythidaceae124","wikidata":"Q15393174"}},{"name":"Eschweilera reversa","term":"Eschweilera reversa","identifiers":{"contentmine":"CM.lecythidaceae125","wikidata":"Q15393179"}},{"name":"Eschweilera nana","term":"Eschweilera nana","identifiers":{"contentmine":"CM.lecythidaceae126","wikidata":"Q15393228"}},{"name":"Eschweilera revoluta","term":"Eschweilera revoluta","identifiers":{"contentmine":"CM.lecythidaceae127","wikidata":"Q15393286"}},{"name":"Eschweilera aguilarii","term":"Eschweilera aguilarii","identifiers":{"contentmine":"CM.lecythidaceae128","wikidata":"Q15393319"}},{"name":"Eschweilera neblinensis","term":"Eschweilera neblinensis","identifiers":{"contentmine":"CM.lecythidaceae129","wikidata":"Q15393366"}},{"name":"Eschweilera rufifolia","term":"Eschweilera rufifolia","identifiers":{"contentmine":"CM.lecythidaceae130","wikidata":"Q15393408"}},{"name":"Eschweilera alata","term":"Eschweilera alata","identifiers":{"contentmine":"CM.lecythidaceae131","wikidata":"Q15393426"}},{"name":"Eschweilera costaricensis","term":"Eschweilera costaricensis","identifiers":{"contentmine":"CM.lecythidaceae132","wikidata":"Q15393432"}},{"name":"Eschweilera neei","term":"Eschweilera neei","identifiers":{"contentmine":"CM.lecythidaceae133","wikidata":"Q15393465"}},{"name":"Eschweilera sagotiana","term":"Eschweilera sagotiana","identifiers":{"contentmine":"CM.lecythidaceae134","wikidata":"Q15393544"}},{"name":"Eschweilera albiflora","term":"Eschweilera albiflora","identifiers":{"contentmine":"CM.lecythidaceae135","wikidata":"Q15393561"}},{"name":"Eschweilera decolorans","term":"Eschweilera decolorans","identifiers":{"contentmine":"CM.lecythidaceae136","wikidata":"Q15393586"}},{"name":"Eschweilera ovalifolia","term":"Eschweilera ovalifolia","identifiers":{"contentmine":"CM.lecythidaceae137","wikidata":"Q15393631"}},{"name":"Eschweilera sessilis","term":"Eschweilera sessilis","identifiers":{"contentmine":"CM.lecythidaceae138","wikidata":"Q15393654"}},{"name":"Eschweilera amazonica","term":"Eschweilera amazonica","identifiers":{"contentmine":"CM.lecythidaceae139","wikidata":"Q15393660"}},{"name":"Eschweilera eperuetorum","term":"Eschweilera eperuetorum","identifiers":{"contentmine":"CM.lecythidaceae140","wikidata":"Q15393711"}},{"name":"Eschweilera simiorum","term":"Eschweilera simiorum","identifiers":{"contentmine":"CM.lecythidaceae141","wikidata":"Q15393788"}},{"name":"Eschweilera amazoniciformis","term":"Eschweilera amazoniciformis","identifiers":{"contentmine":"CM.lecythidaceae142","wikidata":"Q15393821"}},{"name":"Eschweilera gigantea","term":"Eschweilera gigantea","identifiers":{"contentmine":"CM.lecythidaceae143","wikidata":"Q15393835"}},{"name":"Eschweilera pachyderma","term":"Eschweilera pachyderma","identifiers":{"contentmine":"CM.lecythidaceae144","wikidata":"Q15393882"}},{"name":"Eschweilera subglandulosa","term":"Eschweilera subglandulosa","identifiers":{"contentmine":"CM.lecythidaceae145","wikidata":"Q15393925"}},{"name":"Eschweilera andina","term":"Eschweilera andina","identifiers":{"contentmine":"CM.lecythidaceae146","wikidata":"Q15393958"}},{"name":"Eschweilera grandiflora","term":"Eschweilera grandiflora","identifiers":{"contentmine":"CM.lecythidaceae147","wikidata":"Q15393987"}},{"name":"Eschweilera panamensis","term":"Eschweilera panamensis","identifiers":{"contentmine":"CM.lecythidaceae148","wikidata":"Q15394027"}},{"name":"Eschweilera antioquensis","term":"Eschweilera antioquensis","identifiers":{"contentmine":"CM.lecythidaceae149","wikidata":"Q15394059"}},{"name":"Eschweilera tenax","term":"Eschweilera tenax","identifiers":{"contentmine":"CM.lecythidaceae150","wikidata":"Q15394076"}},{"name":"Eschweilera harmonii","term":"Eschweilera harmonii","identifiers":{"contentmine":"CM.lecythidaceae151","wikidata":"Q15394108"}},{"name":"Eschweilera paniculata","term":"Eschweilera paniculata","identifiers":{"contentmine":"CM.lecythidaceae152","wikidata":"Q15394176"}},{"name":"Eschweilera apiculata","term":"Eschweilera apiculata","identifiers":{"contentmine":"CM.lecythidaceae153","wikidata":"Q15394178"}},{"name":"Eschweilera tenuifolia","term":"Eschweilera tenuifolia","identifiers":{"contentmine":"CM.lecythidaceae154","wikidata":"Q15394198"}},{"name":"Eschweilera hondurensis","term":"Eschweilera hondurensis","identifiers":{"contentmine":"CM.lecythidaceae155","wikidata":"Q15394240"}},{"name":"Eschweilera parviflora","term":"Eschweilera parviflora","identifiers":{"contentmine":"CM.lecythidaceae156","wikidata":"Q15394319"}},{"name":"Eschweilera itayensis","term":"Eschweilera itayensis","identifiers":{"contentmine":"CM.lecythidaceae157","wikidata":"Q15394380"}},{"name":"Eschweilera parvifolia","term":"Eschweilera parvifolia","identifiers":{"contentmine":"CM.lecythidaceae158","wikidata":"Q15394431"}},{"name":"Eschweilera truncata","term":"Eschweilera truncata","identifiers":{"contentmine":"CM.lecythidaceae159","wikidata":"Q15394497"}},{"name":"Eschweilera pedicellata","term":"Eschweilera pedicellata","identifiers":{"contentmine":"CM.lecythidaceae160","wikidata":"Q15394566"}},{"name":"Eschweilera wachenheimii","term":"Eschweilera wachenheimii","identifiers":{"contentmine":"CM.lecythidaceae161","wikidata":"Q15394633"}},{"name":"Eschweilera perumbonata","term":"Eschweilera perumbonata","identifiers":{"contentmine":"CM.lecythidaceae162","wikidata":"Q15394725"}},{"name":"Eschweilera tessmannii","term":"Eschweilera tessmannii","identifiers":{"contentmine":"CM.lecythidaceae163","wikidata":"Q15428060"}},{"name":"Eschweilera rhodogonoclada","term":"Eschweilera rhodogonoclada","identifiers":{"contentmine":"CM.lecythidaceae164","wikidata":"Q17139210"}},{"name":"Asteranthos brasiliensis","term":"Asteranthos brasiliensis","identifiers":{"contentmine":"CM.lecythidaceae165","wikidata":"Q4810652"}},{"name":"Abdulmajidia maxwelliana","term":"Abdulmajidia maxwelliana","identifiers":{"contentmine":"CM.lecythidaceae166","wikidata":"Q1385305"}},{"name":"Abdulmajidia chaniana","term":"Abdulmajidia chaniana","identifiers":{"contentmine":"CM.lecythidaceae167","wikidata":"Q1385322"}},{"name":"Abdulmajidia latiffiana","term":"Abdulmajidia latiffiana","identifiers":{"contentmine":"CM.lecythidaceae168","wikidata":"Q15388584"}},{"name":"Abdulmajidia rimata","term":"Abdulmajidia rimata","identifiers":{"contentmine":"CM.lecythidaceae169","wikidata":"Q15388684"}},{"name":"Abdulmajidia zainudiniana","term":"Abdulmajidia zainudiniana","identifiers":{"contentmine":"CM.lecythidaceae170","wikidata":"Q15388788"}},{"name":"Lecythis lurida","term":"Lecythis lurida","identifiers":{"contentmine":"CM.lecythidaceae171","wikidata":"Q1384590"}},{"name":"Lecythis pisonis","term":"Lecythis pisonis","identifiers":{"contentmine":"CM.lecythidaceae172","wikidata":"Q1387987"}},{"name":"Lecythis retusa","term":"Lecythis retusa","identifiers":{"contentmine":"CM.lecythidaceae173","wikidata":"Q5434234"}},{"name":"Lecythis serrata","term":"Lecythis serrata","identifiers":{"contentmine":"CM.lecythidaceae174","wikidata":"Q5434238"}},{"name":"Lecythis lanceolata","term":"Lecythis lanceolata","identifiers":{"contentmine":"CM.lecythidaceae175","wikidata":"Q5438147"}},{"name":"Lecythis barnebyi","term":"Lecythis barnebyi","identifiers":{"contentmine":"CM.lecythidaceae176","wikidata":"Q5457643"}},{"name":"Lecythis brancoensis","term":"Lecythis brancoensis","identifiers":{"contentmine":"CM.lecythidaceae177","wikidata":"Q5457647"}},{"name":"Lecythis schomburgkii","term":"Lecythis schomburgkii","identifiers":{"contentmine":"CM.lecythidaceae178","wikidata":"Q5457652"}},{"name":"Lecythis schwackei","term":"Lecythis schwackei","identifiers":{"contentmine":"CM.lecythidaceae179","wikidata":"Q5457657"}},{"name":"Lecythis prancei","term":"Lecythis prancei","identifiers":{"contentmine":"CM.lecythidaceae180","wikidata":"Q5472622"}},{"name":"Lecythis usitata","term":"Lecythis usitata","identifiers":{"contentmine":"CM.lecythidaceae181","wikidata":"Q5972432"}},{"name":"Lecythis ampla","term":"Lecythis ampla","identifiers":{"contentmine":"CM.lecythidaceae182","wikidata":"Q6512456"}},{"name":"Lecythis parvifructa","term":"Lecythis parvifructa","identifiers":{"contentmine":"CM.lecythidaceae183","wikidata":"Q6512464"}},{"name":"Lecythis zabucajo","term":"Lecythis zabucajo","identifiers":{"contentmine":"CM.lecythidaceae184","wikidata":"Q6512472"}},{"name":"Lecythis minor","term":"Lecythis minor","identifiers":{"contentmine":"CM.lecythidaceae185","wikidata":"Q10959676"}},{"name":"Lecythis ollaria","term":"Lecythis ollaria","identifiers":{"contentmine":"CM.lecythidaceae186","wikidata":"Q12955930"}},{"name":"Lecythis persistens","term":"Lecythis persistens","identifiers":{"contentmine":"CM.lecythidaceae187","wikidata":"Q15393344"}},{"name":"Lecythis pneumatophora","term":"Lecythis pneumatophora","identifiers":{"contentmine":"CM.lecythidaceae188","wikidata":"Q15393540"}},{"name":"Lecythis poiteaui","term":"Lecythis poiteaui","identifiers":{"contentmine":"CM.lecythidaceae189","wikidata":"Q15393618"}},{"name":"Lecythis tuyrana","term":"Lecythis tuyrana","identifiers":{"contentmine":"CM.lecythidaceae190","wikidata":"Q15393756"}},{"name":"Lecythis alutacea","term":"Lecythis alutacea","identifiers":{"contentmine":"CM.lecythidaceae191","wikidata":"Q15393923"}},{"name":"Lecythis chartacea","term":"Lecythis chartacea","identifiers":{"contentmine":"CM.lecythidaceae192","wikidata":"Q15394121"}},{"name":"Lecythis confertiflora","term":"Lecythis confertiflora","identifiers":{"contentmine":"CM.lecythidaceae193","wikidata":"Q15394203"}},{"name":"Lecythis corrugata","term":"Lecythis corrugata","identifiers":{"contentmine":"CM.lecythidaceae194","wikidata":"Q15394331"}},{"name":"Lecythis gracieana","term":"Lecythis gracieana","identifiers":{"contentmine":"CM.lecythidaceae195","wikidata":"Q15394428"}},{"name":"Lecythis holcogyne","term":"Lecythis holcogyne","identifiers":{"contentmine":"CM.lecythidaceae196","wikidata":"Q15394528"}},{"name":"Lecythis idatimon","term":"Lecythis idatimon","identifiers":{"contentmine":"CM.lecythidaceae197","wikidata":"Q15394616"}},{"name":"Lecythis mesophylla","term":"Lecythis mesophylla","identifiers":{"contentmine":"CM.lecythidaceae198","wikidata":"Q15394712"}},{"name":"Lecythis zabucaja","term":"Lecythis zabucaja","identifiers":{"contentmine":"CM.lecythidaceae199","wikidata":"Q21274308"}},{"name":"Napoleonaea egertonii","term":"Napoleonaea egertonii","identifiers":{"contentmine":"CM.lecythidaceae200","wikidata":"Q5460133"}},{"name":"Napoleonaea lutea","term":"Napoleonaea lutea","identifiers":{"contentmine":"CM.lecythidaceae201","wikidata":"Q5487892"}},{"name":"Napoleonaea reptans","term":"Napoleonaea reptans","identifiers":{"contentmine":"CM.lecythidaceae202","wikidata":"Q5487899"}},{"name":"Napoleonaea gossweileri","term":"Napoleonaea gossweileri","identifiers":{"contentmine":"CM.lecythidaceae203","wikidata":"Q15393327"}},{"name":"Napoleonaea heudelotii","term":"Napoleonaea heudelotii","identifiers":{"contentmine":"CM.lecythidaceae204","wikidata":"Q15393747"}},{"name":"Napoleonaea imperialis","term":"Napoleonaea imperialis","identifiers":{"contentmine":"CM.lecythidaceae205","wikidata":"Q15394147"}},{"name":"Napoleonaea septentrionalis","term":"Napoleonaea septentrionalis","identifiers":{"contentmine":"CM.lecythidaceae206","wikidata":"Q15394657"}},{"name":"Napoleonaea talbotii","term":"Napoleonaea talbotii","identifiers":{"contentmine":"CM.lecythidaceae207","wikidata":"Q15395255"}},{"name":"Napoleonaea vogelii","term":"Napoleonaea vogelii","identifiers":{"contentmine":"CM.lecythidaceae208","wikidata":"Q15395637"}},{"name":"Napoleonaea gabonensis","term":"Napoleonaea gabonensis","identifiers":{"contentmine":"CM.lecythidaceae209","wikidata":"Q15397460"}},{"name":"Barringtonia asiatica","term":"Barringtonia asiatica","identifiers":{"contentmine":"CM.lecythidaceae210","wikidata":"Q311468"}},{"name":"Barringtonia acutangula","term":"Barringtonia acutangula","identifiers":{"contentmine":"CM.lecythidaceae211","wikidata":"Q2248481"}},{"name":"Barringtonia racemosa","term":"Barringtonia racemosa","identifiers":{"contentmine":"CM.lecythidaceae212","wikidata":"Q2718437"}},{"name":"Barringtonia payensiana","term":"Barringtonia payensiana","identifiers":{"contentmine":"CM.lecythidaceae213","wikidata":"Q2885639"}},{"name":"Barringtonia calyptrata","term":"Barringtonia calyptrata","identifiers":{"contentmine":"CM.lecythidaceae214","wikidata":"Q4863701"}},{"name":"Barringtonia fusicarpa","term":"Barringtonia fusicarpa","identifiers":{"contentmine":"CM.lecythidaceae215","wikidata":"Q11115923"}},{"name":"Barringtonia samoensis","term":"Barringtonia samoensis","identifiers":{"contentmine":"CM.lecythidaceae216","wikidata":"Q15389068"}},{"name":"Barringtonia sarawakensis","term":"Barringtonia sarawakensis","identifiers":{"contentmine":"CM.lecythidaceae217","wikidata":"Q15389150"}},{"name":"Barringtonia corneri","term":"Barringtonia corneri","identifiers":{"contentmine":"CM.lecythidaceae218","wikidata":"Q15389208"}},{"name":"Barringtonia sarcostachys","term":"Barringtonia sarcostachys","identifiers":{"contentmine":"CM.lecythidaceae219","wikidata":"Q15389280"}},{"name":"Barringtonia scortechinii","term":"Barringtonia scortechinii","identifiers":{"contentmine":"CM.lecythidaceae220","wikidata":"Q15389347"}},{"name":"Barringtonia seaturae","term":"Barringtonia seaturae","identifiers":{"contentmine":"CM.lecythidaceae221","wikidata":"Q15389441"}},{"name":"Barringtonia terengganuensis","term":"Barringtonia terengganuensis","identifiers":{"contentmine":"CM.lecythidaceae222","wikidata":"Q15389543"}},{"name":"Barringtonia waasii","term":"Barringtonia waasii","identifiers":{"contentmine":"CM.lecythidaceae223","wikidata":"Q15389640"}},{"name":"Barringtonia macrostachya","term":"Barringtonia macrostachya","identifiers":{"contentmine":"CM.lecythidaceae224","wikidata":"Q15389807"}},{"name":"Barringtonia curranii","term":"Barringtonia curranii","identifiers":{"contentmine":"CM.lecythidaceae225","wikidata":"Q15389974"}},{"name":"Barringtonia apiculata","term":"Barringtonia apiculata","identifiers":{"contentmine":"CM.lecythidaceae226","wikidata":"Q15390028"}},{"name":"Barringtonia ashtonii","term":"Barringtonia ashtonii","identifiers":{"contentmine":"CM.lecythidaceae227","wikidata":"Q15390138"}},{"name":"Barringtonia augusta","term":"Barringtonia augusta","identifiers":{"contentmine":"CM.lecythidaceae228","wikidata":"Q15390272"}},{"name":"Barringtonia maunwongyathiae","term":"Barringtonia maunwongyathiae","identifiers":{"contentmine":"CM.lecythidaceae229","wikidata":"Q15390302"}},{"name":"Barringtonia belagaensis","term":"Barringtonia belagaensis","identifiers":{"contentmine":"CM.lecythidaceae230","wikidata":"Q15390403"}},{"name":"Barringtonia calyptrocalyx","term":"Barringtonia calyptrocalyx","identifiers":{"contentmine":"CM.lecythidaceae231","wikidata":"Q15390629"}},{"name":"Barringtonia neocaledonica","term":"Barringtonia neocaledonica","identifiers":{"contentmine":"CM.lecythidaceae232","wikidata":"Q15390658"}},{"name":"Barringtonia conoidea","term":"Barringtonia conoidea","identifiers":{"contentmine":"CM.lecythidaceae233","wikidata":"Q15390798"}},{"name":"Barringtonia edulis","term":"Barringtonia edulis","identifiers":{"contentmine":"CM.lecythidaceae234","wikidata":"Q15390823"}},{"name":"Barringtonia niedenzuana","term":"Barringtonia niedenzuana","identifiers":{"contentmine":"CM.lecythidaceae235","wikidata":"Q15391180"}},{"name":"Barringtonia novae-hiberniae","term":"Barringtonia novae-hiberniae","identifiers":{"contentmine":"CM.lecythidaceae236","wikidata":"Q15391999"}},{"name":"Barringtonia filirachis","term":"Barringtonia filirachis","identifiers":{"contentmine":"CM.lecythidaceae237","wikidata":"Q15392100"}},{"name":"Barringtonia palawanensis","term":"Barringtonia palawanensis","identifiers":{"contentmine":"CM.lecythidaceae238","wikidata":"Q15392821"}},{"name":"Barringtonia fusiformis","term":"Barringtonia fusiformis","identifiers":{"contentmine":"CM.lecythidaceae239","wikidata":"Q15393116"}},{"name":"Barringtonia papeh","term":"Barringtonia papeh","identifiers":{"contentmine":"CM.lecythidaceae240","wikidata":"Q15393419"}},{"name":"Barringtonia papuana","term":"Barringtonia papuana","identifiers":{"contentmine":"CM.lecythidaceae241","wikidata":"Q15393820"}},{"name":"Barringtonia pauciflora","term":"Barringtonia pauciflora","identifiers":{"contentmine":"CM.lecythidaceae242","wikidata":"Q15394412"}},{"name":"Barringtonia gigantostachya","term":"Barringtonia gigantostachya","identifiers":{"contentmine":"CM.lecythidaceae243","wikidata":"Q15394808"}},{"name":"Barringtonia pendula","term":"Barringtonia pendula","identifiers":{"contentmine":"CM.lecythidaceae244","wikidata":"Q15395007"}},{"name":"Barringtonia procera","term":"Barringtonia procera","identifiers":{"contentmine":"CM.lecythidaceae245","wikidata":"Q15395710"}},{"name":"Barringtonia pseudoglomerata","term":"Barringtonia pseudoglomerata","identifiers":{"contentmine":"CM.lecythidaceae246","wikidata":"Q15396168"}},{"name":"Barringtonia pterita","term":"Barringtonia pterita","identifiers":{"contentmine":"CM.lecythidaceae247","wikidata":"Q15396849"}},{"name":"Barringtonia hallieri","term":"Barringtonia hallieri","identifiers":{"contentmine":"CM.lecythidaceae248","wikidata":"Q15397251"}},{"name":"Barringtonia reticulata","term":"Barringtonia reticulata","identifiers":{"contentmine":"CM.lecythidaceae249","wikidata":"Q15397598"}},{"name":"Barringtonia revoluta","term":"Barringtonia revoluta","identifiers":{"contentmine":"CM.lecythidaceae250","wikidata":"Q15398250"}},{"name":"Barringtonia ridsdalei","term":"Barringtonia ridsdalei","identifiers":{"contentmine":"CM.lecythidaceae251","wikidata":"Q15398909"}},{"name":"Barringtonia havilandii","term":"Barringtonia havilandii","identifiers":{"contentmine":"CM.lecythidaceae252","wikidata":"Q15399667"}},{"name":"Barringtonia integrifolia","term":"Barringtonia integrifolia","identifiers":{"contentmine":"CM.lecythidaceae253","wikidata":"Q15400221"}},{"name":"Barringtonia josephstaalensis","term":"Barringtonia josephstaalensis","identifiers":{"contentmine":"CM.lecythidaceae254","wikidata":"Q15400682"}},{"name":"Barringtonia khaoluangensis","term":"Barringtonia khaoluangensis","identifiers":{"contentmine":"CM.lecythidaceae255","wikidata":"Q15400935"}},{"name":"Barringtonia lanceolata","term":"Barringtonia lanceolata","identifiers":{"contentmine":"CM.lecythidaceae256","wikidata":"Q15401046"}},{"name":"Barringtonia lauterbachii","term":"Barringtonia lauterbachii","identifiers":{"contentmine":"CM.lecythidaceae257","wikidata":"Q15401137"}},{"name":"Barringtonia longifolia","term":"Barringtonia longifolia","identifiers":{"contentmine":"CM.lecythidaceae258","wikidata":"Q15401215"}},{"name":"Barringtonia longisepala","term":"Barringtonia longisepala","identifiers":{"contentmine":"CM.lecythidaceae259","wikidata":"Q15401270"}},{"name":"Barringtonia macrocarpa","term":"Barringtonia macrocarpa","identifiers":{"contentmine":"CM.lecythidaceae260","wikidata":"Q15401297"}},{"name":"Barringtonia petiolata","term":"Barringtonia petiolata","identifiers":{"contentmine":"CM.lecythidaceae261","wikidata":"Q17136373"}},{"name":"Barringtonia rimata","term":"Barringtonia rimata","identifiers":{"contentmine":"CM.lecythidaceae262","wikidata":"Q17136678"}},{"name":"Cariniana pauciramosa","term":"Cariniana pauciramosa","identifiers":{"contentmine":"CM.lecythidaceae263","wikidata":"Q1384698"}},{"name":"Cariniana uaupensis","term":"Cariniana uaupensis","identifiers":{"contentmine":"CM.lecythidaceae264","wikidata":"Q1384708"}},{"name":"Cariniana penduliflora","term":"Cariniana penduliflora","identifiers":{"contentmine":"CM.lecythidaceae265","wikidata":"Q1384717"}},{"name":"Cariniana pachyantha","term":"Cariniana pachyantha","identifiers":{"contentmine":"CM.lecythidaceae266","wikidata":"Q1384724"}},{"name":"Cariniana kuhlmannii","term":"Cariniana kuhlmannii","identifiers":{"contentmine":"CM.lecythidaceae267","wikidata":"Q1384935"}},{"name":"Cariniana ianeirensis","term":"Cariniana ianeirensis","identifiers":{"contentmine":"CM.lecythidaceae268","wikidata":"Q1941462"}},{"name":"Cariniana legalis","term":"Cariniana legalis","identifiers":{"contentmine":"CM.lecythidaceae269","wikidata":"Q1941484"}},{"name":"Cariniana integrifolia","term":"Cariniana integrifolia","identifiers":{"contentmine":"CM.lecythidaceae270","wikidata":"Q1941499"}},{"name":"Cariniana pyriformis","term":"Cariniana pyriformis","identifiers":{"contentmine":"CM.lecythidaceae271","wikidata":"Q2703727"}},{"name":"Cariniana decandra","term":"Cariniana decandra","identifiers":{"contentmine":"CM.lecythidaceae272","wikidata":"Q9696672"}},{"name":"Cariniana domestica","term":"Cariniana domestica","identifiers":{"contentmine":"CM.lecythidaceae273","wikidata":"Q9696673"}},{"name":"Cariniana micrantha","term":"Cariniana micrantha","identifiers":{"contentmine":"CM.lecythidaceae274","wikidata":"Q9696674"}},{"name":"Cariniana multiflora","term":"Cariniana multiflora","identifiers":{"contentmine":"CM.lecythidaceae275","wikidata":"Q9696675"}},{"name":"Cariniana parvifolia","term":"Cariniana parvifolia","identifiers":{"contentmine":"CM.lecythidaceae276","wikidata":"Q10306677"}},{"name":"Cariniana estrellensis","term":"Cariniana estrellensis","identifiers":{"contentmine":"CM.lecythidaceae277","wikidata":"Q10306678"}},{"name":"Cariniana rubra","term":"Cariniana rubra","identifiers":{"contentmine":"CM.lecythidaceae278","wikidata":"Q10306679"}},{"name":"Foetidia cuneata","term":"Foetidia cuneata","identifiers":{"contentmine":"CM.lecythidaceae279","wikidata":"Q15392884"}},{"name":"Foetidia retusa","term":"Foetidia retusa","identifiers":{"contentmine":"CM.lecythidaceae280","wikidata":"Q15392975"}},{"name":"Foetidia delphinensis","term":"Foetidia delphinensis","identifiers":{"contentmine":"CM.lecythidaceae281","wikidata":"Q15392981"}},{"name":"Foetidia dracaenoides","term":"Foetidia dracaenoides","identifiers":{"contentmine":"CM.lecythidaceae282","wikidata":"Q15393120"}},{"name":"Foetidia macrocarpa","term":"Foetidia macrocarpa","identifiers":{"contentmine":"CM.lecythidaceae283","wikidata":"Q15393209"}},{"name":"Foetidia rodriguesiana","term":"Foetidia rodriguesiana","identifiers":{"contentmine":"CM.lecythidaceae284","wikidata":"Q15393221"}},{"name":"Foetidia mauritiana","term":"Foetidia mauritiana","identifiers":{"contentmine":"CM.lecythidaceae285","wikidata":"Q15393296"}},{"name":"Foetidia obliqua","term":"Foetidia obliqua","identifiers":{"contentmine":"CM.lecythidaceae286","wikidata":"Q15393393"}},{"name":"Foetidia rubescens","term":"Foetidia rubescens","identifiers":{"contentmine":"CM.lecythidaceae287","wikidata":"Q15393438"}},{"name":"Foetidia parviflora","term":"Foetidia parviflora","identifiers":{"contentmine":"CM.lecythidaceae288","wikidata":"Q15393495"}},{"name":"Foetidia pterocarpa","term":"Foetidia pterocarpa","identifiers":{"contentmine":"CM.lecythidaceae289","wikidata":"Q15393571"}},{"name":"Foetidia sambiranensis","term":"Foetidia sambiranensis","identifiers":{"contentmine":"CM.lecythidaceae290","wikidata":"Q15393753"}},{"name":"Foetidia vohemarensis","term":"Foetidia vohemarensis","identifiers":{"contentmine":"CM.lecythidaceae291","wikidata":"Q15394015"}},{"name":"Foetidia africana","term":"Foetidia africana","identifiers":{"contentmine":"CM.lecythidaceae292","wikidata":"Q15394084"}},{"name":"Foetidia asymmetrica","term":"Foetidia asymmetrica","identifiers":{"contentmine":"CM.lecythidaceae293","wikidata":"Q15394163"}},{"name":"Foetidia capuronii","term":"Foetidia capuronii","identifiers":{"contentmine":"CM.lecythidaceae294","wikidata":"Q15394274"}},{"name":"Foetidia clusioides","term":"Foetidia clusioides","identifiers":{"contentmine":"CM.lecythidaceae295","wikidata":"Q15394393"}},{"name":"Foetidia asymetrica","term":"Foetidia asymetrica","identifiers":{"contentmine":"CM.lecythidaceae296","wikidata":"Q17132678"}},{"name":"Foetidia ophirensis","term":"Foetidia ophirensis","identifiers":{"contentmine":"CM.lecythidaceae297","wikidata":"Q17132840"}},{"name":"Corythophora labriculata","term":"Corythophora labriculata","identifiers":{"contentmine":"CM.lecythidaceae298","wikidata":"Q5173794"}},{"name":"Corythophora alta","term":"Corythophora alta","identifiers":{"contentmine":"CM.lecythidaceae299","wikidata":"Q15391750"}},{"name":"Corythophora amapaensis","term":"Corythophora amapaensis","identifiers":{"contentmine":"CM.lecythidaceae300","wikidata":"Q15391947"}},{"name":"Corythophora rimosa","term":"Corythophora rimosa","identifiers":{"contentmine":"CM.lecythidaceae301","wikidata":"Q15392198"}},{"name":"Couratari prancei","term":"Couratari prancei","identifiers":{"contentmine":"CM.lecythidaceae302","wikidata":"Q1385298"}},{"name":"Couratari asterophora","term":"Couratari asterophora","identifiers":{"contentmine":"CM.lecythidaceae303","wikidata":"Q1945349"}},{"name":"Couratari asterotricha","term":"Couratari asterotricha","identifiers":{"contentmine":"CM.lecythidaceae304","wikidata":"Q5178101"}},{"name":"Couratari atrovinosa","term":"Couratari atrovinosa","identifiers":{"contentmine":"CM.lecythidaceae305","wikidata":"Q5178102"}},{"name":"Couratari calycina","term":"Couratari calycina","identifiers":{"contentmine":"CM.lecythidaceae306","wikidata":"Q5178103"}},{"name":"Couratari guianensis","term":"Couratari guianensis","identifiers":{"contentmine":"CM.lecythidaceae307","wikidata":"Q5178104"}},{"name":"Couratari longipedicellata","term":"Couratari longipedicellata","identifiers":{"contentmine":"CM.lecythidaceae308","wikidata":"Q5178106"}},{"name":"Couratari pyramidata","term":"Couratari pyramidata","identifiers":{"contentmine":"CM.lecythidaceae309","wikidata":"Q5178107"}},{"name":"Couratari sandwithii","term":"Couratari sandwithii","identifiers":{"contentmine":"CM.lecythidaceae310","wikidata":"Q5178108"}},{"name":"Couratari tauari","term":"Couratari tauari","identifiers":{"contentmine":"CM.lecythidaceae311","wikidata":"Q5178109"}},{"name":"Couratari scottmorii","term":"Couratari scottmorii","identifiers":{"contentmine":"CM.lecythidaceae312","wikidata":"Q10261271"}},{"name":"Couratari gloriosa","term":"Couratari gloriosa","identifiers":{"contentmine":"CM.lecythidaceae313","wikidata":"Q15392434"}},{"name":"Couratari macrosperma","term":"Couratari macrosperma","identifiers":{"contentmine":"CM.lecythidaceae314","wikidata":"Q15392632"}},{"name":"Couratari multiflora","term":"Couratari multiflora","identifiers":{"contentmine":"CM.lecythidaceae315","wikidata":"Q15392731"}},{"name":"Couratari Oblongifolia","term":"Couratari Oblongifolia","identifiers":{"contentmine":"CM.lecythidaceae316","wikidata":"Q15392840"}},{"name":"Couratari oligantha","term":"Couratari oligantha","identifiers":{"contentmine":"CM.lecythidaceae317","wikidata":"Q15392958"}},{"name":"Couratari riparia","term":"Couratari riparia","identifiers":{"contentmine":"CM.lecythidaceae318","wikidata":"Q15393061"}},{"name":"Couratari stellata","term":"Couratari stellata","identifiers":{"contentmine":"CM.lecythidaceae319","wikidata":"Q15393283"}},{"name":"Couratari tenuicarpa","term":"Couratari tenuicarpa","identifiers":{"contentmine":"CM.lecythidaceae320","wikidata":"Q15393389"}},{"name":"Grias colombiana","term":"Grias colombiana","identifiers":{"contentmine":"CM.lecythidaceae321","wikidata":"Q5455282"}},{"name":"Grias haughtii","term":"Grias haughtii","identifiers":{"contentmine":"CM.lecythidaceae322","wikidata":"Q5455285"}},{"name":"Grias multinervia","term":"Grias multinervia","identifiers":{"contentmine":"CM.lecythidaceae323","wikidata":"Q5455287"}},{"name":"Grias longirachis","term":"Grias longirachis","identifiers":{"contentmine":"CM.lecythidaceae324","wikidata":"Q5471289"}},{"name":"Grias cauliflora","term":"Grias cauliflora","identifiers":{"contentmine":"CM.lecythidaceae325","wikidata":"Q5608536"}},{"name":"Grias neuberthii","term":"Grias neuberthii","identifiers":{"contentmine":"CM.lecythidaceae326","wikidata":"Q15393906"}},{"name":"Grias peruviana","term":"Grias peruviana","identifiers":{"contentmine":"CM.lecythidaceae327","wikidata":"Q15394007"}},{"name":"Bertholletia","term":"Bertholletia","identifiers":{"contentmine":"CM.lecythidaceae328","wikidata":"Q2899339"}},{"name":"Allantoma","term":"Allantoma","identifiers":{"contentmine":"CM.lecythidaceae329","wikidata":"Q8195715"}},{"name":"Lecythideae","term":"Lecythideae","identifiers":{"contentmine":"CM.lecythidaceae330","wikidata":"Q22934553"}},{"name":"Petersianthus","term":"Petersianthus","identifiers":{"contentmine":"CM.lecythidaceae331","wikidata":"Q2714681"}},{"name":"Careya","term":"Careya","identifiers":{"contentmine":"CM.lecythidaceae332","wikidata":"Q3819991"}},{"name":"Chydenanthus","term":"Chydenanthus","identifiers":{"contentmine":"CM.lecythidaceae333","wikidata":"Q5404106"}},{"name":"Planchonia careya","term":"Planchonia careya","identifiers":{"contentmine":"CM.lecythidaceae334","wikidata":"Q7200983"}},{"name":"Planchonia arabidis","term":"Planchonia arabidis","identifiers":{"contentmine":"CM.lecythidaceae335","wikidata":"Q10632828"}},{"name":"Planchonia timorensis","term":"Planchonia timorensis","identifiers":{"contentmine":"CM.lecythidaceae336","wikidata":"Q15393936"}},{"name":"Planchonia valida","term":"Planchonia valida","identifiers":{"contentmine":"CM.lecythidaceae337","wikidata":"Q15394792"}},{"name":"Planchonia andamanica","term":"Planchonia andamanica","identifiers":{"contentmine":"CM.lecythidaceae338","wikidata":"Q15395332"}},{"name":"Planchonia brevistipitata","term":"Planchonia brevistipitata","identifiers":{"contentmine":"CM.lecythidaceae339","wikidata":"Q15395529"}},{"name":"Planchonia grandis","term":"Planchonia grandis","identifiers":{"contentmine":"CM.lecythidaceae340","wikidata":"Q15395987"}},{"name":"Planchonia papuana","term":"Planchonia papuana","identifiers":{"contentmine":"CM.lecythidaceae341","wikidata":"Q15396214"}},{"name":"Planchonia rupestris","term":"Planchonia rupestris","identifiers":{"contentmine":"CM.lecythidaceae342","wikidata":"Q15396462"}},{"name":"Planchonia spectabilis","term":"Planchonia spectabilis","identifiers":{"contentmine":"CM.lecythidaceae343","wikidata":"Q15396687"}},{"name":"Rhaptopetalum beguei","term":"Rhaptopetalum beguei","identifiers":{"contentmine":"CM.lecythidaceae344","wikidata":"Q5413548"}},{"name":"Rhaptopetalum geophylax","term":"Rhaptopetalum geophylax","identifiers":{"contentmine":"CM.lecythidaceae345","wikidata":"Q5436295"}},{"name":"Rhaptopetalum belingense","term":"Rhaptopetalum belingense","identifiers":{"contentmine":"CM.lecythidaceae346","wikidata":"Q5463594"}},{"name":"Rhaptopetalum sindarense","term":"Rhaptopetalum sindarense","identifiers":{"contentmine":"CM.lecythidaceae347","wikidata":"Q5463596"}},{"name":"Rhaptopetalum pachyphyllum","term":"Rhaptopetalum pachyphyllum","identifiers":{"contentmine":"CM.lecythidaceae348","wikidata":"Q15398472"}},{"name":"Rhaptopetalum roseum","term":"Rhaptopetalum roseum","identifiers":{"contentmine":"CM.lecythidaceae349","wikidata":"Q15399073"}},{"name":"Scytopetalum","term":"Scytopetalum","identifiers":{"contentmine":"CM.lecythidaceae350","wikidata":"Q290986"}},{"name":"Brazzeia","term":"Brazzeia","identifiers":{"contentmine":"CM.lecythidaceae351","wikidata":"Q1338910"}},{"name":"Oubanguia","term":"Oubanguia","identifiers":{"contentmine":"CM.lecythidaceae352","wikidata":"Q9053611"}},{"name":"Pierrina","term":"Pierrina","identifiers":{"contentmine":"CM.lecythidaceae353","wikidata":"Q9059573"}},{"name":"Astherantos brasiliensis","term":"Astherantos brasiliensis","identifiers":{"contentmine":"CM.lecythidaceae354","wikidata":"Q15287102"}},{"name":"Crateranthus","term":"Crateranthus","identifiers":{"contentmine":"CM.lecythidaceae355","wikidata":"Q5182639"}},{"name":"Scytopetalum klaineanum","term":"Scytopetalum klaineanum","identifiers":{"contentmine":"CM.lecythidaceae356","wikidata":"Q15394124"}},{"name":"Brazzeia longipedicellata","term":"Brazzeia longipedicellata","identifiers":{"contentmine":"CM.lecythidaceae357","wikidata":"Q4959037"}},{"name":"Brazzeia congoensis","term":"Brazzeia congoensis","identifiers":{"contentmine":"CM.lecythidaceae358","wikidata":"Q15390087"}},{"name":"Brazzeia soyauxii","term":"Brazzeia soyauxii","identifiers":{"contentmine":"CM.lecythidaceae359","wikidata":"Q15390165"}},{"name":"Petersianthus macrocarpus","term":"Petersianthus macrocarpus","identifiers":{"contentmine":"CM.lecythidaceae360","wikidata":"Q642545"}},{"name":"Petersianthus quadrialatus","term":"Petersianthus quadrialatus","identifiers":{"contentmine":"CM.lecythidaceae361","wikidata":"Q12669154"}},{"name":"Bertholletia excelsa","term":"Bertholletia excelsa","identifiers":{"contentmine":"CM.lecythidaceae362","wikidata":"Q81671"}},{"name":"Careya arborea","term":"Careya arborea","identifiers":{"contentmine":"CM.lecythidaceae363","wikidata":"Q2718249"}},{"name":"Careya herbacea","term":"Careya herbacea","identifiers":{"contentmine":"CM.lecythidaceae364","wikidata":"Q15391280"}},{"name":"Careya valida","term":"Careya valida","identifiers":{"contentmine":"CM.lecythidaceae365","wikidata":"Q15391381"}},{"name":"Crateranthus talbotii","term":"Crateranthus talbotii","identifiers":{"contentmine":"CM.lecythidaceae366","wikidata":"Q5182640"}},{"name":"Crateranthus le-testui","term":"Crateranthus le-testui","identifiers":{"contentmine":"CM.lecythidaceae367","wikidata":"Q15391885"}},{"name":"Crateranthus congolensis","term":"Crateranthus congolensis","identifiers":{"contentmine":"CM.lecythidaceae368","wikidata":"Q15393659"}},{"name":"Crateranthus congofensis","term":"Crateranthus congofensis","identifiers":{"contentmine":"CM.lecythidaceae369","wikidata":"Q17137677"}},{"name":"Chydenanthus excelsus","term":"Chydenanthus excelsus","identifiers":{"contentmine":"CM.lecythidaceae370","wikidata":"Q15392484"}},{"name":"Allantoma lineata","term":"Allantoma lineata","identifiers":{"contentmine":"CM.lecythidaceae371","wikidata":"Q150205"}},{"name":"Allantoma integrifolia","term":"Allantoma integrifolia","identifiers":{"contentmine":"CM.lecythidaceae372","wikidata":"Q15388754"}},{"name":"Allantoma kuhlmannii","term":"Allantoma kuhlmannii","identifiers":{"contentmine":"CM.lecythidaceae373","wikidata":"Q15388852"}},{"name":"Allantoma pachyantha","term":"Allantoma pachyantha","identifiers":{"contentmine":"CM.lecythidaceae374","wikidata":"Q15389020"}},{"name":"Allantoma pauciramosa","term":"Allantoma pauciramosa","identifiers":{"contentmine":"CM.lecythidaceae375","wikidata":"Q15389093"}},{"name":"Allantoma pluriflora","term":"Allantoma pluriflora","identifiers":{"contentmine":"CM.lecythidaceae376","wikidata":"Q15389203"}},{"name":"Allantoma uaupensis","term":"Allantoma uaupensis","identifiers":{"contentmine":"CM.lecythidaceae377","wikidata":"Q15389305"}},{"name":"Allantoma decandra","term":"Allantoma decandra","identifiers":{"contentmine":"CM.lecythidaceae378","wikidata":"Q15390352"}},{"name":"Oubanguia laurifolia","term":"Oubanguia laurifolia","identifiers":{"contentmine":"CM.lecythidaceae379","wikidata":"Q15393553"}},{"name":"Eschweilera piresii subsp. viridipetala","term":"Eschweilera piresii subsp. viridipetala","identifiers":{"contentmine":"CM.lecythidaceae380","wikidata":"Q28112667"}},{"name":"Gustavia nana subsp. rhodantha","term":"Gustavia nana subsp. rhodantha","identifiers":{"contentmine":"CM.lecythidaceae381","wikidata":"Q28112693"}},{"name":"Gustavia speciosa subsp. occidentalis","term":"Gustavia speciosa subsp. occidentalis","identifiers":{"contentmine":"CM.lecythidaceae382","wikidata":"Q28112694"}}]}
+{
+    "entries": [
+        {
+            "name": "Lecythidaceae",
+            "term": "Lecythidaceae",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae0",
+                "wikidata": "Q161929"
+            }
+        },
+        {
+            "name": "Gustavia",
+            "term": "Gustavia",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae1",
+                "wikidata": "Q141042"
+            }
+        },
+        {
+            "name": "Couroupita",
+            "term": "Couroupita",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae2",
+                "wikidata": "Q159309"
+            }
+        },
+        {
+            "name": "Eschweilera",
+            "term": "Eschweilera",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae3",
+                "wikidata": "Q287974"
+            }
+        },
+        {
+            "name": "Asteranthos",
+            "term": "Asteranthos",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae4",
+                "wikidata": "Q717680"
+            }
+        },
+        {
+            "name": "Abdulmajidia",
+            "term": "Abdulmajidia",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae5",
+                "wikidata": "Q772824"
+            }
+        },
+        {
+            "name": "Lecythis",
+            "term": "Lecythis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae6",
+                "wikidata": "Q1786738"
+            }
+        },
+        {
+            "name": "Napoleonaea",
+            "term": "Napoleonaea",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae7",
+                "wikidata": "Q2583585"
+            }
+        },
+        {
+            "name": "Barringtonia",
+            "term": "Barringtonia",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae8",
+                "wikidata": "Q2673561"
+            }
+        },
+        {
+            "name": "Cariniana",
+            "term": "Cariniana",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae9",
+                "wikidata": "Q2709975"
+            }
+        },
+        {
+            "name": "Foetidia",
+            "term": "Foetidia",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae10",
+                "wikidata": "Q3074797"
+            }
+        },
+        {
+            "name": "Corythophora",
+            "term": "Corythophora",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae11",
+                "wikidata": "Q5173793"
+            }
+        },
+        {
+            "name": "Couratari",
+            "term": "Couratari",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae12",
+                "wikidata": "Q5178100"
+            }
+        },
+        {
+            "name": "Grias",
+            "term": "Grias",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae13",
+                "wikidata": "Q5608540"
+            }
+        },
+        {
+            "name": "Lecythidoideae",
+            "term": "Lecythidoideae",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae14",
+                "wikidata": "Q5972430"
+            }
+        },
+        {
+            "name": "Planchonioideae",
+            "term": "Planchonioideae",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae15",
+                "wikidata": "Q6077554"
+            }
+        },
+        {
+            "name": "Planchonia",
+            "term": "Planchonia",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae16",
+                "wikidata": "Q7200985"
+            }
+        },
+        {
+            "name": "Rhaptopetalum",
+            "term": "Rhaptopetalum",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae17",
+                "wikidata": "Q7320260"
+            }
+        },
+        {
+            "name": "Scytopetaloideae",
+            "term": "Scytopetaloideae",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae18",
+                "wikidata": "Q16830135"
+            }
+        },
+        {
+            "name": "Astherantos",
+            "term": "Astherantos",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae19",
+                "wikidata": "Q21078792"
+            }
+        },
+        {
+            "name": "Napoleonaeoideae",
+            "term": "Napoleonaeoideae",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae20",
+                "wikidata": "Q21230888"
+            }
+        },
+        {
+            "name": "Foetidioideae",
+            "term": "Foetidioideae",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae21",
+                "wikidata": "Q21445796"
+            }
+        },
+        {
+            "name": "Gustavia superba",
+            "term": "Gustavia superba",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae22",
+                "wikidata": "Q655360"
+            }
+        },
+        {
+            "name": "Gustavia gracillima",
+            "term": "Gustavia gracillima",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae23",
+                "wikidata": "Q1593386"
+            }
+        },
+        {
+            "name": "Gustavia acuminata",
+            "term": "Gustavia acuminata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae24",
+                "wikidata": "Q5455504"
+            }
+        },
+        {
+            "name": "Gustavia foliosa",
+            "term": "Gustavia foliosa",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae25",
+                "wikidata": "Q5455508"
+            }
+        },
+        {
+            "name": "Gustavia fosteri",
+            "term": "Gustavia fosteri",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae26",
+                "wikidata": "Q5455512"
+            }
+        },
+        {
+            "name": "Gustavia pubescens",
+            "term": "Gustavia pubescens",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae27",
+                "wikidata": "Q5455516"
+            }
+        },
+        {
+            "name": "Gustavia santanderiensis",
+            "term": "Gustavia santanderiensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae28",
+                "wikidata": "Q5455520"
+            }
+        },
+        {
+            "name": "Gustavia sessilis",
+            "term": "Gustavia sessilis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae29",
+                "wikidata": "Q5455525"
+            }
+        },
+        {
+            "name": "Gustavia verticillata",
+            "term": "Gustavia verticillata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae30",
+                "wikidata": "Q5455530"
+            }
+        },
+        {
+            "name": "Gustavia angustifolia",
+            "term": "Gustavia angustifolia",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae31",
+                "wikidata": "Q5471385"
+            }
+        },
+        {
+            "name": "Gustavia dodsonii",
+            "term": "Gustavia dodsonii",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae32",
+                "wikidata": "Q5471388"
+            }
+        },
+        {
+            "name": "Gustavia excelsa",
+            "term": "Gustavia excelsa",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae33",
+                "wikidata": "Q5471390"
+            }
+        },
+        {
+            "name": "Gustavia longepetiolata",
+            "term": "Gustavia longepetiolata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae34",
+                "wikidata": "Q5471396"
+            }
+        },
+        {
+            "name": "Gustavia monocaulis",
+            "term": "Gustavia monocaulis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae35",
+                "wikidata": "Q5471400"
+            }
+        },
+        {
+            "name": "Gustavia petiolata",
+            "term": "Gustavia petiolata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae36",
+                "wikidata": "Q5471404"
+            }
+        },
+        {
+            "name": "Gustavia serrata",
+            "term": "Gustavia serrata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae37",
+                "wikidata": "Q5471407"
+            }
+        },
+        {
+            "name": "Gustavia latifolia",
+            "term": "Gustavia latifolia",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae38",
+                "wikidata": "Q5485423"
+            }
+        },
+        {
+            "name": "Gustavia longifuniculata",
+            "term": "Gustavia longifuniculata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae39",
+                "wikidata": "Q5621327"
+            }
+        },
+        {
+            "name": "Gustavia hexapetala",
+            "term": "Gustavia hexapetala",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae40",
+                "wikidata": "Q5889406"
+            }
+        },
+        {
+            "name": "Gustavia erythrocarpa",
+            "term": "Gustavia erythrocarpa",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae41",
+                "wikidata": "Q8008729"
+            }
+        },
+        {
+            "name": "Gustavia augusta",
+            "term": "Gustavia augusta",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae42",
+                "wikidata": "Q10306640"
+            }
+        },
+        {
+            "name": "Gustavia tejerae",
+            "term": "Gustavia tejerae",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae43",
+                "wikidata": "Q15393123"
+            }
+        },
+        {
+            "name": "Gustavia terminaliflora",
+            "term": "Gustavia terminaliflora",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae44",
+                "wikidata": "Q15393273"
+            }
+        },
+        {
+            "name": "Gustavia gentryi",
+            "term": "Gustavia gentryi",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae45",
+                "wikidata": "Q15393689"
+            }
+        },
+        {
+            "name": "Gustavia brachycarpa",
+            "term": "Gustavia brachycarpa",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae46",
+                "wikidata": "Q15394371"
+            }
+        },
+        {
+            "name": "Gustavia coriacea",
+            "term": "Gustavia coriacea",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae47",
+                "wikidata": "Q15394482"
+            }
+        },
+        {
+            "name": "Gustavia gigantophylla",
+            "term": "Gustavia gigantophylla",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae48",
+                "wikidata": "Q15394569"
+            }
+        },
+        {
+            "name": "Gustavia dubia",
+            "term": "Gustavia dubia",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae49",
+                "wikidata": "Q15394597"
+            }
+        },
+        {
+            "name": "Gustavia elliptica",
+            "term": "Gustavia elliptica",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae50",
+                "wikidata": "Q15394723"
+            }
+        },
+        {
+            "name": "Gustavia flagellata",
+            "term": "Gustavia flagellata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae51",
+                "wikidata": "Q15394856"
+            }
+        },
+        {
+            "name": "Gustavia gracillipes",
+            "term": "Gustavia gracillipes",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae52",
+                "wikidata": "Q15395382"
+            }
+        },
+        {
+            "name": "Gustavia grandibracteata",
+            "term": "Gustavia grandibracteata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae53",
+                "wikidata": "Q15396195"
+            }
+        },
+        {
+            "name": "Gustavia inakuama",
+            "term": "Gustavia inakuama",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae54",
+                "wikidata": "Q15398063"
+            }
+        },
+        {
+            "name": "Gustavia longifolia",
+            "term": "Gustavia longifolia",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae55",
+                "wikidata": "Q15399283"
+            }
+        },
+        {
+            "name": "Gustavia longipetiolata",
+            "term": "Gustavia longipetiolata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae56",
+                "wikidata": "Q15399908"
+            }
+        },
+        {
+            "name": "Gustavia macarenensis",
+            "term": "Gustavia macarenensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae57",
+                "wikidata": "Q15400226"
+            }
+        },
+        {
+            "name": "Gustavia nana",
+            "term": "Gustavia nana",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae58",
+                "wikidata": "Q15400553"
+            }
+        },
+        {
+            "name": "Gustavia parviflora",
+            "term": "Gustavia parviflora",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae59",
+                "wikidata": "Q15400712"
+            }
+        },
+        {
+            "name": "Gustavia poeppigiana",
+            "term": "Gustavia poeppigiana",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae60",
+                "wikidata": "Q15400852"
+            }
+        },
+        {
+            "name": "Gustavia pulchra",
+            "term": "Gustavia pulchra",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae61",
+                "wikidata": "Q15400973"
+            }
+        },
+        {
+            "name": "Gustavia romeroi",
+            "term": "Gustavia romeroi",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae62",
+                "wikidata": "Q15401066"
+            }
+        },
+        {
+            "name": "Gustavia speciosa",
+            "term": "Gustavia speciosa",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae63",
+                "wikidata": "Q15401129"
+            }
+        },
+        {
+            "name": "Gustavia acuta",
+            "term": "Gustavia acuta",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae64",
+                "wikidata": "Q17136249"
+            }
+        },
+        {
+            "name": "Gustavia sect. Grandibracteata",
+            "term": "Gustavia sect. Grandibracteata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae65",
+                "wikidata": "Q21377367"
+            }
+        },
+        {
+            "name": "Gustavia sect. Hexapetala",
+            "term": "Gustavia sect. Hexapetala",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae66",
+                "wikidata": "Q21377368"
+            }
+        },
+        {
+            "name": "Couroupita guianensis",
+            "term": "Couroupita guianensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae67",
+                "wikidata": "Q161823"
+            }
+        },
+        {
+            "name": "Couroupita nicaraguensis",
+            "term": "Couroupita nicaraguensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae68",
+                "wikidata": "Q5178153"
+            }
+        },
+        {
+            "name": "Couroupita subsessilis",
+            "term": "Couroupita subsessilis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae69",
+                "wikidata": "Q10261276"
+            }
+        },
+        {
+            "name": "Eschweilera baguensis",
+            "term": "Eschweilera baguensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae70",
+                "wikidata": "Q507347"
+            }
+        },
+        {
+            "name": "Eschweilera integrifolia",
+            "term": "Eschweilera integrifolia",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae71",
+                "wikidata": "Q5391863"
+            }
+        },
+        {
+            "name": "Eschweilera pittieri",
+            "term": "Eschweilera pittieri",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae72",
+                "wikidata": "Q5391865"
+            }
+        },
+        {
+            "name": "Eschweilera alvimii",
+            "term": "Eschweilera alvimii",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae73",
+                "wikidata": "Q5397224"
+            }
+        },
+        {
+            "name": "Eschweilera atropetiolata",
+            "term": "Eschweilera atropetiolata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae74",
+                "wikidata": "Q5397225"
+            }
+        },
+        {
+            "name": "Eschweilera amplexifolia",
+            "term": "Eschweilera amplexifolia",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae75",
+                "wikidata": "Q5397227"
+            }
+        },
+        {
+            "name": "Eschweilera beebei",
+            "term": "Eschweilera beebei",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae76",
+                "wikidata": "Q5397230"
+            }
+        },
+        {
+            "name": "Eschweilera boltenii",
+            "term": "Eschweilera boltenii",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae77",
+                "wikidata": "Q5397236"
+            }
+        },
+        {
+            "name": "Eschweilera bogotensis",
+            "term": "Eschweilera bogotensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae78",
+                "wikidata": "Q5397237"
+            }
+        },
+        {
+            "name": "Eschweilera compressa",
+            "term": "Eschweilera compressa",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae79",
+                "wikidata": "Q5397241"
+            }
+        },
+        {
+            "name": "Eschweilera cyathiformis",
+            "term": "Eschweilera cyathiformis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae80",
+                "wikidata": "Q5397244"
+            }
+        },
+        {
+            "name": "Eschweilera fanshawei",
+            "term": "Eschweilera fanshawei",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae81",
+                "wikidata": "Q5397249"
+            }
+        },
+        {
+            "name": "Eschweilera jacquelyniae",
+            "term": "Eschweilera jacquelyniae",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae82",
+                "wikidata": "Q5397253"
+            }
+        },
+        {
+            "name": "Eschweilera longirachis",
+            "term": "Eschweilera longirachis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae83",
+                "wikidata": "Q5397254"
+            }
+        },
+        {
+            "name": "Eschweilera mexicana",
+            "term": "Eschweilera mexicana",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae84",
+                "wikidata": "Q5397257"
+            }
+        },
+        {
+            "name": "Eschweilera obversa",
+            "term": "Eschweilera obversa",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae85",
+                "wikidata": "Q5397265"
+            }
+        },
+        {
+            "name": "Eschweilera punctata",
+            "term": "Eschweilera punctata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae86",
+                "wikidata": "Q5397266"
+            }
+        },
+        {
+            "name": "Eschweilera potaroensis",
+            "term": "Eschweilera potaroensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae87",
+                "wikidata": "Q5397268"
+            }
+        },
+        {
+            "name": "Eschweilera rabeliana",
+            "term": "Eschweilera rabeliana",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae88",
+                "wikidata": "Q5397270"
+            }
+        },
+        {
+            "name": "Eschweilera rhododendrifolia",
+            "term": "Eschweilera rhododendrifolia",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae89",
+                "wikidata": "Q5397275"
+            }
+        },
+        {
+            "name": "Eschweilera rimbachii",
+            "term": "Eschweilera rimbachii",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae90",
+                "wikidata": "Q5397279"
+            }
+        },
+        {
+            "name": "Eschweilera rionegrense",
+            "term": "Eschweilera rionegrense",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae91",
+                "wikidata": "Q5397280"
+            }
+        },
+        {
+            "name": "Eschweilera rodriguesiana",
+            "term": "Eschweilera rodriguesiana",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae92",
+                "wikidata": "Q5397281"
+            }
+        },
+        {
+            "name": "Eschweilera roraimensis",
+            "term": "Eschweilera roraimensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae93",
+                "wikidata": "Q5397283"
+            }
+        },
+        {
+            "name": "Eschweilera sclerophylla",
+            "term": "Eschweilera sclerophylla",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae94",
+                "wikidata": "Q5397287"
+            }
+        },
+        {
+            "name": "Eschweilera squamata",
+            "term": "Eschweilera squamata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae95",
+                "wikidata": "Q5397290"
+            }
+        },
+        {
+            "name": "Eschweilera tetrapetala",
+            "term": "Eschweilera tetrapetala",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae96",
+                "wikidata": "Q5397293"
+            }
+        },
+        {
+            "name": "Eschweilera venezuelica",
+            "term": "Eschweilera venezuelica",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae97",
+                "wikidata": "Q5397295"
+            }
+        },
+        {
+            "name": "Eschweilera carinata",
+            "term": "Eschweilera carinata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae98",
+                "wikidata": "Q5453867"
+            }
+        },
+        {
+            "name": "Eschweilera integricalyx",
+            "term": "Eschweilera integricalyx",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae99",
+                "wikidata": "Q5453874"
+            }
+        },
+        {
+            "name": "Eschweilera subcordata",
+            "term": "Eschweilera subcordata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae100",
+                "wikidata": "Q5453892"
+            }
+        },
+        {
+            "name": "Eschweilera amazonicaformis",
+            "term": "Eschweilera amazonicaformis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae101",
+                "wikidata": "Q9286775"
+            }
+        },
+        {
+            "name": "Eschweilera piresii",
+            "term": "Eschweilera piresii",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae102",
+                "wikidata": "Q10274270"
+            }
+        },
+        {
+            "name": "Eschweilera coriacea",
+            "term": "Eschweilera coriacea",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae103",
+                "wikidata": "Q10327268"
+            }
+        },
+        {
+            "name": "Eschweilera ovata",
+            "term": "Eschweilera ovata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae104",
+                "wikidata": "Q15290578"
+            }
+        },
+        {
+            "name": "Eschweilera biflava",
+            "term": "Eschweilera biflava",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae105",
+                "wikidata": "Q15392079"
+            }
+        },
+        {
+            "name": "Eschweilera cabrerana",
+            "term": "Eschweilera cabrerana",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae106",
+                "wikidata": "Q15392212"
+            }
+        },
+        {
+            "name": "Eschweilera bracteosa",
+            "term": "Eschweilera bracteosa",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae107",
+                "wikidata": "Q15392291"
+            }
+        },
+        {
+            "name": "Eschweilera juruensis",
+            "term": "Eschweilera juruensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae108",
+                "wikidata": "Q15392467"
+            }
+        },
+        {
+            "name": "Eschweilera calyculata",
+            "term": "Eschweilera calyculata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae109",
+                "wikidata": "Q15392486"
+            }
+        },
+        {
+            "name": "Eschweilera klugii",
+            "term": "Eschweilera klugii",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae110",
+                "wikidata": "Q15392557"
+            }
+        },
+        {
+            "name": "Eschweilera caudiculata",
+            "term": "Eschweilera caudiculata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae111",
+                "wikidata": "Q15392615"
+            }
+        },
+        {
+            "name": "Eschweilera macrocarpa",
+            "term": "Eschweilera macrocarpa",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae112",
+                "wikidata": "Q15392629"
+            }
+        },
+        {
+            "name": "Eschweilera laevicarpa",
+            "term": "Eschweilera laevicarpa",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae113",
+                "wikidata": "Q15392683"
+            }
+        },
+        {
+            "name": "Eschweilera chartaceifolia",
+            "term": "Eschweilera chartaceifolia",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae114",
+                "wikidata": "Q15392730"
+            }
+        },
+        {
+            "name": "Eschweilera praealta",
+            "term": "Eschweilera praealta",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae115",
+                "wikidata": "Q15392755"
+            }
+        },
+        {
+            "name": "Eschweilera mattos-silvae",
+            "term": "Eschweilera mattos-silvae",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae116",
+                "wikidata": "Q15392768"
+            }
+        },
+        {
+            "name": "Eschweilera longipedicellata",
+            "term": "Eschweilera longipedicellata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae117",
+                "wikidata": "Q15392783"
+            }
+        },
+        {
+            "name": "Eschweilera collina",
+            "term": "Eschweilera collina",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae118",
+                "wikidata": "Q15392871"
+            }
+        },
+        {
+            "name": "Eschweilera pseudodecolorans",
+            "term": "Eschweilera pseudodecolorans",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae119",
+                "wikidata": "Q15392910"
+            }
+        },
+        {
+            "name": "Eschweilera micrantha",
+            "term": "Eschweilera micrantha",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae120",
+                "wikidata": "Q15392918"
+            }
+        },
+        {
+            "name": "Eschweilera complanata",
+            "term": "Eschweilera complanata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae121",
+                "wikidata": "Q15393026"
+            }
+        },
+        {
+            "name": "Eschweilera rankiniae",
+            "term": "Eschweilera rankiniae",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae122",
+                "wikidata": "Q15393048"
+            }
+        },
+        {
+            "name": "Eschweilera microcalyx",
+            "term": "Eschweilera microcalyx",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae123",
+                "wikidata": "Q15393069"
+            }
+        },
+        {
+            "name": "Eschweilera congestiflora",
+            "term": "Eschweilera congestiflora",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae124",
+                "wikidata": "Q15393174"
+            }
+        },
+        {
+            "name": "Eschweilera reversa",
+            "term": "Eschweilera reversa",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae125",
+                "wikidata": "Q15393179"
+            }
+        },
+        {
+            "name": "Eschweilera nana",
+            "term": "Eschweilera nana",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae126",
+                "wikidata": "Q15393228"
+            }
+        },
+        {
+            "name": "Eschweilera revoluta",
+            "term": "Eschweilera revoluta",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae127",
+                "wikidata": "Q15393286"
+            }
+        },
+        {
+            "name": "Eschweilera aguilarii",
+            "term": "Eschweilera aguilarii",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae128",
+                "wikidata": "Q15393319"
+            }
+        },
+        {
+            "name": "Eschweilera neblinensis",
+            "term": "Eschweilera neblinensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae129",
+                "wikidata": "Q15393366"
+            }
+        },
+        {
+            "name": "Eschweilera rufifolia",
+            "term": "Eschweilera rufifolia",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae130",
+                "wikidata": "Q15393408"
+            }
+        },
+        {
+            "name": "Eschweilera alata",
+            "term": "Eschweilera alata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae131",
+                "wikidata": "Q15393426"
+            }
+        },
+        {
+            "name": "Eschweilera costaricensis",
+            "term": "Eschweilera costaricensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae132",
+                "wikidata": "Q15393432"
+            }
+        },
+        {
+            "name": "Eschweilera neei",
+            "term": "Eschweilera neei",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae133",
+                "wikidata": "Q15393465"
+            }
+        },
+        {
+            "name": "Eschweilera sagotiana",
+            "term": "Eschweilera sagotiana",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae134",
+                "wikidata": "Q15393544"
+            }
+        },
+        {
+            "name": "Eschweilera albiflora",
+            "term": "Eschweilera albiflora",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae135",
+                "wikidata": "Q15393561"
+            }
+        },
+        {
+            "name": "Eschweilera decolorans",
+            "term": "Eschweilera decolorans",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae136",
+                "wikidata": "Q15393586"
+            }
+        },
+        {
+            "name": "Eschweilera ovalifolia",
+            "term": "Eschweilera ovalifolia",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae137",
+                "wikidata": "Q15393631"
+            }
+        },
+        {
+            "name": "Eschweilera sessilis",
+            "term": "Eschweilera sessilis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae138",
+                "wikidata": "Q15393654"
+            }
+        },
+        {
+            "name": "Eschweilera amazonica",
+            "term": "Eschweilera amazonica",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae139",
+                "wikidata": "Q15393660"
+            }
+        },
+        {
+            "name": "Eschweilera eperuetorum",
+            "term": "Eschweilera eperuetorum",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae140",
+                "wikidata": "Q15393711"
+            }
+        },
+        {
+            "name": "Eschweilera simiorum",
+            "term": "Eschweilera simiorum",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae141",
+                "wikidata": "Q15393788"
+            }
+        },
+        {
+            "name": "Eschweilera amazoniciformis",
+            "term": "Eschweilera amazoniciformis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae142",
+                "wikidata": "Q15393821"
+            }
+        },
+        {
+            "name": "Eschweilera gigantea",
+            "term": "Eschweilera gigantea",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae143",
+                "wikidata": "Q15393835"
+            }
+        },
+        {
+            "name": "Eschweilera pachyderma",
+            "term": "Eschweilera pachyderma",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae144",
+                "wikidata": "Q15393882"
+            }
+        },
+        {
+            "name": "Eschweilera subglandulosa",
+            "term": "Eschweilera subglandulosa",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae145",
+                "wikidata": "Q15393925"
+            }
+        },
+        {
+            "name": "Eschweilera andina",
+            "term": "Eschweilera andina",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae146",
+                "wikidata": "Q15393958"
+            }
+        },
+        {
+            "name": "Eschweilera grandiflora",
+            "term": "Eschweilera grandiflora",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae147",
+                "wikidata": "Q15393987"
+            }
+        },
+        {
+            "name": "Eschweilera panamensis",
+            "term": "Eschweilera panamensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae148",
+                "wikidata": "Q15394027"
+            }
+        },
+        {
+            "name": "Eschweilera antioquensis",
+            "term": "Eschweilera antioquensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae149",
+                "wikidata": "Q15394059"
+            }
+        },
+        {
+            "name": "Eschweilera tenax",
+            "term": "Eschweilera tenax",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae150",
+                "wikidata": "Q15394076"
+            }
+        },
+        {
+            "name": "Eschweilera harmonii",
+            "term": "Eschweilera harmonii",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae151",
+                "wikidata": "Q15394108"
+            }
+        },
+        {
+            "name": "Eschweilera paniculata",
+            "term": "Eschweilera paniculata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae152",
+                "wikidata": "Q15394176"
+            }
+        },
+        {
+            "name": "Eschweilera apiculata",
+            "term": "Eschweilera apiculata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae153",
+                "wikidata": "Q15394178"
+            }
+        },
+        {
+            "name": "Eschweilera tenuifolia",
+            "term": "Eschweilera tenuifolia",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae154",
+                "wikidata": "Q15394198"
+            }
+        },
+        {
+            "name": "Eschweilera hondurensis",
+            "term": "Eschweilera hondurensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae155",
+                "wikidata": "Q15394240"
+            }
+        },
+        {
+            "name": "Eschweilera parviflora",
+            "term": "Eschweilera parviflora",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae156",
+                "wikidata": "Q15394319"
+            }
+        },
+        {
+            "name": "Eschweilera itayensis",
+            "term": "Eschweilera itayensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae157",
+                "wikidata": "Q15394380"
+            }
+        },
+        {
+            "name": "Eschweilera parvifolia",
+            "term": "Eschweilera parvifolia",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae158",
+                "wikidata": "Q15394431"
+            }
+        },
+        {
+            "name": "Eschweilera truncata",
+            "term": "Eschweilera truncata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae159",
+                "wikidata": "Q15394497"
+            }
+        },
+        {
+            "name": "Eschweilera pedicellata",
+            "term": "Eschweilera pedicellata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae160",
+                "wikidata": "Q15394566"
+            }
+        },
+        {
+            "name": "Eschweilera wachenheimii",
+            "term": "Eschweilera wachenheimii",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae161",
+                "wikidata": "Q15394633"
+            }
+        },
+        {
+            "name": "Eschweilera perumbonata",
+            "term": "Eschweilera perumbonata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae162",
+                "wikidata": "Q15394725"
+            }
+        },
+        {
+            "name": "Eschweilera tessmannii",
+            "term": "Eschweilera tessmannii",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae163",
+                "wikidata": "Q15428060"
+            }
+        },
+        {
+            "name": "Eschweilera rhodogonoclada",
+            "term": "Eschweilera rhodogonoclada",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae164",
+                "wikidata": "Q17139210"
+            }
+        },
+        {
+            "name": "Asteranthos brasiliensis",
+            "term": "Asteranthos brasiliensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae165",
+                "wikidata": "Q4810652"
+            }
+        },
+        {
+            "name": "Abdulmajidia maxwelliana",
+            "term": "Abdulmajidia maxwelliana",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae166",
+                "wikidata": "Q1385305"
+            }
+        },
+        {
+            "name": "Abdulmajidia chaniana",
+            "term": "Abdulmajidia chaniana",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae167",
+                "wikidata": "Q1385322"
+            }
+        },
+        {
+            "name": "Abdulmajidia latiffiana",
+            "term": "Abdulmajidia latiffiana",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae168",
+                "wikidata": "Q15388584"
+            }
+        },
+        {
+            "name": "Abdulmajidia rimata",
+            "term": "Abdulmajidia rimata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae169",
+                "wikidata": "Q15388684"
+            }
+        },
+        {
+            "name": "Abdulmajidia zainudiniana",
+            "term": "Abdulmajidia zainudiniana",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae170",
+                "wikidata": "Q15388788"
+            }
+        },
+        {
+            "name": "Lecythis lurida",
+            "term": "Lecythis lurida",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae171",
+                "wikidata": "Q1384590"
+            }
+        },
+        {
+            "name": "Lecythis pisonis",
+            "term": "Lecythis pisonis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae172",
+                "wikidata": "Q1387987"
+            }
+        },
+        {
+            "name": "Lecythis retusa",
+            "term": "Lecythis retusa",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae173",
+                "wikidata": "Q5434234"
+            }
+        },
+        {
+            "name": "Lecythis serrata",
+            "term": "Lecythis serrata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae174",
+                "wikidata": "Q5434238"
+            }
+        },
+        {
+            "name": "Lecythis lanceolata",
+            "term": "Lecythis lanceolata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae175",
+                "wikidata": "Q5438147"
+            }
+        },
+        {
+            "name": "Lecythis barnebyi",
+            "term": "Lecythis barnebyi",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae176",
+                "wikidata": "Q5457643"
+            }
+        },
+        {
+            "name": "Lecythis brancoensis",
+            "term": "Lecythis brancoensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae177",
+                "wikidata": "Q5457647"
+            }
+        },
+        {
+            "name": "Lecythis schomburgkii",
+            "term": "Lecythis schomburgkii",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae178",
+                "wikidata": "Q5457652"
+            }
+        },
+        {
+            "name": "Lecythis schwackei",
+            "term": "Lecythis schwackei",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae179",
+                "wikidata": "Q5457657"
+            }
+        },
+        {
+            "name": "Lecythis prancei",
+            "term": "Lecythis prancei",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae180",
+                "wikidata": "Q5472622"
+            }
+        },
+        {
+            "name": "Lecythis usitata",
+            "term": "Lecythis usitata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae181",
+                "wikidata": "Q5972432"
+            }
+        },
+        {
+            "name": "Lecythis ampla",
+            "term": "Lecythis ampla",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae182",
+                "wikidata": "Q6512456"
+            }
+        },
+        {
+            "name": "Lecythis parvifructa",
+            "term": "Lecythis parvifructa",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae183",
+                "wikidata": "Q6512464"
+            }
+        },
+        {
+            "name": "Lecythis zabucajo",
+            "term": "Lecythis zabucajo",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae184",
+                "wikidata": "Q6512472"
+            }
+        },
+        {
+            "name": "Lecythis minor",
+            "term": "Lecythis minor",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae185",
+                "wikidata": "Q10959676"
+            }
+        },
+        {
+            "name": "Lecythis ollaria",
+            "term": "Lecythis ollaria",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae186",
+                "wikidata": "Q12955930"
+            }
+        },
+        {
+            "name": "Lecythis persistens",
+            "term": "Lecythis persistens",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae187",
+                "wikidata": "Q15393344"
+            }
+        },
+        {
+            "name": "Lecythis pneumatophora",
+            "term": "Lecythis pneumatophora",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae188",
+                "wikidata": "Q15393540"
+            }
+        },
+        {
+            "name": "Lecythis poiteaui",
+            "term": "Lecythis poiteaui",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae189",
+                "wikidata": "Q15393618"
+            }
+        },
+        {
+            "name": "Lecythis tuyrana",
+            "term": "Lecythis tuyrana",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae190",
+                "wikidata": "Q15393756"
+            }
+        },
+        {
+            "name": "Lecythis alutacea",
+            "term": "Lecythis alutacea",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae191",
+                "wikidata": "Q15393923"
+            }
+        },
+        {
+            "name": "Lecythis chartacea",
+            "term": "Lecythis chartacea",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae192",
+                "wikidata": "Q15394121"
+            }
+        },
+        {
+            "name": "Lecythis confertiflora",
+            "term": "Lecythis confertiflora",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae193",
+                "wikidata": "Q15394203"
+            }
+        },
+        {
+            "name": "Lecythis corrugata",
+            "term": "Lecythis corrugata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae194",
+                "wikidata": "Q15394331"
+            }
+        },
+        {
+            "name": "Lecythis gracieana",
+            "term": "Lecythis gracieana",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae195",
+                "wikidata": "Q15394428"
+            }
+        },
+        {
+            "name": "Lecythis holcogyne",
+            "term": "Lecythis holcogyne",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae196",
+                "wikidata": "Q15394528"
+            }
+        },
+        {
+            "name": "Lecythis idatimon",
+            "term": "Lecythis idatimon",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae197",
+                "wikidata": "Q15394616"
+            }
+        },
+        {
+            "name": "Lecythis mesophylla",
+            "term": "Lecythis mesophylla",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae198",
+                "wikidata": "Q15394712"
+            }
+        },
+        {
+            "name": "Lecythis zabucaja",
+            "term": "Lecythis zabucaja",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae199",
+                "wikidata": "Q21274308"
+            }
+        },
+        {
+            "name": "Napoleonaea egertonii",
+            "term": "Napoleonaea egertonii",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae200",
+                "wikidata": "Q5460133"
+            }
+        },
+        {
+            "name": "Napoleonaea lutea",
+            "term": "Napoleonaea lutea",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae201",
+                "wikidata": "Q5487892"
+            }
+        },
+        {
+            "name": "Napoleonaea reptans",
+            "term": "Napoleonaea reptans",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae202",
+                "wikidata": "Q5487899"
+            }
+        },
+        {
+            "name": "Napoleonaea gossweileri",
+            "term": "Napoleonaea gossweileri",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae203",
+                "wikidata": "Q15393327"
+            }
+        },
+        {
+            "name": "Napoleonaea heudelotii",
+            "term": "Napoleonaea heudelotii",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae204",
+                "wikidata": "Q15393747"
+            }
+        },
+        {
+            "name": "Napoleonaea imperialis",
+            "term": "Napoleonaea imperialis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae205",
+                "wikidata": "Q15394147"
+            }
+        },
+        {
+            "name": "Napoleonaea septentrionalis",
+            "term": "Napoleonaea septentrionalis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae206",
+                "wikidata": "Q15394657"
+            }
+        },
+        {
+            "name": "Napoleonaea talbotii",
+            "term": "Napoleonaea talbotii",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae207",
+                "wikidata": "Q15395255"
+            }
+        },
+        {
+            "name": "Napoleonaea vogelii",
+            "term": "Napoleonaea vogelii",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae208",
+                "wikidata": "Q15395637"
+            }
+        },
+        {
+            "name": "Napoleonaea gabonensis",
+            "term": "Napoleonaea gabonensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae209",
+                "wikidata": "Q15397460"
+            }
+        },
+        {
+            "name": "Barringtonia asiatica",
+            "term": "Barringtonia asiatica",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae210",
+                "wikidata": "Q311468"
+            }
+        },
+        {
+            "name": "Barringtonia acutangula",
+            "term": "Barringtonia acutangula",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae211",
+                "wikidata": "Q2248481"
+            }
+        },
+        {
+            "name": "Barringtonia racemosa",
+            "term": "Barringtonia racemosa",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae212",
+                "wikidata": "Q2718437"
+            }
+        },
+        {
+            "name": "Barringtonia payensiana",
+            "term": "Barringtonia payensiana",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae213",
+                "wikidata": "Q2885639"
+            }
+        },
+        {
+            "name": "Barringtonia calyptrata",
+            "term": "Barringtonia calyptrata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae214",
+                "wikidata": "Q4863701"
+            }
+        },
+        {
+            "name": "Barringtonia fusicarpa",
+            "term": "Barringtonia fusicarpa",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae215",
+                "wikidata": "Q11115923"
+            }
+        },
+        {
+            "name": "Barringtonia samoensis",
+            "term": "Barringtonia samoensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae216",
+                "wikidata": "Q15389068"
+            }
+        },
+        {
+            "name": "Barringtonia sarawakensis",
+            "term": "Barringtonia sarawakensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae217",
+                "wikidata": "Q15389150"
+            }
+        },
+        {
+            "name": "Barringtonia corneri",
+            "term": "Barringtonia corneri",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae218",
+                "wikidata": "Q15389208"
+            }
+        },
+        {
+            "name": "Barringtonia sarcostachys",
+            "term": "Barringtonia sarcostachys",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae219",
+                "wikidata": "Q15389280"
+            }
+        },
+        {
+            "name": "Barringtonia scortechinii",
+            "term": "Barringtonia scortechinii",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae220",
+                "wikidata": "Q15389347"
+            }
+        },
+        {
+            "name": "Barringtonia seaturae",
+            "term": "Barringtonia seaturae",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae221",
+                "wikidata": "Q15389441"
+            }
+        },
+        {
+            "name": "Barringtonia terengganuensis",
+            "term": "Barringtonia terengganuensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae222",
+                "wikidata": "Q15389543"
+            }
+        },
+        {
+            "name": "Barringtonia waasii",
+            "term": "Barringtonia waasii",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae223",
+                "wikidata": "Q15389640"
+            }
+        },
+        {
+            "name": "Barringtonia macrostachya",
+            "term": "Barringtonia macrostachya",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae224",
+                "wikidata": "Q15389807"
+            }
+        },
+        {
+            "name": "Barringtonia curranii",
+            "term": "Barringtonia curranii",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae225",
+                "wikidata": "Q15389974"
+            }
+        },
+        {
+            "name": "Barringtonia apiculata",
+            "term": "Barringtonia apiculata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae226",
+                "wikidata": "Q15390028"
+            }
+        },
+        {
+            "name": "Barringtonia ashtonii",
+            "term": "Barringtonia ashtonii",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae227",
+                "wikidata": "Q15390138"
+            }
+        },
+        {
+            "name": "Barringtonia augusta",
+            "term": "Barringtonia augusta",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae228",
+                "wikidata": "Q15390272"
+            }
+        },
+        {
+            "name": "Barringtonia maunwongyathiae",
+            "term": "Barringtonia maunwongyathiae",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae229",
+                "wikidata": "Q15390302"
+            }
+        },
+        {
+            "name": "Barringtonia belagaensis",
+            "term": "Barringtonia belagaensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae230",
+                "wikidata": "Q15390403"
+            }
+        },
+        {
+            "name": "Barringtonia calyptrocalyx",
+            "term": "Barringtonia calyptrocalyx",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae231",
+                "wikidata": "Q15390629"
+            }
+        },
+        {
+            "name": "Barringtonia neocaledonica",
+            "term": "Barringtonia neocaledonica",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae232",
+                "wikidata": "Q15390658"
+            }
+        },
+        {
+            "name": "Barringtonia conoidea",
+            "term": "Barringtonia conoidea",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae233",
+                "wikidata": "Q15390798"
+            }
+        },
+        {
+            "name": "Barringtonia edulis",
+            "term": "Barringtonia edulis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae234",
+                "wikidata": "Q15390823"
+            }
+        },
+        {
+            "name": "Barringtonia niedenzuana",
+            "term": "Barringtonia niedenzuana",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae235",
+                "wikidata": "Q15391180"
+            }
+        },
+        {
+            "name": "Barringtonia novae-hiberniae",
+            "term": "Barringtonia novae-hiberniae",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae236",
+                "wikidata": "Q15391999"
+            }
+        },
+        {
+            "name": "Barringtonia filirachis",
+            "term": "Barringtonia filirachis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae237",
+                "wikidata": "Q15392100"
+            }
+        },
+        {
+            "name": "Barringtonia palawanensis",
+            "term": "Barringtonia palawanensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae238",
+                "wikidata": "Q15392821"
+            }
+        },
+        {
+            "name": "Barringtonia fusiformis",
+            "term": "Barringtonia fusiformis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae239",
+                "wikidata": "Q15393116"
+            }
+        },
+        {
+            "name": "Barringtonia papeh",
+            "term": "Barringtonia papeh",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae240",
+                "wikidata": "Q15393419"
+            }
+        },
+        {
+            "name": "Barringtonia papuana",
+            "term": "Barringtonia papuana",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae241",
+                "wikidata": "Q15393820"
+            }
+        },
+        {
+            "name": "Barringtonia pauciflora",
+            "term": "Barringtonia pauciflora",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae242",
+                "wikidata": "Q15394412"
+            }
+        },
+        {
+            "name": "Barringtonia gigantostachya",
+            "term": "Barringtonia gigantostachya",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae243",
+                "wikidata": "Q15394808"
+            }
+        },
+        {
+            "name": "Barringtonia pendula",
+            "term": "Barringtonia pendula",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae244",
+                "wikidata": "Q15395007"
+            }
+        },
+        {
+            "name": "Barringtonia procera",
+            "term": "Barringtonia procera",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae245",
+                "wikidata": "Q15395710"
+            }
+        },
+        {
+            "name": "Barringtonia pseudoglomerata",
+            "term": "Barringtonia pseudoglomerata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae246",
+                "wikidata": "Q15396168"
+            }
+        },
+        {
+            "name": "Barringtonia pterita",
+            "term": "Barringtonia pterita",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae247",
+                "wikidata": "Q15396849"
+            }
+        },
+        {
+            "name": "Barringtonia hallieri",
+            "term": "Barringtonia hallieri",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae248",
+                "wikidata": "Q15397251"
+            }
+        },
+        {
+            "name": "Barringtonia reticulata",
+            "term": "Barringtonia reticulata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae249",
+                "wikidata": "Q15397598"
+            }
+        },
+        {
+            "name": "Barringtonia revoluta",
+            "term": "Barringtonia revoluta",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae250",
+                "wikidata": "Q15398250"
+            }
+        },
+        {
+            "name": "Barringtonia ridsdalei",
+            "term": "Barringtonia ridsdalei",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae251",
+                "wikidata": "Q15398909"
+            }
+        },
+        {
+            "name": "Barringtonia havilandii",
+            "term": "Barringtonia havilandii",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae252",
+                "wikidata": "Q15399667"
+            }
+        },
+        {
+            "name": "Barringtonia integrifolia",
+            "term": "Barringtonia integrifolia",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae253",
+                "wikidata": "Q15400221"
+            }
+        },
+        {
+            "name": "Barringtonia josephstaalensis",
+            "term": "Barringtonia josephstaalensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae254",
+                "wikidata": "Q15400682"
+            }
+        },
+        {
+            "name": "Barringtonia khaoluangensis",
+            "term": "Barringtonia khaoluangensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae255",
+                "wikidata": "Q15400935"
+            }
+        },
+        {
+            "name": "Barringtonia lanceolata",
+            "term": "Barringtonia lanceolata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae256",
+                "wikidata": "Q15401046"
+            }
+        },
+        {
+            "name": "Barringtonia lauterbachii",
+            "term": "Barringtonia lauterbachii",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae257",
+                "wikidata": "Q15401137"
+            }
+        },
+        {
+            "name": "Barringtonia longifolia",
+            "term": "Barringtonia longifolia",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae258",
+                "wikidata": "Q15401215"
+            }
+        },
+        {
+            "name": "Barringtonia longisepala",
+            "term": "Barringtonia longisepala",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae259",
+                "wikidata": "Q15401270"
+            }
+        },
+        {
+            "name": "Barringtonia macrocarpa",
+            "term": "Barringtonia macrocarpa",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae260",
+                "wikidata": "Q15401297"
+            }
+        },
+        {
+            "name": "Barringtonia petiolata",
+            "term": "Barringtonia petiolata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae261",
+                "wikidata": "Q17136373"
+            }
+        },
+        {
+            "name": "Barringtonia rimata",
+            "term": "Barringtonia rimata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae262",
+                "wikidata": "Q17136678"
+            }
+        },
+        {
+            "name": "Cariniana pauciramosa",
+            "term": "Cariniana pauciramosa",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae263",
+                "wikidata": "Q1384698"
+            }
+        },
+        {
+            "name": "Cariniana uaupensis",
+            "term": "Cariniana uaupensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae264",
+                "wikidata": "Q1384708"
+            }
+        },
+        {
+            "name": "Cariniana penduliflora",
+            "term": "Cariniana penduliflora",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae265",
+                "wikidata": "Q1384717"
+            }
+        },
+        {
+            "name": "Cariniana pachyantha",
+            "term": "Cariniana pachyantha",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae266",
+                "wikidata": "Q1384724"
+            }
+        },
+        {
+            "name": "Cariniana kuhlmannii",
+            "term": "Cariniana kuhlmannii",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae267",
+                "wikidata": "Q1384935"
+            }
+        },
+        {
+            "name": "Cariniana ianeirensis",
+            "term": "Cariniana ianeirensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae268",
+                "wikidata": "Q1941462"
+            }
+        },
+        {
+            "name": "Cariniana legalis",
+            "term": "Cariniana legalis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae269",
+                "wikidata": "Q1941484"
+            }
+        },
+        {
+            "name": "Cariniana integrifolia",
+            "term": "Cariniana integrifolia",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae270",
+                "wikidata": "Q1941499"
+            }
+        },
+        {
+            "name": "Cariniana pyriformis",
+            "term": "Cariniana pyriformis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae271",
+                "wikidata": "Q2703727"
+            }
+        },
+        {
+            "name": "Cariniana decandra",
+            "term": "Cariniana decandra",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae272",
+                "wikidata": "Q9696672"
+            }
+        },
+        {
+            "name": "Cariniana domestica",
+            "term": "Cariniana domestica",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae273",
+                "wikidata": "Q9696673"
+            }
+        },
+        {
+            "name": "Cariniana micrantha",
+            "term": "Cariniana micrantha",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae274",
+                "wikidata": "Q9696674"
+            }
+        },
+        {
+            "name": "Cariniana multiflora",
+            "term": "Cariniana multiflora",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae275",
+                "wikidata": "Q9696675"
+            }
+        },
+        {
+            "name": "Cariniana parvifolia",
+            "term": "Cariniana parvifolia",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae276",
+                "wikidata": "Q10306677"
+            }
+        },
+        {
+            "name": "Cariniana estrellensis",
+            "term": "Cariniana estrellensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae277",
+                "wikidata": "Q10306678"
+            }
+        },
+        {
+            "name": "Cariniana rubra",
+            "term": "Cariniana rubra",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae278",
+                "wikidata": "Q10306679"
+            }
+        },
+        {
+            "name": "Foetidia cuneata",
+            "term": "Foetidia cuneata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae279",
+                "wikidata": "Q15392884"
+            }
+        },
+        {
+            "name": "Foetidia retusa",
+            "term": "Foetidia retusa",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae280",
+                "wikidata": "Q15392975"
+            }
+        },
+        {
+            "name": "Foetidia delphinensis",
+            "term": "Foetidia delphinensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae281",
+                "wikidata": "Q15392981"
+            }
+        },
+        {
+            "name": "Foetidia dracaenoides",
+            "term": "Foetidia dracaenoides",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae282",
+                "wikidata": "Q15393120"
+            }
+        },
+        {
+            "name": "Foetidia macrocarpa",
+            "term": "Foetidia macrocarpa",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae283",
+                "wikidata": "Q15393209"
+            }
+        },
+        {
+            "name": "Foetidia rodriguesiana",
+            "term": "Foetidia rodriguesiana",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae284",
+                "wikidata": "Q15393221"
+            }
+        },
+        {
+            "name": "Foetidia mauritiana",
+            "term": "Foetidia mauritiana",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae285",
+                "wikidata": "Q15393296"
+            }
+        },
+        {
+            "name": "Foetidia obliqua",
+            "term": "Foetidia obliqua",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae286",
+                "wikidata": "Q15393393"
+            }
+        },
+        {
+            "name": "Foetidia rubescens",
+            "term": "Foetidia rubescens",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae287",
+                "wikidata": "Q15393438"
+            }
+        },
+        {
+            "name": "Foetidia parviflora",
+            "term": "Foetidia parviflora",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae288",
+                "wikidata": "Q15393495"
+            }
+        },
+        {
+            "name": "Foetidia pterocarpa",
+            "term": "Foetidia pterocarpa",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae289",
+                "wikidata": "Q15393571"
+            }
+        },
+        {
+            "name": "Foetidia sambiranensis",
+            "term": "Foetidia sambiranensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae290",
+                "wikidata": "Q15393753"
+            }
+        },
+        {
+            "name": "Foetidia vohemarensis",
+            "term": "Foetidia vohemarensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae291",
+                "wikidata": "Q15394015"
+            }
+        },
+        {
+            "name": "Foetidia africana",
+            "term": "Foetidia africana",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae292",
+                "wikidata": "Q15394084"
+            }
+        },
+        {
+            "name": "Foetidia asymmetrica",
+            "term": "Foetidia asymmetrica",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae293",
+                "wikidata": "Q15394163"
+            }
+        },
+        {
+            "name": "Foetidia capuronii",
+            "term": "Foetidia capuronii",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae294",
+                "wikidata": "Q15394274"
+            }
+        },
+        {
+            "name": "Foetidia clusioides",
+            "term": "Foetidia clusioides",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae295",
+                "wikidata": "Q15394393"
+            }
+        },
+        {
+            "name": "Foetidia asymetrica",
+            "term": "Foetidia asymetrica",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae296",
+                "wikidata": "Q17132678"
+            }
+        },
+        {
+            "name": "Foetidia ophirensis",
+            "term": "Foetidia ophirensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae297",
+                "wikidata": "Q17132840"
+            }
+        },
+        {
+            "name": "Corythophora labriculata",
+            "term": "Corythophora labriculata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae298",
+                "wikidata": "Q5173794"
+            }
+        },
+        {
+            "name": "Corythophora alta",
+            "term": "Corythophora alta",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae299",
+                "wikidata": "Q15391750"
+            }
+        },
+        {
+            "name": "Corythophora amapaensis",
+            "term": "Corythophora amapaensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae300",
+                "wikidata": "Q15391947"
+            }
+        },
+        {
+            "name": "Corythophora rimosa",
+            "term": "Corythophora rimosa",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae301",
+                "wikidata": "Q15392198"
+            }
+        },
+        {
+            "name": "Couratari prancei",
+            "term": "Couratari prancei",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae302",
+                "wikidata": "Q1385298"
+            }
+        },
+        {
+            "name": "Couratari asterophora",
+            "term": "Couratari asterophora",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae303",
+                "wikidata": "Q1945349"
+            }
+        },
+        {
+            "name": "Couratari asterotricha",
+            "term": "Couratari asterotricha",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae304",
+                "wikidata": "Q5178101"
+            }
+        },
+        {
+            "name": "Couratari atrovinosa",
+            "term": "Couratari atrovinosa",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae305",
+                "wikidata": "Q5178102"
+            }
+        },
+        {
+            "name": "Couratari calycina",
+            "term": "Couratari calycina",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae306",
+                "wikidata": "Q5178103"
+            }
+        },
+        {
+            "name": "Couratari guianensis",
+            "term": "Couratari guianensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae307",
+                "wikidata": "Q5178104"
+            }
+        },
+        {
+            "name": "Couratari longipedicellata",
+            "term": "Couratari longipedicellata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae308",
+                "wikidata": "Q5178106"
+            }
+        },
+        {
+            "name": "Couratari pyramidata",
+            "term": "Couratari pyramidata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae309",
+                "wikidata": "Q5178107"
+            }
+        },
+        {
+            "name": "Couratari sandwithii",
+            "term": "Couratari sandwithii",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae310",
+                "wikidata": "Q5178108"
+            }
+        },
+        {
+            "name": "Couratari tauari",
+            "term": "Couratari tauari",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae311",
+                "wikidata": "Q5178109"
+            }
+        },
+        {
+            "name": "Couratari scottmorii",
+            "term": "Couratari scottmorii",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae312",
+                "wikidata": "Q10261271"
+            }
+        },
+        {
+            "name": "Couratari gloriosa",
+            "term": "Couratari gloriosa",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae313",
+                "wikidata": "Q15392434"
+            }
+        },
+        {
+            "name": "Couratari macrosperma",
+            "term": "Couratari macrosperma",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae314",
+                "wikidata": "Q15392632"
+            }
+        },
+        {
+            "name": "Couratari multiflora",
+            "term": "Couratari multiflora",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae315",
+                "wikidata": "Q15392731"
+            }
+        },
+        {
+            "name": "Couratari Oblongifolia",
+            "term": "Couratari Oblongifolia",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae316",
+                "wikidata": "Q15392840"
+            }
+        },
+        {
+            "name": "Couratari oligantha",
+            "term": "Couratari oligantha",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae317",
+                "wikidata": "Q15392958"
+            }
+        },
+        {
+            "name": "Couratari riparia",
+            "term": "Couratari riparia",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae318",
+                "wikidata": "Q15393061"
+            }
+        },
+        {
+            "name": "Couratari stellata",
+            "term": "Couratari stellata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae319",
+                "wikidata": "Q15393283"
+            }
+        },
+        {
+            "name": "Couratari tenuicarpa",
+            "term": "Couratari tenuicarpa",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae320",
+                "wikidata": "Q15393389"
+            }
+        },
+        {
+            "name": "Grias colombiana",
+            "term": "Grias colombiana",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae321",
+                "wikidata": "Q5455282"
+            }
+        },
+        {
+            "name": "Grias haughtii",
+            "term": "Grias haughtii",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae322",
+                "wikidata": "Q5455285"
+            }
+        },
+        {
+            "name": "Grias multinervia",
+            "term": "Grias multinervia",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae323",
+                "wikidata": "Q5455287"
+            }
+        },
+        {
+            "name": "Grias longirachis",
+            "term": "Grias longirachis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae324",
+                "wikidata": "Q5471289"
+            }
+        },
+        {
+            "name": "Grias cauliflora",
+            "term": "Grias cauliflora",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae325",
+                "wikidata": "Q5608536"
+            }
+        },
+        {
+            "name": "Grias neuberthii",
+            "term": "Grias neuberthii",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae326",
+                "wikidata": "Q15393906"
+            }
+        },
+        {
+            "name": "Grias peruviana",
+            "term": "Grias peruviana",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae327",
+                "wikidata": "Q15394007"
+            }
+        },
+        {
+            "name": "Bertholletia",
+            "term": "Bertholletia",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae328",
+                "wikidata": "Q2899339"
+            }
+        },
+        {
+            "name": "Allantoma",
+            "term": "Allantoma",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae329",
+                "wikidata": "Q8195715"
+            }
+        },
+        {
+            "name": "Lecythideae",
+            "term": "Lecythideae",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae330",
+                "wikidata": "Q22934553"
+            }
+        },
+        {
+            "name": "Petersianthus",
+            "term": "Petersianthus",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae331",
+                "wikidata": "Q2714681"
+            }
+        },
+        {
+            "name": "Careya",
+            "term": "Careya",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae332",
+                "wikidata": "Q3819991"
+            }
+        },
+        {
+            "name": "Chydenanthus",
+            "term": "Chydenanthus",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae333",
+                "wikidata": "Q5404106"
+            }
+        },
+        {
+            "name": "Planchonia careya",
+            "term": "Planchonia careya",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae334",
+                "wikidata": "Q7200983"
+            }
+        },
+        {
+            "name": "Planchonia arabidis",
+            "term": "Planchonia arabidis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae335",
+                "wikidata": "Q10632828"
+            }
+        },
+        {
+            "name": "Planchonia timorensis",
+            "term": "Planchonia timorensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae336",
+                "wikidata": "Q15393936"
+            }
+        },
+        {
+            "name": "Planchonia valida",
+            "term": "Planchonia valida",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae337",
+                "wikidata": "Q15394792"
+            }
+        },
+        {
+            "name": "Planchonia andamanica",
+            "term": "Planchonia andamanica",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae338",
+                "wikidata": "Q15395332"
+            }
+        },
+        {
+            "name": "Planchonia brevistipitata",
+            "term": "Planchonia brevistipitata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae339",
+                "wikidata": "Q15395529"
+            }
+        },
+        {
+            "name": "Planchonia grandis",
+            "term": "Planchonia grandis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae340",
+                "wikidata": "Q15395987"
+            }
+        },
+        {
+            "name": "Planchonia papuana",
+            "term": "Planchonia papuana",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae341",
+                "wikidata": "Q15396214"
+            }
+        },
+        {
+            "name": "Planchonia rupestris",
+            "term": "Planchonia rupestris",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae342",
+                "wikidata": "Q15396462"
+            }
+        },
+        {
+            "name": "Planchonia spectabilis",
+            "term": "Planchonia spectabilis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae343",
+                "wikidata": "Q15396687"
+            }
+        },
+        {
+            "name": "Rhaptopetalum beguei",
+            "term": "Rhaptopetalum beguei",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae344",
+                "wikidata": "Q5413548"
+            }
+        },
+        {
+            "name": "Rhaptopetalum geophylax",
+            "term": "Rhaptopetalum geophylax",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae345",
+                "wikidata": "Q5436295"
+            }
+        },
+        {
+            "name": "Rhaptopetalum belingense",
+            "term": "Rhaptopetalum belingense",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae346",
+                "wikidata": "Q5463594"
+            }
+        },
+        {
+            "name": "Rhaptopetalum sindarense",
+            "term": "Rhaptopetalum sindarense",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae347",
+                "wikidata": "Q5463596"
+            }
+        },
+        {
+            "name": "Rhaptopetalum pachyphyllum",
+            "term": "Rhaptopetalum pachyphyllum",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae348",
+                "wikidata": "Q15398472"
+            }
+        },
+        {
+            "name": "Rhaptopetalum roseum",
+            "term": "Rhaptopetalum roseum",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae349",
+                "wikidata": "Q15399073"
+            }
+        },
+        {
+            "name": "Scytopetalum",
+            "term": "Scytopetalum",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae350",
+                "wikidata": "Q290986"
+            }
+        },
+        {
+            "name": "Brazzeia",
+            "term": "Brazzeia",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae351",
+                "wikidata": "Q1338910"
+            }
+        },
+        {
+            "name": "Oubanguia",
+            "term": "Oubanguia",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae352",
+                "wikidata": "Q9053611"
+            }
+        },
+        {
+            "name": "Pierrina",
+            "term": "Pierrina",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae353",
+                "wikidata": "Q9059573"
+            }
+        },
+        {
+            "name": "Astherantos brasiliensis",
+            "term": "Astherantos brasiliensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae354",
+                "wikidata": "Q15287102"
+            }
+        },
+        {
+            "name": "Crateranthus",
+            "term": "Crateranthus",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae355",
+                "wikidata": "Q5182639"
+            }
+        },
+        {
+            "name": "Scytopetalum klaineanum",
+            "term": "Scytopetalum klaineanum",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae356",
+                "wikidata": "Q15394124"
+            }
+        },
+        {
+            "name": "Brazzeia longipedicellata",
+            "term": "Brazzeia longipedicellata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae357",
+                "wikidata": "Q4959037"
+            }
+        },
+        {
+            "name": "Brazzeia congoensis",
+            "term": "Brazzeia congoensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae358",
+                "wikidata": "Q15390087"
+            }
+        },
+        {
+            "name": "Brazzeia soyauxii",
+            "term": "Brazzeia soyauxii",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae359",
+                "wikidata": "Q15390165"
+            }
+        },
+        {
+            "name": "Petersianthus macrocarpus",
+            "term": "Petersianthus macrocarpus",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae360",
+                "wikidata": "Q642545"
+            }
+        },
+        {
+            "name": "Petersianthus quadrialatus",
+            "term": "Petersianthus quadrialatus",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae361",
+                "wikidata": "Q12669154"
+            }
+        },
+        {
+            "name": "Bertholletia excelsa",
+            "term": "Bertholletia excelsa",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae362",
+                "wikidata": "Q81671"
+            }
+        },
+        {
+            "name": "Careya arborea",
+            "term": "Careya arborea",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae363",
+                "wikidata": "Q2718249"
+            }
+        },
+        {
+            "name": "Careya herbacea",
+            "term": "Careya herbacea",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae364",
+                "wikidata": "Q15391280"
+            }
+        },
+        {
+            "name": "Careya valida",
+            "term": "Careya valida",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae365",
+                "wikidata": "Q15391381"
+            }
+        },
+        {
+            "name": "Crateranthus talbotii",
+            "term": "Crateranthus talbotii",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae366",
+                "wikidata": "Q5182640"
+            }
+        },
+        {
+            "name": "Crateranthus le-testui",
+            "term": "Crateranthus le-testui",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae367",
+                "wikidata": "Q15391885"
+            }
+        },
+        {
+            "name": "Crateranthus congolensis",
+            "term": "Crateranthus congolensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae368",
+                "wikidata": "Q15393659"
+            }
+        },
+        {
+            "name": "Crateranthus congofensis",
+            "term": "Crateranthus congofensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae369",
+                "wikidata": "Q17137677"
+            }
+        },
+        {
+            "name": "Chydenanthus excelsus",
+            "term": "Chydenanthus excelsus",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae370",
+                "wikidata": "Q15392484"
+            }
+        },
+        {
+            "name": "Allantoma lineata",
+            "term": "Allantoma lineata",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae371",
+                "wikidata": "Q150205"
+            }
+        },
+        {
+            "name": "Allantoma integrifolia",
+            "term": "Allantoma integrifolia",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae372",
+                "wikidata": "Q15388754"
+            }
+        },
+        {
+            "name": "Allantoma kuhlmannii",
+            "term": "Allantoma kuhlmannii",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae373",
+                "wikidata": "Q15388852"
+            }
+        },
+        {
+            "name": "Allantoma pachyantha",
+            "term": "Allantoma pachyantha",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae374",
+                "wikidata": "Q15389020"
+            }
+        },
+        {
+            "name": "Allantoma pauciramosa",
+            "term": "Allantoma pauciramosa",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae375",
+                "wikidata": "Q15389093"
+            }
+        },
+        {
+            "name": "Allantoma pluriflora",
+            "term": "Allantoma pluriflora",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae376",
+                "wikidata": "Q15389203"
+            }
+        },
+        {
+            "name": "Allantoma uaupensis",
+            "term": "Allantoma uaupensis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae377",
+                "wikidata": "Q15389305"
+            }
+        },
+        {
+            "name": "Allantoma decandra",
+            "term": "Allantoma decandra",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae378",
+                "wikidata": "Q15390352"
+            }
+        },
+        {
+            "name": "Oubanguia laurifolia",
+            "term": "Oubanguia laurifolia",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae379",
+                "wikidata": "Q15393553"
+            }
+        },
+        {
+            "name": "Eschweilera piresii subsp. viridipetala",
+            "term": "Eschweilera piresii subsp. viridipetala",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae380",
+                "wikidata": "Q28112667"
+            }
+        },
+        {
+            "name": "Gustavia nana subsp. rhodantha",
+            "term": "Gustavia nana subsp. rhodantha",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae381",
+                "wikidata": "Q28112693"
+            }
+        },
+        {
+            "name": "Gustavia speciosa subsp. occidentalis",
+            "term": "Gustavia speciosa subsp. occidentalis",
+            "identifiers": {
+                "contentmine": "CM.lecythidaceae382",
+                "wikidata": "Q28112694"
+            }
+        }
+    ],
+    "id": "CM.lecythidaceae"
+}

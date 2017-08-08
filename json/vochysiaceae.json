@@ -1,1 +1,2157 @@
-{"entries":[{"name":"Vochysiaceae","term":"Vochysiaceae","identifiers":{"contentmine":"CM.vochysiaceae0","wikidata":"Q131743"}},{"name":"Vochysia","term":"Vochysia","identifiers":{"contentmine":"CM.vochysiaceae1","wikidata":"Q141089"}},{"name":"Erismadelphus","term":"Erismadelphus","identifiers":{"contentmine":"CM.vochysiaceae2","wikidata":"Q973719"}},{"name":"Callisthene","term":"Callisthene","identifiers":{"contentmine":"CM.vochysiaceae3","wikidata":"Q2880695"}},{"name":"Qualea","term":"Qualea","identifiers":{"contentmine":"CM.vochysiaceae4","wikidata":"Q7268624"}},{"name":"Ruizterania","term":"Ruizterania","identifiers":{"contentmine":"CM.vochysiaceae5","wikidata":"Q9071208"}},{"name":"Salvertia","term":"Salvertia","identifiers":{"contentmine":"CM.vochysiaceae6","wikidata":"Q9073151"}},{"name":"Erisma","term":"Erisma","identifiers":{"contentmine":"CM.vochysiaceae7","wikidata":"Q10273644"}},{"name":"Korupodendon","term":"Korupodendon","identifiers":{"contentmine":"CM.vochysiaceae8","wikidata":"Q10314642"}},{"name":"Korupodendron","term":"Korupodendron","identifiers":{"contentmine":"CM.vochysiaceae9","wikidata":"Q13067582"}},{"name":"Vochysia aurifera","term":"Vochysia aurifera","identifiers":{"contentmine":"CM.vochysiaceae10","wikidata":"Q956456"}},{"name":"Vochysia maxima","term":"Vochysia maxima","identifiers":{"contentmine":"CM.vochysiaceae11","wikidata":"Q6164562"}},{"name":"Vochysia haenkeana","term":"Vochysia haenkeana","identifiers":{"contentmine":"CM.vochysiaceae12","wikidata":"Q9094696"}},{"name":"Vochysia tucanorum","term":"Vochysia tucanorum","identifiers":{"contentmine":"CM.vochysiaceae13","wikidata":"Q10392266"}},{"name":"Vochysia allenii","term":"Vochysia allenii","identifiers":{"contentmine":"CM.vochysiaceae14","wikidata":"Q15331323"}},{"name":"Vochysia costata","term":"Vochysia costata","identifiers":{"contentmine":"CM.vochysiaceae15","wikidata":"Q15331440"}},{"name":"Vochysia angustifolia","term":"Vochysia angustifolia","identifiers":{"contentmine":"CM.vochysiaceae16","wikidata":"Q15331473"}},{"name":"Vochysia crassifolia","term":"Vochysia crassifolia","identifiers":{"contentmine":"CM.vochysiaceae17","wikidata":"Q15331504"}},{"name":"Vochysia julianensis","term":"Vochysia julianensis","identifiers":{"contentmine":"CM.vochysiaceae18","wikidata":"Q15331558"}},{"name":"Vochysia apopetala","term":"Vochysia apopetala","identifiers":{"contentmine":"CM.vochysiaceae19","wikidata":"Q15331567"}},{"name":"Vochysia oppugnata","term":"Vochysia oppugnata","identifiers":{"contentmine":"CM.vochysiaceae20","wikidata":"Q15331569"}},{"name":"Vochysia stafleui","term":"Vochysia stafleui","identifiers":{"contentmine":"CM.vochysiaceae21","wikidata":"Q15331578"}},{"name":"Vochysia diversa","term":"Vochysia diversa","identifiers":{"contentmine":"CM.vochysiaceae22","wikidata":"Q15331599"}},{"name":"Vochysia steyermarkiana","term":"Vochysia steyermarkiana","identifiers":{"contentmine":"CM.vochysiaceae23","wikidata":"Q15331627"}},{"name":"Vochysia lanceolata","term":"Vochysia lanceolata","identifiers":{"contentmine":"CM.vochysiaceae24","wikidata":"Q15331650"}},{"name":"Vochysia ortegae","term":"Vochysia ortegae","identifiers":{"contentmine":"CM.vochysiaceae25","wikidata":"Q15331654"}},{"name":"Vochysia elegans","term":"Vochysia elegans","identifiers":{"contentmine":"CM.vochysiaceae26","wikidata":"Q15331675"}},{"name":"Vochysia assua","term":"Vochysia assua","identifiers":{"contentmine":"CM.vochysiaceae27","wikidata":"Q15331697"}},{"name":"Vochysia expansa","term":"Vochysia expansa","identifiers":{"contentmine":"CM.vochysiaceae28","wikidata":"Q15331722"}},{"name":"Vochysia laxiflora","term":"Vochysia laxiflora","identifiers":{"contentmine":"CM.vochysiaceae29","wikidata":"Q15331763"}},{"name":"Vochysia pachyantha","term":"Vochysia pachyantha","identifiers":{"contentmine":"CM.vochysiaceae30","wikidata":"Q15331765"}},{"name":"Vochysia surinamensis","term":"Vochysia surinamensis","identifiers":{"contentmine":"CM.vochysiaceae31","wikidata":"Q15331788"}},{"name":"Vochysia ferruginea","term":"Vochysia ferruginea","identifiers":{"contentmine":"CM.vochysiaceae32","wikidata":"Q15331808"}},{"name":"Vochysia tabascana","term":"Vochysia tabascana","identifiers":{"contentmine":"CM.vochysiaceae33","wikidata":"Q15331876"}},{"name":"Vochysia leguiana","term":"Vochysia leguiana","identifiers":{"contentmine":"CM.vochysiaceae34","wikidata":"Q15331886"}},{"name":"Vochysia gardneri","term":"Vochysia gardneri","identifiers":{"contentmine":"CM.vochysiaceae35","wikidata":"Q15331899"}},{"name":"Vochysia pauciflora","term":"Vochysia pauciflora","identifiers":{"contentmine":"CM.vochysiaceae36","wikidata":"Q15331900"}},{"name":"Vochysia tetraphylla","term":"Vochysia tetraphylla","identifiers":{"contentmine":"CM.vochysiaceae37","wikidata":"Q15331948"}},{"name":"Vochysia gigantea","term":"Vochysia gigantea","identifiers":{"contentmine":"CM.vochysiaceae38","wikidata":"Q15331949"}},{"name":"Vochysia lehmannii","term":"Vochysia lehmannii","identifiers":{"contentmine":"CM.vochysiaceae39","wikidata":"Q15331951"}},{"name":"Vochysia bautistae","term":"Vochysia bautistae","identifiers":{"contentmine":"CM.vochysiaceae40","wikidata":"Q15331982"}},{"name":"Vochysia penae","term":"Vochysia penae","identifiers":{"contentmine":"CM.vochysiaceae41","wikidata":"Q15331991"}},{"name":"Vochysia glaberrima","term":"Vochysia glaberrima","identifiers":{"contentmine":"CM.vochysiaceae42","wikidata":"Q15332046"}},{"name":"Vochysia thyrsoidea","term":"Vochysia thyrsoidea","identifiers":{"contentmine":"CM.vochysiaceae43","wikidata":"Q15332055"}},{"name":"Vochysia liscanoi","term":"Vochysia liscanoi","identifiers":{"contentmine":"CM.vochysiaceae44","wikidata":"Q15332097"}},{"name":"Vochysia bifalcata","term":"Vochysia bifalcata","identifiers":{"contentmine":"CM.vochysiaceae45","wikidata":"Q15332103"}},{"name":"Vochysia grandis","term":"Vochysia grandis","identifiers":{"contentmine":"CM.vochysiaceae46","wikidata":"Q15332124"}},{"name":"Vochysia petraea","term":"Vochysia petraea","identifiers":{"contentmine":"CM.vochysiaceae47","wikidata":"Q15332139"}},{"name":"Vochysia lomatophylla","term":"Vochysia lomatophylla","identifiers":{"contentmine":"CM.vochysiaceae48","wikidata":"Q15332192"}},{"name":"Vochysia guatemalensis","term":"Vochysia guatemalensis","identifiers":{"contentmine":"CM.vochysiaceae49","wikidata":"Q15332215"}},{"name":"Vochysia punctata","term":"Vochysia punctata","identifiers":{"contentmine":"CM.vochysiaceae50","wikidata":"Q15332246"}},{"name":"Vochysia biloba","term":"Vochysia biloba","identifiers":{"contentmine":"CM.vochysiaceae51","wikidata":"Q15332249"}},{"name":"Vochysia tillettii","term":"Vochysia tillettii","identifiers":{"contentmine":"CM.vochysiaceae52","wikidata":"Q15332261"}},{"name":"Vochysia magnifica","term":"Vochysia magnifica","identifiers":{"contentmine":"CM.vochysiaceae53","wikidata":"Q15332294"}},{"name":"Vochysia guianensis","term":"Vochysia guianensis","identifiers":{"contentmine":"CM.vochysiaceae54","wikidata":"Q15332312"}},{"name":"Vochysia pygmaea","term":"Vochysia pygmaea","identifiers":{"contentmine":"CM.vochysiaceae55","wikidata":"Q15332374"}},{"name":"Vochysia braceliniae","term":"Vochysia braceliniae","identifiers":{"contentmine":"CM.vochysiaceae56","wikidata":"Q15332393"}},{"name":"Vochysia tomentosa","term":"Vochysia tomentosa","identifiers":{"contentmine":"CM.vochysiaceae57","wikidata":"Q15332425"}},{"name":"Vochysia majuscula","term":"Vochysia majuscula","identifiers":{"contentmine":"CM.vochysiaceae58","wikidata":"Q15332440"}},{"name":"Vochysia hannekesaskiae","term":"Vochysia hannekesaskiae","identifiers":{"contentmine":"CM.vochysiaceae59","wikidata":"Q15332504"}},{"name":"Vochysia calophylla","term":"Vochysia calophylla","identifiers":{"contentmine":"CM.vochysiaceae60","wikidata":"Q15332519"}},{"name":"Vochysia revoluta","term":"Vochysia revoluta","identifiers":{"contentmine":"CM.vochysiaceae61","wikidata":"Q15332521"}},{"name":"Vochysia mapirensis","term":"Vochysia mapirensis","identifiers":{"contentmine":"CM.vochysiaceae62","wikidata":"Q15332568"}},{"name":"Vochysia jefensis","term":"Vochysia jefensis","identifiers":{"contentmine":"CM.vochysiaceae63","wikidata":"Q15332611"}},{"name":"Vochysia mapuerae","term":"Vochysia mapuerae","identifiers":{"contentmine":"CM.vochysiaceae64","wikidata":"Q15332640"}},{"name":"Vochysia rotundifolia","term":"Vochysia rotundifolia","identifiers":{"contentmine":"CM.vochysiaceae65","wikidata":"Q15332650"}},{"name":"Vochysia jonkeri","term":"Vochysia jonkeri","identifiers":{"contentmine":"CM.vochysiaceae66","wikidata":"Q15332698"}},{"name":"Vochysia martiana","term":"Vochysia martiana","identifiers":{"contentmine":"CM.vochysiaceae67","wikidata":"Q15332761"}},{"name":"Vochysia cassiquiarensis","term":"Vochysia cassiquiarensis","identifiers":{"contentmine":"CM.vochysiaceae68","wikidata":"Q15332779"}},{"name":"Vochysia rubiginosa","term":"Vochysia rubiginosa","identifiers":{"contentmine":"CM.vochysiaceae69","wikidata":"Q15332814"}},{"name":"Vochysia venezuelana","term":"Vochysia venezuelana","identifiers":{"contentmine":"CM.vochysiaceae70","wikidata":"Q15332849"}},{"name":"Vochysia megalophylla","term":"Vochysia megalophylla","identifiers":{"contentmine":"CM.vochysiaceae71","wikidata":"Q15332877"}},{"name":"Vochysia saccata","term":"Vochysia saccata","identifiers":{"contentmine":"CM.vochysiaceae72","wikidata":"Q15332984"}},{"name":"Vochysia meridensis","term":"Vochysia meridensis","identifiers":{"contentmine":"CM.vochysiaceae73","wikidata":"Q15332992"}},{"name":"Vochysia catingae","term":"Vochysia catingae","identifiers":{"contentmine":"CM.vochysiaceae74","wikidata":"Q15333083"}},{"name":"Vochysia venulosa","term":"Vochysia venulosa","identifiers":{"contentmine":"CM.vochysiaceae75","wikidata":"Q15333116"}},{"name":"Vochysia obidensis","term":"Vochysia obidensis","identifiers":{"contentmine":"CM.vochysiaceae76","wikidata":"Q15333159"}},{"name":"Vochysia spathiphylla","term":"Vochysia spathiphylla","identifiers":{"contentmine":"CM.vochysiaceae77","wikidata":"Q15333183"}},{"name":"Vochysia obscura","term":"Vochysia obscura","identifiers":{"contentmine":"CM.vochysiaceae78","wikidata":"Q15333249"}},{"name":"Vochysia cinnamomea","term":"Vochysia cinnamomea","identifiers":{"contentmine":"CM.vochysiaceae79","wikidata":"Q15333336"}},{"name":"Vochysia speciosa","term":"Vochysia speciosa","identifiers":{"contentmine":"CM.vochysiaceae80","wikidata":"Q15333362"}},{"name":"Vochysia vismiifolia","term":"Vochysia vismiifolia","identifiers":{"contentmine":"CM.vochysiaceae81","wikidata":"Q15333363"}},{"name":"Vochysia splendens","term":"Vochysia splendens","identifiers":{"contentmine":"CM.vochysiaceae82","wikidata":"Q15333508"}},{"name":"Vochysia citrifolia","term":"Vochysia citrifolia","identifiers":{"contentmine":"CM.vochysiaceae83","wikidata":"Q15333533"}},{"name":"Vochysia sprucei","term":"Vochysia sprucei","identifiers":{"contentmine":"CM.vochysiaceae84","wikidata":"Q15333644"}},{"name":"Vochysia complicata","term":"Vochysia complicata","identifiers":{"contentmine":"CM.vochysiaceae85","wikidata":"Q15333674"}},{"name":"Vochysia talmonii","term":"Vochysia talmonii","identifiers":{"contentmine":"CM.vochysiaceae86","wikidata":"Q17602542"}},{"name":"Vochysia spathulata","term":"Vochysia spathulata","identifiers":{"contentmine":"CM.vochysiaceae87","wikidata":"Q17602543"}},{"name":"Vochysia sessilifolia","term":"Vochysia sessilifolia","identifiers":{"contentmine":"CM.vochysiaceae88","wikidata":"Q17602544"}},{"name":"Vochysia selloi","term":"Vochysia selloi","identifiers":{"contentmine":"CM.vochysiaceae89","wikidata":"Q17602545"}},{"name":"Vochysia schwackeana","term":"Vochysia schwackeana","identifiers":{"contentmine":"CM.vochysiaceae90","wikidata":"Q17602546"}},{"name":"Vochysia schomburgkii","term":"Vochysia schomburgkii","identifiers":{"contentmine":"CM.vochysiaceae91","wikidata":"Q17602547"}},{"name":"Vochysia santaluciae","term":"Vochysia santaluciae","identifiers":{"contentmine":"CM.vochysiaceae92","wikidata":"Q17602548"}},{"name":"Vochysia saldanhana","term":"Vochysia saldanhana","identifiers":{"contentmine":"CM.vochysiaceae93","wikidata":"Q17602549"}},{"name":"Vochysia sabatieri","term":"Vochysia sabatieri","identifiers":{"contentmine":"CM.vochysiaceae94","wikidata":"Q17602550"}},{"name":"Vochysia rufa","term":"Vochysia rufa","identifiers":{"contentmine":"CM.vochysiaceae95","wikidata":"Q17602551"}},{"name":"Vochysia riedeliana","term":"Vochysia riedeliana","identifiers":{"contentmine":"CM.vochysiaceae96","wikidata":"Q17602552"}},{"name":"Vochysia rectiflora","term":"Vochysia rectiflora","identifiers":{"contentmine":"CM.vochysiaceae97","wikidata":"Q17602553"}},{"name":"Vochysia radlkoferi","term":"Vochysia radlkoferi","identifiers":{"contentmine":"CM.vochysiaceae98","wikidata":"Q17602554"}},{"name":"Vochysia pyramidalis","term":"Vochysia pyramidalis","identifiers":{"contentmine":"CM.vochysiaceae99","wikidata":"Q17602555"}},{"name":"Vochysia pumila","term":"Vochysia pumila","identifiers":{"contentmine":"CM.vochysiaceae100","wikidata":"Q17602556"}},{"name":"Vochysia pruinosa","term":"Vochysia pruinosa","identifiers":{"contentmine":"CM.vochysiaceae101","wikidata":"Q17602557"}},{"name":"Vochysia parviflora","term":"Vochysia parviflora","identifiers":{"contentmine":"CM.vochysiaceae102","wikidata":"Q17602560"}},{"name":"Vochysia palmirana","term":"Vochysia palmirana","identifiers":{"contentmine":"CM.vochysiaceae103","wikidata":"Q17602561"}},{"name":"Vochysia pacifica","term":"Vochysia pacifica","identifiers":{"contentmine":"CM.vochysiaceae104","wikidata":"Q17602562"}},{"name":"Vochysia obovata","term":"Vochysia obovata","identifiers":{"contentmine":"CM.vochysiaceae105","wikidata":"Q17602563"}},{"name":"Vochysia oblongifolia","term":"Vochysia oblongifolia","identifiers":{"contentmine":"CM.vochysiaceae106","wikidata":"Q17602564"}},{"name":"Vochysia neyratii","term":"Vochysia neyratii","identifiers":{"contentmine":"CM.vochysiaceae107","wikidata":"Q17602565"}},{"name":"Vochysia megalantha","term":"Vochysia megalantha","identifiers":{"contentmine":"CM.vochysiaceae108","wikidata":"Q17602567"}},{"name":"Vochysia mariziana","term":"Vochysia mariziana","identifiers":{"contentmine":"CM.vochysiaceae109","wikidata":"Q17602569"}},{"name":"Vochysia maguirei","term":"Vochysia maguirei","identifiers":{"contentmine":"CM.vochysiaceae110","wikidata":"Q17602570"}},{"name":"Vochysia magna","term":"Vochysia magna","identifiers":{"contentmine":"CM.vochysiaceae111","wikidata":"Q17602571"}},{"name":"Vochysia macrophylla","term":"Vochysia macrophylla","identifiers":{"contentmine":"CM.vochysiaceae112","wikidata":"Q17602572"}},{"name":"Vochysia lucida","term":"Vochysia lucida","identifiers":{"contentmine":"CM.vochysiaceae113","wikidata":"Q17602574"}},{"name":"Vochysia lopezpalacioi","term":"Vochysia lopezpalacioi","identifiers":{"contentmine":"CM.vochysiaceae114","wikidata":"Q17602575"}},{"name":"Vochysia ledouxii","term":"Vochysia ledouxii","identifiers":{"contentmine":"CM.vochysiaceae115","wikidata":"Q17602576"}},{"name":"Vochysia laurifolia","term":"Vochysia laurifolia","identifiers":{"contentmine":"CM.vochysiaceae116","wikidata":"Q17602577"}},{"name":"Vochysia kosnipatae","term":"Vochysia kosnipatae","identifiers":{"contentmine":"CM.vochysiaceae117","wikidata":"Q17602578"}},{"name":"Vochysia inundata","term":"Vochysia inundata","identifiers":{"contentmine":"CM.vochysiaceae118","wikidata":"Q17602579"}},{"name":"Vochysia ingens","term":"Vochysia ingens","identifiers":{"contentmine":"CM.vochysiaceae119","wikidata":"Q17602580"}},{"name":"Vochysia herbacea","term":"Vochysia herbacea","identifiers":{"contentmine":"CM.vochysiaceae120","wikidata":"Q17602581"}},{"name":"Vochysia gummifera","term":"Vochysia gummifera","identifiers":{"contentmine":"CM.vochysiaceae121","wikidata":"Q17602582"}},{"name":"Vochysia glazioviana","term":"Vochysia glazioviana","identifiers":{"contentmine":"CM.vochysiaceae122","wikidata":"Q17602583"}},{"name":"Vochysia gentryi","term":"Vochysia gentryi","identifiers":{"contentmine":"CM.vochysiaceae123","wikidata":"Q17602584"}},{"name":"Vochysia garcia-barrigae","term":"Vochysia garcia-barrigae","identifiers":{"contentmine":"CM.vochysiaceae124","wikidata":"Q17602585"}},{"name":"Vochysia fontellae","term":"Vochysia fontellae","identifiers":{"contentmine":"CM.vochysiaceae125","wikidata":"Q17602586"}},{"name":"Vochysia floribunda","term":"Vochysia floribunda","identifiers":{"contentmine":"CM.vochysiaceae126","wikidata":"Q17602587"}},{"name":"Vochysia eximia","term":"Vochysia eximia","identifiers":{"contentmine":"CM.vochysiaceae127","wikidata":"Q17602588"}},{"name":"Vochysia elliptica","term":"Vochysia elliptica","identifiers":{"contentmine":"CM.vochysiaceae128","wikidata":"Q17602590"}},{"name":"Vochysia duquei","term":"Vochysia duquei","identifiers":{"contentmine":"CM.vochysiaceae129","wikidata":"Q17602591"}},{"name":"Vochysia divergens","term":"Vochysia divergens","identifiers":{"contentmine":"CM.vochysiaceae130","wikidata":"Q17602592"}},{"name":"Vochysia discolor","term":"Vochysia discolor","identifiers":{"contentmine":"CM.vochysiaceae131","wikidata":"Q17602593"}},{"name":"Vochysia densiflora","term":"Vochysia densiflora","identifiers":{"contentmine":"CM.vochysiaceae132","wikidata":"Q17602594"}},{"name":"Vochysia dasyantha","term":"Vochysia dasyantha","identifiers":{"contentmine":"CM.vochysiaceae133","wikidata":"Q17602595"}},{"name":"Vochysia columbiensis","term":"Vochysia columbiensis","identifiers":{"contentmine":"CM.vochysiaceae134","wikidata":"Q17602597"}},{"name":"Vochysia cipoana","term":"Vochysia cipoana","identifiers":{"contentmine":"CM.vochysiaceae135","wikidata":"Q17602598"}},{"name":"Vochysia cayennensis","term":"Vochysia cayennensis","identifiers":{"contentmine":"CM.vochysiaceae136","wikidata":"Q17602599"}},{"name":"Vochysia calamana","term":"Vochysia calamana","identifiers":{"contentmine":"CM.vochysiaceae137","wikidata":"Q17602600"}},{"name":"Vochysia caesia","term":"Vochysia caesia","identifiers":{"contentmine":"CM.vochysiaceae138","wikidata":"Q17602601"}},{"name":"Vochysia boliviana","term":"Vochysia boliviana","identifiers":{"contentmine":"CM.vochysiaceae139","wikidata":"Q17602602"}},{"name":"Vochysia awasensis","term":"Vochysia awasensis","identifiers":{"contentmine":"CM.vochysiaceae140","wikidata":"Q17602603"}},{"name":"Vochysia auriflora","term":"Vochysia auriflora","identifiers":{"contentmine":"CM.vochysiaceae141","wikidata":"Q17602604"}},{"name":"Vochysia aurea","term":"Vochysia aurea","identifiers":{"contentmine":"CM.vochysiaceae142","wikidata":"Q17602605"}},{"name":"Vochysia aurantiaca","term":"Vochysia aurantiaca","identifiers":{"contentmine":"CM.vochysiaceae143","wikidata":"Q17602606"}},{"name":"Vochysia artantha","term":"Vochysia artantha","identifiers":{"contentmine":"CM.vochysiaceae144","wikidata":"Q17602607"}},{"name":"Vochysia antioquia","term":"Vochysia antioquia","identifiers":{"contentmine":"CM.vochysiaceae145","wikidata":"Q17602608"}},{"name":"Vochysia angelica","term":"Vochysia angelica","identifiers":{"contentmine":"CM.vochysiaceae146","wikidata":"Q17602609"}},{"name":"Vochysia acuminata","term":"Vochysia acuminata","identifiers":{"contentmine":"CM.vochysiaceae147","wikidata":"Q17602610"}},{"name":"Vochysia tilletii","term":"Vochysia tilletii","identifiers":{"contentmine":"CM.vochysiaceae148","wikidata":"Q17602939"}},{"name":"Vochysia poncy-barrieri","term":"Vochysia poncy-barrieri","identifiers":{"contentmine":"CM.vochysiaceae149","wikidata":"Q17602940"}},{"name":"Vochysia pinkusii","term":"Vochysia pinkusii","identifiers":{"contentmine":"CM.vochysiaceae150","wikidata":"Q17602941"}},{"name":"Vochysia microphylla","term":"Vochysia microphylla","identifiers":{"contentmine":"CM.vochysiaceae151","wikidata":"Q17602942"}},{"name":"Vochysia emarginata","term":"Vochysia emarginata","identifiers":{"contentmine":"CM.vochysiaceae152","wikidata":"Q17602943"}},{"name":"Vochysia dardanoi","term":"Vochysia dardanoi","identifiers":{"contentmine":"CM.vochysiaceae153","wikidata":"Q17602944"}},{"name":"Erismadelphus exsul","term":"Erismadelphus exsul","identifiers":{"contentmine":"CM.vochysiaceae154","wikidata":"Q15326906"}},{"name":"Erismadelphus sessilis","term":"Erismadelphus sessilis","identifiers":{"contentmine":"CM.vochysiaceae155","wikidata":"Q15326976"}},{"name":"Callisthene dryadum","term":"Callisthene dryadum","identifiers":{"contentmine":"CM.vochysiaceae156","wikidata":"Q15321755"}},{"name":"Callisthene fasciculata","term":"Callisthene fasciculata","identifiers":{"contentmine":"CM.vochysiaceae157","wikidata":"Q15321855"}},{"name":"Callisthene inundata","term":"Callisthene inundata","identifiers":{"contentmine":"CM.vochysiaceae158","wikidata":"Q15321947"}},{"name":"Callisthene major","term":"Callisthene major","identifiers":{"contentmine":"CM.vochysiaceae159","wikidata":"Q15321993"}},{"name":"Callisthene microphylla","term":"Callisthene microphylla","identifiers":{"contentmine":"CM.vochysiaceae160","wikidata":"Q15322046"}},{"name":"Callisthene minor","term":"Callisthene minor","identifiers":{"contentmine":"CM.vochysiaceae161","wikidata":"Q15322127"}},{"name":"Callisthene mollissima","term":"Callisthene mollissima","identifiers":{"contentmine":"CM.vochysiaceae162","wikidata":"Q15322213"}},{"name":"Callisthene kuhlmannii","term":"Callisthene kuhlmannii","identifiers":{"contentmine":"CM.vochysiaceae163","wikidata":"Q17602627"}},{"name":"Callisthene hassleri","term":"Callisthene hassleri","identifiers":{"contentmine":"CM.vochysiaceae164","wikidata":"Q17602628"}},{"name":"Callisthene erythroclada","term":"Callisthene erythroclada","identifiers":{"contentmine":"CM.vochysiaceae165","wikidata":"Q17602629"}},{"name":"Callisthene castellanosii","term":"Callisthene castellanosii","identifiers":{"contentmine":"CM.vochysiaceae166","wikidata":"Q17602630"}},{"name":"Qualea impexa","term":"Qualea impexa","identifiers":{"contentmine":"CM.vochysiaceae167","wikidata":"Q2876301"}},{"name":"Qualea calantha","term":"Qualea calantha","identifiers":{"contentmine":"CM.vochysiaceae168","wikidata":"Q5463275"}},{"name":"Qualea rosea","term":"Qualea rosea","identifiers":{"contentmine":"CM.vochysiaceae169","wikidata":"Q10315137"}},{"name":"Qualea cryptantha","term":"Qualea cryptantha","identifiers":{"contentmine":"CM.vochysiaceae170","wikidata":"Q15335314"}},{"name":"Qualea cyanea","term":"Qualea cyanea","identifiers":{"contentmine":"CM.vochysiaceae171","wikidata":"Q15335400"}},{"name":"Qualea cymulosa","term":"Qualea cymulosa","identifiers":{"contentmine":"CM.vochysiaceae172","wikidata":"Q15335515"}},{"name":"Qualea ingens","term":"Qualea ingens","identifiers":{"contentmine":"CM.vochysiaceae173","wikidata":"Q15335537"}},{"name":"Qualea labouriauana","term":"Qualea labouriauana","identifiers":{"contentmine":"CM.vochysiaceae174","wikidata":"Q15335589"}},{"name":"Qualea rupicola","term":"Qualea rupicola","identifiers":{"contentmine":"CM.vochysiaceae175","wikidata":"Q15335610"}},{"name":"Qualea decorticans","term":"Qualea decorticans","identifiers":{"contentmine":"CM.vochysiaceae176","wikidata":"Q15335631"}},{"name":"Qualea lineata","term":"Qualea lineata","identifiers":{"contentmine":"CM.vochysiaceae177","wikidata":"Q15335659"}},{"name":"Qualea sacculata","term":"Qualea sacculata","identifiers":{"contentmine":"CM.vochysiaceae178","wikidata":"Q15335684"}},{"name":"Qualea densiflora","term":"Qualea densiflora","identifiers":{"contentmine":"CM.vochysiaceae179","wikidata":"Q15335721"}},{"name":"Qualea schomburgkiana","term":"Qualea schomburgkiana","identifiers":{"contentmine":"CM.vochysiaceae180","wikidata":"Q15335737"}},{"name":"Qualea lundii","term":"Qualea lundii","identifiers":{"contentmine":"CM.vochysiaceae181","wikidata":"Q15335756"}},{"name":"Qualea dichotoma","term":"Qualea dichotoma","identifiers":{"contentmine":"CM.vochysiaceae182","wikidata":"Q15335836"}},{"name":"Qualea macropetala","term":"Qualea macropetala","identifiers":{"contentmine":"CM.vochysiaceae183","wikidata":"Q15335852"}},{"name":"Qualea magna","term":"Qualea magna","identifiers":{"contentmine":"CM.vochysiaceae184","wikidata":"Q15335931"}},{"name":"Qualea dinizii","term":"Qualea dinizii","identifiers":{"contentmine":"CM.vochysiaceae185","wikidata":"Q15335934"}},{"name":"Qualea selloi","term":"Qualea selloi","identifiers":{"contentmine":"CM.vochysiaceae186","wikidata":"Q15335981"}},{"name":"Qualea megalocarpa","term":"Qualea megalocarpa","identifiers":{"contentmine":"CM.vochysiaceae187","wikidata":"Q15336021"}},{"name":"Qualea elegans","term":"Qualea elegans","identifiers":{"contentmine":"CM.vochysiaceae188","wikidata":"Q15336043"}},{"name":"Qualea moriboomii","term":"Qualea moriboomii","identifiers":{"contentmine":"CM.vochysiaceae189","wikidata":"Q15336124"}},{"name":"Qualea gardneriana","term":"Qualea gardneriana","identifiers":{"contentmine":"CM.vochysiaceae190","wikidata":"Q15336139"}},{"name":"Qualea sprucei","term":"Qualea sprucei","identifiers":{"contentmine":"CM.vochysiaceae191","wikidata":"Q15336172"}},{"name":"Qualea multiflora","term":"Qualea multiflora","identifiers":{"contentmine":"CM.vochysiaceae192","wikidata":"Q15336214"}},{"name":"Qualea gestasiana","term":"Qualea gestasiana","identifiers":{"contentmine":"CM.vochysiaceae193","wikidata":"Q15336229"}},{"name":"Qualea suprema","term":"Qualea suprema","identifiers":{"contentmine":"CM.vochysiaceae194","wikidata":"Q15336327"}},{"name":"Qualea nitida","term":"Qualea nitida","identifiers":{"contentmine":"CM.vochysiaceae195","wikidata":"Q15336350"}},{"name":"Qualea glaziovii","term":"Qualea glaziovii","identifiers":{"contentmine":"CM.vochysiaceae196","wikidata":"Q15336357"}},{"name":"Qualea panamensis","term":"Qualea panamensis","identifiers":{"contentmine":"CM.vochysiaceae197","wikidata":"Q15336430"}},{"name":"Qualea gracilior","term":"Qualea gracilior","identifiers":{"contentmine":"CM.vochysiaceae198","wikidata":"Q15336449"}},{"name":"Qualea tessmannii","term":"Qualea tessmannii","identifiers":{"contentmine":"CM.vochysiaceae199","wikidata":"Q15336497"}},{"name":"Qualea paraensis","term":"Qualea paraensis","identifiers":{"contentmine":"CM.vochysiaceae200","wikidata":"Q15336541"}},{"name":"Qualea grandiflora","term":"Qualea grandiflora","identifiers":{"contentmine":"CM.vochysiaceae201","wikidata":"Q15336563"}},{"name":"Qualea themistoclesii","term":"Qualea themistoclesii","identifiers":{"contentmine":"CM.vochysiaceae202","wikidata":"Q15336606"}},{"name":"Qualea parviflora","term":"Qualea parviflora","identifiers":{"contentmine":"CM.vochysiaceae203","wikidata":"Q15336649"}},{"name":"Qualea hannekesaskiarum","term":"Qualea hannekesaskiarum","identifiers":{"contentmine":"CM.vochysiaceae204","wikidata":"Q15336665"}},{"name":"Qualea acuminata","term":"Qualea acuminata","identifiers":{"contentmine":"CM.vochysiaceae205","wikidata":"Q15336695"}},{"name":"Qualea polychroma","term":"Qualea polychroma","identifiers":{"contentmine":"CM.vochysiaceae206","wikidata":"Q15336751"}},{"name":"Qualea homosepala","term":"Qualea homosepala","identifiers":{"contentmine":"CM.vochysiaceae207","wikidata":"Q15336768"}},{"name":"Qualea psidiifolia","term":"Qualea psidiifolia","identifiers":{"contentmine":"CM.vochysiaceae208","wikidata":"Q15336832"}},{"name":"Qualea tricolor","term":"Qualea tricolor","identifiers":{"contentmine":"CM.vochysiaceae209","wikidata":"Q15336841"}},{"name":"Qualea pulcherrima","term":"Qualea pulcherrima","identifiers":{"contentmine":"CM.vochysiaceae210","wikidata":"Q15336931"}},{"name":"Qualea tuberculata","term":"Qualea tuberculata","identifiers":{"contentmine":"CM.vochysiaceae211","wikidata":"Q15337010"}},{"name":"Qualea albiflora","term":"Qualea albiflora","identifiers":{"contentmine":"CM.vochysiaceae212","wikidata":"Q15337021"}},{"name":"Qualea wittrockii","term":"Qualea wittrockii","identifiers":{"contentmine":"CM.vochysiaceae213","wikidata":"Q15337243"}},{"name":"Qualea amapaensis","term":"Qualea amapaensis","identifiers":{"contentmine":"CM.vochysiaceae214","wikidata":"Q15337328"}},{"name":"Qualea wurdackii","term":"Qualea wurdackii","identifiers":{"contentmine":"CM.vochysiaceae215","wikidata":"Q15337451"}},{"name":"Qualea amoena","term":"Qualea amoena","identifiers":{"contentmine":"CM.vochysiaceae216","wikidata":"Q15337815"}},{"name":"Qualea brasiliana","term":"Qualea brasiliana","identifiers":{"contentmine":"CM.vochysiaceae217","wikidata":"Q15338059"}},{"name":"Qualea brevipedicellata","term":"Qualea brevipedicellata","identifiers":{"contentmine":"CM.vochysiaceae218","wikidata":"Q15338218"}},{"name":"Qualea calophylla","term":"Qualea calophylla","identifiers":{"contentmine":"CM.vochysiaceae219","wikidata":"Q15338534"}},{"name":"Qualea clavata","term":"Qualea clavata","identifiers":{"contentmine":"CM.vochysiaceae220","wikidata":"Q15338747"}},{"name":"Qualea coerulea","term":"Qualea coerulea","identifiers":{"contentmine":"CM.vochysiaceae221","wikidata":"Q15339220"}},{"name":"Qualea cordata","term":"Qualea cordata","identifiers":{"contentmine":"CM.vochysiaceae222","wikidata":"Q15339697"}},{"name":"Qualea urceolata","term":"Qualea urceolata","identifiers":{"contentmine":"CM.vochysiaceae223","wikidata":"Q17602612"}},{"name":"Qualea trichanthera","term":"Qualea trichanthera","identifiers":{"contentmine":"CM.vochysiaceae224","wikidata":"Q17602613"}},{"name":"Qualea rigida","term":"Qualea rigida","identifiers":{"contentmine":"CM.vochysiaceae225","wikidata":"Q17602614"}},{"name":"Qualea retusa","term":"Qualea retusa","identifiers":{"contentmine":"CM.vochysiaceae226","wikidata":"Q17602615"}},{"name":"Qualea obtusata","term":"Qualea obtusata","identifiers":{"contentmine":"CM.vochysiaceae227","wikidata":"Q17602616"}},{"name":"Qualea marioniae","term":"Qualea marioniae","identifiers":{"contentmine":"CM.vochysiaceae228","wikidata":"Q17602617"}},{"name":"Qualea johannabakkerae","term":"Qualea johannabakkerae","identifiers":{"contentmine":"CM.vochysiaceae229","wikidata":"Q17602618"}},{"name":"Qualea ferruginea","term":"Qualea ferruginea","identifiers":{"contentmine":"CM.vochysiaceae230","wikidata":"Q17602619"}},{"name":"Qualea esmeraldae","term":"Qualea esmeraldae","identifiers":{"contentmine":"CM.vochysiaceae231","wikidata":"Q17602620"}},{"name":"Qualea cassiquiarensis","term":"Qualea cassiquiarensis","identifiers":{"contentmine":"CM.vochysiaceae232","wikidata":"Q17602621"}},{"name":"Qualea belemnensis","term":"Qualea belemnensis","identifiers":{"contentmine":"CM.vochysiaceae233","wikidata":"Q17602622"}},{"name":"Ruizterania belemnensis","term":"Ruizterania belemnensis","identifiers":{"contentmine":"CM.vochysiaceae234","wikidata":"Q15344220"}},{"name":"Ruizterania cassiquiarensis","term":"Ruizterania cassiquiarensis","identifiers":{"contentmine":"CM.vochysiaceae235","wikidata":"Q15344241"}},{"name":"Ruizterania esmeraldae","term":"Ruizterania esmeraldae","identifiers":{"contentmine":"CM.vochysiaceae236","wikidata":"Q15344342"}},{"name":"Ruizterania ferruginea","term":"Ruizterania ferruginea","identifiers":{"contentmine":"CM.vochysiaceae237","wikidata":"Q15344459"}},{"name":"Ruizterania obtusata","term":"Ruizterania obtusata","identifiers":{"contentmine":"CM.vochysiaceae238","wikidata":"Q15344541"}},{"name":"Ruizterania retusa","term":"Ruizterania retusa","identifiers":{"contentmine":"CM.vochysiaceae239","wikidata":"Q15344661"}},{"name":"Ruizterania rigida","term":"Ruizterania rigida","identifiers":{"contentmine":"CM.vochysiaceae240","wikidata":"Q15344774"}},{"name":"Ruizterania trichanthera","term":"Ruizterania trichanthera","identifiers":{"contentmine":"CM.vochysiaceae241","wikidata":"Q15344875"}},{"name":"Ruizterania urceolata","term":"Ruizterania urceolata","identifiers":{"contentmine":"CM.vochysiaceae242","wikidata":"Q15344964"}},{"name":"Salvertia convallariaeodora","term":"Salvertia convallariaeodora","identifiers":{"contentmine":"CM.vochysiaceae243","wikidata":"Q17602611"}},{"name":"Salvertia convallariodora","term":"Salvertia convallariodora","identifiers":{"contentmine":"CM.vochysiaceae244","wikidata":"Q21303861"}},{"name":"Erisma djalma-batistae","term":"Erisma djalma-batistae","identifiers":{"contentmine":"CM.vochysiaceae245","wikidata":"Q15326842"}},{"name":"Erisma floribundum","term":"Erisma floribundum","identifiers":{"contentmine":"CM.vochysiaceae246","wikidata":"Q15326930"}},{"name":"Erisma fuscum","term":"Erisma fuscum","identifiers":{"contentmine":"CM.vochysiaceae247","wikidata":"Q15326985"}},{"name":"Erisma gracile","term":"Erisma gracile","identifiers":{"contentmine":"CM.vochysiaceae248","wikidata":"Q15327065"}},{"name":"Erisma japura","term":"Erisma japura","identifiers":{"contentmine":"CM.vochysiaceae249","wikidata":"Q15327115"}},{"name":"Erisma lanceolatum","term":"Erisma lanceolatum","identifiers":{"contentmine":"CM.vochysiaceae250","wikidata":"Q15327185"}},{"name":"Erisma laurifolium","term":"Erisma laurifolium","identifiers":{"contentmine":"CM.vochysiaceae251","wikidata":"Q15327270"}},{"name":"Erisma maliforme","term":"Erisma maliforme","identifiers":{"contentmine":"CM.vochysiaceae252","wikidata":"Q15327372"}},{"name":"Erisma arietinum","term":"Erisma arietinum","identifiers":{"contentmine":"CM.vochysiaceae253","wikidata":"Q15327458"}},{"name":"Erisma megalophyllum","term":"Erisma megalophyllum","identifiers":{"contentmine":"CM.vochysiaceae254","wikidata":"Q15327480"}},{"name":"Erisma bicolor","term":"Erisma bicolor","identifiers":{"contentmine":"CM.vochysiaceae255","wikidata":"Q15327541"}},{"name":"Erisma micranthum","term":"Erisma micranthum","identifiers":{"contentmine":"CM.vochysiaceae256","wikidata":"Q15327576"}},{"name":"Erisma blancoa","term":"Erisma blancoa","identifiers":{"contentmine":"CM.vochysiaceae257","wikidata":"Q15327633"}},{"name":"Erisma nitidum","term":"Erisma nitidum","identifiers":{"contentmine":"CM.vochysiaceae258","wikidata":"Q15327650"}},{"name":"Erisma bracteosum","term":"Erisma bracteosum","identifiers":{"contentmine":"CM.vochysiaceae259","wikidata":"Q15327692"}},{"name":"Erisma niveum","term":"Erisma niveum","identifiers":{"contentmine":"CM.vochysiaceae260","wikidata":"Q15327733"}},{"name":"Erisma calcaratum","term":"Erisma calcaratum","identifiers":{"contentmine":"CM.vochysiaceae261","wikidata":"Q15327802"}},{"name":"Erisma silvae","term":"Erisma silvae","identifiers":{"contentmine":"CM.vochysiaceae262","wikidata":"Q15327850"}},{"name":"Erisma costatum","term":"Erisma costatum","identifiers":{"contentmine":"CM.vochysiaceae263","wikidata":"Q15327906"}},{"name":"Erisma splendens","term":"Erisma splendens","identifiers":{"contentmine":"CM.vochysiaceae264","wikidata":"Q15327985"}},{"name":"Erisma tessmannii","term":"Erisma tessmannii","identifiers":{"contentmine":"CM.vochysiaceae265","wikidata":"Q15328083"}},{"name":"Erisma uncinatum","term":"Erisma uncinatum","identifiers":{"contentmine":"CM.vochysiaceae266","wikidata":"Q15328170"}},{"name":"Erisma homosepala","term":"Erisma homosepala","identifiers":{"contentmine":"CM.vochysiaceae267","wikidata":"Q17602625"}},{"name":"Korupodendron songweanum","term":"Korupodendron songweanum","identifiers":{"contentmine":"CM.vochysiaceae268","wikidata":"Q5472509"}}]}
+{
+    "entries": [
+        {
+            "name": "Vochysiaceae",
+            "term": "Vochysiaceae",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae0",
+                "wikidata": "Q131743"
+            }
+        },
+        {
+            "name": "Vochysia",
+            "term": "Vochysia",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae1",
+                "wikidata": "Q141089"
+            }
+        },
+        {
+            "name": "Erismadelphus",
+            "term": "Erismadelphus",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae2",
+                "wikidata": "Q973719"
+            }
+        },
+        {
+            "name": "Callisthene",
+            "term": "Callisthene",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae3",
+                "wikidata": "Q2880695"
+            }
+        },
+        {
+            "name": "Qualea",
+            "term": "Qualea",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae4",
+                "wikidata": "Q7268624"
+            }
+        },
+        {
+            "name": "Ruizterania",
+            "term": "Ruizterania",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae5",
+                "wikidata": "Q9071208"
+            }
+        },
+        {
+            "name": "Salvertia",
+            "term": "Salvertia",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae6",
+                "wikidata": "Q9073151"
+            }
+        },
+        {
+            "name": "Erisma",
+            "term": "Erisma",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae7",
+                "wikidata": "Q10273644"
+            }
+        },
+        {
+            "name": "Korupodendon",
+            "term": "Korupodendon",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae8",
+                "wikidata": "Q10314642"
+            }
+        },
+        {
+            "name": "Korupodendron",
+            "term": "Korupodendron",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae9",
+                "wikidata": "Q13067582"
+            }
+        },
+        {
+            "name": "Vochysia aurifera",
+            "term": "Vochysia aurifera",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae10",
+                "wikidata": "Q956456"
+            }
+        },
+        {
+            "name": "Vochysia maxima",
+            "term": "Vochysia maxima",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae11",
+                "wikidata": "Q6164562"
+            }
+        },
+        {
+            "name": "Vochysia haenkeana",
+            "term": "Vochysia haenkeana",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae12",
+                "wikidata": "Q9094696"
+            }
+        },
+        {
+            "name": "Vochysia tucanorum",
+            "term": "Vochysia tucanorum",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae13",
+                "wikidata": "Q10392266"
+            }
+        },
+        {
+            "name": "Vochysia allenii",
+            "term": "Vochysia allenii",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae14",
+                "wikidata": "Q15331323"
+            }
+        },
+        {
+            "name": "Vochysia costata",
+            "term": "Vochysia costata",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae15",
+                "wikidata": "Q15331440"
+            }
+        },
+        {
+            "name": "Vochysia angustifolia",
+            "term": "Vochysia angustifolia",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae16",
+                "wikidata": "Q15331473"
+            }
+        },
+        {
+            "name": "Vochysia crassifolia",
+            "term": "Vochysia crassifolia",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae17",
+                "wikidata": "Q15331504"
+            }
+        },
+        {
+            "name": "Vochysia julianensis",
+            "term": "Vochysia julianensis",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae18",
+                "wikidata": "Q15331558"
+            }
+        },
+        {
+            "name": "Vochysia apopetala",
+            "term": "Vochysia apopetala",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae19",
+                "wikidata": "Q15331567"
+            }
+        },
+        {
+            "name": "Vochysia oppugnata",
+            "term": "Vochysia oppugnata",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae20",
+                "wikidata": "Q15331569"
+            }
+        },
+        {
+            "name": "Vochysia stafleui",
+            "term": "Vochysia stafleui",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae21",
+                "wikidata": "Q15331578"
+            }
+        },
+        {
+            "name": "Vochysia diversa",
+            "term": "Vochysia diversa",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae22",
+                "wikidata": "Q15331599"
+            }
+        },
+        {
+            "name": "Vochysia steyermarkiana",
+            "term": "Vochysia steyermarkiana",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae23",
+                "wikidata": "Q15331627"
+            }
+        },
+        {
+            "name": "Vochysia lanceolata",
+            "term": "Vochysia lanceolata",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae24",
+                "wikidata": "Q15331650"
+            }
+        },
+        {
+            "name": "Vochysia ortegae",
+            "term": "Vochysia ortegae",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae25",
+                "wikidata": "Q15331654"
+            }
+        },
+        {
+            "name": "Vochysia elegans",
+            "term": "Vochysia elegans",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae26",
+                "wikidata": "Q15331675"
+            }
+        },
+        {
+            "name": "Vochysia assua",
+            "term": "Vochysia assua",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae27",
+                "wikidata": "Q15331697"
+            }
+        },
+        {
+            "name": "Vochysia expansa",
+            "term": "Vochysia expansa",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae28",
+                "wikidata": "Q15331722"
+            }
+        },
+        {
+            "name": "Vochysia laxiflora",
+            "term": "Vochysia laxiflora",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae29",
+                "wikidata": "Q15331763"
+            }
+        },
+        {
+            "name": "Vochysia pachyantha",
+            "term": "Vochysia pachyantha",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae30",
+                "wikidata": "Q15331765"
+            }
+        },
+        {
+            "name": "Vochysia surinamensis",
+            "term": "Vochysia surinamensis",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae31",
+                "wikidata": "Q15331788"
+            }
+        },
+        {
+            "name": "Vochysia ferruginea",
+            "term": "Vochysia ferruginea",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae32",
+                "wikidata": "Q15331808"
+            }
+        },
+        {
+            "name": "Vochysia tabascana",
+            "term": "Vochysia tabascana",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae33",
+                "wikidata": "Q15331876"
+            }
+        },
+        {
+            "name": "Vochysia leguiana",
+            "term": "Vochysia leguiana",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae34",
+                "wikidata": "Q15331886"
+            }
+        },
+        {
+            "name": "Vochysia gardneri",
+            "term": "Vochysia gardneri",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae35",
+                "wikidata": "Q15331899"
+            }
+        },
+        {
+            "name": "Vochysia pauciflora",
+            "term": "Vochysia pauciflora",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae36",
+                "wikidata": "Q15331900"
+            }
+        },
+        {
+            "name": "Vochysia tetraphylla",
+            "term": "Vochysia tetraphylla",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae37",
+                "wikidata": "Q15331948"
+            }
+        },
+        {
+            "name": "Vochysia gigantea",
+            "term": "Vochysia gigantea",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae38",
+                "wikidata": "Q15331949"
+            }
+        },
+        {
+            "name": "Vochysia lehmannii",
+            "term": "Vochysia lehmannii",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae39",
+                "wikidata": "Q15331951"
+            }
+        },
+        {
+            "name": "Vochysia bautistae",
+            "term": "Vochysia bautistae",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae40",
+                "wikidata": "Q15331982"
+            }
+        },
+        {
+            "name": "Vochysia penae",
+            "term": "Vochysia penae",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae41",
+                "wikidata": "Q15331991"
+            }
+        },
+        {
+            "name": "Vochysia glaberrima",
+            "term": "Vochysia glaberrima",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae42",
+                "wikidata": "Q15332046"
+            }
+        },
+        {
+            "name": "Vochysia thyrsoidea",
+            "term": "Vochysia thyrsoidea",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae43",
+                "wikidata": "Q15332055"
+            }
+        },
+        {
+            "name": "Vochysia liscanoi",
+            "term": "Vochysia liscanoi",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae44",
+                "wikidata": "Q15332097"
+            }
+        },
+        {
+            "name": "Vochysia bifalcata",
+            "term": "Vochysia bifalcata",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae45",
+                "wikidata": "Q15332103"
+            }
+        },
+        {
+            "name": "Vochysia grandis",
+            "term": "Vochysia grandis",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae46",
+                "wikidata": "Q15332124"
+            }
+        },
+        {
+            "name": "Vochysia petraea",
+            "term": "Vochysia petraea",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae47",
+                "wikidata": "Q15332139"
+            }
+        },
+        {
+            "name": "Vochysia lomatophylla",
+            "term": "Vochysia lomatophylla",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae48",
+                "wikidata": "Q15332192"
+            }
+        },
+        {
+            "name": "Vochysia guatemalensis",
+            "term": "Vochysia guatemalensis",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae49",
+                "wikidata": "Q15332215"
+            }
+        },
+        {
+            "name": "Vochysia punctata",
+            "term": "Vochysia punctata",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae50",
+                "wikidata": "Q15332246"
+            }
+        },
+        {
+            "name": "Vochysia biloba",
+            "term": "Vochysia biloba",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae51",
+                "wikidata": "Q15332249"
+            }
+        },
+        {
+            "name": "Vochysia tillettii",
+            "term": "Vochysia tillettii",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae52",
+                "wikidata": "Q15332261"
+            }
+        },
+        {
+            "name": "Vochysia magnifica",
+            "term": "Vochysia magnifica",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae53",
+                "wikidata": "Q15332294"
+            }
+        },
+        {
+            "name": "Vochysia guianensis",
+            "term": "Vochysia guianensis",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae54",
+                "wikidata": "Q15332312"
+            }
+        },
+        {
+            "name": "Vochysia pygmaea",
+            "term": "Vochysia pygmaea",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae55",
+                "wikidata": "Q15332374"
+            }
+        },
+        {
+            "name": "Vochysia braceliniae",
+            "term": "Vochysia braceliniae",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae56",
+                "wikidata": "Q15332393"
+            }
+        },
+        {
+            "name": "Vochysia tomentosa",
+            "term": "Vochysia tomentosa",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae57",
+                "wikidata": "Q15332425"
+            }
+        },
+        {
+            "name": "Vochysia majuscula",
+            "term": "Vochysia majuscula",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae58",
+                "wikidata": "Q15332440"
+            }
+        },
+        {
+            "name": "Vochysia hannekesaskiae",
+            "term": "Vochysia hannekesaskiae",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae59",
+                "wikidata": "Q15332504"
+            }
+        },
+        {
+            "name": "Vochysia calophylla",
+            "term": "Vochysia calophylla",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae60",
+                "wikidata": "Q15332519"
+            }
+        },
+        {
+            "name": "Vochysia revoluta",
+            "term": "Vochysia revoluta",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae61",
+                "wikidata": "Q15332521"
+            }
+        },
+        {
+            "name": "Vochysia mapirensis",
+            "term": "Vochysia mapirensis",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae62",
+                "wikidata": "Q15332568"
+            }
+        },
+        {
+            "name": "Vochysia jefensis",
+            "term": "Vochysia jefensis",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae63",
+                "wikidata": "Q15332611"
+            }
+        },
+        {
+            "name": "Vochysia mapuerae",
+            "term": "Vochysia mapuerae",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae64",
+                "wikidata": "Q15332640"
+            }
+        },
+        {
+            "name": "Vochysia rotundifolia",
+            "term": "Vochysia rotundifolia",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae65",
+                "wikidata": "Q15332650"
+            }
+        },
+        {
+            "name": "Vochysia jonkeri",
+            "term": "Vochysia jonkeri",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae66",
+                "wikidata": "Q15332698"
+            }
+        },
+        {
+            "name": "Vochysia martiana",
+            "term": "Vochysia martiana",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae67",
+                "wikidata": "Q15332761"
+            }
+        },
+        {
+            "name": "Vochysia cassiquiarensis",
+            "term": "Vochysia cassiquiarensis",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae68",
+                "wikidata": "Q15332779"
+            }
+        },
+        {
+            "name": "Vochysia rubiginosa",
+            "term": "Vochysia rubiginosa",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae69",
+                "wikidata": "Q15332814"
+            }
+        },
+        {
+            "name": "Vochysia venezuelana",
+            "term": "Vochysia venezuelana",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae70",
+                "wikidata": "Q15332849"
+            }
+        },
+        {
+            "name": "Vochysia megalophylla",
+            "term": "Vochysia megalophylla",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae71",
+                "wikidata": "Q15332877"
+            }
+        },
+        {
+            "name": "Vochysia saccata",
+            "term": "Vochysia saccata",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae72",
+                "wikidata": "Q15332984"
+            }
+        },
+        {
+            "name": "Vochysia meridensis",
+            "term": "Vochysia meridensis",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae73",
+                "wikidata": "Q15332992"
+            }
+        },
+        {
+            "name": "Vochysia catingae",
+            "term": "Vochysia catingae",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae74",
+                "wikidata": "Q15333083"
+            }
+        },
+        {
+            "name": "Vochysia venulosa",
+            "term": "Vochysia venulosa",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae75",
+                "wikidata": "Q15333116"
+            }
+        },
+        {
+            "name": "Vochysia obidensis",
+            "term": "Vochysia obidensis",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae76",
+                "wikidata": "Q15333159"
+            }
+        },
+        {
+            "name": "Vochysia spathiphylla",
+            "term": "Vochysia spathiphylla",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae77",
+                "wikidata": "Q15333183"
+            }
+        },
+        {
+            "name": "Vochysia obscura",
+            "term": "Vochysia obscura",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae78",
+                "wikidata": "Q15333249"
+            }
+        },
+        {
+            "name": "Vochysia cinnamomea",
+            "term": "Vochysia cinnamomea",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae79",
+                "wikidata": "Q15333336"
+            }
+        },
+        {
+            "name": "Vochysia speciosa",
+            "term": "Vochysia speciosa",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae80",
+                "wikidata": "Q15333362"
+            }
+        },
+        {
+            "name": "Vochysia vismiifolia",
+            "term": "Vochysia vismiifolia",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae81",
+                "wikidata": "Q15333363"
+            }
+        },
+        {
+            "name": "Vochysia splendens",
+            "term": "Vochysia splendens",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae82",
+                "wikidata": "Q15333508"
+            }
+        },
+        {
+            "name": "Vochysia citrifolia",
+            "term": "Vochysia citrifolia",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae83",
+                "wikidata": "Q15333533"
+            }
+        },
+        {
+            "name": "Vochysia sprucei",
+            "term": "Vochysia sprucei",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae84",
+                "wikidata": "Q15333644"
+            }
+        },
+        {
+            "name": "Vochysia complicata",
+            "term": "Vochysia complicata",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae85",
+                "wikidata": "Q15333674"
+            }
+        },
+        {
+            "name": "Vochysia talmonii",
+            "term": "Vochysia talmonii",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae86",
+                "wikidata": "Q17602542"
+            }
+        },
+        {
+            "name": "Vochysia spathulata",
+            "term": "Vochysia spathulata",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae87",
+                "wikidata": "Q17602543"
+            }
+        },
+        {
+            "name": "Vochysia sessilifolia",
+            "term": "Vochysia sessilifolia",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae88",
+                "wikidata": "Q17602544"
+            }
+        },
+        {
+            "name": "Vochysia selloi",
+            "term": "Vochysia selloi",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae89",
+                "wikidata": "Q17602545"
+            }
+        },
+        {
+            "name": "Vochysia schwackeana",
+            "term": "Vochysia schwackeana",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae90",
+                "wikidata": "Q17602546"
+            }
+        },
+        {
+            "name": "Vochysia schomburgkii",
+            "term": "Vochysia schomburgkii",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae91",
+                "wikidata": "Q17602547"
+            }
+        },
+        {
+            "name": "Vochysia santaluciae",
+            "term": "Vochysia santaluciae",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae92",
+                "wikidata": "Q17602548"
+            }
+        },
+        {
+            "name": "Vochysia saldanhana",
+            "term": "Vochysia saldanhana",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae93",
+                "wikidata": "Q17602549"
+            }
+        },
+        {
+            "name": "Vochysia sabatieri",
+            "term": "Vochysia sabatieri",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae94",
+                "wikidata": "Q17602550"
+            }
+        },
+        {
+            "name": "Vochysia rufa",
+            "term": "Vochysia rufa",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae95",
+                "wikidata": "Q17602551"
+            }
+        },
+        {
+            "name": "Vochysia riedeliana",
+            "term": "Vochysia riedeliana",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae96",
+                "wikidata": "Q17602552"
+            }
+        },
+        {
+            "name": "Vochysia rectiflora",
+            "term": "Vochysia rectiflora",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae97",
+                "wikidata": "Q17602553"
+            }
+        },
+        {
+            "name": "Vochysia radlkoferi",
+            "term": "Vochysia radlkoferi",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae98",
+                "wikidata": "Q17602554"
+            }
+        },
+        {
+            "name": "Vochysia pyramidalis",
+            "term": "Vochysia pyramidalis",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae99",
+                "wikidata": "Q17602555"
+            }
+        },
+        {
+            "name": "Vochysia pumila",
+            "term": "Vochysia pumila",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae100",
+                "wikidata": "Q17602556"
+            }
+        },
+        {
+            "name": "Vochysia pruinosa",
+            "term": "Vochysia pruinosa",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae101",
+                "wikidata": "Q17602557"
+            }
+        },
+        {
+            "name": "Vochysia parviflora",
+            "term": "Vochysia parviflora",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae102",
+                "wikidata": "Q17602560"
+            }
+        },
+        {
+            "name": "Vochysia palmirana",
+            "term": "Vochysia palmirana",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae103",
+                "wikidata": "Q17602561"
+            }
+        },
+        {
+            "name": "Vochysia pacifica",
+            "term": "Vochysia pacifica",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae104",
+                "wikidata": "Q17602562"
+            }
+        },
+        {
+            "name": "Vochysia obovata",
+            "term": "Vochysia obovata",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae105",
+                "wikidata": "Q17602563"
+            }
+        },
+        {
+            "name": "Vochysia oblongifolia",
+            "term": "Vochysia oblongifolia",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae106",
+                "wikidata": "Q17602564"
+            }
+        },
+        {
+            "name": "Vochysia neyratii",
+            "term": "Vochysia neyratii",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae107",
+                "wikidata": "Q17602565"
+            }
+        },
+        {
+            "name": "Vochysia megalantha",
+            "term": "Vochysia megalantha",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae108",
+                "wikidata": "Q17602567"
+            }
+        },
+        {
+            "name": "Vochysia mariziana",
+            "term": "Vochysia mariziana",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae109",
+                "wikidata": "Q17602569"
+            }
+        },
+        {
+            "name": "Vochysia maguirei",
+            "term": "Vochysia maguirei",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae110",
+                "wikidata": "Q17602570"
+            }
+        },
+        {
+            "name": "Vochysia magna",
+            "term": "Vochysia magna",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae111",
+                "wikidata": "Q17602571"
+            }
+        },
+        {
+            "name": "Vochysia macrophylla",
+            "term": "Vochysia macrophylla",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae112",
+                "wikidata": "Q17602572"
+            }
+        },
+        {
+            "name": "Vochysia lucida",
+            "term": "Vochysia lucida",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae113",
+                "wikidata": "Q17602574"
+            }
+        },
+        {
+            "name": "Vochysia lopezpalacioi",
+            "term": "Vochysia lopezpalacioi",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae114",
+                "wikidata": "Q17602575"
+            }
+        },
+        {
+            "name": "Vochysia ledouxii",
+            "term": "Vochysia ledouxii",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae115",
+                "wikidata": "Q17602576"
+            }
+        },
+        {
+            "name": "Vochysia laurifolia",
+            "term": "Vochysia laurifolia",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae116",
+                "wikidata": "Q17602577"
+            }
+        },
+        {
+            "name": "Vochysia kosnipatae",
+            "term": "Vochysia kosnipatae",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae117",
+                "wikidata": "Q17602578"
+            }
+        },
+        {
+            "name": "Vochysia inundata",
+            "term": "Vochysia inundata",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae118",
+                "wikidata": "Q17602579"
+            }
+        },
+        {
+            "name": "Vochysia ingens",
+            "term": "Vochysia ingens",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae119",
+                "wikidata": "Q17602580"
+            }
+        },
+        {
+            "name": "Vochysia herbacea",
+            "term": "Vochysia herbacea",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae120",
+                "wikidata": "Q17602581"
+            }
+        },
+        {
+            "name": "Vochysia gummifera",
+            "term": "Vochysia gummifera",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae121",
+                "wikidata": "Q17602582"
+            }
+        },
+        {
+            "name": "Vochysia glazioviana",
+            "term": "Vochysia glazioviana",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae122",
+                "wikidata": "Q17602583"
+            }
+        },
+        {
+            "name": "Vochysia gentryi",
+            "term": "Vochysia gentryi",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae123",
+                "wikidata": "Q17602584"
+            }
+        },
+        {
+            "name": "Vochysia garcia-barrigae",
+            "term": "Vochysia garcia-barrigae",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae124",
+                "wikidata": "Q17602585"
+            }
+        },
+        {
+            "name": "Vochysia fontellae",
+            "term": "Vochysia fontellae",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae125",
+                "wikidata": "Q17602586"
+            }
+        },
+        {
+            "name": "Vochysia floribunda",
+            "term": "Vochysia floribunda",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae126",
+                "wikidata": "Q17602587"
+            }
+        },
+        {
+            "name": "Vochysia eximia",
+            "term": "Vochysia eximia",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae127",
+                "wikidata": "Q17602588"
+            }
+        },
+        {
+            "name": "Vochysia elliptica",
+            "term": "Vochysia elliptica",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae128",
+                "wikidata": "Q17602590"
+            }
+        },
+        {
+            "name": "Vochysia duquei",
+            "term": "Vochysia duquei",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae129",
+                "wikidata": "Q17602591"
+            }
+        },
+        {
+            "name": "Vochysia divergens",
+            "term": "Vochysia divergens",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae130",
+                "wikidata": "Q17602592"
+            }
+        },
+        {
+            "name": "Vochysia discolor",
+            "term": "Vochysia discolor",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae131",
+                "wikidata": "Q17602593"
+            }
+        },
+        {
+            "name": "Vochysia densiflora",
+            "term": "Vochysia densiflora",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae132",
+                "wikidata": "Q17602594"
+            }
+        },
+        {
+            "name": "Vochysia dasyantha",
+            "term": "Vochysia dasyantha",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae133",
+                "wikidata": "Q17602595"
+            }
+        },
+        {
+            "name": "Vochysia columbiensis",
+            "term": "Vochysia columbiensis",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae134",
+                "wikidata": "Q17602597"
+            }
+        },
+        {
+            "name": "Vochysia cipoana",
+            "term": "Vochysia cipoana",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae135",
+                "wikidata": "Q17602598"
+            }
+        },
+        {
+            "name": "Vochysia cayennensis",
+            "term": "Vochysia cayennensis",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae136",
+                "wikidata": "Q17602599"
+            }
+        },
+        {
+            "name": "Vochysia calamana",
+            "term": "Vochysia calamana",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae137",
+                "wikidata": "Q17602600"
+            }
+        },
+        {
+            "name": "Vochysia caesia",
+            "term": "Vochysia caesia",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae138",
+                "wikidata": "Q17602601"
+            }
+        },
+        {
+            "name": "Vochysia boliviana",
+            "term": "Vochysia boliviana",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae139",
+                "wikidata": "Q17602602"
+            }
+        },
+        {
+            "name": "Vochysia awasensis",
+            "term": "Vochysia awasensis",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae140",
+                "wikidata": "Q17602603"
+            }
+        },
+        {
+            "name": "Vochysia auriflora",
+            "term": "Vochysia auriflora",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae141",
+                "wikidata": "Q17602604"
+            }
+        },
+        {
+            "name": "Vochysia aurea",
+            "term": "Vochysia aurea",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae142",
+                "wikidata": "Q17602605"
+            }
+        },
+        {
+            "name": "Vochysia aurantiaca",
+            "term": "Vochysia aurantiaca",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae143",
+                "wikidata": "Q17602606"
+            }
+        },
+        {
+            "name": "Vochysia artantha",
+            "term": "Vochysia artantha",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae144",
+                "wikidata": "Q17602607"
+            }
+        },
+        {
+            "name": "Vochysia antioquia",
+            "term": "Vochysia antioquia",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae145",
+                "wikidata": "Q17602608"
+            }
+        },
+        {
+            "name": "Vochysia angelica",
+            "term": "Vochysia angelica",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae146",
+                "wikidata": "Q17602609"
+            }
+        },
+        {
+            "name": "Vochysia acuminata",
+            "term": "Vochysia acuminata",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae147",
+                "wikidata": "Q17602610"
+            }
+        },
+        {
+            "name": "Vochysia tilletii",
+            "term": "Vochysia tilletii",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae148",
+                "wikidata": "Q17602939"
+            }
+        },
+        {
+            "name": "Vochysia poncy-barrieri",
+            "term": "Vochysia poncy-barrieri",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae149",
+                "wikidata": "Q17602940"
+            }
+        },
+        {
+            "name": "Vochysia pinkusii",
+            "term": "Vochysia pinkusii",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae150",
+                "wikidata": "Q17602941"
+            }
+        },
+        {
+            "name": "Vochysia microphylla",
+            "term": "Vochysia microphylla",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae151",
+                "wikidata": "Q17602942"
+            }
+        },
+        {
+            "name": "Vochysia emarginata",
+            "term": "Vochysia emarginata",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae152",
+                "wikidata": "Q17602943"
+            }
+        },
+        {
+            "name": "Vochysia dardanoi",
+            "term": "Vochysia dardanoi",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae153",
+                "wikidata": "Q17602944"
+            }
+        },
+        {
+            "name": "Erismadelphus exsul",
+            "term": "Erismadelphus exsul",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae154",
+                "wikidata": "Q15326906"
+            }
+        },
+        {
+            "name": "Erismadelphus sessilis",
+            "term": "Erismadelphus sessilis",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae155",
+                "wikidata": "Q15326976"
+            }
+        },
+        {
+            "name": "Callisthene dryadum",
+            "term": "Callisthene dryadum",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae156",
+                "wikidata": "Q15321755"
+            }
+        },
+        {
+            "name": "Callisthene fasciculata",
+            "term": "Callisthene fasciculata",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae157",
+                "wikidata": "Q15321855"
+            }
+        },
+        {
+            "name": "Callisthene inundata",
+            "term": "Callisthene inundata",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae158",
+                "wikidata": "Q15321947"
+            }
+        },
+        {
+            "name": "Callisthene major",
+            "term": "Callisthene major",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae159",
+                "wikidata": "Q15321993"
+            }
+        },
+        {
+            "name": "Callisthene microphylla",
+            "term": "Callisthene microphylla",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae160",
+                "wikidata": "Q15322046"
+            }
+        },
+        {
+            "name": "Callisthene minor",
+            "term": "Callisthene minor",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae161",
+                "wikidata": "Q15322127"
+            }
+        },
+        {
+            "name": "Callisthene mollissima",
+            "term": "Callisthene mollissima",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae162",
+                "wikidata": "Q15322213"
+            }
+        },
+        {
+            "name": "Callisthene kuhlmannii",
+            "term": "Callisthene kuhlmannii",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae163",
+                "wikidata": "Q17602627"
+            }
+        },
+        {
+            "name": "Callisthene hassleri",
+            "term": "Callisthene hassleri",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae164",
+                "wikidata": "Q17602628"
+            }
+        },
+        {
+            "name": "Callisthene erythroclada",
+            "term": "Callisthene erythroclada",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae165",
+                "wikidata": "Q17602629"
+            }
+        },
+        {
+            "name": "Callisthene castellanosii",
+            "term": "Callisthene castellanosii",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae166",
+                "wikidata": "Q17602630"
+            }
+        },
+        {
+            "name": "Qualea impexa",
+            "term": "Qualea impexa",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae167",
+                "wikidata": "Q2876301"
+            }
+        },
+        {
+            "name": "Qualea calantha",
+            "term": "Qualea calantha",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae168",
+                "wikidata": "Q5463275"
+            }
+        },
+        {
+            "name": "Qualea rosea",
+            "term": "Qualea rosea",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae169",
+                "wikidata": "Q10315137"
+            }
+        },
+        {
+            "name": "Qualea cryptantha",
+            "term": "Qualea cryptantha",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae170",
+                "wikidata": "Q15335314"
+            }
+        },
+        {
+            "name": "Qualea cyanea",
+            "term": "Qualea cyanea",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae171",
+                "wikidata": "Q15335400"
+            }
+        },
+        {
+            "name": "Qualea cymulosa",
+            "term": "Qualea cymulosa",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae172",
+                "wikidata": "Q15335515"
+            }
+        },
+        {
+            "name": "Qualea ingens",
+            "term": "Qualea ingens",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae173",
+                "wikidata": "Q15335537"
+            }
+        },
+        {
+            "name": "Qualea labouriauana",
+            "term": "Qualea labouriauana",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae174",
+                "wikidata": "Q15335589"
+            }
+        },
+        {
+            "name": "Qualea rupicola",
+            "term": "Qualea rupicola",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae175",
+                "wikidata": "Q15335610"
+            }
+        },
+        {
+            "name": "Qualea decorticans",
+            "term": "Qualea decorticans",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae176",
+                "wikidata": "Q15335631"
+            }
+        },
+        {
+            "name": "Qualea lineata",
+            "term": "Qualea lineata",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae177",
+                "wikidata": "Q15335659"
+            }
+        },
+        {
+            "name": "Qualea sacculata",
+            "term": "Qualea sacculata",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae178",
+                "wikidata": "Q15335684"
+            }
+        },
+        {
+            "name": "Qualea densiflora",
+            "term": "Qualea densiflora",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae179",
+                "wikidata": "Q15335721"
+            }
+        },
+        {
+            "name": "Qualea schomburgkiana",
+            "term": "Qualea schomburgkiana",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae180",
+                "wikidata": "Q15335737"
+            }
+        },
+        {
+            "name": "Qualea lundii",
+            "term": "Qualea lundii",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae181",
+                "wikidata": "Q15335756"
+            }
+        },
+        {
+            "name": "Qualea dichotoma",
+            "term": "Qualea dichotoma",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae182",
+                "wikidata": "Q15335836"
+            }
+        },
+        {
+            "name": "Qualea macropetala",
+            "term": "Qualea macropetala",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae183",
+                "wikidata": "Q15335852"
+            }
+        },
+        {
+            "name": "Qualea magna",
+            "term": "Qualea magna",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae184",
+                "wikidata": "Q15335931"
+            }
+        },
+        {
+            "name": "Qualea dinizii",
+            "term": "Qualea dinizii",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae185",
+                "wikidata": "Q15335934"
+            }
+        },
+        {
+            "name": "Qualea selloi",
+            "term": "Qualea selloi",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae186",
+                "wikidata": "Q15335981"
+            }
+        },
+        {
+            "name": "Qualea megalocarpa",
+            "term": "Qualea megalocarpa",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae187",
+                "wikidata": "Q15336021"
+            }
+        },
+        {
+            "name": "Qualea elegans",
+            "term": "Qualea elegans",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae188",
+                "wikidata": "Q15336043"
+            }
+        },
+        {
+            "name": "Qualea moriboomii",
+            "term": "Qualea moriboomii",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae189",
+                "wikidata": "Q15336124"
+            }
+        },
+        {
+            "name": "Qualea gardneriana",
+            "term": "Qualea gardneriana",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae190",
+                "wikidata": "Q15336139"
+            }
+        },
+        {
+            "name": "Qualea sprucei",
+            "term": "Qualea sprucei",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae191",
+                "wikidata": "Q15336172"
+            }
+        },
+        {
+            "name": "Qualea multiflora",
+            "term": "Qualea multiflora",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae192",
+                "wikidata": "Q15336214"
+            }
+        },
+        {
+            "name": "Qualea gestasiana",
+            "term": "Qualea gestasiana",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae193",
+                "wikidata": "Q15336229"
+            }
+        },
+        {
+            "name": "Qualea suprema",
+            "term": "Qualea suprema",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae194",
+                "wikidata": "Q15336327"
+            }
+        },
+        {
+            "name": "Qualea nitida",
+            "term": "Qualea nitida",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae195",
+                "wikidata": "Q15336350"
+            }
+        },
+        {
+            "name": "Qualea glaziovii",
+            "term": "Qualea glaziovii",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae196",
+                "wikidata": "Q15336357"
+            }
+        },
+        {
+            "name": "Qualea panamensis",
+            "term": "Qualea panamensis",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae197",
+                "wikidata": "Q15336430"
+            }
+        },
+        {
+            "name": "Qualea gracilior",
+            "term": "Qualea gracilior",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae198",
+                "wikidata": "Q15336449"
+            }
+        },
+        {
+            "name": "Qualea tessmannii",
+            "term": "Qualea tessmannii",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae199",
+                "wikidata": "Q15336497"
+            }
+        },
+        {
+            "name": "Qualea paraensis",
+            "term": "Qualea paraensis",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae200",
+                "wikidata": "Q15336541"
+            }
+        },
+        {
+            "name": "Qualea grandiflora",
+            "term": "Qualea grandiflora",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae201",
+                "wikidata": "Q15336563"
+            }
+        },
+        {
+            "name": "Qualea themistoclesii",
+            "term": "Qualea themistoclesii",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae202",
+                "wikidata": "Q15336606"
+            }
+        },
+        {
+            "name": "Qualea parviflora",
+            "term": "Qualea parviflora",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae203",
+                "wikidata": "Q15336649"
+            }
+        },
+        {
+            "name": "Qualea hannekesaskiarum",
+            "term": "Qualea hannekesaskiarum",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae204",
+                "wikidata": "Q15336665"
+            }
+        },
+        {
+            "name": "Qualea acuminata",
+            "term": "Qualea acuminata",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae205",
+                "wikidata": "Q15336695"
+            }
+        },
+        {
+            "name": "Qualea polychroma",
+            "term": "Qualea polychroma",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae206",
+                "wikidata": "Q15336751"
+            }
+        },
+        {
+            "name": "Qualea homosepala",
+            "term": "Qualea homosepala",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae207",
+                "wikidata": "Q15336768"
+            }
+        },
+        {
+            "name": "Qualea psidiifolia",
+            "term": "Qualea psidiifolia",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae208",
+                "wikidata": "Q15336832"
+            }
+        },
+        {
+            "name": "Qualea tricolor",
+            "term": "Qualea tricolor",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae209",
+                "wikidata": "Q15336841"
+            }
+        },
+        {
+            "name": "Qualea pulcherrima",
+            "term": "Qualea pulcherrima",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae210",
+                "wikidata": "Q15336931"
+            }
+        },
+        {
+            "name": "Qualea tuberculata",
+            "term": "Qualea tuberculata",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae211",
+                "wikidata": "Q15337010"
+            }
+        },
+        {
+            "name": "Qualea albiflora",
+            "term": "Qualea albiflora",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae212",
+                "wikidata": "Q15337021"
+            }
+        },
+        {
+            "name": "Qualea wittrockii",
+            "term": "Qualea wittrockii",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae213",
+                "wikidata": "Q15337243"
+            }
+        },
+        {
+            "name": "Qualea amapaensis",
+            "term": "Qualea amapaensis",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae214",
+                "wikidata": "Q15337328"
+            }
+        },
+        {
+            "name": "Qualea wurdackii",
+            "term": "Qualea wurdackii",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae215",
+                "wikidata": "Q15337451"
+            }
+        },
+        {
+            "name": "Qualea amoena",
+            "term": "Qualea amoena",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae216",
+                "wikidata": "Q15337815"
+            }
+        },
+        {
+            "name": "Qualea brasiliana",
+            "term": "Qualea brasiliana",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae217",
+                "wikidata": "Q15338059"
+            }
+        },
+        {
+            "name": "Qualea brevipedicellata",
+            "term": "Qualea brevipedicellata",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae218",
+                "wikidata": "Q15338218"
+            }
+        },
+        {
+            "name": "Qualea calophylla",
+            "term": "Qualea calophylla",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae219",
+                "wikidata": "Q15338534"
+            }
+        },
+        {
+            "name": "Qualea clavata",
+            "term": "Qualea clavata",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae220",
+                "wikidata": "Q15338747"
+            }
+        },
+        {
+            "name": "Qualea coerulea",
+            "term": "Qualea coerulea",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae221",
+                "wikidata": "Q15339220"
+            }
+        },
+        {
+            "name": "Qualea cordata",
+            "term": "Qualea cordata",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae222",
+                "wikidata": "Q15339697"
+            }
+        },
+        {
+            "name": "Qualea urceolata",
+            "term": "Qualea urceolata",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae223",
+                "wikidata": "Q17602612"
+            }
+        },
+        {
+            "name": "Qualea trichanthera",
+            "term": "Qualea trichanthera",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae224",
+                "wikidata": "Q17602613"
+            }
+        },
+        {
+            "name": "Qualea rigida",
+            "term": "Qualea rigida",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae225",
+                "wikidata": "Q17602614"
+            }
+        },
+        {
+            "name": "Qualea retusa",
+            "term": "Qualea retusa",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae226",
+                "wikidata": "Q17602615"
+            }
+        },
+        {
+            "name": "Qualea obtusata",
+            "term": "Qualea obtusata",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae227",
+                "wikidata": "Q17602616"
+            }
+        },
+        {
+            "name": "Qualea marioniae",
+            "term": "Qualea marioniae",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae228",
+                "wikidata": "Q17602617"
+            }
+        },
+        {
+            "name": "Qualea johannabakkerae",
+            "term": "Qualea johannabakkerae",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae229",
+                "wikidata": "Q17602618"
+            }
+        },
+        {
+            "name": "Qualea ferruginea",
+            "term": "Qualea ferruginea",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae230",
+                "wikidata": "Q17602619"
+            }
+        },
+        {
+            "name": "Qualea esmeraldae",
+            "term": "Qualea esmeraldae",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae231",
+                "wikidata": "Q17602620"
+            }
+        },
+        {
+            "name": "Qualea cassiquiarensis",
+            "term": "Qualea cassiquiarensis",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae232",
+                "wikidata": "Q17602621"
+            }
+        },
+        {
+            "name": "Qualea belemnensis",
+            "term": "Qualea belemnensis",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae233",
+                "wikidata": "Q17602622"
+            }
+        },
+        {
+            "name": "Ruizterania belemnensis",
+            "term": "Ruizterania belemnensis",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae234",
+                "wikidata": "Q15344220"
+            }
+        },
+        {
+            "name": "Ruizterania cassiquiarensis",
+            "term": "Ruizterania cassiquiarensis",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae235",
+                "wikidata": "Q15344241"
+            }
+        },
+        {
+            "name": "Ruizterania esmeraldae",
+            "term": "Ruizterania esmeraldae",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae236",
+                "wikidata": "Q15344342"
+            }
+        },
+        {
+            "name": "Ruizterania ferruginea",
+            "term": "Ruizterania ferruginea",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae237",
+                "wikidata": "Q15344459"
+            }
+        },
+        {
+            "name": "Ruizterania obtusata",
+            "term": "Ruizterania obtusata",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae238",
+                "wikidata": "Q15344541"
+            }
+        },
+        {
+            "name": "Ruizterania retusa",
+            "term": "Ruizterania retusa",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae239",
+                "wikidata": "Q15344661"
+            }
+        },
+        {
+            "name": "Ruizterania rigida",
+            "term": "Ruizterania rigida",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae240",
+                "wikidata": "Q15344774"
+            }
+        },
+        {
+            "name": "Ruizterania trichanthera",
+            "term": "Ruizterania trichanthera",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae241",
+                "wikidata": "Q15344875"
+            }
+        },
+        {
+            "name": "Ruizterania urceolata",
+            "term": "Ruizterania urceolata",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae242",
+                "wikidata": "Q15344964"
+            }
+        },
+        {
+            "name": "Salvertia convallariaeodora",
+            "term": "Salvertia convallariaeodora",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae243",
+                "wikidata": "Q17602611"
+            }
+        },
+        {
+            "name": "Salvertia convallariodora",
+            "term": "Salvertia convallariodora",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae244",
+                "wikidata": "Q21303861"
+            }
+        },
+        {
+            "name": "Erisma djalma-batistae",
+            "term": "Erisma djalma-batistae",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae245",
+                "wikidata": "Q15326842"
+            }
+        },
+        {
+            "name": "Erisma floribundum",
+            "term": "Erisma floribundum",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae246",
+                "wikidata": "Q15326930"
+            }
+        },
+        {
+            "name": "Erisma fuscum",
+            "term": "Erisma fuscum",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae247",
+                "wikidata": "Q15326985"
+            }
+        },
+        {
+            "name": "Erisma gracile",
+            "term": "Erisma gracile",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae248",
+                "wikidata": "Q15327065"
+            }
+        },
+        {
+            "name": "Erisma japura",
+            "term": "Erisma japura",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae249",
+                "wikidata": "Q15327115"
+            }
+        },
+        {
+            "name": "Erisma lanceolatum",
+            "term": "Erisma lanceolatum",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae250",
+                "wikidata": "Q15327185"
+            }
+        },
+        {
+            "name": "Erisma laurifolium",
+            "term": "Erisma laurifolium",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae251",
+                "wikidata": "Q15327270"
+            }
+        },
+        {
+            "name": "Erisma maliforme",
+            "term": "Erisma maliforme",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae252",
+                "wikidata": "Q15327372"
+            }
+        },
+        {
+            "name": "Erisma arietinum",
+            "term": "Erisma arietinum",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae253",
+                "wikidata": "Q15327458"
+            }
+        },
+        {
+            "name": "Erisma megalophyllum",
+            "term": "Erisma megalophyllum",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae254",
+                "wikidata": "Q15327480"
+            }
+        },
+        {
+            "name": "Erisma bicolor",
+            "term": "Erisma bicolor",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae255",
+                "wikidata": "Q15327541"
+            }
+        },
+        {
+            "name": "Erisma micranthum",
+            "term": "Erisma micranthum",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae256",
+                "wikidata": "Q15327576"
+            }
+        },
+        {
+            "name": "Erisma blancoa",
+            "term": "Erisma blancoa",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae257",
+                "wikidata": "Q15327633"
+            }
+        },
+        {
+            "name": "Erisma nitidum",
+            "term": "Erisma nitidum",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae258",
+                "wikidata": "Q15327650"
+            }
+        },
+        {
+            "name": "Erisma bracteosum",
+            "term": "Erisma bracteosum",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae259",
+                "wikidata": "Q15327692"
+            }
+        },
+        {
+            "name": "Erisma niveum",
+            "term": "Erisma niveum",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae260",
+                "wikidata": "Q15327733"
+            }
+        },
+        {
+            "name": "Erisma calcaratum",
+            "term": "Erisma calcaratum",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae261",
+                "wikidata": "Q15327802"
+            }
+        },
+        {
+            "name": "Erisma silvae",
+            "term": "Erisma silvae",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae262",
+                "wikidata": "Q15327850"
+            }
+        },
+        {
+            "name": "Erisma costatum",
+            "term": "Erisma costatum",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae263",
+                "wikidata": "Q15327906"
+            }
+        },
+        {
+            "name": "Erisma splendens",
+            "term": "Erisma splendens",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae264",
+                "wikidata": "Q15327985"
+            }
+        },
+        {
+            "name": "Erisma tessmannii",
+            "term": "Erisma tessmannii",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae265",
+                "wikidata": "Q15328083"
+            }
+        },
+        {
+            "name": "Erisma uncinatum",
+            "term": "Erisma uncinatum",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae266",
+                "wikidata": "Q15328170"
+            }
+        },
+        {
+            "name": "Erisma homosepala",
+            "term": "Erisma homosepala",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae267",
+                "wikidata": "Q17602625"
+            }
+        },
+        {
+            "name": "Korupodendron songweanum",
+            "term": "Korupodendron songweanum",
+            "identifiers": {
+                "contentmine": "CM.vochysiaceae268",
+                "wikidata": "Q5472509"
+            }
+        }
+    ],
+    "id": "CM.vochysiaceae"
+}

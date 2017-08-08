@@ -24,8 +24,11 @@ fsRDP('./')
       var possibleTitles = dict.entries.map(function (entry) {
         return entry.identifiers.contentmine.match(/^([a-zA-Z.]*)/)[1]
       })
-      // console.log(possibleTitles)
-      console.log(_.uniq(possibleTitles))
+      var uniqTitles = _.uniq(possibleTitles)
+      if (uniqTitles.length === 1) {
+        dict.id = uniqTitles[0]
+        fs.writeFile(uniqTitles[0].slice(3) + '.json', JSON.stringify(dict, null, 4))
+      }
     }
   })
 })

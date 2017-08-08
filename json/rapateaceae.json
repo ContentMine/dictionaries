@@ -1,1 +1,989 @@
-{"entries":[{"name":"Rapateaceae","term":"Rapateaceae","identifiers":{"contentmine":"CM.rapateaceae0","wikidata":"Q131516"}},{"name":"Stegolepis","term":"Stegolepis","identifiers":{"contentmine":"CM.rapateaceae1","wikidata":"Q309737"}},{"name":"Monotrema","term":"Monotrema","identifiers":{"contentmine":"CM.rapateaceae2","wikidata":"Q3321272"}},{"name":"Rapateoideae","term":"Rapateoideae","identifiers":{"contentmine":"CM.rapateaceae3","wikidata":"Q6100382"}},{"name":"Cephalostemon","term":"Cephalostemon","identifiers":{"contentmine":"CM.rapateaceae4","wikidata":"Q8355592"}},{"name":"Duckea","term":"Duckea","identifiers":{"contentmine":"CM.rapateaceae5","wikidata":"Q8770900"}},{"name":"Potarophytum","term":"Potarophytum","identifiers":{"contentmine":"CM.rapateaceae6","wikidata":"Q9061968"}},{"name":"Rapatea","term":"Rapatea","identifiers":{"contentmine":"CM.rapateaceae7","wikidata":"Q9066626"}},{"name":"Epidryos","term":"Epidryos","identifiers":{"contentmine":"CM.rapateaceae8","wikidata":"Q10273294"}},{"name":"Guacamaya","term":"Guacamaya","identifiers":{"contentmine":"CM.rapateaceae9","wikidata":"Q10292340"}},{"name":"Schoenocephalium","term":"Schoenocephalium","identifiers":{"contentmine":"CM.rapateaceae10","wikidata":"Q10295353"}},{"name":"Kunhardtia","term":"Kunhardtia","identifiers":{"contentmine":"CM.rapateaceae11","wikidata":"Q10314795"}},{"name":"Saxofridericia","term":"Saxofridericia","identifiers":{"contentmine":"CM.rapateaceae12","wikidata":"Q10368690"}},{"name":"Spathanthus","term":"Spathanthus","identifiers":{"contentmine":"CM.rapateaceae13","wikidata":"Q10373651"}},{"name":"Windsorina","term":"Windsorina","identifiers":{"contentmine":"CM.rapateaceae14","wikidata":"Q10393874"}},{"name":"Amphiphyllum","term":"Amphiphyllum","identifiers":{"contentmine":"CM.rapateaceae15","wikidata":"Q16480594"}},{"name":"Maschalocephalus","term":"Maschalocephalus","identifiers":{"contentmine":"CM.rapateaceae16","wikidata":"Q16888371"}},{"name":"Marahuacaea","term":"Marahuacaea","identifiers":{"contentmine":"CM.rapateaceae17","wikidata":"Q18200934"}},{"name":"Phelpsiella","term":"Phelpsiella","identifiers":{"contentmine":"CM.rapateaceae18","wikidata":"Q18201004"}},{"name":"Saxo-fridericia","term":"Saxo-fridericia","identifiers":{"contentmine":"CM.rapateaceae19","wikidata":"Q18335853"}},{"name":"Stegolepis guianensis","term":"Stegolepis guianensis","identifiers":{"contentmine":"CM.rapateaceae20","wikidata":"Q1030877"}},{"name":"Stegolepis ferruginea","term":"Stegolepis ferruginea","identifiers":{"contentmine":"CM.rapateaceae21","wikidata":"Q1411495"}},{"name":"Stegolepis hitchcockii","term":"Stegolepis hitchcockii","identifiers":{"contentmine":"CM.rapateaceae22","wikidata":"Q15503416"}},{"name":"Stegolepis huberi","term":"Stegolepis huberi","identifiers":{"contentmine":"CM.rapateaceae23","wikidata":"Q15503436"}},{"name":"Stegolepis humilis","term":"Stegolepis humilis","identifiers":{"contentmine":"CM.rapateaceae24","wikidata":"Q15503458"}},{"name":"Stegolepis jauaensis","term":"Stegolepis jauaensis","identifiers":{"contentmine":"CM.rapateaceae25","wikidata":"Q15503479"}},{"name":"Stegolepis ligulata","term":"Stegolepis ligulata","identifiers":{"contentmine":"CM.rapateaceae26","wikidata":"Q15503501"}},{"name":"Stegolepis albiflora","term":"Stegolepis albiflora","identifiers":{"contentmine":"CM.rapateaceae27","wikidata":"Q15503514"}},{"name":"Stegolepis linearis","term":"Stegolepis linearis","identifiers":{"contentmine":"CM.rapateaceae28","wikidata":"Q15503524"}},{"name":"Stegolepis angustata","term":"Stegolepis angustata","identifiers":{"contentmine":"CM.rapateaceae29","wikidata":"Q15503546"}},{"name":"Stegolepis maguireana","term":"Stegolepis maguireana","identifiers":{"contentmine":"CM.rapateaceae30","wikidata":"Q15503557"}},{"name":"Stegolepis ptaritepuiensis","term":"Stegolepis ptaritepuiensis","identifiers":{"contentmine":"CM.rapateaceae31","wikidata":"Q15503558"}},{"name":"Stegolepis breweri","term":"Stegolepis breweri","identifiers":{"contentmine":"CM.rapateaceae32","wikidata":"Q15503574"}},{"name":"Stegolepis membranacea","term":"Stegolepis membranacea","identifiers":{"contentmine":"CM.rapateaceae33","wikidata":"Q15503579"}},{"name":"Stegolepis pulchella","term":"Stegolepis pulchella","identifiers":{"contentmine":"CM.rapateaceae34","wikidata":"Q15503589"}},{"name":"Stegolepis cardonae","term":"Stegolepis cardonae","identifiers":{"contentmine":"CM.rapateaceae35","wikidata":"Q15503596"}},{"name":"Stegolepis microcephala","term":"Stegolepis microcephala","identifiers":{"contentmine":"CM.rapateaceae36","wikidata":"Q15503610"}},{"name":"Stegolepis pungens","term":"Stegolepis pungens","identifiers":{"contentmine":"CM.rapateaceae37","wikidata":"Q15503621"}},{"name":"Stegolepis celiae","term":"Stegolepis celiae","identifiers":{"contentmine":"CM.rapateaceae38","wikidata":"Q15503626"}},{"name":"Stegolepis minor","term":"Stegolepis minor","identifiers":{"contentmine":"CM.rapateaceae39","wikidata":"Q15503638"}},{"name":"Stegolepis squarrosa","term":"Stegolepis squarrosa","identifiers":{"contentmine":"CM.rapateaceae40","wikidata":"Q15503643"}},{"name":"Stegolepis choripetala","term":"Stegolepis choripetala","identifiers":{"contentmine":"CM.rapateaceae41","wikidata":"Q15503658"}},{"name":"Stegolepis neblinensis","term":"Stegolepis neblinensis","identifiers":{"contentmine":"CM.rapateaceae42","wikidata":"Q15503665"}},{"name":"Stegolepis steyermarkii","term":"Stegolepis steyermarkii","identifiers":{"contentmine":"CM.rapateaceae43","wikidata":"Q15503668"}},{"name":"Stegolepis parvipetala","term":"Stegolepis parvipetala","identifiers":{"contentmine":"CM.rapateaceae44","wikidata":"Q15503693"}},{"name":"Stegolepis terramarensis","term":"Stegolepis terramarensis","identifiers":{"contentmine":"CM.rapateaceae45","wikidata":"Q15503695"}},{"name":"Stegolepis gleasoniana","term":"Stegolepis gleasoniana","identifiers":{"contentmine":"CM.rapateaceae46","wikidata":"Q15503709"}},{"name":"Stegolepis pauciflora","term":"Stegolepis pauciflora","identifiers":{"contentmine":"CM.rapateaceae47","wikidata":"Q15503723"}},{"name":"Stegolepis vivipara","term":"Stegolepis vivipara","identifiers":{"contentmine":"CM.rapateaceae48","wikidata":"Q15503726"}},{"name":"Stegolepis grandis","term":"Stegolepis grandis","identifiers":{"contentmine":"CM.rapateaceae49","wikidata":"Q15503733"}},{"name":"Stegolepis wurdackii","term":"Stegolepis wurdackii","identifiers":{"contentmine":"CM.rapateaceae50","wikidata":"Q15503749"}},{"name":"Stegolepis perligulata","term":"Stegolepis perligulata","identifiers":{"contentmine":"CM.rapateaceae51","wikidata":"Q15503763"}},{"name":"Stegolepis piresii","term":"Stegolepis piresii","identifiers":{"contentmine":"CM.rapateaceae52","wikidata":"Q15503787"}},{"name":"Monotrema aemulans","term":"Monotrema aemulans","identifiers":{"contentmine":"CM.rapateaceae53","wikidata":"Q15515627"}},{"name":"Monotrema affine","term":"Monotrema affine","identifiers":{"contentmine":"CM.rapateaceae54","wikidata":"Q15515740"}},{"name":"Monotrema arthrophyllum","term":"Monotrema arthrophyllum","identifiers":{"contentmine":"CM.rapateaceae55","wikidata":"Q15515836"}},{"name":"Monotrema bracteatum","term":"Monotrema bracteatum","identifiers":{"contentmine":"CM.rapateaceae56","wikidata":"Q15515949"}},{"name":"Monotrema xyridoides","term":"Monotrema xyridoides","identifiers":{"contentmine":"CM.rapateaceae57","wikidata":"Q15516034"}},{"name":"Cephalostemon affinis","term":"Cephalostemon affinis","identifiers":{"contentmine":"CM.rapateaceae58","wikidata":"Q15512056"}},{"name":"Cephalostemon angustatus","term":"Cephalostemon angustatus","identifiers":{"contentmine":"CM.rapateaceae59","wikidata":"Q15512108"}},{"name":"Cephalostemon gracilis","term":"Cephalostemon gracilis","identifiers":{"contentmine":"CM.rapateaceae60","wikidata":"Q15512162"}},{"name":"Cephalostemon microglochin","term":"Cephalostemon microglochin","identifiers":{"contentmine":"CM.rapateaceae61","wikidata":"Q15512212"}},{"name":"Cephalostemon riedelianus","term":"Cephalostemon riedelianus","identifiers":{"contentmine":"CM.rapateaceae62","wikidata":"Q15512251"}},{"name":"Duckea cyperaceoidea","term":"Duckea cyperaceoidea","identifiers":{"contentmine":"CM.rapateaceae63","wikidata":"Q15506728"}},{"name":"Duckea flava","term":"Duckea flava","identifiers":{"contentmine":"CM.rapateaceae64","wikidata":"Q15506767"}},{"name":"Duckea junciformis","term":"Duckea junciformis","identifiers":{"contentmine":"CM.rapateaceae65","wikidata":"Q15506800"}},{"name":"Duckea squarrosa","term":"Duckea squarrosa","identifiers":{"contentmine":"CM.rapateaceae66","wikidata":"Q15506856"}},{"name":"Potarophytum riparium","term":"Potarophytum riparium","identifiers":{"contentmine":"CM.rapateaceae67","wikidata":"Q15516833"}},{"name":"Rapatea paludosa","term":"Rapatea paludosa","identifiers":{"contentmine":"CM.rapateaceae68","wikidata":"Q15520292"}},{"name":"Rapatea pycnocephala","term":"Rapatea pycnocephala","identifiers":{"contentmine":"CM.rapateaceae69","wikidata":"Q15520452"}},{"name":"Rapatea rugulosa","term":"Rapatea rugulosa","identifiers":{"contentmine":"CM.rapateaceae70","wikidata":"Q15520677"}},{"name":"Rapatea saulensis","term":"Rapatea saulensis","identifiers":{"contentmine":"CM.rapateaceae71","wikidata":"Q15520759"}},{"name":"Rapatea angustifolia","term":"Rapatea angustifolia","identifiers":{"contentmine":"CM.rapateaceae72","wikidata":"Q15520910"}},{"name":"Rapatea scabra","term":"Rapatea scabra","identifiers":{"contentmine":"CM.rapateaceae73","wikidata":"Q15521017"}},{"name":"Rapatea aracamuniana","term":"Rapatea aracamuniana","identifiers":{"contentmine":"CM.rapateaceae74","wikidata":"Q15521060"}},{"name":"Rapatea chimantensis","term":"Rapatea chimantensis","identifiers":{"contentmine":"CM.rapateaceae75","wikidata":"Q15521199"}},{"name":"Rapatea spectabilis","term":"Rapatea spectabilis","identifiers":{"contentmine":"CM.rapateaceae76","wikidata":"Q15521258"}},{"name":"Rapatea circasiana","term":"Rapatea circasiana","identifiers":{"contentmine":"CM.rapateaceae77","wikidata":"Q15521318"}},{"name":"Rapatea elongata","term":"Rapatea elongata","identifiers":{"contentmine":"CM.rapateaceae78","wikidata":"Q15521439"}},{"name":"Rapatea fanshawei","term":"Rapatea fanshawei","identifiers":{"contentmine":"CM.rapateaceae79","wikidata":"Q15521578"}},{"name":"Rapatea spruceana","term":"Rapatea spruceana","identifiers":{"contentmine":"CM.rapateaceae80","wikidata":"Q15521642"}},{"name":"Rapatea linearis","term":"Rapatea linearis","identifiers":{"contentmine":"CM.rapateaceae81","wikidata":"Q15521707"}},{"name":"Rapatea longipes","term":"Rapatea longipes","identifiers":{"contentmine":"CM.rapateaceae82","wikidata":"Q15522000"}},{"name":"Rapatea steyermarkii","term":"Rapatea steyermarkii","identifiers":{"contentmine":"CM.rapateaceae83","wikidata":"Q15522023"}},{"name":"Rapatea membranacea","term":"Rapatea membranacea","identifiers":{"contentmine":"CM.rapateaceae84","wikidata":"Q15522106"}},{"name":"Rapatea muaju","term":"Rapatea muaju","identifiers":{"contentmine":"CM.rapateaceae85","wikidata":"Q15522282"}},{"name":"Rapatea ulei","term":"Rapatea ulei","identifiers":{"contentmine":"CM.rapateaceae86","wikidata":"Q15522316"}},{"name":"Rapatea undulata","term":"Rapatea undulata","identifiers":{"contentmine":"CM.rapateaceae87","wikidata":"Q15522617"}},{"name":"Rapatea xiphoides","term":"Rapatea xiphoides","identifiers":{"contentmine":"CM.rapateaceae88","wikidata":"Q15522805"}},{"name":"Rapatea yapacana","term":"Rapatea yapacana","identifiers":{"contentmine":"CM.rapateaceae89","wikidata":"Q15523123"}},{"name":"Epidryos allenii","term":"Epidryos allenii","identifiers":{"contentmine":"CM.rapateaceae90","wikidata":"Q15512487"}},{"name":"Epidryos guayanensis","term":"Epidryos guayanensis","identifiers":{"contentmine":"CM.rapateaceae91","wikidata":"Q15512574"}},{"name":"Epidryos micrantherus","term":"Epidryos micrantherus","identifiers":{"contentmine":"CM.rapateaceae92","wikidata":"Q15512617"}},{"name":"Guacamaya superba","term":"Guacamaya superba","identifiers":{"contentmine":"CM.rapateaceae93","wikidata":"Q6440762"}},{"name":"Schoenocephalium teretifolium","term":"Schoenocephalium teretifolium","identifiers":{"contentmine":"CM.rapateaceae94","wikidata":"Q7431969"}},{"name":"Schoenocephalium cucullatum","term":"Schoenocephalium cucullatum","identifiers":{"contentmine":"CM.rapateaceae95","wikidata":"Q15520932"}},{"name":"Schoenocephalium martianum","term":"Schoenocephalium martianum","identifiers":{"contentmine":"CM.rapateaceae96","wikidata":"Q15521031"}},{"name":"Schoenocephalium schultesii","term":"Schoenocephalium schultesii","identifiers":{"contentmine":"CM.rapateaceae97","wikidata":"Q15521129"}},{"name":"Kunhardtia radiata","term":"Kunhardtia radiata","identifiers":{"contentmine":"CM.rapateaceae98","wikidata":"Q15508609"}},{"name":"Kunhardtia rhodantha","term":"Kunhardtia rhodantha","identifiers":{"contentmine":"CM.rapateaceae99","wikidata":"Q15508677"}},{"name":"Saxofridericia aculeata","term":"Saxofridericia aculeata","identifiers":{"contentmine":"CM.rapateaceae100","wikidata":"Q15521161"}},{"name":"Saxofridericia colombiana","term":"Saxofridericia colombiana","identifiers":{"contentmine":"CM.rapateaceae101","wikidata":"Q15521229"}},{"name":"Saxofridericia compressa","term":"Saxofridericia compressa","identifiers":{"contentmine":"CM.rapateaceae102","wikidata":"Q15521309"}},{"name":"Saxofridericia duidae","term":"Saxofridericia duidae","identifiers":{"contentmine":"CM.rapateaceae103","wikidata":"Q15521424"}},{"name":"Saxofridericia grandis","term":"Saxofridericia grandis","identifiers":{"contentmine":"CM.rapateaceae104","wikidata":"Q15521494"}},{"name":"Saxofridericia inermis","term":"Saxofridericia inermis","identifiers":{"contentmine":"CM.rapateaceae105","wikidata":"Q15521589"}},{"name":"Saxofridericia petiolata","term":"Saxofridericia petiolata","identifiers":{"contentmine":"CM.rapateaceae106","wikidata":"Q15521674"}},{"name":"Saxofridericia regalis","term":"Saxofridericia regalis","identifiers":{"contentmine":"CM.rapateaceae107","wikidata":"Q15521933"}},{"name":"Saxofridericia spongiosa","term":"Saxofridericia spongiosa","identifiers":{"contentmine":"CM.rapateaceae108","wikidata":"Q15522020"}},{"name":"Spathanthus bicolor","term":"Spathanthus bicolor","identifiers":{"contentmine":"CM.rapateaceae109","wikidata":"Q15501877"}},{"name":"Spathanthus unilateralis","term":"Spathanthus unilateralis","identifiers":{"contentmine":"CM.rapateaceae110","wikidata":"Q15501895"}},{"name":"Windsorina guianensis","term":"Windsorina guianensis","identifiers":{"contentmine":"CM.rapateaceae111","wikidata":"Q15514846"}},{"name":"Amphiphyllum rigidum","term":"Amphiphyllum rigidum","identifiers":{"contentmine":"CM.rapateaceae112","wikidata":"Q8197789"}},{"name":"Maschalocephalus dinklagei","term":"Maschalocephalus dinklagei","identifiers":{"contentmine":"CM.rapateaceae113","wikidata":"Q9030283"}},{"name":"Marahuacaea schomburgkii","term":"Marahuacaea schomburgkii","identifiers":{"contentmine":"CM.rapateaceae114","wikidata":"Q10324906"}},{"name":"Phelpsiella ptericaulis","term":"Phelpsiella ptericaulis","identifiers":{"contentmine":"CM.rapateaceae115","wikidata":"Q9059000"}},{"name":"Saxo-fridericia duidae","term":"Saxo-fridericia duidae","identifiers":{"contentmine":"CM.rapateaceae116","wikidata":"Q15520802"}},{"name":"Saxo-fridericia grandis","term":"Saxo-fridericia grandis","identifiers":{"contentmine":"CM.rapateaceae117","wikidata":"Q15520903"}},{"name":"Saxo-fridericia inermis","term":"Saxo-fridericia inermis","identifiers":{"contentmine":"CM.rapateaceae118","wikidata":"Q15520977"}},{"name":"Saxo-fridericia spongiosa","term":"Saxo-fridericia spongiosa","identifiers":{"contentmine":"CM.rapateaceae119","wikidata":"Q15521043"}},{"name":"Saxo-fridericia aculeata","term":"Saxo-fridericia aculeata","identifiers":{"contentmine":"CM.rapateaceae120","wikidata":"Q15522246"}},{"name":"Saxo-fridericia compressa","term":"Saxo-fridericia compressa","identifiers":{"contentmine":"CM.rapateaceae121","wikidata":"Q15522383"}},{"name":"Spathanthus unilateralis var. jenmanii","term":"Spathanthus unilateralis var. jenmanii","identifiers":{"contentmine":"CM.rapateaceae122","wikidata":"Q28819494"}}]}
+{
+    "entries": [
+        {
+            "name": "Rapateaceae",
+            "term": "Rapateaceae",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae0",
+                "wikidata": "Q131516"
+            }
+        },
+        {
+            "name": "Stegolepis",
+            "term": "Stegolepis",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae1",
+                "wikidata": "Q309737"
+            }
+        },
+        {
+            "name": "Monotrema",
+            "term": "Monotrema",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae2",
+                "wikidata": "Q3321272"
+            }
+        },
+        {
+            "name": "Rapateoideae",
+            "term": "Rapateoideae",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae3",
+                "wikidata": "Q6100382"
+            }
+        },
+        {
+            "name": "Cephalostemon",
+            "term": "Cephalostemon",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae4",
+                "wikidata": "Q8355592"
+            }
+        },
+        {
+            "name": "Duckea",
+            "term": "Duckea",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae5",
+                "wikidata": "Q8770900"
+            }
+        },
+        {
+            "name": "Potarophytum",
+            "term": "Potarophytum",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae6",
+                "wikidata": "Q9061968"
+            }
+        },
+        {
+            "name": "Rapatea",
+            "term": "Rapatea",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae7",
+                "wikidata": "Q9066626"
+            }
+        },
+        {
+            "name": "Epidryos",
+            "term": "Epidryos",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae8",
+                "wikidata": "Q10273294"
+            }
+        },
+        {
+            "name": "Guacamaya",
+            "term": "Guacamaya",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae9",
+                "wikidata": "Q10292340"
+            }
+        },
+        {
+            "name": "Schoenocephalium",
+            "term": "Schoenocephalium",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae10",
+                "wikidata": "Q10295353"
+            }
+        },
+        {
+            "name": "Kunhardtia",
+            "term": "Kunhardtia",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae11",
+                "wikidata": "Q10314795"
+            }
+        },
+        {
+            "name": "Saxofridericia",
+            "term": "Saxofridericia",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae12",
+                "wikidata": "Q10368690"
+            }
+        },
+        {
+            "name": "Spathanthus",
+            "term": "Spathanthus",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae13",
+                "wikidata": "Q10373651"
+            }
+        },
+        {
+            "name": "Windsorina",
+            "term": "Windsorina",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae14",
+                "wikidata": "Q10393874"
+            }
+        },
+        {
+            "name": "Amphiphyllum",
+            "term": "Amphiphyllum",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae15",
+                "wikidata": "Q16480594"
+            }
+        },
+        {
+            "name": "Maschalocephalus",
+            "term": "Maschalocephalus",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae16",
+                "wikidata": "Q16888371"
+            }
+        },
+        {
+            "name": "Marahuacaea",
+            "term": "Marahuacaea",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae17",
+                "wikidata": "Q18200934"
+            }
+        },
+        {
+            "name": "Phelpsiella",
+            "term": "Phelpsiella",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae18",
+                "wikidata": "Q18201004"
+            }
+        },
+        {
+            "name": "Saxo-fridericia",
+            "term": "Saxo-fridericia",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae19",
+                "wikidata": "Q18335853"
+            }
+        },
+        {
+            "name": "Stegolepis guianensis",
+            "term": "Stegolepis guianensis",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae20",
+                "wikidata": "Q1030877"
+            }
+        },
+        {
+            "name": "Stegolepis ferruginea",
+            "term": "Stegolepis ferruginea",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae21",
+                "wikidata": "Q1411495"
+            }
+        },
+        {
+            "name": "Stegolepis hitchcockii",
+            "term": "Stegolepis hitchcockii",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae22",
+                "wikidata": "Q15503416"
+            }
+        },
+        {
+            "name": "Stegolepis huberi",
+            "term": "Stegolepis huberi",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae23",
+                "wikidata": "Q15503436"
+            }
+        },
+        {
+            "name": "Stegolepis humilis",
+            "term": "Stegolepis humilis",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae24",
+                "wikidata": "Q15503458"
+            }
+        },
+        {
+            "name": "Stegolepis jauaensis",
+            "term": "Stegolepis jauaensis",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae25",
+                "wikidata": "Q15503479"
+            }
+        },
+        {
+            "name": "Stegolepis ligulata",
+            "term": "Stegolepis ligulata",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae26",
+                "wikidata": "Q15503501"
+            }
+        },
+        {
+            "name": "Stegolepis albiflora",
+            "term": "Stegolepis albiflora",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae27",
+                "wikidata": "Q15503514"
+            }
+        },
+        {
+            "name": "Stegolepis linearis",
+            "term": "Stegolepis linearis",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae28",
+                "wikidata": "Q15503524"
+            }
+        },
+        {
+            "name": "Stegolepis angustata",
+            "term": "Stegolepis angustata",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae29",
+                "wikidata": "Q15503546"
+            }
+        },
+        {
+            "name": "Stegolepis maguireana",
+            "term": "Stegolepis maguireana",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae30",
+                "wikidata": "Q15503557"
+            }
+        },
+        {
+            "name": "Stegolepis ptaritepuiensis",
+            "term": "Stegolepis ptaritepuiensis",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae31",
+                "wikidata": "Q15503558"
+            }
+        },
+        {
+            "name": "Stegolepis breweri",
+            "term": "Stegolepis breweri",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae32",
+                "wikidata": "Q15503574"
+            }
+        },
+        {
+            "name": "Stegolepis membranacea",
+            "term": "Stegolepis membranacea",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae33",
+                "wikidata": "Q15503579"
+            }
+        },
+        {
+            "name": "Stegolepis pulchella",
+            "term": "Stegolepis pulchella",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae34",
+                "wikidata": "Q15503589"
+            }
+        },
+        {
+            "name": "Stegolepis cardonae",
+            "term": "Stegolepis cardonae",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae35",
+                "wikidata": "Q15503596"
+            }
+        },
+        {
+            "name": "Stegolepis microcephala",
+            "term": "Stegolepis microcephala",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae36",
+                "wikidata": "Q15503610"
+            }
+        },
+        {
+            "name": "Stegolepis pungens",
+            "term": "Stegolepis pungens",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae37",
+                "wikidata": "Q15503621"
+            }
+        },
+        {
+            "name": "Stegolepis celiae",
+            "term": "Stegolepis celiae",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae38",
+                "wikidata": "Q15503626"
+            }
+        },
+        {
+            "name": "Stegolepis minor",
+            "term": "Stegolepis minor",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae39",
+                "wikidata": "Q15503638"
+            }
+        },
+        {
+            "name": "Stegolepis squarrosa",
+            "term": "Stegolepis squarrosa",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae40",
+                "wikidata": "Q15503643"
+            }
+        },
+        {
+            "name": "Stegolepis choripetala",
+            "term": "Stegolepis choripetala",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae41",
+                "wikidata": "Q15503658"
+            }
+        },
+        {
+            "name": "Stegolepis neblinensis",
+            "term": "Stegolepis neblinensis",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae42",
+                "wikidata": "Q15503665"
+            }
+        },
+        {
+            "name": "Stegolepis steyermarkii",
+            "term": "Stegolepis steyermarkii",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae43",
+                "wikidata": "Q15503668"
+            }
+        },
+        {
+            "name": "Stegolepis parvipetala",
+            "term": "Stegolepis parvipetala",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae44",
+                "wikidata": "Q15503693"
+            }
+        },
+        {
+            "name": "Stegolepis terramarensis",
+            "term": "Stegolepis terramarensis",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae45",
+                "wikidata": "Q15503695"
+            }
+        },
+        {
+            "name": "Stegolepis gleasoniana",
+            "term": "Stegolepis gleasoniana",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae46",
+                "wikidata": "Q15503709"
+            }
+        },
+        {
+            "name": "Stegolepis pauciflora",
+            "term": "Stegolepis pauciflora",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae47",
+                "wikidata": "Q15503723"
+            }
+        },
+        {
+            "name": "Stegolepis vivipara",
+            "term": "Stegolepis vivipara",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae48",
+                "wikidata": "Q15503726"
+            }
+        },
+        {
+            "name": "Stegolepis grandis",
+            "term": "Stegolepis grandis",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae49",
+                "wikidata": "Q15503733"
+            }
+        },
+        {
+            "name": "Stegolepis wurdackii",
+            "term": "Stegolepis wurdackii",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae50",
+                "wikidata": "Q15503749"
+            }
+        },
+        {
+            "name": "Stegolepis perligulata",
+            "term": "Stegolepis perligulata",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae51",
+                "wikidata": "Q15503763"
+            }
+        },
+        {
+            "name": "Stegolepis piresii",
+            "term": "Stegolepis piresii",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae52",
+                "wikidata": "Q15503787"
+            }
+        },
+        {
+            "name": "Monotrema aemulans",
+            "term": "Monotrema aemulans",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae53",
+                "wikidata": "Q15515627"
+            }
+        },
+        {
+            "name": "Monotrema affine",
+            "term": "Monotrema affine",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae54",
+                "wikidata": "Q15515740"
+            }
+        },
+        {
+            "name": "Monotrema arthrophyllum",
+            "term": "Monotrema arthrophyllum",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae55",
+                "wikidata": "Q15515836"
+            }
+        },
+        {
+            "name": "Monotrema bracteatum",
+            "term": "Monotrema bracteatum",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae56",
+                "wikidata": "Q15515949"
+            }
+        },
+        {
+            "name": "Monotrema xyridoides",
+            "term": "Monotrema xyridoides",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae57",
+                "wikidata": "Q15516034"
+            }
+        },
+        {
+            "name": "Cephalostemon affinis",
+            "term": "Cephalostemon affinis",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae58",
+                "wikidata": "Q15512056"
+            }
+        },
+        {
+            "name": "Cephalostemon angustatus",
+            "term": "Cephalostemon angustatus",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae59",
+                "wikidata": "Q15512108"
+            }
+        },
+        {
+            "name": "Cephalostemon gracilis",
+            "term": "Cephalostemon gracilis",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae60",
+                "wikidata": "Q15512162"
+            }
+        },
+        {
+            "name": "Cephalostemon microglochin",
+            "term": "Cephalostemon microglochin",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae61",
+                "wikidata": "Q15512212"
+            }
+        },
+        {
+            "name": "Cephalostemon riedelianus",
+            "term": "Cephalostemon riedelianus",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae62",
+                "wikidata": "Q15512251"
+            }
+        },
+        {
+            "name": "Duckea cyperaceoidea",
+            "term": "Duckea cyperaceoidea",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae63",
+                "wikidata": "Q15506728"
+            }
+        },
+        {
+            "name": "Duckea flava",
+            "term": "Duckea flava",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae64",
+                "wikidata": "Q15506767"
+            }
+        },
+        {
+            "name": "Duckea junciformis",
+            "term": "Duckea junciformis",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae65",
+                "wikidata": "Q15506800"
+            }
+        },
+        {
+            "name": "Duckea squarrosa",
+            "term": "Duckea squarrosa",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae66",
+                "wikidata": "Q15506856"
+            }
+        },
+        {
+            "name": "Potarophytum riparium",
+            "term": "Potarophytum riparium",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae67",
+                "wikidata": "Q15516833"
+            }
+        },
+        {
+            "name": "Rapatea paludosa",
+            "term": "Rapatea paludosa",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae68",
+                "wikidata": "Q15520292"
+            }
+        },
+        {
+            "name": "Rapatea pycnocephala",
+            "term": "Rapatea pycnocephala",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae69",
+                "wikidata": "Q15520452"
+            }
+        },
+        {
+            "name": "Rapatea rugulosa",
+            "term": "Rapatea rugulosa",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae70",
+                "wikidata": "Q15520677"
+            }
+        },
+        {
+            "name": "Rapatea saulensis",
+            "term": "Rapatea saulensis",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae71",
+                "wikidata": "Q15520759"
+            }
+        },
+        {
+            "name": "Rapatea angustifolia",
+            "term": "Rapatea angustifolia",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae72",
+                "wikidata": "Q15520910"
+            }
+        },
+        {
+            "name": "Rapatea scabra",
+            "term": "Rapatea scabra",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae73",
+                "wikidata": "Q15521017"
+            }
+        },
+        {
+            "name": "Rapatea aracamuniana",
+            "term": "Rapatea aracamuniana",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae74",
+                "wikidata": "Q15521060"
+            }
+        },
+        {
+            "name": "Rapatea chimantensis",
+            "term": "Rapatea chimantensis",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae75",
+                "wikidata": "Q15521199"
+            }
+        },
+        {
+            "name": "Rapatea spectabilis",
+            "term": "Rapatea spectabilis",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae76",
+                "wikidata": "Q15521258"
+            }
+        },
+        {
+            "name": "Rapatea circasiana",
+            "term": "Rapatea circasiana",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae77",
+                "wikidata": "Q15521318"
+            }
+        },
+        {
+            "name": "Rapatea elongata",
+            "term": "Rapatea elongata",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae78",
+                "wikidata": "Q15521439"
+            }
+        },
+        {
+            "name": "Rapatea fanshawei",
+            "term": "Rapatea fanshawei",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae79",
+                "wikidata": "Q15521578"
+            }
+        },
+        {
+            "name": "Rapatea spruceana",
+            "term": "Rapatea spruceana",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae80",
+                "wikidata": "Q15521642"
+            }
+        },
+        {
+            "name": "Rapatea linearis",
+            "term": "Rapatea linearis",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae81",
+                "wikidata": "Q15521707"
+            }
+        },
+        {
+            "name": "Rapatea longipes",
+            "term": "Rapatea longipes",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae82",
+                "wikidata": "Q15522000"
+            }
+        },
+        {
+            "name": "Rapatea steyermarkii",
+            "term": "Rapatea steyermarkii",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae83",
+                "wikidata": "Q15522023"
+            }
+        },
+        {
+            "name": "Rapatea membranacea",
+            "term": "Rapatea membranacea",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae84",
+                "wikidata": "Q15522106"
+            }
+        },
+        {
+            "name": "Rapatea muaju",
+            "term": "Rapatea muaju",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae85",
+                "wikidata": "Q15522282"
+            }
+        },
+        {
+            "name": "Rapatea ulei",
+            "term": "Rapatea ulei",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae86",
+                "wikidata": "Q15522316"
+            }
+        },
+        {
+            "name": "Rapatea undulata",
+            "term": "Rapatea undulata",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae87",
+                "wikidata": "Q15522617"
+            }
+        },
+        {
+            "name": "Rapatea xiphoides",
+            "term": "Rapatea xiphoides",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae88",
+                "wikidata": "Q15522805"
+            }
+        },
+        {
+            "name": "Rapatea yapacana",
+            "term": "Rapatea yapacana",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae89",
+                "wikidata": "Q15523123"
+            }
+        },
+        {
+            "name": "Epidryos allenii",
+            "term": "Epidryos allenii",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae90",
+                "wikidata": "Q15512487"
+            }
+        },
+        {
+            "name": "Epidryos guayanensis",
+            "term": "Epidryos guayanensis",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae91",
+                "wikidata": "Q15512574"
+            }
+        },
+        {
+            "name": "Epidryos micrantherus",
+            "term": "Epidryos micrantherus",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae92",
+                "wikidata": "Q15512617"
+            }
+        },
+        {
+            "name": "Guacamaya superba",
+            "term": "Guacamaya superba",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae93",
+                "wikidata": "Q6440762"
+            }
+        },
+        {
+            "name": "Schoenocephalium teretifolium",
+            "term": "Schoenocephalium teretifolium",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae94",
+                "wikidata": "Q7431969"
+            }
+        },
+        {
+            "name": "Schoenocephalium cucullatum",
+            "term": "Schoenocephalium cucullatum",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae95",
+                "wikidata": "Q15520932"
+            }
+        },
+        {
+            "name": "Schoenocephalium martianum",
+            "term": "Schoenocephalium martianum",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae96",
+                "wikidata": "Q15521031"
+            }
+        },
+        {
+            "name": "Schoenocephalium schultesii",
+            "term": "Schoenocephalium schultesii",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae97",
+                "wikidata": "Q15521129"
+            }
+        },
+        {
+            "name": "Kunhardtia radiata",
+            "term": "Kunhardtia radiata",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae98",
+                "wikidata": "Q15508609"
+            }
+        },
+        {
+            "name": "Kunhardtia rhodantha",
+            "term": "Kunhardtia rhodantha",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae99",
+                "wikidata": "Q15508677"
+            }
+        },
+        {
+            "name": "Saxofridericia aculeata",
+            "term": "Saxofridericia aculeata",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae100",
+                "wikidata": "Q15521161"
+            }
+        },
+        {
+            "name": "Saxofridericia colombiana",
+            "term": "Saxofridericia colombiana",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae101",
+                "wikidata": "Q15521229"
+            }
+        },
+        {
+            "name": "Saxofridericia compressa",
+            "term": "Saxofridericia compressa",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae102",
+                "wikidata": "Q15521309"
+            }
+        },
+        {
+            "name": "Saxofridericia duidae",
+            "term": "Saxofridericia duidae",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae103",
+                "wikidata": "Q15521424"
+            }
+        },
+        {
+            "name": "Saxofridericia grandis",
+            "term": "Saxofridericia grandis",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae104",
+                "wikidata": "Q15521494"
+            }
+        },
+        {
+            "name": "Saxofridericia inermis",
+            "term": "Saxofridericia inermis",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae105",
+                "wikidata": "Q15521589"
+            }
+        },
+        {
+            "name": "Saxofridericia petiolata",
+            "term": "Saxofridericia petiolata",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae106",
+                "wikidata": "Q15521674"
+            }
+        },
+        {
+            "name": "Saxofridericia regalis",
+            "term": "Saxofridericia regalis",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae107",
+                "wikidata": "Q15521933"
+            }
+        },
+        {
+            "name": "Saxofridericia spongiosa",
+            "term": "Saxofridericia spongiosa",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae108",
+                "wikidata": "Q15522020"
+            }
+        },
+        {
+            "name": "Spathanthus bicolor",
+            "term": "Spathanthus bicolor",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae109",
+                "wikidata": "Q15501877"
+            }
+        },
+        {
+            "name": "Spathanthus unilateralis",
+            "term": "Spathanthus unilateralis",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae110",
+                "wikidata": "Q15501895"
+            }
+        },
+        {
+            "name": "Windsorina guianensis",
+            "term": "Windsorina guianensis",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae111",
+                "wikidata": "Q15514846"
+            }
+        },
+        {
+            "name": "Amphiphyllum rigidum",
+            "term": "Amphiphyllum rigidum",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae112",
+                "wikidata": "Q8197789"
+            }
+        },
+        {
+            "name": "Maschalocephalus dinklagei",
+            "term": "Maschalocephalus dinklagei",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae113",
+                "wikidata": "Q9030283"
+            }
+        },
+        {
+            "name": "Marahuacaea schomburgkii",
+            "term": "Marahuacaea schomburgkii",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae114",
+                "wikidata": "Q10324906"
+            }
+        },
+        {
+            "name": "Phelpsiella ptericaulis",
+            "term": "Phelpsiella ptericaulis",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae115",
+                "wikidata": "Q9059000"
+            }
+        },
+        {
+            "name": "Saxo-fridericia duidae",
+            "term": "Saxo-fridericia duidae",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae116",
+                "wikidata": "Q15520802"
+            }
+        },
+        {
+            "name": "Saxo-fridericia grandis",
+            "term": "Saxo-fridericia grandis",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae117",
+                "wikidata": "Q15520903"
+            }
+        },
+        {
+            "name": "Saxo-fridericia inermis",
+            "term": "Saxo-fridericia inermis",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae118",
+                "wikidata": "Q15520977"
+            }
+        },
+        {
+            "name": "Saxo-fridericia spongiosa",
+            "term": "Saxo-fridericia spongiosa",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae119",
+                "wikidata": "Q15521043"
+            }
+        },
+        {
+            "name": "Saxo-fridericia aculeata",
+            "term": "Saxo-fridericia aculeata",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae120",
+                "wikidata": "Q15522246"
+            }
+        },
+        {
+            "name": "Saxo-fridericia compressa",
+            "term": "Saxo-fridericia compressa",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae121",
+                "wikidata": "Q15522383"
+            }
+        },
+        {
+            "name": "Spathanthus unilateralis var. jenmanii",
+            "term": "Spathanthus unilateralis var. jenmanii",
+            "identifiers": {
+                "contentmine": "CM.rapateaceae122",
+                "wikidata": "Q28819494"
+            }
+        }
+    ],
+    "id": "CM.rapateaceae"
+}

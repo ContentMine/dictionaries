@@ -1,1 +1,3349 @@
-{"entries":[{"name":"Xyridaceae","term":"Xyridaceae","identifiers":{"contentmine":"CM.xyridaceae0","wikidata":"Q131613"}},{"name":"Orectanthe","term":"Orectanthe","identifiers":{"contentmine":"CM.xyridaceae1","wikidata":"Q146903"}},{"name":"Xyris","term":"Xyris","identifiers":{"contentmine":"CM.xyridaceae2","wikidata":"Q977464"}},{"name":"Abolboda","term":"Abolboda","identifiers":{"contentmine":"CM.xyridaceae3","wikidata":"Q2711245"}},{"name":"Aratitiyopea","term":"Aratitiyopea","identifiers":{"contentmine":"CM.xyridaceae4","wikidata":"Q2892851"}},{"name":"Achlyphila","term":"Achlyphila","identifiers":{"contentmine":"CM.xyridaceae5","wikidata":"Q8187412"}},{"name":"Xyridoideae","term":"Xyridoideae","identifiers":{"contentmine":"CM.xyridaceae6","wikidata":"Q19911907"}},{"name":"Orectanthe sceptrum","term":"Orectanthe sceptrum","identifiers":{"contentmine":"CM.xyridaceae7","wikidata":"Q1030839"}},{"name":"Orectanthe ptaritepuiana","term":"Orectanthe ptaritepuiana","identifiers":{"contentmine":"CM.xyridaceae8","wikidata":"Q15475808"}},{"name":"Xyris complanata","term":"Xyris complanata","identifiers":{"contentmine":"CM.xyridaceae9","wikidata":"Q4921193"}},{"name":"Xyris andina","term":"Xyris andina","identifiers":{"contentmine":"CM.xyridaceae10","wikidata":"Q5492149"}},{"name":"Xyris tennesseensis","term":"Xyris tennesseensis","identifiers":{"contentmine":"CM.xyridaceae11","wikidata":"Q8045585"}},{"name":"Xyris longifolia","term":"Xyris longifolia","identifiers":{"contentmine":"CM.xyridaceae12","wikidata":"Q10394462"}},{"name":"Xyris chinensis","term":"Xyris chinensis","identifiers":{"contentmine":"CM.xyridaceae13","wikidata":"Q10874367"}},{"name":"Xyris capensis","term":"Xyris capensis","identifiers":{"contentmine":"CM.xyridaceae14","wikidata":"Q10909320"}},{"name":"Xyris formosana","term":"Xyris formosana","identifiers":{"contentmine":"CM.xyridaceae15","wikidata":"Q11111932"}},{"name":"Xyris indica","term":"Xyris indica","identifiers":{"contentmine":"CM.xyridaceae16","wikidata":"Q11178072"}},{"name":"Xyris pauciflora","term":"Xyris pauciflora","identifiers":{"contentmine":"CM.xyridaceae17","wikidata":"Q15239082"}},{"name":"Xyris anceps","term":"Xyris anceps","identifiers":{"contentmine":"CM.xyridaceae18","wikidata":"Q15475173"}},{"name":"Xyris angularis","term":"Xyris angularis","identifiers":{"contentmine":"CM.xyridaceae19","wikidata":"Q15475339"}},{"name":"Xyris atrovirida","term":"Xyris atrovirida","identifiers":{"contentmine":"CM.xyridaceae20","wikidata":"Q15475359"}},{"name":"Xyris cryptantha","term":"Xyris cryptantha","identifiers":{"contentmine":"CM.xyridaceae21","wikidata":"Q15475374"}},{"name":"Xyris brachyfolia","term":"Xyris brachyfolia","identifiers":{"contentmine":"CM.xyridaceae22","wikidata":"Q15475379"}},{"name":"Xyris angustifolia","term":"Xyris angustifolia","identifiers":{"contentmine":"CM.xyridaceae23","wikidata":"Q15475455"}},{"name":"Xyris ekmanii","term":"Xyris ekmanii","identifiers":{"contentmine":"CM.xyridaceae24","wikidata":"Q15475504"}},{"name":"Xyris augusto-coburgii","term":"Xyris augusto-coburgii","identifiers":{"contentmine":"CM.xyridaceae25","wikidata":"Q15475505"}},{"name":"Xyris cuatrecasana","term":"Xyris cuatrecasana","identifiers":{"contentmine":"CM.xyridaceae26","wikidata":"Q15475509"}},{"name":"Xyris decipiens","term":"Xyris decipiens","identifiers":{"contentmine":"CM.xyridaceae27","wikidata":"Q15475523"}},{"name":"Xyris anisophylla","term":"Xyris anisophylla","identifiers":{"contentmine":"CM.xyridaceae28","wikidata":"Q15475546"}},{"name":"Xyris flabelliformis","term":"Xyris flabelliformis","identifiers":{"contentmine":"CM.xyridaceae29","wikidata":"Q15475557"}},{"name":"Xyris brachysepala","term":"Xyris brachysepala","identifiers":{"contentmine":"CM.xyridaceae30","wikidata":"Q15475565"}},{"name":"Xyris culmenicola","term":"Xyris culmenicola","identifiers":{"contentmine":"CM.xyridaceae31","wikidata":"Q15475619"}},{"name":"Xyris elegantula","term":"Xyris elegantula","identifiers":{"contentmine":"CM.xyridaceae32","wikidata":"Q15475629"}},{"name":"Xyris apureana","term":"Xyris apureana","identifiers":{"contentmine":"CM.xyridaceae33","wikidata":"Q15475652"}},{"name":"Xyris flexifolia","term":"Xyris flexifolia","identifiers":{"contentmine":"CM.xyridaceae34","wikidata":"Q15475672"}},{"name":"Xyris aurea","term":"Xyris aurea","identifiers":{"contentmine":"CM.xyridaceae35","wikidata":"Q15475674"}},{"name":"Xyris decussata","term":"Xyris decussata","identifiers":{"contentmine":"CM.xyridaceae36","wikidata":"Q15475715"}},{"name":"Xyris gossweileri","term":"Xyris gossweileri","identifiers":{"contentmine":"CM.xyridaceae37","wikidata":"Q15475720"}},{"name":"Xyris bracteata","term":"Xyris bracteata","identifiers":{"contentmine":"CM.xyridaceae38","wikidata":"Q15475723"}},{"name":"Xyris cheumatophila","term":"Xyris cheumatophila","identifiers":{"contentmine":"CM.xyridaceae39","wikidata":"Q15475728"}},{"name":"Xyris curassavica","term":"Xyris curassavica","identifiers":{"contentmine":"CM.xyridaceae40","wikidata":"Q15475751"}},{"name":"Xyris eleocharoides","term":"Xyris eleocharoides","identifiers":{"contentmine":"CM.xyridaceae41","wikidata":"Q15475771"}},{"name":"Xyris aquatica","term":"Xyris aquatica","identifiers":{"contentmine":"CM.xyridaceae42","wikidata":"Q15475774"}},{"name":"Xyris floridana","term":"Xyris floridana","identifiers":{"contentmine":"CM.xyridaceae43","wikidata":"Q15475795"}},{"name":"Xyris aracamunae","term":"Xyris aracamunae","identifiers":{"contentmine":"CM.xyridaceae44","wikidata":"Q15475829"}},{"name":"Xyris cylindrostachya","term":"Xyris cylindrostachya","identifiers":{"contentmine":"CM.xyridaceae45","wikidata":"Q15475830"}},{"name":"Xyris goyazensis","term":"Xyris goyazensis","identifiers":{"contentmine":"CM.xyridaceae46","wikidata":"Q15475846"}},{"name":"Xyris bahiana","term":"Xyris bahiana","identifiers":{"contentmine":"CM.xyridaceae47","wikidata":"Q15475882"}},{"name":"Xyris brevifolia","term":"Xyris brevifolia","identifiers":{"contentmine":"CM.xyridaceae48","wikidata":"Q15475884"}},{"name":"Xyris elliottii","term":"Xyris elliottii","identifiers":{"contentmine":"CM.xyridaceae49","wikidata":"Q15475887"}},{"name":"Xyris delicatula","term":"Xyris delicatula","identifiers":{"contentmine":"CM.xyridaceae50","wikidata":"Q15475892"}},{"name":"Xyris foliolata","term":"Xyris foliolata","identifiers":{"contentmine":"CM.xyridaceae51","wikidata":"Q15475895"}},{"name":"Xyris cyperoides","term":"Xyris cyperoides","identifiers":{"contentmine":"CM.xyridaceae52","wikidata":"Q15475908"}},{"name":"Xyris arachnoidea","term":"Xyris arachnoidea","identifiers":{"contentmine":"CM.xyridaceae53","wikidata":"Q15475933"}},{"name":"Xyris hilariana","term":"Xyris hilariana","identifiers":{"contentmine":"CM.xyridaceae54","wikidata":"Q15475943"}},{"name":"Xyris gracilis","term":"Xyris gracilis","identifiers":{"contentmine":"CM.xyridaceae55","wikidata":"Q15475986"}},{"name":"Xyris chimantae","term":"Xyris chimantae","identifiers":{"contentmine":"CM.xyridaceae56","wikidata":"Q15475988"}},{"name":"Xyris dardanoi","term":"Xyris dardanoi","identifiers":{"contentmine":"CM.xyridaceae57","wikidata":"Q15476007"}},{"name":"Xyris huberi","term":"Xyris huberi","identifiers":{"contentmine":"CM.xyridaceae58","wikidata":"Q15476018"}},{"name":"Xyris araracuarae","term":"Xyris araracuarae","identifiers":{"contentmine":"CM.xyridaceae59","wikidata":"Q15476023"}},{"name":"Xyris erosa","term":"Xyris erosa","identifiers":{"contentmine":"CM.xyridaceae60","wikidata":"Q15476034"}},{"name":"Xyris lanulobractea","term":"Xyris lanulobractea","identifiers":{"contentmine":"CM.xyridaceae61","wikidata":"Q15476038"}},{"name":"Xyris aberdarica","term":"Xyris aberdarica","identifiers":{"contentmine":"CM.xyridaceae62","wikidata":"Q15476040"}},{"name":"Xyris baldwiniana","term":"Xyris baldwiniana","identifiers":{"contentmine":"CM.xyridaceae63","wikidata":"Q15476050"}},{"name":"Xyris byssacea","term":"Xyris byssacea","identifiers":{"contentmine":"CM.xyridaceae64","wikidata":"Q15476053"}},{"name":"Xyris densa","term":"Xyris densa","identifiers":{"contentmine":"CM.xyridaceae65","wikidata":"Q15476059"}},{"name":"Xyris juncea","term":"Xyris juncea","identifiers":{"contentmine":"CM.xyridaceae66","wikidata":"Q15476063"}},{"name":"Xyris dawsonii","term":"Xyris dawsonii","identifiers":{"contentmine":"CM.xyridaceae67","wikidata":"Q15476095"}},{"name":"Xyris archeri","term":"Xyris archeri","identifiers":{"contentmine":"CM.xyridaceae68","wikidata":"Q15476115"}},{"name":"Xyris frequens","term":"Xyris frequens","identifiers":{"contentmine":"CM.xyridaceae69","wikidata":"Q15476136"}},{"name":"Xyris laxiflora","term":"Xyris laxiflora","identifiers":{"contentmine":"CM.xyridaceae70","wikidata":"Q15476142"}},{"name":"Xyris erubescens","term":"Xyris erubescens","identifiers":{"contentmine":"CM.xyridaceae71","wikidata":"Q15476170"}},{"name":"Xyris acrophila","term":"Xyris acrophila","identifiers":{"contentmine":"CM.xyridaceae72","wikidata":"Q15476172"}},{"name":"Xyris gracillima","term":"Xyris gracillima","identifiers":{"contentmine":"CM.xyridaceae73","wikidata":"Q15476181"}},{"name":"Xyris humpatensis","term":"Xyris humpatensis","identifiers":{"contentmine":"CM.xyridaceae74","wikidata":"Q15476182"}},{"name":"Xyris cachimbensis","term":"Xyris cachimbensis","identifiers":{"contentmine":"CM.xyridaceae75","wikidata":"Q15476189"}},{"name":"Xyris diamantinae","term":"Xyris diamantinae","identifiers":{"contentmine":"CM.xyridaceae76","wikidata":"Q15476192"}},{"name":"Xyris laxifolia","term":"Xyris laxifolia","identifiers":{"contentmine":"CM.xyridaceae77","wikidata":"Q15476201"}},{"name":"Xyris friesii","term":"Xyris friesii","identifiers":{"contentmine":"CM.xyridaceae78","wikidata":"Q15476239"}},{"name":"Xyris lutescens","term":"Xyris lutescens","identifiers":{"contentmine":"CM.xyridaceae79","wikidata":"Q15476242"}},{"name":"Xyris aristata","term":"Xyris aristata","identifiers":{"contentmine":"CM.xyridaceae80","wikidata":"Q15476253"}},{"name":"Xyris bampsii","term":"Xyris bampsii","identifiers":{"contentmine":"CM.xyridaceae81","wikidata":"Q15476265"}},{"name":"Xyris affinis","term":"Xyris affinis","identifiers":{"contentmine":"CM.xyridaceae82","wikidata":"Q15476274"}},{"name":"Xyris esmeraldae","term":"Xyris esmeraldae","identifiers":{"contentmine":"CM.xyridaceae83","wikidata":"Q15476278"}},{"name":"Xyris ciliata","term":"Xyris ciliata","identifiers":{"contentmine":"CM.xyridaceae84","wikidata":"Q15476282"}},{"name":"Xyris hymenachne","term":"Xyris hymenachne","identifiers":{"contentmine":"CM.xyridaceae85","wikidata":"Q15476290"}},{"name":"Xyris lejolyanus","term":"Xyris lejolyanus","identifiers":{"contentmine":"CM.xyridaceae86","wikidata":"Q15476293"}},{"name":"Xyris juncifolia","term":"Xyris juncifolia","identifiers":{"contentmine":"CM.xyridaceae87","wikidata":"Q15476319"}},{"name":"Xyris diaphanobracteata","term":"Xyris diaphanobracteata","identifiers":{"contentmine":"CM.xyridaceae88","wikidata":"Q15476336"}},{"name":"Xyris macbrideana","term":"Xyris macbrideana","identifiers":{"contentmine":"CM.xyridaceae89","wikidata":"Q15476343"}},{"name":"Xyris asperula","term":"Xyris asperula","identifiers":{"contentmine":"CM.xyridaceae90","wikidata":"Q15476353"}},{"name":"Xyris frondosa","term":"Xyris frondosa","identifiers":{"contentmine":"CM.xyridaceae91","wikidata":"Q15476365"}},{"name":"Xyris graminosa","term":"Xyris graminosa","identifiers":{"contentmine":"CM.xyridaceae92","wikidata":"Q15476372"}},{"name":"Xyris calcicola","term":"Xyris calcicola","identifiers":{"contentmine":"CM.xyridaceae93","wikidata":"Q15476385"}},{"name":"Xyris leonensis","term":"Xyris leonensis","identifiers":{"contentmine":"CM.xyridaceae94","wikidata":"Q15476386"}},{"name":"Xyris albescens","term":"Xyris albescens","identifiers":{"contentmine":"CM.xyridaceae95","wikidata":"Q15476389"}},{"name":"Xyris exigua","term":"Xyris exigua","identifiers":{"contentmine":"CM.xyridaceae96","wikidata":"Q15476390"}},{"name":"Xyris hystrix","term":"Xyris hystrix","identifiers":{"contentmine":"CM.xyridaceae97","wikidata":"Q15476435"}},{"name":"Xyris bancana","term":"Xyris bancana","identifiers":{"contentmine":"CM.xyridaceae98","wikidata":"Q15476436"}},{"name":"Xyris machrisiana","term":"Xyris machrisiana","identifiers":{"contentmine":"CM.xyridaceae99","wikidata":"Q15476441"}},{"name":"Xyris jupicai","term":"Xyris jupicai","identifiers":{"contentmine":"CM.xyridaceae100","wikidata":"Q15476451"}},{"name":"Xyris asterotricha","term":"Xyris asterotricha","identifiers":{"contentmine":"CM.xyridaceae101","wikidata":"Q15476455"}},{"name":"Xyris fugaciflora","term":"Xyris fugaciflora","identifiers":{"contentmine":"CM.xyridaceae102","wikidata":"Q15476489"}},{"name":"Xyris difformis","term":"Xyris difformis","identifiers":{"contentmine":"CM.xyridaceae103","wikidata":"Q15476506"}},{"name":"Xyris leptophylla","term":"Xyris leptophylla","identifiers":{"contentmine":"CM.xyridaceae104","wikidata":"Q15476515"}},{"name":"Xyris grandiceps","term":"Xyris grandiceps","identifiers":{"contentmine":"CM.xyridaceae105","wikidata":"Q15476518"}},{"name":"Xyris almae","term":"Xyris almae","identifiers":{"contentmine":"CM.xyridaceae106","wikidata":"Q15476523"}},{"name":"Xyris exilis","term":"Xyris exilis","identifiers":{"contentmine":"CM.xyridaceae107","wikidata":"Q15476536"}},{"name":"Xyris minarum","term":"Xyris minarum","identifiers":{"contentmine":"CM.xyridaceae108","wikidata":"Q15476537"}},{"name":"Xyris madagascariensis","term":"Xyris madagascariensis","identifiers":{"contentmine":"CM.xyridaceae109","wikidata":"Q15476538"}},{"name":"Xyris obcordata","term":"Xyris obcordata","identifiers":{"contentmine":"CM.xyridaceae110","wikidata":"Q15476557"}},{"name":"Xyris calderonii","term":"Xyris calderonii","identifiers":{"contentmine":"CM.xyridaceae111","wikidata":"Q15476568"}},{"name":"Xyris atrata","term":"Xyris atrata","identifiers":{"contentmine":"CM.xyridaceae112","wikidata":"Q15476570"}},{"name":"Xyris cipoensis","term":"Xyris cipoensis","identifiers":{"contentmine":"CM.xyridaceae113","wikidata":"Q15476573"}},{"name":"Xyris imitatrix","term":"Xyris imitatrix","identifiers":{"contentmine":"CM.xyridaceae114","wikidata":"Q15476590"}},{"name":"Xyris barteri","term":"Xyris barteri","identifiers":{"contentmine":"CM.xyridaceae115","wikidata":"Q15476601"}},{"name":"Xyris fuliginea","term":"Xyris fuliginea","identifiers":{"contentmine":"CM.xyridaceae116","wikidata":"Q15476604"}},{"name":"Xyris liesneri","term":"Xyris liesneri","identifiers":{"contentmine":"CM.xyridaceae117","wikidata":"Q15476627"}},{"name":"Xyris ambigua","term":"Xyris ambigua","identifiers":{"contentmine":"CM.xyridaceae118","wikidata":"Q15476638"}},{"name":"Xyris kibaraensis","term":"Xyris kibaraensis","identifiers":{"contentmine":"CM.xyridaceae119","wikidata":"Q15476658"}},{"name":"Xyris grandis","term":"Xyris grandis","identifiers":{"contentmine":"CM.xyridaceae120","wikidata":"Q15476664"}},{"name":"Xyris dilatatiscapa","term":"Xyris dilatatiscapa","identifiers":{"contentmine":"CM.xyridaceae121","wikidata":"Q15476667"}},{"name":"Xyris fallax","term":"Xyris fallax","identifiers":{"contentmine":"CM.xyridaceae122","wikidata":"Q15476673"}},{"name":"Xyris atriceps","term":"Xyris atriceps","identifiers":{"contentmine":"CM.xyridaceae123","wikidata":"Q15476692"}},{"name":"Xyris oblata","term":"Xyris oblata","identifiers":{"contentmine":"CM.xyridaceae124","wikidata":"Q15476702"}},{"name":"Xyris pectinata","term":"Xyris pectinata","identifiers":{"contentmine":"CM.xyridaceae125","wikidata":"Q15476705"}},{"name":"Xyris montana","term":"Xyris montana","identifiers":{"contentmine":"CM.xyridaceae126","wikidata":"Q15476733"}},{"name":"Xyris linifolia","term":"Xyris linifolia","identifiers":{"contentmine":"CM.xyridaceae127","wikidata":"Q15476747"}},{"name":"Xyris fusca","term":"Xyris fusca","identifiers":{"contentmine":"CM.xyridaceae128","wikidata":"Q15476754"}},{"name":"Xyris calostachys","term":"Xyris calostachys","identifiers":{"contentmine":"CM.xyridaceae129","wikidata":"Q15476771"}},{"name":"Xyris amorimii","term":"Xyris amorimii","identifiers":{"contentmine":"CM.xyridaceae130","wikidata":"Q15476794"}},{"name":"Xyris peteri","term":"Xyris peteri","identifiers":{"contentmine":"CM.xyridaceae131","wikidata":"Q15476797"}},{"name":"Xyris plantaginea","term":"Xyris plantaginea","identifiers":{"contentmine":"CM.xyridaceae132","wikidata":"Q15476800"}},{"name":"Xyris obscura","term":"Xyris obscura","identifiers":{"contentmine":"CM.xyridaceae133","wikidata":"Q15476817"}},{"name":"Xyris kornasiana","term":"Xyris kornasiana","identifiers":{"contentmine":"CM.xyridaceae134","wikidata":"Q15476826"}},{"name":"Xyris lithophila","term":"Xyris lithophila","identifiers":{"contentmine":"CM.xyridaceae135","wikidata":"Q15476832"}},{"name":"Xyris ferreirae","term":"Xyris ferreirae","identifiers":{"contentmine":"CM.xyridaceae136","wikidata":"Q15476833"}},{"name":"Xyris columbiana","term":"Xyris columbiana","identifiers":{"contentmine":"CM.xyridaceae137","wikidata":"Q15476839"}},{"name":"Xyris gerrardii","term":"Xyris gerrardii","identifiers":{"contentmine":"CM.xyridaceae138","wikidata":"Q15476844"}},{"name":"Xyris inaequalis","term":"Xyris inaequalis","identifiers":{"contentmine":"CM.xyridaceae139","wikidata":"Q15476847"}},{"name":"Xyris graniticola","term":"Xyris graniticola","identifiers":{"contentmine":"CM.xyridaceae140","wikidata":"Q15476853"}},{"name":"Xyris bialata","term":"Xyris bialata","identifiers":{"contentmine":"CM.xyridaceae141","wikidata":"Q15476861"}},{"name":"Xyris dilungensis","term":"Xyris dilungensis","identifiers":{"contentmine":"CM.xyridaceae142","wikidata":"Q15476872"}},{"name":"Xyris phaeocephala","term":"Xyris phaeocephala","identifiers":{"contentmine":"CM.xyridaceae143","wikidata":"Q15476878"}},{"name":"Xyris retrorsifimbriata","term":"Xyris retrorsifimbriata","identifiers":{"contentmine":"CM.xyridaceae144","wikidata":"Q15476884"}},{"name":"Xyris obtusiuscula","term":"Xyris obtusiuscula","identifiers":{"contentmine":"CM.xyridaceae145","wikidata":"Q15476892"}},{"name":"Xyris platylepis","term":"Xyris platylepis","identifiers":{"contentmine":"CM.xyridaceae146","wikidata":"Q15476897"}},{"name":"Xyris moraesii","term":"Xyris moraesii","identifiers":{"contentmine":"CM.xyridaceae147","wikidata":"Q15476919"}},{"name":"Xyris lobbii","term":"Xyris lobbii","identifiers":{"contentmine":"CM.xyridaceae148","wikidata":"Q15476921"}},{"name":"Xyris glandacea","term":"Xyris glandacea","identifiers":{"contentmine":"CM.xyridaceae149","wikidata":"Q15476941"}},{"name":"Xyris picea","term":"Xyris picea","identifiers":{"contentmine":"CM.xyridaceae150","wikidata":"Q15476944"}},{"name":"Xyris caparaoensis","term":"Xyris caparaoensis","identifiers":{"contentmine":"CM.xyridaceae151","wikidata":"Q15476959"}},{"name":"Xyris festucifolia","term":"Xyris festucifolia","identifiers":{"contentmine":"CM.xyridaceae152","wikidata":"Q15476960"}},{"name":"Xyris grisebachii","term":"Xyris grisebachii","identifiers":{"contentmine":"CM.xyridaceae153","wikidata":"Q15476965"}},{"name":"Xyris platystachya","term":"Xyris platystachya","identifiers":{"contentmine":"CM.xyridaceae154","wikidata":"Q15476985"}},{"name":"Xyris rhodesiana","term":"Xyris rhodesiana","identifiers":{"contentmine":"CM.xyridaceae155","wikidata":"Q15476988"}},{"name":"Xyris kradungensis","term":"Xyris kradungensis","identifiers":{"contentmine":"CM.xyridaceae156","wikidata":"Q15477001"}},{"name":"Xyris oligantha","term":"Xyris oligantha","identifiers":{"contentmine":"CM.xyridaceae157","wikidata":"Q15477016"}},{"name":"Xyris lomatophylla","term":"Xyris lomatophylla","identifiers":{"contentmine":"CM.xyridaceae158","wikidata":"Q15477024"}},{"name":"Xyris makuensis","term":"Xyris makuensis","identifiers":{"contentmine":"CM.xyridaceae159","wikidata":"Q15477035"}},{"name":"Xyris sceptrifera","term":"Xyris sceptrifera","identifiers":{"contentmine":"CM.xyridaceae160","wikidata":"Q15477036"}},{"name":"Xyris pilosa","term":"Xyris pilosa","identifiers":{"contentmine":"CM.xyridaceae161","wikidata":"Q15477053"}},{"name":"Xyris bicarinata","term":"Xyris bicarinata","identifiers":{"contentmine":"CM.xyridaceae162","wikidata":"Q15477074"}},{"name":"Xyris globosa","term":"Xyris globosa","identifiers":{"contentmine":"CM.xyridaceae163","wikidata":"Q15477078"}},{"name":"Xyris popeana","term":"Xyris popeana","identifiers":{"contentmine":"CM.xyridaceae164","wikidata":"Q15477082"}},{"name":"Xyris dissimilis","term":"Xyris dissimilis","identifiers":{"contentmine":"CM.xyridaceae165","wikidata":"Q15477084"}},{"name":"Xyris rhodolepis","term":"Xyris rhodolepis","identifiers":{"contentmine":"CM.xyridaceae166","wikidata":"Q15477089"}},{"name":"Xyris morii","term":"Xyris morii","identifiers":{"contentmine":"CM.xyridaceae167","wikidata":"Q15477092"}},{"name":"Xyris fibrosa","term":"Xyris fibrosa","identifiers":{"contentmine":"CM.xyridaceae168","wikidata":"Q15477110"}},{"name":"Xyris schizachne","term":"Xyris schizachne","identifiers":{"contentmine":"CM.xyridaceae169","wikidata":"Q15477113"}},{"name":"Xyris piraquarae","term":"Xyris piraquarae","identifiers":{"contentmine":"CM.xyridaceae170","wikidata":"Q15477126"}},{"name":"Xyris longibracteata","term":"Xyris longibracteata","identifiers":{"contentmine":"CM.xyridaceae171","wikidata":"Q15477129"}},{"name":"Xyris blanchetiana","term":"Xyris blanchetiana","identifiers":{"contentmine":"CM.xyridaceae172","wikidata":"Q15477664"}},{"name":"Xyris carinata","term":"Xyris carinata","identifiers":{"contentmine":"CM.xyridaceae173","wikidata":"Q15477666"}},{"name":"Xyris coronata","term":"Xyris coronata","identifiers":{"contentmine":"CM.xyridaceae174","wikidata":"Q15477669"}},{"name":"Xyris blepharophylla","term":"Xyris blepharophylla","identifiers":{"contentmine":"CM.xyridaceae175","wikidata":"Q15477676"}},{"name":"Xyris caroliniana","term":"Xyris caroliniana","identifiers":{"contentmine":"CM.xyridaceae176","wikidata":"Q15477679"}},{"name":"Xyris correlliorum","term":"Xyris correlliorum","identifiers":{"contentmine":"CM.xyridaceae177","wikidata":"Q15477692"}},{"name":"Xyris boliviana","term":"Xyris boliviana","identifiers":{"contentmine":"CM.xyridaceae178","wikidata":"Q15477699"}},{"name":"Xyris celiae","term":"Xyris celiae","identifiers":{"contentmine":"CM.xyridaceae179","wikidata":"Q15477704"}},{"name":"Xyris coutensis","term":"Xyris coutensis","identifiers":{"contentmine":"CM.xyridaceae180","wikidata":"Q15477724"}},{"name":"Xyris dissitifolia","term":"Xyris dissitifolia","identifiers":{"contentmine":"CM.xyridaceae181","wikidata":"Q15477858"}},{"name":"Xyris disticha","term":"Xyris disticha","identifiers":{"contentmine":"CM.xyridaceae182","wikidata":"Q15477876"}},{"name":"Xyris kukenaniana","term":"Xyris kukenaniana","identifiers":{"contentmine":"CM.xyridaceae183","wikidata":"Q15477904"}},{"name":"Xyris concinna","term":"Xyris concinna","identifiers":{"contentmine":"CM.xyridaceae184","wikidata":"Q15477911"}},{"name":"Xyris downsiana","term":"Xyris downsiana","identifiers":{"contentmine":"CM.xyridaceae185","wikidata":"Q15477924"}},{"name":"Xyris kundelungensis","term":"Xyris kundelungensis","identifiers":{"contentmine":"CM.xyridaceae186","wikidata":"Q15477932"}},{"name":"Xyris confusa","term":"Xyris confusa","identifiers":{"contentmine":"CM.xyridaceae187","wikidata":"Q15477934"}},{"name":"Xyris indivisa","term":"Xyris indivisa","identifiers":{"contentmine":"CM.xyridaceae188","wikidata":"Q15477945"}},{"name":"Xyris drummondii","term":"Xyris drummondii","identifiers":{"contentmine":"CM.xyridaceae189","wikidata":"Q15477949"}},{"name":"Xyris mexicana","term":"Xyris mexicana","identifiers":{"contentmine":"CM.xyridaceae190","wikidata":"Q15477951"}},{"name":"Xyris kwangolana","term":"Xyris kwangolana","identifiers":{"contentmine":"CM.xyridaceae191","wikidata":"Q15477959"}},{"name":"Xyris insignis","term":"Xyris insignis","identifiers":{"contentmine":"CM.xyridaceae192","wikidata":"Q15477969"}},{"name":"Xyris nivea","term":"Xyris nivea","identifiers":{"contentmine":"CM.xyridaceae193","wikidata":"Q15477975"}},{"name":"Xyris mima","term":"Xyris mima","identifiers":{"contentmine":"CM.xyridaceae194","wikidata":"Q15477980"}},{"name":"Xyris ednae","term":"Xyris ednae","identifiers":{"contentmine":"CM.xyridaceae195","wikidata":"Q15477991"}},{"name":"Xyris lacera","term":"Xyris lacera","identifiers":{"contentmine":"CM.xyridaceae196","wikidata":"Q15478001"}},{"name":"Xyris intersita","term":"Xyris intersita","identifiers":{"contentmine":"CM.xyridaceae197","wikidata":"Q15478002"}},{"name":"Xyris filifolia","term":"Xyris filifolia","identifiers":{"contentmine":"CM.xyridaceae198","wikidata":"Q15478005"}},{"name":"Xyris egleri","term":"Xyris egleri","identifiers":{"contentmine":"CM.xyridaceae199","wikidata":"Q15478018"}},{"name":"Xyris mallocephala","term":"Xyris mallocephala","identifiers":{"contentmine":"CM.xyridaceae200","wikidata":"Q15478020"}},{"name":"Xyris involucrata","term":"Xyris involucrata","identifiers":{"contentmine":"CM.xyridaceae201","wikidata":"Q15478024"}},{"name":"Xyris filiformis","term":"Xyris filiformis","identifiers":{"contentmine":"CM.xyridaceae202","wikidata":"Q15478026"}},{"name":"Xyris lacerata","term":"Xyris lacerata","identifiers":{"contentmine":"CM.xyridaceae203","wikidata":"Q15478027"}},{"name":"Xyris congensis","term":"Xyris congensis","identifiers":{"contentmine":"CM.xyridaceae204","wikidata":"Q15478032"}},{"name":"Xyris malmeana","term":"Xyris malmeana","identifiers":{"contentmine":"CM.xyridaceae205","wikidata":"Q15478043"}},{"name":"Xyris isoetifolia","term":"Xyris isoetifolia","identifiers":{"contentmine":"CM.xyridaceae206","wikidata":"Q15478048"}},{"name":"Xyris nubigena","term":"Xyris nubigena","identifiers":{"contentmine":"CM.xyridaceae207","wikidata":"Q15478050"}},{"name":"Xyris laevigata","term":"Xyris laevigata","identifiers":{"contentmine":"CM.xyridaceae208","wikidata":"Q15478066"}},{"name":"Xyris guaranitica","term":"Xyris guaranitica","identifiers":{"contentmine":"CM.xyridaceae209","wikidata":"Q15478077"}},{"name":"Xyris itambensis","term":"Xyris itambensis","identifiers":{"contentmine":"CM.xyridaceae210","wikidata":"Q15478078"}},{"name":"Xyris fimbriata","term":"Xyris fimbriata","identifiers":{"contentmine":"CM.xyridaceae211","wikidata":"Q15478091"}},{"name":"Xyris lagoinhae","term":"Xyris lagoinhae","identifiers":{"contentmine":"CM.xyridaceae212","wikidata":"Q15478094"}},{"name":"Xyris guianensis","term":"Xyris guianensis","identifiers":{"contentmine":"CM.xyridaceae213","wikidata":"Q15478111"}},{"name":"Xyris itatiayensis","term":"Xyris itatiayensis","identifiers":{"contentmine":"CM.xyridaceae214","wikidata":"Q15478125"}},{"name":"Xyris lanata","term":"Xyris lanata","identifiers":{"contentmine":"CM.xyridaceae215","wikidata":"Q15478133"}},{"name":"Xyris marginata","term":"Xyris marginata","identifiers":{"contentmine":"CM.xyridaceae216","wikidata":"Q15478141"}},{"name":"Xyris guillauminii","term":"Xyris guillauminii","identifiers":{"contentmine":"CM.xyridaceae217","wikidata":"Q15478143"}},{"name":"Xyris laniceps","term":"Xyris laniceps","identifiers":{"contentmine":"CM.xyridaceae218","wikidata":"Q15478168"}},{"name":"Xyris jataiana","term":"Xyris jataiana","identifiers":{"contentmine":"CM.xyridaceae219","wikidata":"Q15478174"}},{"name":"Xyris capillaris","term":"Xyris capillaris","identifiers":{"contentmine":"CM.xyridaceae220","wikidata":"Q15478178"}},{"name":"Xyris connosepala","term":"Xyris connosepala","identifiers":{"contentmine":"CM.xyridaceae221","wikidata":"Q15478179"}},{"name":"Xyris maxima","term":"Xyris maxima","identifiers":{"contentmine":"CM.xyridaceae222","wikidata":"Q15478180"}},{"name":"Xyris guillenii","term":"Xyris guillenii","identifiers":{"contentmine":"CM.xyridaceae223","wikidata":"Q15478181"}},{"name":"Xyris mucujensis","term":"Xyris mucujensis","identifiers":{"contentmine":"CM.xyridaceae224","wikidata":"Q15478194"}},{"name":"Xyris lanuginosa","term":"Xyris lanuginosa","identifiers":{"contentmine":"CM.xyridaceae225","wikidata":"Q15478218"}},{"name":"Xyris capnoides","term":"Xyris capnoides","identifiers":{"contentmine":"CM.xyridaceae226","wikidata":"Q15478224"}},{"name":"Xyris melanopoda","term":"Xyris melanopoda","identifiers":{"contentmine":"CM.xyridaceae227","wikidata":"Q15478225"}},{"name":"Xyris consanguinea","term":"Xyris consanguinea","identifiers":{"contentmine":"CM.xyridaceae228","wikidata":"Q15478237"}},{"name":"Xyris harleyi","term":"Xyris harleyi","identifiers":{"contentmine":"CM.xyridaceae229","wikidata":"Q15478244"}},{"name":"Xyris jolyi","term":"Xyris jolyi","identifiers":{"contentmine":"CM.xyridaceae230","wikidata":"Q15478247"}},{"name":"Xyris glochidiata","term":"Xyris glochidiata","identifiers":{"contentmine":"CM.xyridaceae231","wikidata":"Q15478260"}},{"name":"Xyris muelleri","term":"Xyris muelleri","identifiers":{"contentmine":"CM.xyridaceae232","wikidata":"Q15478267"}},{"name":"Xyris operculata","term":"Xyris operculata","identifiers":{"contentmine":"CM.xyridaceae233","wikidata":"Q15478297"}},{"name":"Xyris consolida","term":"Xyris consolida","identifiers":{"contentmine":"CM.xyridaceae234","wikidata":"Q15478298"}},{"name":"Xyris piresiana","term":"Xyris piresiana","identifiers":{"contentmine":"CM.xyridaceae235","wikidata":"Q15478308"}},{"name":"Xyris savanensis","term":"Xyris savanensis","identifiers":{"contentmine":"CM.xyridaceae236","wikidata":"Q15478309"}},{"name":"Xyris spinulosa","term":"Xyris spinulosa","identifiers":{"contentmine":"CM.xyridaceae237","wikidata":"Q15478323"}},{"name":"Xyris surinamensis","term":"Xyris surinamensis","identifiers":{"contentmine":"CM.xyridaceae238","wikidata":"Q15478347"}},{"name":"Xyris melanovaginata","term":"Xyris melanovaginata","identifiers":{"contentmine":"CM.xyridaceae239","wikidata":"Q15478348"}},{"name":"Xyris hatschbachii","term":"Xyris hatschbachii","identifiers":{"contentmine":"CM.xyridaceae240","wikidata":"Q15478349"}},{"name":"Xyris organensis","term":"Xyris organensis","identifiers":{"contentmine":"CM.xyridaceae241","wikidata":"Q15478354"}},{"name":"Xyris bicephala","term":"Xyris bicephala","identifiers":{"contentmine":"CM.xyridaceae242","wikidata":"Q15478361"}},{"name":"Xyris villosicarinata","term":"Xyris villosicarinata","identifiers":{"contentmine":"CM.xyridaceae243","wikidata":"Q15478365"}},{"name":"Xyris tortula","term":"Xyris tortula","identifiers":{"contentmine":"CM.xyridaceae244","wikidata":"Q15478366"}},{"name":"Xyris contracta","term":"Xyris contracta","identifiers":{"contentmine":"CM.xyridaceae245","wikidata":"Q15478374"}},{"name":"Xyris scabridula","term":"Xyris scabridula","identifiers":{"contentmine":"CM.xyridaceae246","wikidata":"Q15478378"}},{"name":"Xyris spruceana","term":"Xyris spruceana","identifiers":{"contentmine":"CM.xyridaceae247","wikidata":"Q15478393"}},{"name":"Xyris regnellii","term":"Xyris regnellii","identifiers":{"contentmine":"CM.xyridaceae248","wikidata":"Q15478399"}},{"name":"Xyris vivipara","term":"Xyris vivipara","identifiers":{"contentmine":"CM.xyridaceae249","wikidata":"Q15478421"}},{"name":"Xyris natalensis","term":"Xyris natalensis","identifiers":{"contentmine":"CM.xyridaceae250","wikidata":"Q15478426"}},{"name":"Xyris ornithoptera","term":"Xyris ornithoptera","identifiers":{"contentmine":"CM.xyridaceae251","wikidata":"Q15478431"}},{"name":"Xyris trachyphylla","term":"Xyris trachyphylla","identifiers":{"contentmine":"CM.xyridaceae252","wikidata":"Q15478433"}},{"name":"Xyris bicostata","term":"Xyris bicostata","identifiers":{"contentmine":"CM.xyridaceae253","wikidata":"Q15478440"}},{"name":"Xyris stenocephala","term":"Xyris stenocephala","identifiers":{"contentmine":"CM.xyridaceae254","wikidata":"Q15478446"}},{"name":"Xyris scabrifolia","term":"Xyris scabrifolia","identifiers":{"contentmine":"CM.xyridaceae255","wikidata":"Q15478452"}},{"name":"Xyris symoensii","term":"Xyris symoensii","identifiers":{"contentmine":"CM.xyridaceae256","wikidata":"Q15478453"}},{"name":"Xyris longiscapa","term":"Xyris longiscapa","identifiers":{"contentmine":"CM.xyridaceae257","wikidata":"Q15478463"}},{"name":"Xyris mello-barretoi","term":"Xyris mello-barretoi","identifiers":{"contentmine":"CM.xyridaceae258","wikidata":"Q15478469"}},{"name":"Xyris hatschhachii","term":"Xyris hatschhachii","identifiers":{"contentmine":"CM.xyridaceae259","wikidata":"Q15478471"}},{"name":"Xyris gongylospica","term":"Xyris gongylospica","identifiers":{"contentmine":"CM.xyridaceae260","wikidata":"Q15478475"}},{"name":"Xyris wallichii","term":"Xyris wallichii","identifiers":{"contentmine":"CM.xyridaceae261","wikidata":"Q15478505"}},{"name":"Xyris trachysperma","term":"Xyris trachysperma","identifiers":{"contentmine":"CM.xyridaceae262","wikidata":"Q15478509"}},{"name":"Xyris bissei","term":"Xyris bissei","identifiers":{"contentmine":"CM.xyridaceae263","wikidata":"Q15478521"}},{"name":"Xyris tasmanica","term":"Xyris tasmanica","identifiers":{"contentmine":"CM.xyridaceae264","wikidata":"Q15478526"}},{"name":"Xyris oxylepis","term":"Xyris oxylepis","identifiers":{"contentmine":"CM.xyridaceae265","wikidata":"Q15478537"}},{"name":"Xyris stenophylla","term":"Xyris stenophylla","identifiers":{"contentmine":"CM.xyridaceae266","wikidata":"Q15478540"}},{"name":"Xyris wawrae","term":"Xyris wawrae","identifiers":{"contentmine":"CM.xyridaceae267","wikidata":"Q15478569"}},{"name":"Xyris trichophylla","term":"Xyris trichophylla","identifiers":{"contentmine":"CM.xyridaceae268","wikidata":"Q15478574"}},{"name":"Xyris navicularis","term":"Xyris navicularis","identifiers":{"contentmine":"CM.xyridaceae269","wikidata":"Q15478610"}},{"name":"Xyris paleacea","term":"Xyris paleacea","identifiers":{"contentmine":"CM.xyridaceae270","wikidata":"Q15478613"}},{"name":"Xyris longisepala","term":"Xyris longisepala","identifiers":{"contentmine":"CM.xyridaceae271","wikidata":"Q15478619"}},{"name":"Xyris rehmannii","term":"Xyris rehmannii","identifiers":{"contentmine":"CM.xyridaceae272","wikidata":"Q15478620"}},{"name":"Xyris welwitschii","term":"Xyris welwitschii","identifiers":{"contentmine":"CM.xyridaceae273","wikidata":"Q15478631"}},{"name":"Xyris tristis","term":"Xyris tristis","identifiers":{"contentmine":"CM.xyridaceae274","wikidata":"Q15478648"}},{"name":"Xyris stenophylloides","term":"Xyris stenophylloides","identifiers":{"contentmine":"CM.xyridaceae275","wikidata":"Q15478650"}},{"name":"Xyris tatei","term":"Xyris tatei","identifiers":{"contentmine":"CM.xyridaceae276","wikidata":"Q15478678"}},{"name":"Xyris pallidula","term":"Xyris pallidula","identifiers":{"contentmine":"CM.xyridaceae277","wikidata":"Q15478695"}},{"name":"Xyris membranibracteata","term":"Xyris membranibracteata","identifiers":{"contentmine":"CM.xyridaceae278","wikidata":"Q15478697"}},{"name":"Xyris witsenioides","term":"Xyris witsenioides","identifiers":{"contentmine":"CM.xyridaceae279","wikidata":"Q15478703"}},{"name":"Xyris lucida","term":"Xyris lucida","identifiers":{"contentmine":"CM.xyridaceae280","wikidata":"Q15478727"}},{"name":"Xyris tuberosa","term":"Xyris tuberosa","identifiers":{"contentmine":"CM.xyridaceae281","wikidata":"Q15478741"}},{"name":"Xyris stenostachya","term":"Xyris stenostachya","identifiers":{"contentmine":"CM.xyridaceae282","wikidata":"Q15478755"}},{"name":"Xyris porcata","term":"Xyris porcata","identifiers":{"contentmine":"CM.xyridaceae283","wikidata":"Q15478756"}},{"name":"Xyris schliebenii","term":"Xyris schliebenii","identifiers":{"contentmine":"CM.xyridaceae284","wikidata":"Q15478757"}},{"name":"Xyris wurdackii","term":"Xyris wurdackii","identifiers":{"contentmine":"CM.xyridaceae285","wikidata":"Q15478762"}},{"name":"Xyris teinosperma","term":"Xyris teinosperma","identifiers":{"contentmine":"CM.xyridaceae286","wikidata":"Q15478774"}},{"name":"Xyris panacea","term":"Xyris panacea","identifiers":{"contentmine":"CM.xyridaceae287","wikidata":"Q15478775"}},{"name":"Xyris xiphophylla","term":"Xyris xiphophylla","identifiers":{"contentmine":"CM.xyridaceae288","wikidata":"Q15478816"}},{"name":"Xyris uleana","term":"Xyris uleana","identifiers":{"contentmine":"CM.xyridaceae289","wikidata":"Q15478817"}},{"name":"Xyris neblinae","term":"Xyris neblinae","identifiers":{"contentmine":"CM.xyridaceae290","wikidata":"Q15478837"}},{"name":"Xyris straminea","term":"Xyris straminea","identifiers":{"contentmine":"CM.xyridaceae291","wikidata":"Q15478846"}},{"name":"Xyris pancheri","term":"Xyris pancheri","identifiers":{"contentmine":"CM.xyridaceae292","wikidata":"Q15478860"}},{"name":"Xyris luetzelburgii","term":"Xyris luetzelburgii","identifiers":{"contentmine":"CM.xyridaceae293","wikidata":"Q15478865"}},{"name":"Xyris reitzii","term":"Xyris reitzii","identifiers":{"contentmine":"CM.xyridaceae294","wikidata":"Q15478866"}},{"name":"Xyris uninervis","term":"Xyris uninervis","identifiers":{"contentmine":"CM.xyridaceae295","wikidata":"Q15478886"}},{"name":"Xyris porphyrea","term":"Xyris porphyrea","identifiers":{"contentmine":"CM.xyridaceae296","wikidata":"Q15478891"}},{"name":"Xyris schneeana","term":"Xyris schneeana","identifiers":{"contentmine":"CM.xyridaceae297","wikidata":"Q15478892"}},{"name":"Xyris tenella","term":"Xyris tenella","identifiers":{"contentmine":"CM.xyridaceae298","wikidata":"Q15478906"}},{"name":"Xyris mentiens","term":"Xyris mentiens","identifiers":{"contentmine":"CM.xyridaceae299","wikidata":"Q15478930"}},{"name":"Aratitiyopea lopezii","term":"Aratitiyopea lopezii","identifiers":{"contentmine":"CM.xyridaceae300","wikidata":"Q15475708"}},{"name":"Achlyphila disticha","term":"Achlyphila disticha","identifiers":{"contentmine":"CM.xyridaceae301","wikidata":"Q15475562"}},{"name":"Xyris capensis var. schoenoides","term":"Xyris capensis var. schoenoides","identifiers":{"contentmine":"CM.xyridaceae302","wikidata":"Q25133963"}},{"name":"Abolboda poarchon var. intermedia","term":"Abolboda poarchon var. intermedia","identifiers":{"contentmine":"CM.xyridaceae303","wikidata":"Q28821624"}},{"name":"Abolboda macrostachya var. robustior","term":"Abolboda macrostachya var. robustior","identifiers":{"contentmine":"CM.xyridaceae304","wikidata":"Q28821619"}},{"name":"Xyris anceps var. minima","term":"Xyris anceps var. minima","identifiers":{"contentmine":"CM.xyridaceae305","wikidata":"Q28821636"}},{"name":"Aratitiyopea lopezii var. colombiana","term":"Aratitiyopea lopezii var. colombiana","identifiers":{"contentmine":"CM.xyridaceae306","wikidata":"Q28821629"}},{"name":"Xyris laxifolia var. iridifolia","term":"Xyris laxifolia var. iridifolia","identifiers":{"contentmine":"CM.xyridaceae307","wikidata":"Q24694598"}},{"name":"Abolboda grandis var. rigida","term":"Abolboda grandis var. rigida","identifiers":{"contentmine":"CM.xyridaceae308","wikidata":"Q28821614"}},{"name":"Xyris difformis var. curtissii","term":"Xyris difformis var. curtissii","identifiers":{"contentmine":"CM.xyridaceae309","wikidata":"Q24694595"}},{"name":"Xyris difformis var. difformis","term":"Xyris difformis var. difformis","identifiers":{"contentmine":"CM.xyridaceae310","wikidata":"Q24694596"}},{"name":"Xyris difformis var. floridana","term":"Xyris difformis var. floridana","identifiers":{"contentmine":"CM.xyridaceae311","wikidata":"Q24694597"}},{"name":"Xyris bicostata var. tillettii","term":"Xyris bicostata var. tillettii","identifiers":{"contentmine":"CM.xyridaceae312","wikidata":"Q28821638"}},{"name":"Xyris uleana var. angustifolia","term":"Xyris uleana var. angustifolia","identifiers":{"contentmine":"CM.xyridaceae313","wikidata":"Q28821668"}},{"name":"Xyris stricta var. obscura","term":"Xyris stricta var. obscura","identifiers":{"contentmine":"CM.xyridaceae314","wikidata":"Q24694599"}},{"name":"Xyris stricta var. stricta","term":"Xyris stricta var. stricta","identifiers":{"contentmine":"CM.xyridaceae315","wikidata":"Q24694601"}},{"name":"Xyris subulata var. acutifolia","term":"Xyris subulata var. acutifolia","identifiers":{"contentmine":"CM.xyridaceae316","wikidata":"Q28821663"}},{"name":"Xyris thysanolepis var. sipapoa","term":"Xyris thysanolepis var. sipapoa","identifiers":{"contentmine":"CM.xyridaceae317","wikidata":"Q28821665"}},{"name":"Xyris paradisiaca","term":"Xyris paradisiaca","identifiers":{"contentmine":"CM.xyridaceae318","wikidata":"Q15478954"}},{"name":"Xyris unistriata","term":"Xyris unistriata","identifiers":{"contentmine":"CM.xyridaceae319","wikidata":"Q15478968"}},{"name":"Xyris stricta","term":"Xyris stricta","identifiers":{"contentmine":"CM.xyridaceae320","wikidata":"Q15478997"}},{"name":"Xyris pranceana","term":"Xyris pranceana","identifiers":{"contentmine":"CM.xyridaceae321","wikidata":"Q15478998"}},{"name":"Xyris serotina","term":"Xyris serotina","identifiers":{"contentmine":"CM.xyridaceae322","wikidata":"Q15478999"}},{"name":"Xyris lugubris","term":"Xyris lugubris","identifiers":{"contentmine":"CM.xyridaceae323","wikidata":"Q15479035"}},{"name":"Xyris ustulata","term":"Xyris ustulata","identifiers":{"contentmine":"CM.xyridaceae324","wikidata":"Q15479040"}},{"name":"Xyris paraensis","term":"Xyris paraensis","identifiers":{"contentmine":"CM.xyridaceae325","wikidata":"Q15479066"}},{"name":"Xyris subaristata","term":"Xyris subaristata","identifiers":{"contentmine":"CM.xyridaceae326","wikidata":"Q15479096"}},{"name":"Xyris pratensis","term":"Xyris pratensis","identifiers":{"contentmine":"CM.xyridaceae327","wikidata":"Q15479123"}},{"name":"Xyris setigera","term":"Xyris setigera","identifiers":{"contentmine":"CM.xyridaceae328","wikidata":"Q15479124"}},{"name":"Xyris vacillans","term":"Xyris vacillans","identifiers":{"contentmine":"CM.xyridaceae329","wikidata":"Q15479127"}},{"name":"Xyris teres","term":"Xyris teres","identifiers":{"contentmine":"CM.xyridaceae330","wikidata":"Q15479167"}},{"name":"Xyris subasperula","term":"Xyris subasperula","identifiers":{"contentmine":"CM.xyridaceae331","wikidata":"Q15479184"}},{"name":"Xyris parvula","term":"Xyris parvula","identifiers":{"contentmine":"CM.xyridaceae332","wikidata":"Q15479185"}},{"name":"Xyris mertensiana","term":"Xyris mertensiana","identifiers":{"contentmine":"CM.xyridaceae333","wikidata":"Q15479194"}},{"name":"Xyris valdeapiculata","term":"Xyris valdeapiculata","identifiers":{"contentmine":"CM.xyridaceae334","wikidata":"Q15479214"}},{"name":"Xyris prolificans","term":"Xyris prolificans","identifiers":{"contentmine":"CM.xyridaceae335","wikidata":"Q15479219"}},{"name":"Xyris seubertii","term":"Xyris seubertii","identifiers":{"contentmine":"CM.xyridaceae336","wikidata":"Q15479223"}},{"name":"Xyris subglabrata","term":"Xyris subglabrata","identifiers":{"contentmine":"CM.xyridaceae337","wikidata":"Q15479263"}},{"name":"Xyris neglecta","term":"Xyris neglecta","identifiers":{"contentmine":"CM.xyridaceae338","wikidata":"Q15479310"}},{"name":"Xyris valida","term":"Xyris valida","identifiers":{"contentmine":"CM.xyridaceae339","wikidata":"Q15479314"}},{"name":"Xyris metallica","term":"Xyris metallica","identifiers":{"contentmine":"CM.xyridaceae340","wikidata":"Q15479321"}},{"name":"Xyris teretifolia","term":"Xyris teretifolia","identifiers":{"contentmine":"CM.xyridaceae341","wikidata":"Q15479322"}},{"name":"Xyris venezolana","term":"Xyris venezolana","identifiers":{"contentmine":"CM.xyridaceae342","wikidata":"Q15479379"}},{"name":"Xyris subsetigera","term":"Xyris subsetigera","identifiers":{"contentmine":"CM.xyridaceae343","wikidata":"Q15479404"}},{"name":"Xyris sincorana","term":"Xyris sincorana","identifiers":{"contentmine":"CM.xyridaceae344","wikidata":"Q15479405"}},{"name":"Xyris neocaledonica","term":"Xyris neocaledonica","identifiers":{"contentmine":"CM.xyridaceae345","wikidata":"Q15479418"}},{"name":"Xyris ptariana","term":"Xyris ptariana","identifiers":{"contentmine":"CM.xyridaceae346","wikidata":"Q15479445"}},{"name":"Xyris veruina","term":"Xyris veruina","identifiers":{"contentmine":"CM.xyridaceae347","wikidata":"Q15479489"}},{"name":"Xyris subtilis","term":"Xyris subtilis","identifiers":{"contentmine":"CM.xyridaceae348","wikidata":"Q15479495"}},{"name":"Xyris smalliana","term":"Xyris smalliana","identifiers":{"contentmine":"CM.xyridaceae349","wikidata":"Q15479537"}},{"name":"Xyris pterygoblephara","term":"Xyris pterygoblephara","identifiers":{"contentmine":"CM.xyridaceae350","wikidata":"Q15479564"}},{"name":"Xyris vestita","term":"Xyris vestita","identifiers":{"contentmine":"CM.xyridaceae351","wikidata":"Q15479581"}},{"name":"Xyris terrestris","term":"Xyris terrestris","identifiers":{"contentmine":"CM.xyridaceae352","wikidata":"Q15479593"}},{"name":"Xyris mexiae","term":"Xyris mexiae","identifiers":{"contentmine":"CM.xyridaceae353","wikidata":"Q15479630"}},{"name":"Xyris subulata","term":"Xyris subulata","identifiers":{"contentmine":"CM.xyridaceae354","wikidata":"Q15479677"}},{"name":"Xyris pumila","term":"Xyris pumila","identifiers":{"contentmine":"CM.xyridaceae355","wikidata":"Q15479713"}},{"name":"Xyris sororia","term":"Xyris sororia","identifiers":{"contentmine":"CM.xyridaceae356","wikidata":"Q15479726"}},{"name":"Xyris subuniflora","term":"Xyris subuniflora","identifiers":{"contentmine":"CM.xyridaceae357","wikidata":"Q15479800"}},{"name":"Xyris theodori","term":"Xyris theodori","identifiers":{"contentmine":"CM.xyridaceae358","wikidata":"Q15479840"}},{"name":"Xyris ramboi","term":"Xyris ramboi","identifiers":{"contentmine":"CM.xyridaceae359","wikidata":"Q15479863"}},{"name":"Xyris sparsifolia","term":"Xyris sparsifolia","identifiers":{"contentmine":"CM.xyridaceae360","wikidata":"Q15479890"}},{"name":"Xyris sulcatifolia","term":"Xyris sulcatifolia","identifiers":{"contentmine":"CM.xyridaceae361","wikidata":"Q15480018"}},{"name":"Xyris thysanolepis","term":"Xyris thysanolepis","identifiers":{"contentmine":"CM.xyridaceae362","wikidata":"Q15480063"}},{"name":"Xyris spathacea","term":"Xyris spathacea","identifiers":{"contentmine":"CM.xyridaceae363","wikidata":"Q15480096"}},{"name":"Xyris spectabilis","term":"Xyris spectabilis","identifiers":{"contentmine":"CM.xyridaceae364","wikidata":"Q15480273"}},{"name":"Xyris tomentosa","term":"Xyris tomentosa","identifiers":{"contentmine":"CM.xyridaceae365","wikidata":"Q15480310"}},{"name":"Xyris toronoana","term":"Xyris toronoana","identifiers":{"contentmine":"CM.xyridaceae366","wikidata":"Q15480485"}},{"name":"Xyris torta","term":"Xyris torta","identifiers":{"contentmine":"CM.xyridaceae367","wikidata":"Q15480770"}},{"name":"Xyris nigrescens","term":"Xyris nigrescens","identifiers":{"contentmine":"CM.xyridaceae368","wikidata":"Q15480817"}},{"name":"Xyris tortilis","term":"Xyris tortilis","identifiers":{"contentmine":"CM.xyridaceae369","wikidata":"Q15480986"}},{"name":"Xyris rigida","term":"Xyris rigida","identifiers":{"contentmine":"CM.xyridaceae370","wikidata":"Q15481016"}},{"name":"Xyris nigricans","term":"Xyris nigricans","identifiers":{"contentmine":"CM.xyridaceae371","wikidata":"Q15481093"}},{"name":"Xyris rigidiformis","term":"Xyris rigidiformis","identifiers":{"contentmine":"CM.xyridaceae372","wikidata":"Q15481254"}},{"name":"Xyris nilssonii","term":"Xyris nilssonii","identifiers":{"contentmine":"CM.xyridaceae373","wikidata":"Q15481492"}},{"name":"Xyris riparia","term":"Xyris riparia","identifiers":{"contentmine":"CM.xyridaceae374","wikidata":"Q15482039"}},{"name":"Xyris roraimae","term":"Xyris roraimae","identifiers":{"contentmine":"CM.xyridaceae375","wikidata":"Q15482791"}},{"name":"Xyris roycei","term":"Xyris roycei","identifiers":{"contentmine":"CM.xyridaceae376","wikidata":"Q15483441"}},{"name":"Xyris rubella","term":"Xyris rubella","identifiers":{"contentmine":"CM.xyridaceae377","wikidata":"Q15483632"}},{"name":"Xyris rubrolimbata","term":"Xyris rubrolimbata","identifiers":{"contentmine":"CM.xyridaceae378","wikidata":"Q15484979"}},{"name":"Xyris rubromarginata","term":"Xyris rubromarginata","identifiers":{"contentmine":"CM.xyridaceae379","wikidata":"Q15485774"}},{"name":"Xyris rupicola","term":"Xyris rupicola","identifiers":{"contentmine":"CM.xyridaceae380","wikidata":"Q15486172"}},{"name":"Xyris sanguinea","term":"Xyris sanguinea","identifiers":{"contentmine":"CM.xyridaceae381","wikidata":"Q15486461"}},{"name":"Xyris mantuensis","term":"Xyris mantuensis","identifiers":{"contentmine":"CM.xyridaceae382","wikidata":"Q15502479"}},{"name":"Xyris sphaerocephala","term":"Xyris sphaerocephala","identifiers":{"contentmine":"CM.xyridaceae383","wikidata":"Q17375274"}},{"name":"Xyris huillensis","term":"Xyris huillensis","identifiers":{"contentmine":"CM.xyridaceae384","wikidata":"Q17375275"}},{"name":"Xyris graomogolensis","term":"Xyris graomogolensis","identifiers":{"contentmine":"CM.xyridaceae385","wikidata":"Q17375276"}},{"name":"Xyris spathifolia","term":"Xyris spathifolia","identifiers":{"contentmine":"CM.xyridaceae386","wikidata":"Q17375280"}},{"name":"Xyris cervii","term":"Xyris cervii","identifiers":{"contentmine":"CM.xyridaceae387","wikidata":"Q22704089"}},{"name":"Xyris anamariae","term":"Xyris anamariae","identifiers":{"contentmine":"CM.xyridaceae388","wikidata":"Q28821631"}},{"name":"Xyris bracteicaulis","term":"Xyris bracteicaulis","identifiers":{"contentmine":"CM.xyridaceae389","wikidata":"Q28821641"}},{"name":"Xyris crassifunda","term":"Xyris crassifunda","identifiers":{"contentmine":"CM.xyridaceae390","wikidata":"Q28821645"}},{"name":"Xyris fredericoi","term":"Xyris fredericoi","identifiers":{"contentmine":"CM.xyridaceae391","wikidata":"Q28821647"}},{"name":"Xyris kralii","term":"Xyris kralii","identifiers":{"contentmine":"CM.xyridaceae392","wikidata":"Q28821650"}},{"name":"Xyris nanuzae","term":"Xyris nanuzae","identifiers":{"contentmine":"CM.xyridaceae393","wikidata":"Q28821653"}},{"name":"Xyris piranii","term":"Xyris piranii","identifiers":{"contentmine":"CM.xyridaceae394","wikidata":"Q28821656"}},{"name":"Xyris submetallica","term":"Xyris submetallica","identifiers":{"contentmine":"CM.xyridaceae395","wikidata":"Q28821660"}},{"name":"Abolboda linearifolia","term":"Abolboda linearifolia","identifiers":{"contentmine":"CM.xyridaceae396","wikidata":"Q15474969"}},{"name":"Abolboda poarchon","term":"Abolboda poarchon","identifiers":{"contentmine":"CM.xyridaceae397","wikidata":"Q15474981"}},{"name":"Abolboda macrostachya","term":"Abolboda macrostachya","identifiers":{"contentmine":"CM.xyridaceae398","wikidata":"Q15475045"}},{"name":"Abolboda abbreviata","term":"Abolboda abbreviata","identifiers":{"contentmine":"CM.xyridaceae399","wikidata":"Q15475055"}},{"name":"Abolboda pulchella","term":"Abolboda pulchella","identifiers":{"contentmine":"CM.xyridaceae400","wikidata":"Q15475084"}},{"name":"Abolboda neblinae","term":"Abolboda neblinae","identifiers":{"contentmine":"CM.xyridaceae401","wikidata":"Q15475151"}},{"name":"Abolboda acaulis","term":"Abolboda acaulis","identifiers":{"contentmine":"CM.xyridaceae402","wikidata":"Q15475197"}},{"name":"Abolboda scabrida","term":"Abolboda scabrida","identifiers":{"contentmine":"CM.xyridaceae403","wikidata":"Q15475203"}},{"name":"Abolboda paniculata","term":"Abolboda paniculata","identifiers":{"contentmine":"CM.xyridaceae404","wikidata":"Q15475261"}},{"name":"Abolboda acicularis","term":"Abolboda acicularis","identifiers":{"contentmine":"CM.xyridaceae405","wikidata":"Q15475290"}},{"name":"Abolboda sprucei","term":"Abolboda sprucei","identifiers":{"contentmine":"CM.xyridaceae406","wikidata":"Q15475333"}},{"name":"Abolboda americana","term":"Abolboda americana","identifiers":{"contentmine":"CM.xyridaceae407","wikidata":"Q15475399"}},{"name":"Abolboda uniflora","term":"Abolboda uniflora","identifiers":{"contentmine":"CM.xyridaceae408","wikidata":"Q15475459"}},{"name":"Abolboda bella","term":"Abolboda bella","identifiers":{"contentmine":"CM.xyridaceae409","wikidata":"Q15475528"}},{"name":"Abolboda ciliata","term":"Abolboda ciliata","identifiers":{"contentmine":"CM.xyridaceae410","wikidata":"Q15475655"}},{"name":"Abolboda dunstervillei","term":"Abolboda dunstervillei","identifiers":{"contentmine":"CM.xyridaceae411","wikidata":"Q15475777"}},{"name":"Abolboda ebracteata","term":"Abolboda ebracteata","identifiers":{"contentmine":"CM.xyridaceae412","wikidata":"Q15475863"}},{"name":"Abolboda egleri","term":"Abolboda egleri","identifiers":{"contentmine":"CM.xyridaceae413","wikidata":"Q15475978"}},{"name":"Abolboda glomerata","term":"Abolboda glomerata","identifiers":{"contentmine":"CM.xyridaceae414","wikidata":"Q15476085"}},{"name":"Abolboda grandis","term":"Abolboda grandis","identifiers":{"contentmine":"CM.xyridaceae415","wikidata":"Q15476220"}},{"name":"Abolboda granularis","term":"Abolboda granularis","identifiers":{"contentmine":"CM.xyridaceae416","wikidata":"Q15476320"}},{"name":"Abolboda killipii","term":"Abolboda killipii","identifiers":{"contentmine":"CM.xyridaceae417","wikidata":"Q15476445"}}]}
+{
+    "entries": [
+        {
+            "name": "Xyridaceae",
+            "term": "Xyridaceae",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae0",
+                "wikidata": "Q131613"
+            }
+        },
+        {
+            "name": "Orectanthe",
+            "term": "Orectanthe",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae1",
+                "wikidata": "Q146903"
+            }
+        },
+        {
+            "name": "Xyris",
+            "term": "Xyris",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae2",
+                "wikidata": "Q977464"
+            }
+        },
+        {
+            "name": "Abolboda",
+            "term": "Abolboda",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae3",
+                "wikidata": "Q2711245"
+            }
+        },
+        {
+            "name": "Aratitiyopea",
+            "term": "Aratitiyopea",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae4",
+                "wikidata": "Q2892851"
+            }
+        },
+        {
+            "name": "Achlyphila",
+            "term": "Achlyphila",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae5",
+                "wikidata": "Q8187412"
+            }
+        },
+        {
+            "name": "Xyridoideae",
+            "term": "Xyridoideae",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae6",
+                "wikidata": "Q19911907"
+            }
+        },
+        {
+            "name": "Orectanthe sceptrum",
+            "term": "Orectanthe sceptrum",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae7",
+                "wikidata": "Q1030839"
+            }
+        },
+        {
+            "name": "Orectanthe ptaritepuiana",
+            "term": "Orectanthe ptaritepuiana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae8",
+                "wikidata": "Q15475808"
+            }
+        },
+        {
+            "name": "Xyris complanata",
+            "term": "Xyris complanata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae9",
+                "wikidata": "Q4921193"
+            }
+        },
+        {
+            "name": "Xyris andina",
+            "term": "Xyris andina",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae10",
+                "wikidata": "Q5492149"
+            }
+        },
+        {
+            "name": "Xyris tennesseensis",
+            "term": "Xyris tennesseensis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae11",
+                "wikidata": "Q8045585"
+            }
+        },
+        {
+            "name": "Xyris longifolia",
+            "term": "Xyris longifolia",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae12",
+                "wikidata": "Q10394462"
+            }
+        },
+        {
+            "name": "Xyris chinensis",
+            "term": "Xyris chinensis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae13",
+                "wikidata": "Q10874367"
+            }
+        },
+        {
+            "name": "Xyris capensis",
+            "term": "Xyris capensis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae14",
+                "wikidata": "Q10909320"
+            }
+        },
+        {
+            "name": "Xyris formosana",
+            "term": "Xyris formosana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae15",
+                "wikidata": "Q11111932"
+            }
+        },
+        {
+            "name": "Xyris indica",
+            "term": "Xyris indica",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae16",
+                "wikidata": "Q11178072"
+            }
+        },
+        {
+            "name": "Xyris pauciflora",
+            "term": "Xyris pauciflora",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae17",
+                "wikidata": "Q15239082"
+            }
+        },
+        {
+            "name": "Xyris anceps",
+            "term": "Xyris anceps",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae18",
+                "wikidata": "Q15475173"
+            }
+        },
+        {
+            "name": "Xyris angularis",
+            "term": "Xyris angularis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae19",
+                "wikidata": "Q15475339"
+            }
+        },
+        {
+            "name": "Xyris atrovirida",
+            "term": "Xyris atrovirida",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae20",
+                "wikidata": "Q15475359"
+            }
+        },
+        {
+            "name": "Xyris cryptantha",
+            "term": "Xyris cryptantha",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae21",
+                "wikidata": "Q15475374"
+            }
+        },
+        {
+            "name": "Xyris brachyfolia",
+            "term": "Xyris brachyfolia",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae22",
+                "wikidata": "Q15475379"
+            }
+        },
+        {
+            "name": "Xyris angustifolia",
+            "term": "Xyris angustifolia",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae23",
+                "wikidata": "Q15475455"
+            }
+        },
+        {
+            "name": "Xyris ekmanii",
+            "term": "Xyris ekmanii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae24",
+                "wikidata": "Q15475504"
+            }
+        },
+        {
+            "name": "Xyris augusto-coburgii",
+            "term": "Xyris augusto-coburgii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae25",
+                "wikidata": "Q15475505"
+            }
+        },
+        {
+            "name": "Xyris cuatrecasana",
+            "term": "Xyris cuatrecasana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae26",
+                "wikidata": "Q15475509"
+            }
+        },
+        {
+            "name": "Xyris decipiens",
+            "term": "Xyris decipiens",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae27",
+                "wikidata": "Q15475523"
+            }
+        },
+        {
+            "name": "Xyris anisophylla",
+            "term": "Xyris anisophylla",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae28",
+                "wikidata": "Q15475546"
+            }
+        },
+        {
+            "name": "Xyris flabelliformis",
+            "term": "Xyris flabelliformis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae29",
+                "wikidata": "Q15475557"
+            }
+        },
+        {
+            "name": "Xyris brachysepala",
+            "term": "Xyris brachysepala",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae30",
+                "wikidata": "Q15475565"
+            }
+        },
+        {
+            "name": "Xyris culmenicola",
+            "term": "Xyris culmenicola",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae31",
+                "wikidata": "Q15475619"
+            }
+        },
+        {
+            "name": "Xyris elegantula",
+            "term": "Xyris elegantula",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae32",
+                "wikidata": "Q15475629"
+            }
+        },
+        {
+            "name": "Xyris apureana",
+            "term": "Xyris apureana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae33",
+                "wikidata": "Q15475652"
+            }
+        },
+        {
+            "name": "Xyris flexifolia",
+            "term": "Xyris flexifolia",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae34",
+                "wikidata": "Q15475672"
+            }
+        },
+        {
+            "name": "Xyris aurea",
+            "term": "Xyris aurea",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae35",
+                "wikidata": "Q15475674"
+            }
+        },
+        {
+            "name": "Xyris decussata",
+            "term": "Xyris decussata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae36",
+                "wikidata": "Q15475715"
+            }
+        },
+        {
+            "name": "Xyris gossweileri",
+            "term": "Xyris gossweileri",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae37",
+                "wikidata": "Q15475720"
+            }
+        },
+        {
+            "name": "Xyris bracteata",
+            "term": "Xyris bracteata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae38",
+                "wikidata": "Q15475723"
+            }
+        },
+        {
+            "name": "Xyris cheumatophila",
+            "term": "Xyris cheumatophila",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae39",
+                "wikidata": "Q15475728"
+            }
+        },
+        {
+            "name": "Xyris curassavica",
+            "term": "Xyris curassavica",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae40",
+                "wikidata": "Q15475751"
+            }
+        },
+        {
+            "name": "Xyris eleocharoides",
+            "term": "Xyris eleocharoides",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae41",
+                "wikidata": "Q15475771"
+            }
+        },
+        {
+            "name": "Xyris aquatica",
+            "term": "Xyris aquatica",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae42",
+                "wikidata": "Q15475774"
+            }
+        },
+        {
+            "name": "Xyris floridana",
+            "term": "Xyris floridana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae43",
+                "wikidata": "Q15475795"
+            }
+        },
+        {
+            "name": "Xyris aracamunae",
+            "term": "Xyris aracamunae",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae44",
+                "wikidata": "Q15475829"
+            }
+        },
+        {
+            "name": "Xyris cylindrostachya",
+            "term": "Xyris cylindrostachya",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae45",
+                "wikidata": "Q15475830"
+            }
+        },
+        {
+            "name": "Xyris goyazensis",
+            "term": "Xyris goyazensis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae46",
+                "wikidata": "Q15475846"
+            }
+        },
+        {
+            "name": "Xyris bahiana",
+            "term": "Xyris bahiana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae47",
+                "wikidata": "Q15475882"
+            }
+        },
+        {
+            "name": "Xyris brevifolia",
+            "term": "Xyris brevifolia",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae48",
+                "wikidata": "Q15475884"
+            }
+        },
+        {
+            "name": "Xyris elliottii",
+            "term": "Xyris elliottii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae49",
+                "wikidata": "Q15475887"
+            }
+        },
+        {
+            "name": "Xyris delicatula",
+            "term": "Xyris delicatula",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae50",
+                "wikidata": "Q15475892"
+            }
+        },
+        {
+            "name": "Xyris foliolata",
+            "term": "Xyris foliolata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae51",
+                "wikidata": "Q15475895"
+            }
+        },
+        {
+            "name": "Xyris cyperoides",
+            "term": "Xyris cyperoides",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae52",
+                "wikidata": "Q15475908"
+            }
+        },
+        {
+            "name": "Xyris arachnoidea",
+            "term": "Xyris arachnoidea",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae53",
+                "wikidata": "Q15475933"
+            }
+        },
+        {
+            "name": "Xyris hilariana",
+            "term": "Xyris hilariana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae54",
+                "wikidata": "Q15475943"
+            }
+        },
+        {
+            "name": "Xyris gracilis",
+            "term": "Xyris gracilis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae55",
+                "wikidata": "Q15475986"
+            }
+        },
+        {
+            "name": "Xyris chimantae",
+            "term": "Xyris chimantae",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae56",
+                "wikidata": "Q15475988"
+            }
+        },
+        {
+            "name": "Xyris dardanoi",
+            "term": "Xyris dardanoi",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae57",
+                "wikidata": "Q15476007"
+            }
+        },
+        {
+            "name": "Xyris huberi",
+            "term": "Xyris huberi",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae58",
+                "wikidata": "Q15476018"
+            }
+        },
+        {
+            "name": "Xyris araracuarae",
+            "term": "Xyris araracuarae",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae59",
+                "wikidata": "Q15476023"
+            }
+        },
+        {
+            "name": "Xyris erosa",
+            "term": "Xyris erosa",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae60",
+                "wikidata": "Q15476034"
+            }
+        },
+        {
+            "name": "Xyris lanulobractea",
+            "term": "Xyris lanulobractea",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae61",
+                "wikidata": "Q15476038"
+            }
+        },
+        {
+            "name": "Xyris aberdarica",
+            "term": "Xyris aberdarica",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae62",
+                "wikidata": "Q15476040"
+            }
+        },
+        {
+            "name": "Xyris baldwiniana",
+            "term": "Xyris baldwiniana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae63",
+                "wikidata": "Q15476050"
+            }
+        },
+        {
+            "name": "Xyris byssacea",
+            "term": "Xyris byssacea",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae64",
+                "wikidata": "Q15476053"
+            }
+        },
+        {
+            "name": "Xyris densa",
+            "term": "Xyris densa",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae65",
+                "wikidata": "Q15476059"
+            }
+        },
+        {
+            "name": "Xyris juncea",
+            "term": "Xyris juncea",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae66",
+                "wikidata": "Q15476063"
+            }
+        },
+        {
+            "name": "Xyris dawsonii",
+            "term": "Xyris dawsonii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae67",
+                "wikidata": "Q15476095"
+            }
+        },
+        {
+            "name": "Xyris archeri",
+            "term": "Xyris archeri",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae68",
+                "wikidata": "Q15476115"
+            }
+        },
+        {
+            "name": "Xyris frequens",
+            "term": "Xyris frequens",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae69",
+                "wikidata": "Q15476136"
+            }
+        },
+        {
+            "name": "Xyris laxiflora",
+            "term": "Xyris laxiflora",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae70",
+                "wikidata": "Q15476142"
+            }
+        },
+        {
+            "name": "Xyris erubescens",
+            "term": "Xyris erubescens",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae71",
+                "wikidata": "Q15476170"
+            }
+        },
+        {
+            "name": "Xyris acrophila",
+            "term": "Xyris acrophila",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae72",
+                "wikidata": "Q15476172"
+            }
+        },
+        {
+            "name": "Xyris gracillima",
+            "term": "Xyris gracillima",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae73",
+                "wikidata": "Q15476181"
+            }
+        },
+        {
+            "name": "Xyris humpatensis",
+            "term": "Xyris humpatensis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae74",
+                "wikidata": "Q15476182"
+            }
+        },
+        {
+            "name": "Xyris cachimbensis",
+            "term": "Xyris cachimbensis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae75",
+                "wikidata": "Q15476189"
+            }
+        },
+        {
+            "name": "Xyris diamantinae",
+            "term": "Xyris diamantinae",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae76",
+                "wikidata": "Q15476192"
+            }
+        },
+        {
+            "name": "Xyris laxifolia",
+            "term": "Xyris laxifolia",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae77",
+                "wikidata": "Q15476201"
+            }
+        },
+        {
+            "name": "Xyris friesii",
+            "term": "Xyris friesii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae78",
+                "wikidata": "Q15476239"
+            }
+        },
+        {
+            "name": "Xyris lutescens",
+            "term": "Xyris lutescens",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae79",
+                "wikidata": "Q15476242"
+            }
+        },
+        {
+            "name": "Xyris aristata",
+            "term": "Xyris aristata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae80",
+                "wikidata": "Q15476253"
+            }
+        },
+        {
+            "name": "Xyris bampsii",
+            "term": "Xyris bampsii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae81",
+                "wikidata": "Q15476265"
+            }
+        },
+        {
+            "name": "Xyris affinis",
+            "term": "Xyris affinis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae82",
+                "wikidata": "Q15476274"
+            }
+        },
+        {
+            "name": "Xyris esmeraldae",
+            "term": "Xyris esmeraldae",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae83",
+                "wikidata": "Q15476278"
+            }
+        },
+        {
+            "name": "Xyris ciliata",
+            "term": "Xyris ciliata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae84",
+                "wikidata": "Q15476282"
+            }
+        },
+        {
+            "name": "Xyris hymenachne",
+            "term": "Xyris hymenachne",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae85",
+                "wikidata": "Q15476290"
+            }
+        },
+        {
+            "name": "Xyris lejolyanus",
+            "term": "Xyris lejolyanus",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae86",
+                "wikidata": "Q15476293"
+            }
+        },
+        {
+            "name": "Xyris juncifolia",
+            "term": "Xyris juncifolia",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae87",
+                "wikidata": "Q15476319"
+            }
+        },
+        {
+            "name": "Xyris diaphanobracteata",
+            "term": "Xyris diaphanobracteata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae88",
+                "wikidata": "Q15476336"
+            }
+        },
+        {
+            "name": "Xyris macbrideana",
+            "term": "Xyris macbrideana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae89",
+                "wikidata": "Q15476343"
+            }
+        },
+        {
+            "name": "Xyris asperula",
+            "term": "Xyris asperula",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae90",
+                "wikidata": "Q15476353"
+            }
+        },
+        {
+            "name": "Xyris frondosa",
+            "term": "Xyris frondosa",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae91",
+                "wikidata": "Q15476365"
+            }
+        },
+        {
+            "name": "Xyris graminosa",
+            "term": "Xyris graminosa",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae92",
+                "wikidata": "Q15476372"
+            }
+        },
+        {
+            "name": "Xyris calcicola",
+            "term": "Xyris calcicola",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae93",
+                "wikidata": "Q15476385"
+            }
+        },
+        {
+            "name": "Xyris leonensis",
+            "term": "Xyris leonensis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae94",
+                "wikidata": "Q15476386"
+            }
+        },
+        {
+            "name": "Xyris albescens",
+            "term": "Xyris albescens",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae95",
+                "wikidata": "Q15476389"
+            }
+        },
+        {
+            "name": "Xyris exigua",
+            "term": "Xyris exigua",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae96",
+                "wikidata": "Q15476390"
+            }
+        },
+        {
+            "name": "Xyris hystrix",
+            "term": "Xyris hystrix",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae97",
+                "wikidata": "Q15476435"
+            }
+        },
+        {
+            "name": "Xyris bancana",
+            "term": "Xyris bancana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae98",
+                "wikidata": "Q15476436"
+            }
+        },
+        {
+            "name": "Xyris machrisiana",
+            "term": "Xyris machrisiana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae99",
+                "wikidata": "Q15476441"
+            }
+        },
+        {
+            "name": "Xyris jupicai",
+            "term": "Xyris jupicai",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae100",
+                "wikidata": "Q15476451"
+            }
+        },
+        {
+            "name": "Xyris asterotricha",
+            "term": "Xyris asterotricha",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae101",
+                "wikidata": "Q15476455"
+            }
+        },
+        {
+            "name": "Xyris fugaciflora",
+            "term": "Xyris fugaciflora",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae102",
+                "wikidata": "Q15476489"
+            }
+        },
+        {
+            "name": "Xyris difformis",
+            "term": "Xyris difformis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae103",
+                "wikidata": "Q15476506"
+            }
+        },
+        {
+            "name": "Xyris leptophylla",
+            "term": "Xyris leptophylla",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae104",
+                "wikidata": "Q15476515"
+            }
+        },
+        {
+            "name": "Xyris grandiceps",
+            "term": "Xyris grandiceps",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae105",
+                "wikidata": "Q15476518"
+            }
+        },
+        {
+            "name": "Xyris almae",
+            "term": "Xyris almae",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae106",
+                "wikidata": "Q15476523"
+            }
+        },
+        {
+            "name": "Xyris exilis",
+            "term": "Xyris exilis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae107",
+                "wikidata": "Q15476536"
+            }
+        },
+        {
+            "name": "Xyris minarum",
+            "term": "Xyris minarum",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae108",
+                "wikidata": "Q15476537"
+            }
+        },
+        {
+            "name": "Xyris madagascariensis",
+            "term": "Xyris madagascariensis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae109",
+                "wikidata": "Q15476538"
+            }
+        },
+        {
+            "name": "Xyris obcordata",
+            "term": "Xyris obcordata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae110",
+                "wikidata": "Q15476557"
+            }
+        },
+        {
+            "name": "Xyris calderonii",
+            "term": "Xyris calderonii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae111",
+                "wikidata": "Q15476568"
+            }
+        },
+        {
+            "name": "Xyris atrata",
+            "term": "Xyris atrata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae112",
+                "wikidata": "Q15476570"
+            }
+        },
+        {
+            "name": "Xyris cipoensis",
+            "term": "Xyris cipoensis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae113",
+                "wikidata": "Q15476573"
+            }
+        },
+        {
+            "name": "Xyris imitatrix",
+            "term": "Xyris imitatrix",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae114",
+                "wikidata": "Q15476590"
+            }
+        },
+        {
+            "name": "Xyris barteri",
+            "term": "Xyris barteri",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae115",
+                "wikidata": "Q15476601"
+            }
+        },
+        {
+            "name": "Xyris fuliginea",
+            "term": "Xyris fuliginea",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae116",
+                "wikidata": "Q15476604"
+            }
+        },
+        {
+            "name": "Xyris liesneri",
+            "term": "Xyris liesneri",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae117",
+                "wikidata": "Q15476627"
+            }
+        },
+        {
+            "name": "Xyris ambigua",
+            "term": "Xyris ambigua",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae118",
+                "wikidata": "Q15476638"
+            }
+        },
+        {
+            "name": "Xyris kibaraensis",
+            "term": "Xyris kibaraensis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae119",
+                "wikidata": "Q15476658"
+            }
+        },
+        {
+            "name": "Xyris grandis",
+            "term": "Xyris grandis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae120",
+                "wikidata": "Q15476664"
+            }
+        },
+        {
+            "name": "Xyris dilatatiscapa",
+            "term": "Xyris dilatatiscapa",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae121",
+                "wikidata": "Q15476667"
+            }
+        },
+        {
+            "name": "Xyris fallax",
+            "term": "Xyris fallax",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae122",
+                "wikidata": "Q15476673"
+            }
+        },
+        {
+            "name": "Xyris atriceps",
+            "term": "Xyris atriceps",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae123",
+                "wikidata": "Q15476692"
+            }
+        },
+        {
+            "name": "Xyris oblata",
+            "term": "Xyris oblata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae124",
+                "wikidata": "Q15476702"
+            }
+        },
+        {
+            "name": "Xyris pectinata",
+            "term": "Xyris pectinata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae125",
+                "wikidata": "Q15476705"
+            }
+        },
+        {
+            "name": "Xyris montana",
+            "term": "Xyris montana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae126",
+                "wikidata": "Q15476733"
+            }
+        },
+        {
+            "name": "Xyris linifolia",
+            "term": "Xyris linifolia",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae127",
+                "wikidata": "Q15476747"
+            }
+        },
+        {
+            "name": "Xyris fusca",
+            "term": "Xyris fusca",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae128",
+                "wikidata": "Q15476754"
+            }
+        },
+        {
+            "name": "Xyris calostachys",
+            "term": "Xyris calostachys",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae129",
+                "wikidata": "Q15476771"
+            }
+        },
+        {
+            "name": "Xyris amorimii",
+            "term": "Xyris amorimii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae130",
+                "wikidata": "Q15476794"
+            }
+        },
+        {
+            "name": "Xyris peteri",
+            "term": "Xyris peteri",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae131",
+                "wikidata": "Q15476797"
+            }
+        },
+        {
+            "name": "Xyris plantaginea",
+            "term": "Xyris plantaginea",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae132",
+                "wikidata": "Q15476800"
+            }
+        },
+        {
+            "name": "Xyris obscura",
+            "term": "Xyris obscura",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae133",
+                "wikidata": "Q15476817"
+            }
+        },
+        {
+            "name": "Xyris kornasiana",
+            "term": "Xyris kornasiana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae134",
+                "wikidata": "Q15476826"
+            }
+        },
+        {
+            "name": "Xyris lithophila",
+            "term": "Xyris lithophila",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae135",
+                "wikidata": "Q15476832"
+            }
+        },
+        {
+            "name": "Xyris ferreirae",
+            "term": "Xyris ferreirae",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae136",
+                "wikidata": "Q15476833"
+            }
+        },
+        {
+            "name": "Xyris columbiana",
+            "term": "Xyris columbiana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae137",
+                "wikidata": "Q15476839"
+            }
+        },
+        {
+            "name": "Xyris gerrardii",
+            "term": "Xyris gerrardii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae138",
+                "wikidata": "Q15476844"
+            }
+        },
+        {
+            "name": "Xyris inaequalis",
+            "term": "Xyris inaequalis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae139",
+                "wikidata": "Q15476847"
+            }
+        },
+        {
+            "name": "Xyris graniticola",
+            "term": "Xyris graniticola",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae140",
+                "wikidata": "Q15476853"
+            }
+        },
+        {
+            "name": "Xyris bialata",
+            "term": "Xyris bialata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae141",
+                "wikidata": "Q15476861"
+            }
+        },
+        {
+            "name": "Xyris dilungensis",
+            "term": "Xyris dilungensis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae142",
+                "wikidata": "Q15476872"
+            }
+        },
+        {
+            "name": "Xyris phaeocephala",
+            "term": "Xyris phaeocephala",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae143",
+                "wikidata": "Q15476878"
+            }
+        },
+        {
+            "name": "Xyris retrorsifimbriata",
+            "term": "Xyris retrorsifimbriata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae144",
+                "wikidata": "Q15476884"
+            }
+        },
+        {
+            "name": "Xyris obtusiuscula",
+            "term": "Xyris obtusiuscula",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae145",
+                "wikidata": "Q15476892"
+            }
+        },
+        {
+            "name": "Xyris platylepis",
+            "term": "Xyris platylepis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae146",
+                "wikidata": "Q15476897"
+            }
+        },
+        {
+            "name": "Xyris moraesii",
+            "term": "Xyris moraesii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae147",
+                "wikidata": "Q15476919"
+            }
+        },
+        {
+            "name": "Xyris lobbii",
+            "term": "Xyris lobbii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae148",
+                "wikidata": "Q15476921"
+            }
+        },
+        {
+            "name": "Xyris glandacea",
+            "term": "Xyris glandacea",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae149",
+                "wikidata": "Q15476941"
+            }
+        },
+        {
+            "name": "Xyris picea",
+            "term": "Xyris picea",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae150",
+                "wikidata": "Q15476944"
+            }
+        },
+        {
+            "name": "Xyris caparaoensis",
+            "term": "Xyris caparaoensis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae151",
+                "wikidata": "Q15476959"
+            }
+        },
+        {
+            "name": "Xyris festucifolia",
+            "term": "Xyris festucifolia",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae152",
+                "wikidata": "Q15476960"
+            }
+        },
+        {
+            "name": "Xyris grisebachii",
+            "term": "Xyris grisebachii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae153",
+                "wikidata": "Q15476965"
+            }
+        },
+        {
+            "name": "Xyris platystachya",
+            "term": "Xyris platystachya",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae154",
+                "wikidata": "Q15476985"
+            }
+        },
+        {
+            "name": "Xyris rhodesiana",
+            "term": "Xyris rhodesiana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae155",
+                "wikidata": "Q15476988"
+            }
+        },
+        {
+            "name": "Xyris kradungensis",
+            "term": "Xyris kradungensis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae156",
+                "wikidata": "Q15477001"
+            }
+        },
+        {
+            "name": "Xyris oligantha",
+            "term": "Xyris oligantha",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae157",
+                "wikidata": "Q15477016"
+            }
+        },
+        {
+            "name": "Xyris lomatophylla",
+            "term": "Xyris lomatophylla",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae158",
+                "wikidata": "Q15477024"
+            }
+        },
+        {
+            "name": "Xyris makuensis",
+            "term": "Xyris makuensis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae159",
+                "wikidata": "Q15477035"
+            }
+        },
+        {
+            "name": "Xyris sceptrifera",
+            "term": "Xyris sceptrifera",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae160",
+                "wikidata": "Q15477036"
+            }
+        },
+        {
+            "name": "Xyris pilosa",
+            "term": "Xyris pilosa",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae161",
+                "wikidata": "Q15477053"
+            }
+        },
+        {
+            "name": "Xyris bicarinata",
+            "term": "Xyris bicarinata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae162",
+                "wikidata": "Q15477074"
+            }
+        },
+        {
+            "name": "Xyris globosa",
+            "term": "Xyris globosa",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae163",
+                "wikidata": "Q15477078"
+            }
+        },
+        {
+            "name": "Xyris popeana",
+            "term": "Xyris popeana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae164",
+                "wikidata": "Q15477082"
+            }
+        },
+        {
+            "name": "Xyris dissimilis",
+            "term": "Xyris dissimilis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae165",
+                "wikidata": "Q15477084"
+            }
+        },
+        {
+            "name": "Xyris rhodolepis",
+            "term": "Xyris rhodolepis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae166",
+                "wikidata": "Q15477089"
+            }
+        },
+        {
+            "name": "Xyris morii",
+            "term": "Xyris morii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae167",
+                "wikidata": "Q15477092"
+            }
+        },
+        {
+            "name": "Xyris fibrosa",
+            "term": "Xyris fibrosa",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae168",
+                "wikidata": "Q15477110"
+            }
+        },
+        {
+            "name": "Xyris schizachne",
+            "term": "Xyris schizachne",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae169",
+                "wikidata": "Q15477113"
+            }
+        },
+        {
+            "name": "Xyris piraquarae",
+            "term": "Xyris piraquarae",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae170",
+                "wikidata": "Q15477126"
+            }
+        },
+        {
+            "name": "Xyris longibracteata",
+            "term": "Xyris longibracteata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae171",
+                "wikidata": "Q15477129"
+            }
+        },
+        {
+            "name": "Xyris blanchetiana",
+            "term": "Xyris blanchetiana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae172",
+                "wikidata": "Q15477664"
+            }
+        },
+        {
+            "name": "Xyris carinata",
+            "term": "Xyris carinata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae173",
+                "wikidata": "Q15477666"
+            }
+        },
+        {
+            "name": "Xyris coronata",
+            "term": "Xyris coronata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae174",
+                "wikidata": "Q15477669"
+            }
+        },
+        {
+            "name": "Xyris blepharophylla",
+            "term": "Xyris blepharophylla",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae175",
+                "wikidata": "Q15477676"
+            }
+        },
+        {
+            "name": "Xyris caroliniana",
+            "term": "Xyris caroliniana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae176",
+                "wikidata": "Q15477679"
+            }
+        },
+        {
+            "name": "Xyris correlliorum",
+            "term": "Xyris correlliorum",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae177",
+                "wikidata": "Q15477692"
+            }
+        },
+        {
+            "name": "Xyris boliviana",
+            "term": "Xyris boliviana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae178",
+                "wikidata": "Q15477699"
+            }
+        },
+        {
+            "name": "Xyris celiae",
+            "term": "Xyris celiae",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae179",
+                "wikidata": "Q15477704"
+            }
+        },
+        {
+            "name": "Xyris coutensis",
+            "term": "Xyris coutensis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae180",
+                "wikidata": "Q15477724"
+            }
+        },
+        {
+            "name": "Xyris dissitifolia",
+            "term": "Xyris dissitifolia",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae181",
+                "wikidata": "Q15477858"
+            }
+        },
+        {
+            "name": "Xyris disticha",
+            "term": "Xyris disticha",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae182",
+                "wikidata": "Q15477876"
+            }
+        },
+        {
+            "name": "Xyris kukenaniana",
+            "term": "Xyris kukenaniana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae183",
+                "wikidata": "Q15477904"
+            }
+        },
+        {
+            "name": "Xyris concinna",
+            "term": "Xyris concinna",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae184",
+                "wikidata": "Q15477911"
+            }
+        },
+        {
+            "name": "Xyris downsiana",
+            "term": "Xyris downsiana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae185",
+                "wikidata": "Q15477924"
+            }
+        },
+        {
+            "name": "Xyris kundelungensis",
+            "term": "Xyris kundelungensis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae186",
+                "wikidata": "Q15477932"
+            }
+        },
+        {
+            "name": "Xyris confusa",
+            "term": "Xyris confusa",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae187",
+                "wikidata": "Q15477934"
+            }
+        },
+        {
+            "name": "Xyris indivisa",
+            "term": "Xyris indivisa",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae188",
+                "wikidata": "Q15477945"
+            }
+        },
+        {
+            "name": "Xyris drummondii",
+            "term": "Xyris drummondii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae189",
+                "wikidata": "Q15477949"
+            }
+        },
+        {
+            "name": "Xyris mexicana",
+            "term": "Xyris mexicana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae190",
+                "wikidata": "Q15477951"
+            }
+        },
+        {
+            "name": "Xyris kwangolana",
+            "term": "Xyris kwangolana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae191",
+                "wikidata": "Q15477959"
+            }
+        },
+        {
+            "name": "Xyris insignis",
+            "term": "Xyris insignis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae192",
+                "wikidata": "Q15477969"
+            }
+        },
+        {
+            "name": "Xyris nivea",
+            "term": "Xyris nivea",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae193",
+                "wikidata": "Q15477975"
+            }
+        },
+        {
+            "name": "Xyris mima",
+            "term": "Xyris mima",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae194",
+                "wikidata": "Q15477980"
+            }
+        },
+        {
+            "name": "Xyris ednae",
+            "term": "Xyris ednae",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae195",
+                "wikidata": "Q15477991"
+            }
+        },
+        {
+            "name": "Xyris lacera",
+            "term": "Xyris lacera",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae196",
+                "wikidata": "Q15478001"
+            }
+        },
+        {
+            "name": "Xyris intersita",
+            "term": "Xyris intersita",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae197",
+                "wikidata": "Q15478002"
+            }
+        },
+        {
+            "name": "Xyris filifolia",
+            "term": "Xyris filifolia",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae198",
+                "wikidata": "Q15478005"
+            }
+        },
+        {
+            "name": "Xyris egleri",
+            "term": "Xyris egleri",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae199",
+                "wikidata": "Q15478018"
+            }
+        },
+        {
+            "name": "Xyris mallocephala",
+            "term": "Xyris mallocephala",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae200",
+                "wikidata": "Q15478020"
+            }
+        },
+        {
+            "name": "Xyris involucrata",
+            "term": "Xyris involucrata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae201",
+                "wikidata": "Q15478024"
+            }
+        },
+        {
+            "name": "Xyris filiformis",
+            "term": "Xyris filiformis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae202",
+                "wikidata": "Q15478026"
+            }
+        },
+        {
+            "name": "Xyris lacerata",
+            "term": "Xyris lacerata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae203",
+                "wikidata": "Q15478027"
+            }
+        },
+        {
+            "name": "Xyris congensis",
+            "term": "Xyris congensis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae204",
+                "wikidata": "Q15478032"
+            }
+        },
+        {
+            "name": "Xyris malmeana",
+            "term": "Xyris malmeana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae205",
+                "wikidata": "Q15478043"
+            }
+        },
+        {
+            "name": "Xyris isoetifolia",
+            "term": "Xyris isoetifolia",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae206",
+                "wikidata": "Q15478048"
+            }
+        },
+        {
+            "name": "Xyris nubigena",
+            "term": "Xyris nubigena",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae207",
+                "wikidata": "Q15478050"
+            }
+        },
+        {
+            "name": "Xyris laevigata",
+            "term": "Xyris laevigata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae208",
+                "wikidata": "Q15478066"
+            }
+        },
+        {
+            "name": "Xyris guaranitica",
+            "term": "Xyris guaranitica",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae209",
+                "wikidata": "Q15478077"
+            }
+        },
+        {
+            "name": "Xyris itambensis",
+            "term": "Xyris itambensis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae210",
+                "wikidata": "Q15478078"
+            }
+        },
+        {
+            "name": "Xyris fimbriata",
+            "term": "Xyris fimbriata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae211",
+                "wikidata": "Q15478091"
+            }
+        },
+        {
+            "name": "Xyris lagoinhae",
+            "term": "Xyris lagoinhae",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae212",
+                "wikidata": "Q15478094"
+            }
+        },
+        {
+            "name": "Xyris guianensis",
+            "term": "Xyris guianensis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae213",
+                "wikidata": "Q15478111"
+            }
+        },
+        {
+            "name": "Xyris itatiayensis",
+            "term": "Xyris itatiayensis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae214",
+                "wikidata": "Q15478125"
+            }
+        },
+        {
+            "name": "Xyris lanata",
+            "term": "Xyris lanata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae215",
+                "wikidata": "Q15478133"
+            }
+        },
+        {
+            "name": "Xyris marginata",
+            "term": "Xyris marginata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae216",
+                "wikidata": "Q15478141"
+            }
+        },
+        {
+            "name": "Xyris guillauminii",
+            "term": "Xyris guillauminii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae217",
+                "wikidata": "Q15478143"
+            }
+        },
+        {
+            "name": "Xyris laniceps",
+            "term": "Xyris laniceps",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae218",
+                "wikidata": "Q15478168"
+            }
+        },
+        {
+            "name": "Xyris jataiana",
+            "term": "Xyris jataiana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae219",
+                "wikidata": "Q15478174"
+            }
+        },
+        {
+            "name": "Xyris capillaris",
+            "term": "Xyris capillaris",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae220",
+                "wikidata": "Q15478178"
+            }
+        },
+        {
+            "name": "Xyris connosepala",
+            "term": "Xyris connosepala",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae221",
+                "wikidata": "Q15478179"
+            }
+        },
+        {
+            "name": "Xyris maxima",
+            "term": "Xyris maxima",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae222",
+                "wikidata": "Q15478180"
+            }
+        },
+        {
+            "name": "Xyris guillenii",
+            "term": "Xyris guillenii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae223",
+                "wikidata": "Q15478181"
+            }
+        },
+        {
+            "name": "Xyris mucujensis",
+            "term": "Xyris mucujensis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae224",
+                "wikidata": "Q15478194"
+            }
+        },
+        {
+            "name": "Xyris lanuginosa",
+            "term": "Xyris lanuginosa",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae225",
+                "wikidata": "Q15478218"
+            }
+        },
+        {
+            "name": "Xyris capnoides",
+            "term": "Xyris capnoides",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae226",
+                "wikidata": "Q15478224"
+            }
+        },
+        {
+            "name": "Xyris melanopoda",
+            "term": "Xyris melanopoda",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae227",
+                "wikidata": "Q15478225"
+            }
+        },
+        {
+            "name": "Xyris consanguinea",
+            "term": "Xyris consanguinea",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae228",
+                "wikidata": "Q15478237"
+            }
+        },
+        {
+            "name": "Xyris harleyi",
+            "term": "Xyris harleyi",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae229",
+                "wikidata": "Q15478244"
+            }
+        },
+        {
+            "name": "Xyris jolyi",
+            "term": "Xyris jolyi",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae230",
+                "wikidata": "Q15478247"
+            }
+        },
+        {
+            "name": "Xyris glochidiata",
+            "term": "Xyris glochidiata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae231",
+                "wikidata": "Q15478260"
+            }
+        },
+        {
+            "name": "Xyris muelleri",
+            "term": "Xyris muelleri",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae232",
+                "wikidata": "Q15478267"
+            }
+        },
+        {
+            "name": "Xyris operculata",
+            "term": "Xyris operculata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae233",
+                "wikidata": "Q15478297"
+            }
+        },
+        {
+            "name": "Xyris consolida",
+            "term": "Xyris consolida",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae234",
+                "wikidata": "Q15478298"
+            }
+        },
+        {
+            "name": "Xyris piresiana",
+            "term": "Xyris piresiana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae235",
+                "wikidata": "Q15478308"
+            }
+        },
+        {
+            "name": "Xyris savanensis",
+            "term": "Xyris savanensis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae236",
+                "wikidata": "Q15478309"
+            }
+        },
+        {
+            "name": "Xyris spinulosa",
+            "term": "Xyris spinulosa",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae237",
+                "wikidata": "Q15478323"
+            }
+        },
+        {
+            "name": "Xyris surinamensis",
+            "term": "Xyris surinamensis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae238",
+                "wikidata": "Q15478347"
+            }
+        },
+        {
+            "name": "Xyris melanovaginata",
+            "term": "Xyris melanovaginata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae239",
+                "wikidata": "Q15478348"
+            }
+        },
+        {
+            "name": "Xyris hatschbachii",
+            "term": "Xyris hatschbachii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae240",
+                "wikidata": "Q15478349"
+            }
+        },
+        {
+            "name": "Xyris organensis",
+            "term": "Xyris organensis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae241",
+                "wikidata": "Q15478354"
+            }
+        },
+        {
+            "name": "Xyris bicephala",
+            "term": "Xyris bicephala",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae242",
+                "wikidata": "Q15478361"
+            }
+        },
+        {
+            "name": "Xyris villosicarinata",
+            "term": "Xyris villosicarinata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae243",
+                "wikidata": "Q15478365"
+            }
+        },
+        {
+            "name": "Xyris tortula",
+            "term": "Xyris tortula",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae244",
+                "wikidata": "Q15478366"
+            }
+        },
+        {
+            "name": "Xyris contracta",
+            "term": "Xyris contracta",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae245",
+                "wikidata": "Q15478374"
+            }
+        },
+        {
+            "name": "Xyris scabridula",
+            "term": "Xyris scabridula",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae246",
+                "wikidata": "Q15478378"
+            }
+        },
+        {
+            "name": "Xyris spruceana",
+            "term": "Xyris spruceana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae247",
+                "wikidata": "Q15478393"
+            }
+        },
+        {
+            "name": "Xyris regnellii",
+            "term": "Xyris regnellii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae248",
+                "wikidata": "Q15478399"
+            }
+        },
+        {
+            "name": "Xyris vivipara",
+            "term": "Xyris vivipara",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae249",
+                "wikidata": "Q15478421"
+            }
+        },
+        {
+            "name": "Xyris natalensis",
+            "term": "Xyris natalensis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae250",
+                "wikidata": "Q15478426"
+            }
+        },
+        {
+            "name": "Xyris ornithoptera",
+            "term": "Xyris ornithoptera",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae251",
+                "wikidata": "Q15478431"
+            }
+        },
+        {
+            "name": "Xyris trachyphylla",
+            "term": "Xyris trachyphylla",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae252",
+                "wikidata": "Q15478433"
+            }
+        },
+        {
+            "name": "Xyris bicostata",
+            "term": "Xyris bicostata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae253",
+                "wikidata": "Q15478440"
+            }
+        },
+        {
+            "name": "Xyris stenocephala",
+            "term": "Xyris stenocephala",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae254",
+                "wikidata": "Q15478446"
+            }
+        },
+        {
+            "name": "Xyris scabrifolia",
+            "term": "Xyris scabrifolia",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae255",
+                "wikidata": "Q15478452"
+            }
+        },
+        {
+            "name": "Xyris symoensii",
+            "term": "Xyris symoensii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae256",
+                "wikidata": "Q15478453"
+            }
+        },
+        {
+            "name": "Xyris longiscapa",
+            "term": "Xyris longiscapa",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae257",
+                "wikidata": "Q15478463"
+            }
+        },
+        {
+            "name": "Xyris mello-barretoi",
+            "term": "Xyris mello-barretoi",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae258",
+                "wikidata": "Q15478469"
+            }
+        },
+        {
+            "name": "Xyris hatschhachii",
+            "term": "Xyris hatschhachii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae259",
+                "wikidata": "Q15478471"
+            }
+        },
+        {
+            "name": "Xyris gongylospica",
+            "term": "Xyris gongylospica",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae260",
+                "wikidata": "Q15478475"
+            }
+        },
+        {
+            "name": "Xyris wallichii",
+            "term": "Xyris wallichii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae261",
+                "wikidata": "Q15478505"
+            }
+        },
+        {
+            "name": "Xyris trachysperma",
+            "term": "Xyris trachysperma",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae262",
+                "wikidata": "Q15478509"
+            }
+        },
+        {
+            "name": "Xyris bissei",
+            "term": "Xyris bissei",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae263",
+                "wikidata": "Q15478521"
+            }
+        },
+        {
+            "name": "Xyris tasmanica",
+            "term": "Xyris tasmanica",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae264",
+                "wikidata": "Q15478526"
+            }
+        },
+        {
+            "name": "Xyris oxylepis",
+            "term": "Xyris oxylepis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae265",
+                "wikidata": "Q15478537"
+            }
+        },
+        {
+            "name": "Xyris stenophylla",
+            "term": "Xyris stenophylla",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae266",
+                "wikidata": "Q15478540"
+            }
+        },
+        {
+            "name": "Xyris wawrae",
+            "term": "Xyris wawrae",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae267",
+                "wikidata": "Q15478569"
+            }
+        },
+        {
+            "name": "Xyris trichophylla",
+            "term": "Xyris trichophylla",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae268",
+                "wikidata": "Q15478574"
+            }
+        },
+        {
+            "name": "Xyris navicularis",
+            "term": "Xyris navicularis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae269",
+                "wikidata": "Q15478610"
+            }
+        },
+        {
+            "name": "Xyris paleacea",
+            "term": "Xyris paleacea",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae270",
+                "wikidata": "Q15478613"
+            }
+        },
+        {
+            "name": "Xyris longisepala",
+            "term": "Xyris longisepala",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae271",
+                "wikidata": "Q15478619"
+            }
+        },
+        {
+            "name": "Xyris rehmannii",
+            "term": "Xyris rehmannii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae272",
+                "wikidata": "Q15478620"
+            }
+        },
+        {
+            "name": "Xyris welwitschii",
+            "term": "Xyris welwitschii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae273",
+                "wikidata": "Q15478631"
+            }
+        },
+        {
+            "name": "Xyris tristis",
+            "term": "Xyris tristis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae274",
+                "wikidata": "Q15478648"
+            }
+        },
+        {
+            "name": "Xyris stenophylloides",
+            "term": "Xyris stenophylloides",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae275",
+                "wikidata": "Q15478650"
+            }
+        },
+        {
+            "name": "Xyris tatei",
+            "term": "Xyris tatei",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae276",
+                "wikidata": "Q15478678"
+            }
+        },
+        {
+            "name": "Xyris pallidula",
+            "term": "Xyris pallidula",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae277",
+                "wikidata": "Q15478695"
+            }
+        },
+        {
+            "name": "Xyris membranibracteata",
+            "term": "Xyris membranibracteata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae278",
+                "wikidata": "Q15478697"
+            }
+        },
+        {
+            "name": "Xyris witsenioides",
+            "term": "Xyris witsenioides",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae279",
+                "wikidata": "Q15478703"
+            }
+        },
+        {
+            "name": "Xyris lucida",
+            "term": "Xyris lucida",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae280",
+                "wikidata": "Q15478727"
+            }
+        },
+        {
+            "name": "Xyris tuberosa",
+            "term": "Xyris tuberosa",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae281",
+                "wikidata": "Q15478741"
+            }
+        },
+        {
+            "name": "Xyris stenostachya",
+            "term": "Xyris stenostachya",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae282",
+                "wikidata": "Q15478755"
+            }
+        },
+        {
+            "name": "Xyris porcata",
+            "term": "Xyris porcata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae283",
+                "wikidata": "Q15478756"
+            }
+        },
+        {
+            "name": "Xyris schliebenii",
+            "term": "Xyris schliebenii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae284",
+                "wikidata": "Q15478757"
+            }
+        },
+        {
+            "name": "Xyris wurdackii",
+            "term": "Xyris wurdackii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae285",
+                "wikidata": "Q15478762"
+            }
+        },
+        {
+            "name": "Xyris teinosperma",
+            "term": "Xyris teinosperma",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae286",
+                "wikidata": "Q15478774"
+            }
+        },
+        {
+            "name": "Xyris panacea",
+            "term": "Xyris panacea",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae287",
+                "wikidata": "Q15478775"
+            }
+        },
+        {
+            "name": "Xyris xiphophylla",
+            "term": "Xyris xiphophylla",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae288",
+                "wikidata": "Q15478816"
+            }
+        },
+        {
+            "name": "Xyris uleana",
+            "term": "Xyris uleana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae289",
+                "wikidata": "Q15478817"
+            }
+        },
+        {
+            "name": "Xyris neblinae",
+            "term": "Xyris neblinae",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae290",
+                "wikidata": "Q15478837"
+            }
+        },
+        {
+            "name": "Xyris straminea",
+            "term": "Xyris straminea",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae291",
+                "wikidata": "Q15478846"
+            }
+        },
+        {
+            "name": "Xyris pancheri",
+            "term": "Xyris pancheri",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae292",
+                "wikidata": "Q15478860"
+            }
+        },
+        {
+            "name": "Xyris luetzelburgii",
+            "term": "Xyris luetzelburgii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae293",
+                "wikidata": "Q15478865"
+            }
+        },
+        {
+            "name": "Xyris reitzii",
+            "term": "Xyris reitzii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae294",
+                "wikidata": "Q15478866"
+            }
+        },
+        {
+            "name": "Xyris uninervis",
+            "term": "Xyris uninervis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae295",
+                "wikidata": "Q15478886"
+            }
+        },
+        {
+            "name": "Xyris porphyrea",
+            "term": "Xyris porphyrea",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae296",
+                "wikidata": "Q15478891"
+            }
+        },
+        {
+            "name": "Xyris schneeana",
+            "term": "Xyris schneeana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae297",
+                "wikidata": "Q15478892"
+            }
+        },
+        {
+            "name": "Xyris tenella",
+            "term": "Xyris tenella",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae298",
+                "wikidata": "Q15478906"
+            }
+        },
+        {
+            "name": "Xyris mentiens",
+            "term": "Xyris mentiens",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae299",
+                "wikidata": "Q15478930"
+            }
+        },
+        {
+            "name": "Aratitiyopea lopezii",
+            "term": "Aratitiyopea lopezii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae300",
+                "wikidata": "Q15475708"
+            }
+        },
+        {
+            "name": "Achlyphila disticha",
+            "term": "Achlyphila disticha",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae301",
+                "wikidata": "Q15475562"
+            }
+        },
+        {
+            "name": "Xyris capensis var. schoenoides",
+            "term": "Xyris capensis var. schoenoides",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae302",
+                "wikidata": "Q25133963"
+            }
+        },
+        {
+            "name": "Abolboda poarchon var. intermedia",
+            "term": "Abolboda poarchon var. intermedia",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae303",
+                "wikidata": "Q28821624"
+            }
+        },
+        {
+            "name": "Abolboda macrostachya var. robustior",
+            "term": "Abolboda macrostachya var. robustior",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae304",
+                "wikidata": "Q28821619"
+            }
+        },
+        {
+            "name": "Xyris anceps var. minima",
+            "term": "Xyris anceps var. minima",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae305",
+                "wikidata": "Q28821636"
+            }
+        },
+        {
+            "name": "Aratitiyopea lopezii var. colombiana",
+            "term": "Aratitiyopea lopezii var. colombiana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae306",
+                "wikidata": "Q28821629"
+            }
+        },
+        {
+            "name": "Xyris laxifolia var. iridifolia",
+            "term": "Xyris laxifolia var. iridifolia",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae307",
+                "wikidata": "Q24694598"
+            }
+        },
+        {
+            "name": "Abolboda grandis var. rigida",
+            "term": "Abolboda grandis var. rigida",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae308",
+                "wikidata": "Q28821614"
+            }
+        },
+        {
+            "name": "Xyris difformis var. curtissii",
+            "term": "Xyris difformis var. curtissii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae309",
+                "wikidata": "Q24694595"
+            }
+        },
+        {
+            "name": "Xyris difformis var. difformis",
+            "term": "Xyris difformis var. difformis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae310",
+                "wikidata": "Q24694596"
+            }
+        },
+        {
+            "name": "Xyris difformis var. floridana",
+            "term": "Xyris difformis var. floridana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae311",
+                "wikidata": "Q24694597"
+            }
+        },
+        {
+            "name": "Xyris bicostata var. tillettii",
+            "term": "Xyris bicostata var. tillettii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae312",
+                "wikidata": "Q28821638"
+            }
+        },
+        {
+            "name": "Xyris uleana var. angustifolia",
+            "term": "Xyris uleana var. angustifolia",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae313",
+                "wikidata": "Q28821668"
+            }
+        },
+        {
+            "name": "Xyris stricta var. obscura",
+            "term": "Xyris stricta var. obscura",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae314",
+                "wikidata": "Q24694599"
+            }
+        },
+        {
+            "name": "Xyris stricta var. stricta",
+            "term": "Xyris stricta var. stricta",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae315",
+                "wikidata": "Q24694601"
+            }
+        },
+        {
+            "name": "Xyris subulata var. acutifolia",
+            "term": "Xyris subulata var. acutifolia",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae316",
+                "wikidata": "Q28821663"
+            }
+        },
+        {
+            "name": "Xyris thysanolepis var. sipapoa",
+            "term": "Xyris thysanolepis var. sipapoa",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae317",
+                "wikidata": "Q28821665"
+            }
+        },
+        {
+            "name": "Xyris paradisiaca",
+            "term": "Xyris paradisiaca",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae318",
+                "wikidata": "Q15478954"
+            }
+        },
+        {
+            "name": "Xyris unistriata",
+            "term": "Xyris unistriata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae319",
+                "wikidata": "Q15478968"
+            }
+        },
+        {
+            "name": "Xyris stricta",
+            "term": "Xyris stricta",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae320",
+                "wikidata": "Q15478997"
+            }
+        },
+        {
+            "name": "Xyris pranceana",
+            "term": "Xyris pranceana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae321",
+                "wikidata": "Q15478998"
+            }
+        },
+        {
+            "name": "Xyris serotina",
+            "term": "Xyris serotina",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae322",
+                "wikidata": "Q15478999"
+            }
+        },
+        {
+            "name": "Xyris lugubris",
+            "term": "Xyris lugubris",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae323",
+                "wikidata": "Q15479035"
+            }
+        },
+        {
+            "name": "Xyris ustulata",
+            "term": "Xyris ustulata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae324",
+                "wikidata": "Q15479040"
+            }
+        },
+        {
+            "name": "Xyris paraensis",
+            "term": "Xyris paraensis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae325",
+                "wikidata": "Q15479066"
+            }
+        },
+        {
+            "name": "Xyris subaristata",
+            "term": "Xyris subaristata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae326",
+                "wikidata": "Q15479096"
+            }
+        },
+        {
+            "name": "Xyris pratensis",
+            "term": "Xyris pratensis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae327",
+                "wikidata": "Q15479123"
+            }
+        },
+        {
+            "name": "Xyris setigera",
+            "term": "Xyris setigera",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae328",
+                "wikidata": "Q15479124"
+            }
+        },
+        {
+            "name": "Xyris vacillans",
+            "term": "Xyris vacillans",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae329",
+                "wikidata": "Q15479127"
+            }
+        },
+        {
+            "name": "Xyris teres",
+            "term": "Xyris teres",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae330",
+                "wikidata": "Q15479167"
+            }
+        },
+        {
+            "name": "Xyris subasperula",
+            "term": "Xyris subasperula",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae331",
+                "wikidata": "Q15479184"
+            }
+        },
+        {
+            "name": "Xyris parvula",
+            "term": "Xyris parvula",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae332",
+                "wikidata": "Q15479185"
+            }
+        },
+        {
+            "name": "Xyris mertensiana",
+            "term": "Xyris mertensiana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae333",
+                "wikidata": "Q15479194"
+            }
+        },
+        {
+            "name": "Xyris valdeapiculata",
+            "term": "Xyris valdeapiculata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae334",
+                "wikidata": "Q15479214"
+            }
+        },
+        {
+            "name": "Xyris prolificans",
+            "term": "Xyris prolificans",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae335",
+                "wikidata": "Q15479219"
+            }
+        },
+        {
+            "name": "Xyris seubertii",
+            "term": "Xyris seubertii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae336",
+                "wikidata": "Q15479223"
+            }
+        },
+        {
+            "name": "Xyris subglabrata",
+            "term": "Xyris subglabrata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae337",
+                "wikidata": "Q15479263"
+            }
+        },
+        {
+            "name": "Xyris neglecta",
+            "term": "Xyris neglecta",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae338",
+                "wikidata": "Q15479310"
+            }
+        },
+        {
+            "name": "Xyris valida",
+            "term": "Xyris valida",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae339",
+                "wikidata": "Q15479314"
+            }
+        },
+        {
+            "name": "Xyris metallica",
+            "term": "Xyris metallica",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae340",
+                "wikidata": "Q15479321"
+            }
+        },
+        {
+            "name": "Xyris teretifolia",
+            "term": "Xyris teretifolia",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae341",
+                "wikidata": "Q15479322"
+            }
+        },
+        {
+            "name": "Xyris venezolana",
+            "term": "Xyris venezolana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae342",
+                "wikidata": "Q15479379"
+            }
+        },
+        {
+            "name": "Xyris subsetigera",
+            "term": "Xyris subsetigera",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae343",
+                "wikidata": "Q15479404"
+            }
+        },
+        {
+            "name": "Xyris sincorana",
+            "term": "Xyris sincorana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae344",
+                "wikidata": "Q15479405"
+            }
+        },
+        {
+            "name": "Xyris neocaledonica",
+            "term": "Xyris neocaledonica",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae345",
+                "wikidata": "Q15479418"
+            }
+        },
+        {
+            "name": "Xyris ptariana",
+            "term": "Xyris ptariana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae346",
+                "wikidata": "Q15479445"
+            }
+        },
+        {
+            "name": "Xyris veruina",
+            "term": "Xyris veruina",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae347",
+                "wikidata": "Q15479489"
+            }
+        },
+        {
+            "name": "Xyris subtilis",
+            "term": "Xyris subtilis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae348",
+                "wikidata": "Q15479495"
+            }
+        },
+        {
+            "name": "Xyris smalliana",
+            "term": "Xyris smalliana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae349",
+                "wikidata": "Q15479537"
+            }
+        },
+        {
+            "name": "Xyris pterygoblephara",
+            "term": "Xyris pterygoblephara",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae350",
+                "wikidata": "Q15479564"
+            }
+        },
+        {
+            "name": "Xyris vestita",
+            "term": "Xyris vestita",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae351",
+                "wikidata": "Q15479581"
+            }
+        },
+        {
+            "name": "Xyris terrestris",
+            "term": "Xyris terrestris",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae352",
+                "wikidata": "Q15479593"
+            }
+        },
+        {
+            "name": "Xyris mexiae",
+            "term": "Xyris mexiae",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae353",
+                "wikidata": "Q15479630"
+            }
+        },
+        {
+            "name": "Xyris subulata",
+            "term": "Xyris subulata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae354",
+                "wikidata": "Q15479677"
+            }
+        },
+        {
+            "name": "Xyris pumila",
+            "term": "Xyris pumila",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae355",
+                "wikidata": "Q15479713"
+            }
+        },
+        {
+            "name": "Xyris sororia",
+            "term": "Xyris sororia",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae356",
+                "wikidata": "Q15479726"
+            }
+        },
+        {
+            "name": "Xyris subuniflora",
+            "term": "Xyris subuniflora",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae357",
+                "wikidata": "Q15479800"
+            }
+        },
+        {
+            "name": "Xyris theodori",
+            "term": "Xyris theodori",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae358",
+                "wikidata": "Q15479840"
+            }
+        },
+        {
+            "name": "Xyris ramboi",
+            "term": "Xyris ramboi",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae359",
+                "wikidata": "Q15479863"
+            }
+        },
+        {
+            "name": "Xyris sparsifolia",
+            "term": "Xyris sparsifolia",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae360",
+                "wikidata": "Q15479890"
+            }
+        },
+        {
+            "name": "Xyris sulcatifolia",
+            "term": "Xyris sulcatifolia",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae361",
+                "wikidata": "Q15480018"
+            }
+        },
+        {
+            "name": "Xyris thysanolepis",
+            "term": "Xyris thysanolepis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae362",
+                "wikidata": "Q15480063"
+            }
+        },
+        {
+            "name": "Xyris spathacea",
+            "term": "Xyris spathacea",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae363",
+                "wikidata": "Q15480096"
+            }
+        },
+        {
+            "name": "Xyris spectabilis",
+            "term": "Xyris spectabilis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae364",
+                "wikidata": "Q15480273"
+            }
+        },
+        {
+            "name": "Xyris tomentosa",
+            "term": "Xyris tomentosa",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae365",
+                "wikidata": "Q15480310"
+            }
+        },
+        {
+            "name": "Xyris toronoana",
+            "term": "Xyris toronoana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae366",
+                "wikidata": "Q15480485"
+            }
+        },
+        {
+            "name": "Xyris torta",
+            "term": "Xyris torta",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae367",
+                "wikidata": "Q15480770"
+            }
+        },
+        {
+            "name": "Xyris nigrescens",
+            "term": "Xyris nigrescens",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae368",
+                "wikidata": "Q15480817"
+            }
+        },
+        {
+            "name": "Xyris tortilis",
+            "term": "Xyris tortilis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae369",
+                "wikidata": "Q15480986"
+            }
+        },
+        {
+            "name": "Xyris rigida",
+            "term": "Xyris rigida",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae370",
+                "wikidata": "Q15481016"
+            }
+        },
+        {
+            "name": "Xyris nigricans",
+            "term": "Xyris nigricans",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae371",
+                "wikidata": "Q15481093"
+            }
+        },
+        {
+            "name": "Xyris rigidiformis",
+            "term": "Xyris rigidiformis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae372",
+                "wikidata": "Q15481254"
+            }
+        },
+        {
+            "name": "Xyris nilssonii",
+            "term": "Xyris nilssonii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae373",
+                "wikidata": "Q15481492"
+            }
+        },
+        {
+            "name": "Xyris riparia",
+            "term": "Xyris riparia",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae374",
+                "wikidata": "Q15482039"
+            }
+        },
+        {
+            "name": "Xyris roraimae",
+            "term": "Xyris roraimae",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae375",
+                "wikidata": "Q15482791"
+            }
+        },
+        {
+            "name": "Xyris roycei",
+            "term": "Xyris roycei",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae376",
+                "wikidata": "Q15483441"
+            }
+        },
+        {
+            "name": "Xyris rubella",
+            "term": "Xyris rubella",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae377",
+                "wikidata": "Q15483632"
+            }
+        },
+        {
+            "name": "Xyris rubrolimbata",
+            "term": "Xyris rubrolimbata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae378",
+                "wikidata": "Q15484979"
+            }
+        },
+        {
+            "name": "Xyris rubromarginata",
+            "term": "Xyris rubromarginata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae379",
+                "wikidata": "Q15485774"
+            }
+        },
+        {
+            "name": "Xyris rupicola",
+            "term": "Xyris rupicola",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae380",
+                "wikidata": "Q15486172"
+            }
+        },
+        {
+            "name": "Xyris sanguinea",
+            "term": "Xyris sanguinea",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae381",
+                "wikidata": "Q15486461"
+            }
+        },
+        {
+            "name": "Xyris mantuensis",
+            "term": "Xyris mantuensis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae382",
+                "wikidata": "Q15502479"
+            }
+        },
+        {
+            "name": "Xyris sphaerocephala",
+            "term": "Xyris sphaerocephala",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae383",
+                "wikidata": "Q17375274"
+            }
+        },
+        {
+            "name": "Xyris huillensis",
+            "term": "Xyris huillensis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae384",
+                "wikidata": "Q17375275"
+            }
+        },
+        {
+            "name": "Xyris graomogolensis",
+            "term": "Xyris graomogolensis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae385",
+                "wikidata": "Q17375276"
+            }
+        },
+        {
+            "name": "Xyris spathifolia",
+            "term": "Xyris spathifolia",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae386",
+                "wikidata": "Q17375280"
+            }
+        },
+        {
+            "name": "Xyris cervii",
+            "term": "Xyris cervii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae387",
+                "wikidata": "Q22704089"
+            }
+        },
+        {
+            "name": "Xyris anamariae",
+            "term": "Xyris anamariae",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae388",
+                "wikidata": "Q28821631"
+            }
+        },
+        {
+            "name": "Xyris bracteicaulis",
+            "term": "Xyris bracteicaulis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae389",
+                "wikidata": "Q28821641"
+            }
+        },
+        {
+            "name": "Xyris crassifunda",
+            "term": "Xyris crassifunda",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae390",
+                "wikidata": "Q28821645"
+            }
+        },
+        {
+            "name": "Xyris fredericoi",
+            "term": "Xyris fredericoi",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae391",
+                "wikidata": "Q28821647"
+            }
+        },
+        {
+            "name": "Xyris kralii",
+            "term": "Xyris kralii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae392",
+                "wikidata": "Q28821650"
+            }
+        },
+        {
+            "name": "Xyris nanuzae",
+            "term": "Xyris nanuzae",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae393",
+                "wikidata": "Q28821653"
+            }
+        },
+        {
+            "name": "Xyris piranii",
+            "term": "Xyris piranii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae394",
+                "wikidata": "Q28821656"
+            }
+        },
+        {
+            "name": "Xyris submetallica",
+            "term": "Xyris submetallica",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae395",
+                "wikidata": "Q28821660"
+            }
+        },
+        {
+            "name": "Abolboda linearifolia",
+            "term": "Abolboda linearifolia",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae396",
+                "wikidata": "Q15474969"
+            }
+        },
+        {
+            "name": "Abolboda poarchon",
+            "term": "Abolboda poarchon",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae397",
+                "wikidata": "Q15474981"
+            }
+        },
+        {
+            "name": "Abolboda macrostachya",
+            "term": "Abolboda macrostachya",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae398",
+                "wikidata": "Q15475045"
+            }
+        },
+        {
+            "name": "Abolboda abbreviata",
+            "term": "Abolboda abbreviata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae399",
+                "wikidata": "Q15475055"
+            }
+        },
+        {
+            "name": "Abolboda pulchella",
+            "term": "Abolboda pulchella",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae400",
+                "wikidata": "Q15475084"
+            }
+        },
+        {
+            "name": "Abolboda neblinae",
+            "term": "Abolboda neblinae",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae401",
+                "wikidata": "Q15475151"
+            }
+        },
+        {
+            "name": "Abolboda acaulis",
+            "term": "Abolboda acaulis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae402",
+                "wikidata": "Q15475197"
+            }
+        },
+        {
+            "name": "Abolboda scabrida",
+            "term": "Abolboda scabrida",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae403",
+                "wikidata": "Q15475203"
+            }
+        },
+        {
+            "name": "Abolboda paniculata",
+            "term": "Abolboda paniculata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae404",
+                "wikidata": "Q15475261"
+            }
+        },
+        {
+            "name": "Abolboda acicularis",
+            "term": "Abolboda acicularis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae405",
+                "wikidata": "Q15475290"
+            }
+        },
+        {
+            "name": "Abolboda sprucei",
+            "term": "Abolboda sprucei",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae406",
+                "wikidata": "Q15475333"
+            }
+        },
+        {
+            "name": "Abolboda americana",
+            "term": "Abolboda americana",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae407",
+                "wikidata": "Q15475399"
+            }
+        },
+        {
+            "name": "Abolboda uniflora",
+            "term": "Abolboda uniflora",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae408",
+                "wikidata": "Q15475459"
+            }
+        },
+        {
+            "name": "Abolboda bella",
+            "term": "Abolboda bella",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae409",
+                "wikidata": "Q15475528"
+            }
+        },
+        {
+            "name": "Abolboda ciliata",
+            "term": "Abolboda ciliata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae410",
+                "wikidata": "Q15475655"
+            }
+        },
+        {
+            "name": "Abolboda dunstervillei",
+            "term": "Abolboda dunstervillei",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae411",
+                "wikidata": "Q15475777"
+            }
+        },
+        {
+            "name": "Abolboda ebracteata",
+            "term": "Abolboda ebracteata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae412",
+                "wikidata": "Q15475863"
+            }
+        },
+        {
+            "name": "Abolboda egleri",
+            "term": "Abolboda egleri",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae413",
+                "wikidata": "Q15475978"
+            }
+        },
+        {
+            "name": "Abolboda glomerata",
+            "term": "Abolboda glomerata",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae414",
+                "wikidata": "Q15476085"
+            }
+        },
+        {
+            "name": "Abolboda grandis",
+            "term": "Abolboda grandis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae415",
+                "wikidata": "Q15476220"
+            }
+        },
+        {
+            "name": "Abolboda granularis",
+            "term": "Abolboda granularis",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae416",
+                "wikidata": "Q15476320"
+            }
+        },
+        {
+            "name": "Abolboda killipii",
+            "term": "Abolboda killipii",
+            "identifiers": {
+                "contentmine": "CM.xyridaceae417",
+                "wikidata": "Q15476445"
+            }
+        }
+    ],
+    "id": "CM.xyridaceae"
+}
