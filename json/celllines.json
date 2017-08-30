@@ -1,0 +1,1276 @@
+{
+    "id": "celllines",
+    "log": [
+        {
+            "type": "wdqs",
+            "query": "SELECT ?item\nWHERE \n {\n   ?item wdt:P31/wdt:279* wd:Q21014462 .\n    SERVICE wikibase:label {bd:serviceParam wikibase:language \"en\" } \n  }",
+            "time": 1502647503045
+        }
+    ],
+    "entries": [
+        {
+            "name": "CHO cell line",
+            "term": "CHO cell line",
+            "identifiers": {
+                "contentmine": "CM.celllines0",
+                "wikidata": "Q56646"
+            }
+        },
+        {
+            "name": "HEK293",
+            "term": "HEK293",
+            "identifiers": {
+                "contentmine": "CM.celllines1",
+                "wikidata": "Q489618"
+            }
+        },
+        {
+            "name": "HeLa",
+            "term": "HeLa",
+            "identifiers": {
+                "contentmine": "CM.celllines2",
+                "wikidata": "Q847482"
+            }
+        },
+        {
+            "name": "Jurkat",
+            "term": "Jurkat",
+            "identifiers": {
+                "contentmine": "CM.celllines3",
+                "wikidata": "Q1632589"
+            }
+        },
+        {
+            "name": "MCF-7",
+            "term": "MCF-7",
+            "identifiers": {
+                "contentmine": "CM.celllines4",
+                "wikidata": "Q1881253"
+            }
+        },
+        {
+            "name": "Peer cell line",
+            "term": "Peer cell line",
+            "identifiers": {
+                "contentmine": "CM.celllines5",
+                "wikidata": "Q2067085"
+            }
+        },
+        {
+            "name": "Sf21",
+            "term": "Sf21",
+            "identifiers": {
+                "contentmine": "CM.celllines6",
+                "wikidata": "Q2276068"
+            }
+        },
+        {
+            "name": "Vero cell line",
+            "term": "Vero cell line",
+            "identifiers": {
+                "contentmine": "CM.celllines7",
+                "wikidata": "Q3066564"
+            }
+        },
+        {
+            "name": "MRC-5",
+            "term": "MRC-5",
+            "identifiers": {
+                "contentmine": "CM.celllines8",
+                "wikidata": "Q3273166"
+            }
+        },
+        {
+            "name": "Raji cell line",
+            "term": "Raji cell line",
+            "identifiers": {
+                "contentmine": "CM.celllines9",
+                "wikidata": "Q4215980"
+            }
+        },
+        {
+            "name": "3T3-L1",
+            "term": "3T3-L1",
+            "identifiers": {
+                "contentmine": "CM.celllines10",
+                "wikidata": "Q4636414"
+            }
+        },
+        {
+            "name": "NIH 3T3",
+            "term": "NIH 3T3",
+            "identifiers": {
+                "contentmine": "CM.celllines11",
+                "wikidata": "Q4636420"
+            }
+        },
+        {
+            "name": "A-431",
+            "term": "A-431",
+            "identifiers": {
+                "contentmine": "CM.celllines12",
+                "wikidata": "Q4649310"
+            }
+        },
+        {
+            "name": "A-549",
+            "term": "A-549",
+            "identifiers": {
+                "contentmine": "CM.celllines13",
+                "wikidata": "Q4649475"
+            }
+        },
+        {
+            "name": "AB.9",
+            "term": "AB.9",
+            "identifiers": {
+                "contentmine": "CM.celllines14",
+                "wikidata": "Q4650009"
+            }
+        },
+        {
+            "name": "BCP-1",
+            "term": "BCP-1",
+            "identifiers": {
+                "contentmine": "CM.celllines15",
+                "wikidata": "Q4835216"
+            }
+        },
+        {
+            "name": "BOSC-23",
+            "term": "BOSC-23",
+            "identifiers": {
+                "contentmine": "CM.celllines16",
+                "wikidata": "Q4836226"
+            }
+        },
+        {
+            "name": "BHK-21",
+            "term": "BHK-21",
+            "identifiers": {
+                "contentmine": "CM.celllines17",
+                "wikidata": "Q4838438"
+            }
+        },
+        {
+            "name": "C2C12",
+            "term": "C2C12",
+            "identifiers": {
+                "contentmine": "CM.celllines18",
+                "wikidata": "Q5008075"
+            }
+        },
+        {
+            "name": "COS cell lines",
+            "term": "COS cell lines",
+            "identifiers": {
+                "contentmine": "CM.celllines19",
+                "wikidata": "Q5013524"
+            }
+        },
+        {
+            "name": "Caco-2",
+            "term": "Caco-2",
+            "identifiers": {
+                "contentmine": "CM.celllines20",
+                "wikidata": "Q5016050"
+            }
+        },
+        {
+            "name": "DU145",
+            "term": "DU145",
+            "identifiers": {
+                "contentmine": "CM.celllines21",
+                "wikidata": "Q5206280"
+            }
+        },
+        {
+            "name": "NCI-H1299",
+            "term": "NCI-H1299",
+            "identifiers": {
+                "contentmine": "CM.celllines22",
+                "wikidata": "Q5628772"
+            }
+        },
+        {
+            "name": "HL-60",
+            "term": "HL-60",
+            "identifiers": {
+                "contentmine": "CM.celllines23",
+                "wikidata": "Q5630035"
+            }
+        },
+        {
+            "name": "HT-1080",
+            "term": "HT-1080",
+            "identifiers": {
+                "contentmine": "CM.celllines24",
+                "wikidata": "Q5636047"
+            }
+        },
+        {
+            "name": "HaCaT",
+            "term": "HaCaT",
+            "identifiers": {
+                "contentmine": "CM.celllines25",
+                "wikidata": "Q5636366"
+            }
+        },
+        {
+            "name": "Hep-G2",
+            "term": "Hep-G2",
+            "identifiers": {
+                "contentmine": "CM.celllines26",
+                "wikidata": "Q5731621"
+            }
+        },
+        {
+            "name": "J558L",
+            "term": "J558L",
+            "identifiers": {
+                "contentmine": "CM.celllines27",
+                "wikidata": "Q6107580"
+            }
+        },
+        {
+            "name": "JY cell line",
+            "term": "JY cell line",
+            "identifiers": {
+                "contentmine": "CM.celllines28",
+                "wikidata": "Q6109290"
+            }
+        },
+        {
+            "name": "K-562",
+            "term": "K-562",
+            "identifiers": {
+                "contentmine": "CM.celllines29",
+                "wikidata": "Q6324626"
+            }
+        },
+        {
+            "name": "L1210",
+            "term": "L1210",
+            "identifiers": {
+                "contentmine": "CM.celllines30",
+                "wikidata": "Q6456824"
+            }
+        },
+        {
+            "name": "LNCaP",
+            "term": "LNCaP",
+            "identifiers": {
+                "contentmine": "CM.celllines31",
+                "wikidata": "Q6459234"
+            }
+        },
+        {
+            "name": "MC3T3",
+            "term": "MC3T3",
+            "identifiers": {
+                "contentmine": "CM.celllines32",
+                "wikidata": "Q6714803"
+            }
+        },
+        {
+            "name": "P19 cell line",
+            "term": "P19 cell line",
+            "identifiers": {
+                "contentmine": "CM.celllines33",
+                "wikidata": "Q7117837"
+            }
+        },
+        {
+            "name": "PC12 cell line",
+            "term": "PC12 cell line",
+            "identifiers": {
+                "contentmine": "CM.celllines34",
+                "wikidata": "Q7118481"
+            }
+        },
+        {
+            "name": "PC-3",
+            "term": "PC-3",
+            "identifiers": {
+                "contentmine": "CM.celllines35",
+                "wikidata": "Q7118483"
+            }
+        },
+        {
+            "name": "RBL-1",
+            "term": "RBL-1",
+            "identifiers": {
+                "contentmine": "CM.celllines36",
+                "wikidata": "Q7275940"
+            }
+        },
+        {
+            "name": "CCRF S-180 II",
+            "term": "CCRF S-180 II",
+            "identifiers": {
+                "contentmine": "CM.celllines37",
+                "wikidata": "Q7388195"
+            }
+        },
+        {
+            "name": "SH-SY5Y",
+            "term": "SH-SY5Y",
+            "identifiers": {
+                "contentmine": "CM.celllines38",
+                "wikidata": "Q7390126"
+            }
+        },
+        {
+            "name": "SK-BR-3",
+            "term": "SK-BR-3",
+            "identifiers": {
+                "contentmine": "CM.celllines39",
+                "wikidata": "Q7390592"
+            }
+        },
+        {
+            "name": "SaOS-2",
+            "term": "SaOS-2",
+            "identifiers": {
+                "contentmine": "CM.celllines40",
+                "wikidata": "Q7420876"
+            }
+        },
+        {
+            "name": "Schneider 2",
+            "term": "Schneider 2",
+            "identifiers": {
+                "contentmine": "CM.celllines41",
+                "wikidata": "Q7431879"
+            }
+        },
+        {
+            "name": "Sf9",
+            "term": "Sf9",
+            "identifiers": {
+                "contentmine": "CM.celllines42",
+                "wikidata": "Q7459700"
+            }
+        },
+        {
+            "name": "THP-1",
+            "term": "THP-1",
+            "identifiers": {
+                "contentmine": "CM.celllines43",
+                "wikidata": "Q7670282"
+            }
+        },
+        {
+            "name": "U-87MG ATCC",
+            "term": "U-87MG ATCC",
+            "identifiers": {
+                "contentmine": "CM.celllines44",
+                "wikidata": "Q7863603"
+            }
+        },
+        {
+            "name": "U-937",
+            "term": "U-937",
+            "identifiers": {
+                "contentmine": "CM.celllines45",
+                "wikidata": "Q7863610"
+            }
+        },
+        {
+            "name": "WI-38",
+            "term": "WI-38",
+            "identifiers": {
+                "contentmine": "CM.celllines46",
+                "wikidata": "Q7950532"
+            }
+        },
+        {
+            "name": "H9c2(2-1)",
+            "term": "H9c2(2-1)",
+            "identifiers": {
+                "contentmine": "CM.celllines47",
+                "wikidata": "Q9363821"
+            }
+        },
+        {
+            "name": "MIN6",
+            "term": "MIN6",
+            "identifiers": {
+                "contentmine": "CM.celllines48",
+                "wikidata": "Q12513178"
+            }
+        },
+        {
+            "name": "VG-1",
+            "term": "VG-1",
+            "identifiers": {
+                "contentmine": "CM.celllines49",
+                "wikidata": "Q16258509"
+            }
+        },
+        {
+            "name": "HEp-2",
+            "term": "HEp-2",
+            "identifiers": {
+                "contentmine": "CM.celllines50",
+                "wikidata": "Q16554737"
+            }
+        },
+        {
+            "name": "MDA-MB-468",
+            "term": "MDA-MB-468",
+            "identifiers": {
+                "contentmine": "CM.celllines51",
+                "wikidata": "Q16880225"
+            }
+        },
+        {
+            "name": "NTERA-2",
+            "term": "NTERA-2",
+            "identifiers": {
+                "contentmine": "CM.celllines52",
+                "wikidata": "Q17092091"
+            }
+        },
+        {
+            "name": "BTI-Tn-5B1-4",
+            "term": "BTI-Tn-5B1-4",
+            "identifiers": {
+                "contentmine": "CM.celllines53",
+                "wikidata": "Q17126384"
+            }
+        },
+        {
+            "name": "Pt K2",
+            "term": "Pt K2",
+            "identifiers": {
+                "contentmine": "CM.celllines54",
+                "wikidata": "Q17130857"
+            }
+        },
+        {
+            "name": "NK-92",
+            "term": "NK-92",
+            "identifiers": {
+                "contentmine": "CM.celllines55",
+                "wikidata": "Q17149636"
+            }
+        },
+        {
+            "name": "MDA-MB-231",
+            "term": "MDA-MB-231",
+            "identifiers": {
+                "contentmine": "CM.celllines56",
+                "wikidata": "Q17577870"
+            }
+        },
+        {
+            "name": "NCC-IT",
+            "term": "NCC-IT",
+            "identifiers": {
+                "contentmine": "CM.celllines57",
+                "wikidata": "Q17578676"
+            }
+        },
+        {
+            "name": "AHL-1",
+            "term": "AHL-1",
+            "identifiers": {
+                "contentmine": "CM.celllines58",
+                "wikidata": "Q18205164"
+            }
+        },
+        {
+            "name": "HAP1",
+            "term": "HAP1",
+            "identifiers": {
+                "contentmine": "CM.celllines59",
+                "wikidata": "Q18347803"
+            }
+        },
+        {
+            "name": "Neuro-2a",
+            "term": "Neuro-2a",
+            "identifiers": {
+                "contentmine": "CM.celllines60",
+                "wikidata": "Q18391478"
+            }
+        },
+        {
+            "name": "KBM-7",
+            "term": "KBM-7",
+            "identifiers": {
+                "contentmine": "CM.celllines61",
+                "wikidata": "Q18392835"
+            }
+        },
+        {
+            "name": "NS0",
+            "term": "NS0",
+            "identifiers": {
+                "contentmine": "CM.celllines62",
+                "wikidata": "Q20164415"
+            }
+        },
+        {
+            "name": "B16",
+            "term": "B16",
+            "identifiers": {
+                "contentmine": "CM.celllines63",
+                "wikidata": "Q25112368"
+            }
+        },
+        {
+            "name": "NCI-H295R",
+            "term": "NCI-H295R",
+            "identifiers": {
+                "contentmine": "CM.celllines64",
+                "wikidata": "Q25323725"
+            }
+        },
+        {
+            "name": "OK cell line",
+            "term": "OK cell line",
+            "identifiers": {
+                "contentmine": "CM.celllines65",
+                "wikidata": "Q25326634"
+            }
+        },
+        {
+            "name": "EPC",
+            "term": "EPC",
+            "identifiers": {
+                "contentmine": "CM.celllines66",
+                "wikidata": "Q26882920"
+            }
+        },
+        {
+            "name": "HEK293T",
+            "term": "HEK293T",
+            "identifiers": {
+                "contentmine": "CM.celllines67",
+                "wikidata": "Q27546876"
+            }
+        },
+        {
+            "name": "GL261",
+            "term": "GL261",
+            "identifiers": {
+                "contentmine": "CM.celllines68",
+                "wikidata": "Q27547979"
+            }
+        },
+        {
+            "name": "201B7",
+            "term": "201B7",
+            "identifiers": {
+                "contentmine": "CM.celllines69",
+                "wikidata": "Q27554318"
+            }
+        },
+        {
+            "name": "OKM1",
+            "term": "OKM1",
+            "identifiers": {
+                "contentmine": "CM.celllines70",
+                "wikidata": "Q27554393"
+            }
+        },
+        {
+            "name": "HKB-11",
+            "term": "HKB-11",
+            "identifiers": {
+                "contentmine": "CM.celllines71",
+                "wikidata": "Q27555063"
+            }
+        },
+        {
+            "name": "WA09",
+            "term": "WA09",
+            "identifiers": {
+                "contentmine": "CM.celllines72",
+                "wikidata": "Q27555433"
+            }
+        },
+        {
+            "name": "Huh-7",
+            "term": "Huh-7",
+            "identifiers": {
+                "contentmine": "CM.celllines73",
+                "wikidata": "Q27555640"
+            }
+        },
+        {
+            "name": "COS-1",
+            "term": "COS-1",
+            "identifiers": {
+                "contentmine": "CM.celllines74",
+                "wikidata": "Q27556079"
+            }
+        },
+        {
+            "name": "COS-7",
+            "term": "COS-7",
+            "identifiers": {
+                "contentmine": "CM.celllines75",
+                "wikidata": "Q27556092"
+            }
+        },
+        {
+            "name": "KCL008",
+            "term": "KCL008",
+            "identifiers": {
+                "contentmine": "CM.celllines76",
+                "wikidata": "Q27570645"
+            }
+        },
+        {
+            "name": "FDC-P1",
+            "term": "FDC-P1",
+            "identifiers": {
+                "contentmine": "CM.celllines77",
+                "wikidata": "Q27653134"
+            }
+        },
+        {
+            "name": "HEI-OC1",
+            "term": "HEI-OC1",
+            "identifiers": {
+                "contentmine": "CM.celllines78",
+                "wikidata": "Q27653205"
+            }
+        },
+        {
+            "name": "TIME cell line",
+            "term": "TIME cell line",
+            "identifiers": {
+                "contentmine": "CM.celllines79",
+                "wikidata": "Q27653709"
+            }
+        },
+        {
+            "name": "KUSA-A1",
+            "term": "KUSA-A1",
+            "identifiers": {
+                "contentmine": "CM.celllines80",
+                "wikidata": "Q27671685"
+            }
+        },
+        {
+            "name": "MSS31",
+            "term": "MSS31",
+            "identifiers": {
+                "contentmine": "CM.celllines81",
+                "wikidata": "Q27671707"
+            }
+        },
+        {
+            "name": "108CC15",
+            "term": "108CC15",
+            "identifiers": {
+                "contentmine": "CM.celllines82",
+                "wikidata": "Q27870067"
+            }
+        },
+        {
+            "name": "C32",
+            "term": "C32",
+            "identifiers": {
+                "contentmine": "CM.celllines83",
+                "wikidata": "Q27902825"
+            }
+        },
+        {
+            "name": "C32",
+            "term": "C32",
+            "identifiers": {
+                "contentmine": "CM.celllines84",
+                "wikidata": "Q27902869"
+            }
+        },
+        {
+            "name": "DuPro-1",
+            "term": "DuPro-1",
+            "identifiers": {
+                "contentmine": "CM.celllines85",
+                "wikidata": "Q27972077"
+            }
+        },
+        {
+            "name": "HEK293T/17",
+            "term": "HEK293T/17",
+            "identifiers": {
+                "contentmine": "CM.celllines86",
+                "wikidata": "Q28178058"
+            }
+        },
+        {
+            "name": "Anjou 65",
+            "term": "Anjou 65",
+            "identifiers": {
+                "contentmine": "CM.celllines87",
+                "wikidata": "Q28197162"
+            }
+        },
+        {
+            "name": "Bartlett 96",
+            "term": "Bartlett 96",
+            "identifiers": {
+                "contentmine": "CM.celllines88",
+                "wikidata": "Q28198446"
+            }
+        },
+        {
+            "name": "CFPAC-1",
+            "term": "CFPAC-1",
+            "identifiers": {
+                "contentmine": "CM.celllines89",
+                "wikidata": "Q28199352"
+            }
+        },
+        {
+            "name": "NCI-H295",
+            "term": "NCI-H295",
+            "identifiers": {
+                "contentmine": "CM.celllines90",
+                "wikidata": "Q28226675"
+            }
+        },
+        {
+            "name": "J558",
+            "term": "J558",
+            "identifiers": {
+                "contentmine": "CM.celllines91",
+                "wikidata": "Q28243888"
+            }
+        },
+        {
+            "name": "HDF1388",
+            "term": "HDF1388",
+            "identifiers": {
+                "contentmine": "CM.celllines92",
+                "wikidata": "Q28245330"
+            }
+        },
+        {
+            "name": "Tera-2",
+            "term": "Tera-2",
+            "identifiers": {
+                "contentmine": "CM.celllines93",
+                "wikidata": "Q28248633"
+            }
+        },
+        {
+            "name": "SK-N-SH",
+            "term": "SK-N-SH",
+            "identifiers": {
+                "contentmine": "CM.celllines94",
+                "wikidata": "Q28308636"
+            }
+        },
+        {
+            "name": "BALB/3T3 clone A31",
+            "term": "BALB/3T3 clone A31",
+            "identifiers": {
+                "contentmine": "CM.celllines95",
+                "wikidata": "Q28334278"
+            }
+        },
+        {
+            "name": "HCT 116",
+            "term": "HCT 116",
+            "identifiers": {
+                "contentmine": "CM.celllines96",
+                "wikidata": "Q28334584"
+            }
+        },
+        {
+            "name": "HT-29",
+            "term": "HT-29",
+            "identifiers": {
+                "contentmine": "CM.celllines97",
+                "wikidata": "Q28334700"
+            }
+        },
+        {
+            "name": "KB cell line",
+            "term": "KB cell line",
+            "identifiers": {
+                "contentmine": "CM.celllines98",
+                "wikidata": "Q28334825"
+            }
+        },
+        {
+            "name": "LLC-PK1",
+            "term": "LLC-PK1",
+            "identifiers": {
+                "contentmine": "CM.celllines99",
+                "wikidata": "Q28334936"
+            }
+        },
+        {
+            "name": "MDCK",
+            "term": "MDCK",
+            "identifiers": {
+                "contentmine": "CM.celllines100",
+                "wikidata": "Q28335011"
+            }
+        },
+        {
+            "name": "NCTC clone 929",
+            "term": "NCTC clone 929",
+            "identifiers": {
+                "contentmine": "CM.celllines101",
+                "wikidata": "Q28335098"
+            }
+        },
+        {
+            "name": "RAW 264.7",
+            "term": "RAW 264.7",
+            "identifiers": {
+                "contentmine": "CM.celllines102",
+                "wikidata": "Q28335461"
+            }
+        },
+        {
+            "name": "RAW 264",
+            "term": "RAW 264",
+            "identifiers": {
+                "contentmine": "CM.celllines103",
+                "wikidata": "Q28335587"
+            }
+        },
+        {
+            "name": "NIV-AK-453",
+            "term": "NIV-AK-453",
+            "identifiers": {
+                "contentmine": "CM.celllines104",
+                "wikidata": "Q28470898"
+            }
+        },
+        {
+            "name": "TO-2",
+            "term": "TO-2",
+            "identifiers": {
+                "contentmine": "CM.celllines105",
+                "wikidata": "Q28471145"
+            }
+        },
+        {
+            "name": "PSM-1",
+            "term": "PSM-1",
+            "identifiers": {
+                "contentmine": "CM.celllines106",
+                "wikidata": "Q28471245"
+            }
+        },
+        {
+            "name": "mIMCD-3",
+            "term": "mIMCD-3",
+            "identifiers": {
+                "contentmine": "CM.celllines107",
+                "wikidata": "Q28472922"
+            }
+        },
+        {
+            "name": "SW480",
+            "term": "SW480",
+            "identifiers": {
+                "contentmine": "CM.celllines108",
+                "wikidata": "Q28472974"
+            }
+        },
+        {
+            "name": "U2OS",
+            "term": "U2OS",
+            "identifiers": {
+                "contentmine": "CM.celllines109",
+                "wikidata": "Q28473037"
+            }
+        },
+        {
+            "name": "MKN45",
+            "term": "MKN45",
+            "identifiers": {
+                "contentmine": "CM.celllines110",
+                "wikidata": "Q28473066"
+            }
+        },
+        {
+            "name": "P19CL6",
+            "term": "P19CL6",
+            "identifiers": {
+                "contentmine": "CM.celllines111",
+                "wikidata": "Q28473091"
+            }
+        },
+        {
+            "name": "SW620",
+            "term": "SW620",
+            "identifiers": {
+                "contentmine": "CM.celllines112",
+                "wikidata": "Q28519412"
+            }
+        },
+        {
+            "name": "Machi",
+            "term": "Machi",
+            "identifiers": {
+                "contentmine": "CM.celllines113",
+                "wikidata": "Q28521737"
+            }
+        },
+        {
+            "name": "U-87MG Uppsala",
+            "term": "U-87MG Uppsala",
+            "identifiers": {
+                "contentmine": "CM.celllines114",
+                "wikidata": "Q28575999"
+            }
+        },
+        {
+            "name": "BIU-87",
+            "term": "BIU-87",
+            "identifiers": {
+                "contentmine": "CM.celllines115",
+                "wikidata": "Q28658473"
+            }
+        },
+        {
+            "name": "IDE12",
+            "term": "IDE12",
+            "identifiers": {
+                "contentmine": "CM.celllines116",
+                "wikidata": "Q28658510"
+            }
+        },
+        {
+            "name": "MP-CCS-SY",
+            "term": "MP-CCS-SY",
+            "identifiers": {
+                "contentmine": "CM.celllines117",
+                "wikidata": "Q28726672"
+            }
+        },
+        {
+            "name": "ARPE-19",
+            "term": "ARPE-19",
+            "identifiers": {
+                "contentmine": "CM.celllines118",
+                "wikidata": "Q28812659"
+            }
+        },
+        {
+            "name": "HCC1937",
+            "term": "HCC1937",
+            "identifiers": {
+                "contentmine": "CM.celllines119",
+                "wikidata": "Q28872477"
+            }
+        },
+        {
+            "name": "HCC1937 BL",
+            "term": "HCC1937 BL",
+            "identifiers": {
+                "contentmine": "CM.celllines120",
+                "wikidata": "Q28872486"
+            }
+        },
+        {
+            "name": "UROtsa",
+            "term": "UROtsa",
+            "identifiers": {
+                "contentmine": "CM.celllines121",
+                "wikidata": "Q28872803"
+            }
+        },
+        {
+            "name": "CP-81",
+            "term": "CP-81",
+            "identifiers": {
+                "contentmine": "CM.celllines122",
+                "wikidata": "Q28872842"
+            }
+        },
+        {
+            "name": "CT1258",
+            "term": "CT1258",
+            "identifiers": {
+                "contentmine": "CM.celllines123",
+                "wikidata": "Q28872894"
+            }
+        },
+        {
+            "name": "cHCC",
+            "term": "cHCC",
+            "identifiers": {
+                "contentmine": "CM.celllines124",
+                "wikidata": "Q28872907"
+            }
+        },
+        {
+            "name": "HAMOI-EnK",
+            "term": "HAMOI-EnK",
+            "identifiers": {
+                "contentmine": "CM.celllines125",
+                "wikidata": "Q28872918"
+            }
+        },
+        {
+            "name": "JoPaca-1",
+            "term": "JoPaca-1",
+            "identifiers": {
+                "contentmine": "CM.celllines126",
+                "wikidata": "Q28872926"
+            }
+        },
+        {
+            "name": "HH870",
+            "term": "HH870",
+            "identifiers": {
+                "contentmine": "CM.celllines127",
+                "wikidata": "Q28872936"
+            }
+        },
+        {
+            "name": "AG04765",
+            "term": "AG04765",
+            "identifiers": {
+                "contentmine": "CM.celllines128",
+                "wikidata": "Q28873059"
+            }
+        },
+        {
+            "name": "MWCL-1",
+            "term": "MWCL-1",
+            "identifiers": {
+                "contentmine": "CM.celllines129",
+                "wikidata": "Q28914904"
+            }
+        },
+        {
+            "name": "Mvi/It",
+            "term": "Mvi/It",
+            "identifiers": {
+                "contentmine": "CM.celllines130",
+                "wikidata": "Q28923528"
+            }
+        },
+        {
+            "name": "Mvi/Mu",
+            "term": "Mvi/Mu",
+            "identifiers": {
+                "contentmine": "CM.celllines131",
+                "wikidata": "Q28923559"
+            }
+        },
+        {
+            "name": "CCE",
+            "term": "CCE",
+            "identifiers": {
+                "contentmine": "CM.celllines132",
+                "wikidata": "Q29017576"
+            }
+        },
+        {
+            "name": "OSU-CLL",
+            "term": "OSU-CLL",
+            "identifiers": {
+                "contentmine": "CM.celllines133",
+                "wikidata": "Q29052685"
+            }
+        },
+        {
+            "name": "OSU-NB",
+            "term": "OSU-NB",
+            "identifiers": {
+                "contentmine": "CM.celllines134",
+                "wikidata": "Q29052695"
+            }
+        },
+        {
+            "name": "Daoy",
+            "term": "Daoy",
+            "identifiers": {
+                "contentmine": "CM.celllines135",
+                "wikidata": "Q29511023"
+            }
+        },
+        {
+            "name": "VCaP",
+            "term": "VCaP",
+            "identifiers": {
+                "contentmine": "CM.celllines136",
+                "wikidata": "Q29511246"
+            }
+        },
+        {
+            "name": "LAPC-4",
+            "term": "LAPC-4",
+            "identifiers": {
+                "contentmine": "CM.celllines137",
+                "wikidata": "Q29565860"
+            }
+        },
+        {
+            "name": "FRI-AnCo-5B",
+            "term": "FRI-AnCo-5B",
+            "identifiers": {
+                "contentmine": "CM.celllines138",
+                "wikidata": "Q29579249"
+            }
+        },
+        {
+            "name": "RIRI-BR1",
+            "term": "RIRI-BR1",
+            "identifiers": {
+                "contentmine": "CM.celllines139",
+                "wikidata": "Q29579505"
+            }
+        },
+        {
+            "name": "YCR",
+            "term": "YCR",
+            "identifiers": {
+                "contentmine": "CM.celllines140",
+                "wikidata": "Q29580661"
+            }
+        },
+        {
+            "name": "SPC-Gl-13",
+            "term": "SPC-Gl-13",
+            "identifiers": {
+                "contentmine": "CM.celllines141",
+                "wikidata": "Q29581166"
+            }
+        },
+        {
+            "name": "IPLB-Tcon1",
+            "term": "IPLB-Tcon1",
+            "identifiers": {
+                "contentmine": "CM.celllines142",
+                "wikidata": "Q29581353"
+            }
+        },
+        {
+            "name": "PL cell line",
+            "term": "PL cell line",
+            "identifiers": {
+                "contentmine": "CM.celllines143",
+                "wikidata": "Q29581406"
+            }
+        },
+        {
+            "name": "Cpp-512",
+            "term": "Cpp-512",
+            "identifiers": {
+                "contentmine": "CM.celllines144",
+                "wikidata": "Q29582650"
+            }
+        },
+        {
+            "name": "MMM",
+            "term": "MMM",
+            "identifiers": {
+                "contentmine": "CM.celllines145",
+                "wikidata": "Q29582694"
+            }
+        },
+        {
+            "name": "MMM",
+            "term": "MMM",
+            "identifiers": {
+                "contentmine": "CM.celllines146",
+                "wikidata": "Q29582815"
+            }
+        },
+        {
+            "name": "Ana-104",
+            "term": "Ana-104",
+            "identifiers": {
+                "contentmine": "CM.celllines147",
+                "wikidata": "Q29582984"
+            }
+        },
+        {
+            "name": "HSP00332IN",
+            "term": "HSP00332IN",
+            "identifiers": {
+                "contentmine": "CM.celllines148",
+                "wikidata": "Q29583703"
+            }
+        },
+        {
+            "name": "HL-1",
+            "term": "HL-1",
+            "identifiers": {
+                "contentmine": "CM.celllines149",
+                "wikidata": "Q29838237"
+            }
+        },
+        {
+            "name": "Cocca-6A",
+            "term": "Cocca-6A",
+            "identifiers": {
+                "contentmine": "CM.celllines150",
+                "wikidata": "Q29884601"
+            }
+        },
+        {
+            "name": "UCS",
+            "term": "UCS",
+            "identifiers": {
+                "contentmine": "CM.celllines151",
+                "wikidata": "Q29886988"
+            }
+        },
+        {
+            "name": "BRITER",
+            "term": "BRITER",
+            "identifiers": {
+                "contentmine": "CM.celllines152",
+                "wikidata": "Q29957968"
+            }
+        },
+        {
+            "name": "WSU-CLL",
+            "term": "WSU-CLL",
+            "identifiers": {
+                "contentmine": "CM.celllines153",
+                "wikidata": "Q29958010"
+            }
+        },
+        {
+            "name": "Reh",
+            "term": "Reh",
+            "identifiers": {
+                "contentmine": "CM.celllines154",
+                "wikidata": "Q29958043"
+            }
+        },
+        {
+            "name": "SW1736",
+            "term": "SW1736",
+            "identifiers": {
+                "contentmine": "CM.celllines155",
+                "wikidata": "Q29964497"
+            }
+        },
+        {
+            "name": "HBG BC2",
+            "term": "HBG BC2",
+            "identifiers": {
+                "contentmine": "CM.celllines156",
+                "wikidata": "Q30133230"
+            }
+        },
+        {
+            "name": "F4N",
+            "term": "F4N",
+            "identifiers": {
+                "contentmine": "CM.celllines157",
+                "wikidata": "Q33121044"
+            }
+        }
+    ]
+}
