@@ -1,0 +1,22 @@
+{
+    "entries": [
+        {
+            "name": "University of Cambridge (UK)",
+            "term": "University of Cambridge",
+            "identifiers": {
+                "contentmine": "CM.tigr2ess0",
+                "wikidata": "Q35794"
+            }
+        },
+        {
+            "name": "National Institute of Plant Genome Research",
+            "term": "National Institute of Plant Genome Research",
+            "identifiers": {
+                "contentmine": "CM.tigr2ess1",
+                "wikidata": "Q30282198"
+            }
+        },
+    ],
+    "id": "CM.tigr2ess",
+	"description": "terms from the TIGR2ESS program 2018"
+}
