@@ -1,4 +1,5 @@
-# Workshops This is a record of dictionaries created for/at workshops
+# Workshops 
+This is a record of dictionaries created for/at workshops
 
 ## TIGR2ESS Delhi 2019
 
