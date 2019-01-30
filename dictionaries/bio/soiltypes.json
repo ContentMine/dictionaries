@@ -1,0 +1,1940 @@
+{
+    "id": "soiltypes",
+    "log": [
+        {
+            "type": "wdqs",
+            "query": "#Soil types\nSELECT ?item\nWHERE \n{\n  ?item wdt:P31 wd:Q10926413 .\n \n  SERVICE wikibase:label {  bd:serviceParam wikibase:language \"en\" }\n  }",
+            "time": 1502475114186
+        }
+    ],
+    "entries": [
+        {
+            "name": "loess",
+            "term": "loess",
+            "identifiers": {
+                "contentmine": "CM.soiltypes0",
+                "wikidata": "Q22723"
+            }
+        },
+        {
+            "name": "clay",
+            "term": "clay",
+            "identifiers": {
+                "contentmine": "CM.soiltypes1",
+                "wikidata": "Q42302"
+            }
+        },
+        {
+            "name": "peat",
+            "term": "peat",
+            "identifiers": {
+                "contentmine": "CM.soiltypes2",
+                "wikidata": "Q184624"
+            }
+        },
+        {
+            "name": "Podzol",
+            "term": "Podzol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes3",
+                "wikidata": "Q192813"
+            }
+        },
+        {
+            "name": "chernozem",
+            "term": "chernozem",
+            "identifiers": {
+                "contentmine": "CM.soiltypes4",
+                "wikidata": "Q193158"
+            }
+        },
+        {
+            "name": "regosol",
+            "term": "regosol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes5",
+                "wikidata": "Q201558"
+            }
+        },
+        {
+            "name": "Alfisol",
+            "term": "Alfisol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes6",
+                "wikidata": "Q304506"
+            }
+        },
+        {
+            "name": "Acrisol",
+            "term": "Acrisol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes7",
+                "wikidata": "Q342737"
+            }
+        },
+        {
+            "name": "Anthrosol",
+            "term": "Anthrosol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes8",
+                "wikidata": "Q359019"
+            }
+        },
+        {
+            "name": "Fluvisol",
+            "term": "Fluvisol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes9",
+                "wikidata": "Q369189"
+            }
+        },
+        {
+            "name": "Gelisol",
+            "term": "Gelisol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes10",
+                "wikidata": "Q389033"
+            }
+        },
+        {
+            "name": "Akadama",
+            "term": "Akadama",
+            "identifiers": {
+                "contentmine": "CM.soiltypes11",
+                "wikidata": "Q413782"
+            }
+        },
+        {
+            "name": "Andosol",
+            "term": "Andosol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes12",
+                "wikidata": "Q492763"
+            }
+        },
+        {
+            "name": "Lixisol",
+            "term": "Lixisol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes13",
+                "wikidata": "Q508303"
+            }
+        },
+        {
+            "name": "Myakka",
+            "term": "Myakka",
+            "identifiers": {
+                "contentmine": "CM.soiltypes14",
+                "wikidata": "Q521658"
+            }
+        },
+        {
+            "name": "Entisol",
+            "term": "Entisol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes15",
+                "wikidata": "Q642404"
+            }
+        },
+        {
+            "name": "Aridisol",
+            "term": "Aridisol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes16",
+                "wikidata": "Q657884"
+            }
+        },
+        {
+            "name": "subsoil",
+            "term": "subsoil",
+            "identifiers": {
+                "contentmine": "CM.soiltypes17",
+                "wikidata": "Q681004"
+            }
+        },
+        {
+            "name": "Auenböden",
+            "term": "Auenböden",
+            "identifiers": {
+                "contentmine": "CM.soiltypes18",
+                "wikidata": "Q759104"
+            }
+        },
+        {
+            "name": "Inceptisol",
+            "term": "Inceptisol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes19",
+                "wikidata": "Q843717"
+            }
+        },
+        {
+            "name": "cambisols",
+            "term": "cambisols",
+            "identifiers": {
+                "contentmine": "CM.soiltypes20",
+                "wikidata": "Q901209"
+            }
+        },
+        {
+            "name": "Cambisol",
+            "term": "Cambisol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes21",
+                "wikidata": "Q901220"
+            }
+        },
+        {
+            "name": "Fuller's earth",
+            "term": "Fuller's earth",
+            "identifiers": {
+                "contentmine": "CM.soiltypes22",
+                "wikidata": "Q910799"
+            }
+        },
+        {
+            "name": "Terra rossa",
+            "term": "Terra rossa",
+            "identifiers": {
+                "contentmine": "CM.soiltypes23",
+                "wikidata": "Q946580"
+            }
+        },
+        {
+            "name": "Histosol",
+            "term": "Histosol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes24",
+                "wikidata": "Q1036913"
+            }
+        },
+        {
+            "name": "Andisol",
+            "term": "Andisol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes25",
+                "wikidata": "Q1038563"
+            }
+        },
+        {
+            "name": "Catena",
+            "term": "Catena",
+            "identifiers": {
+                "contentmine": "CM.soiltypes26",
+                "wikidata": "Q1050669"
+            }
+        },
+        {
+            "name": "Albeluvisol",
+            "term": "Albeluvisol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes27",
+                "wikidata": "Q1054040"
+            }
+        },
+        {
+            "name": "Mollisol",
+            "term": "Mollisol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes28",
+                "wikidata": "Q1063188"
+            }
+        },
+        {
+            "name": "Oxisol",
+            "term": "Oxisol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes29",
+                "wikidata": "Q1082328"
+            }
+        },
+        {
+            "name": "Ultisol",
+            "term": "Ultisol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes30",
+                "wikidata": "Q1115789"
+            }
+        },
+        {
+            "name": "Syrosem",
+            "term": "Syrosem",
+            "identifiers": {
+                "contentmine": "CM.soiltypes31",
+                "wikidata": "Q1120963"
+            }
+        },
+        {
+            "name": "loam",
+            "term": "loam",
+            "identifiers": {
+                "contentmine": "CM.soiltypes32",
+                "wikidata": "Q1131303"
+            }
+        },
+        {
+            "name": "alkali soil",
+            "term": "alkali soil",
+            "identifiers": {
+                "contentmine": "CM.soiltypes33",
+                "wikidata": "Q1189711"
+            }
+        },
+        {
+            "name": "vertisol",
+            "term": "vertisol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes34",
+                "wikidata": "Q1192084"
+            }
+        },
+        {
+            "name": "Topsoil",
+            "term": "Topsoil",
+            "identifiers": {
+                "contentmine": "CM.soiltypes35",
+                "wikidata": "Q1247456"
+            }
+        },
+        {
+            "name": "Dwog",
+            "term": "Dwog",
+            "identifiers": {
+                "contentmine": "CM.soiltypes36",
+                "wikidata": "Q1268531"
+            }
+        },
+        {
+            "name": "Dwogmarsch",
+            "term": "Dwogmarsch",
+            "identifiers": {
+                "contentmine": "CM.soiltypes37",
+                "wikidata": "Q1268533"
+            }
+        },
+        {
+            "name": "Dy",
+            "term": "Dy",
+            "identifiers": {
+                "contentmine": "CM.soiltypes38",
+                "wikidata": "Q1268571"
+            }
+        },
+        {
+            "name": "Phaeozem",
+            "term": "Phaeozem",
+            "identifiers": {
+                "contentmine": "CM.soiltypes39",
+                "wikidata": "Q1330588"
+            }
+        },
+        {
+            "name": "Watt",
+            "term": "Watt",
+            "identifiers": {
+                "contentmine": "CM.soiltypes40",
+                "wikidata": "Q1345840"
+            }
+        },
+        {
+            "name": "Solonchak",
+            "term": "Solonchak",
+            "identifiers": {
+                "contentmine": "CM.soiltypes41",
+                "wikidata": "Q1367330"
+            }
+        },
+        {
+            "name": "Fahl earth",
+            "term": "Fahl earth",
+            "identifiers": {
+                "contentmine": "CM.soiltypes42",
+                "wikidata": "Q1392091"
+            }
+        },
+        {
+            "name": "Felshumusboden",
+            "term": "Felshumusboden",
+            "identifiers": {
+                "contentmine": "CM.soiltypes43",
+                "wikidata": "Q1404322"
+            }
+        },
+        {
+            "name": "Stagnosol",
+            "term": "Stagnosol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes44",
+                "wikidata": "Q1418118"
+            }
+        },
+        {
+            "name": "Kalktschernosem",
+            "term": "Kalktschernosem",
+            "identifiers": {
+                "contentmine": "CM.soiltypes45",
+                "wikidata": "Q1433168"
+            }
+        },
+        {
+            "name": "Nitisol",
+            "term": "Nitisol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes46",
+                "wikidata": "Q1439740"
+            }
+        },
+        {
+            "name": "Ranker",
+            "term": "Ranker",
+            "identifiers": {
+                "contentmine": "CM.soiltypes47",
+                "wikidata": "Q1465441"
+            }
+        },
+        {
+            "name": "Rendzina",
+            "term": "Rendzina",
+            "identifiers": {
+                "contentmine": "CM.soiltypes48",
+                "wikidata": "Q1478978"
+            }
+        },
+        {
+            "name": "Stadtboden",
+            "term": "Stadtboden",
+            "identifiers": {
+                "contentmine": "CM.soiltypes49",
+                "wikidata": "Q1494518"
+            }
+        },
+        {
+            "name": "Opok",
+            "term": "Opok",
+            "identifiers": {
+                "contentmine": "CM.soiltypes50",
+                "wikidata": "Q1542029"
+            }
+        },
+        {
+            "name": "Griserde",
+            "term": "Griserde",
+            "identifiers": {
+                "contentmine": "CM.soiltypes51",
+                "wikidata": "Q1547056"
+            }
+        },
+        {
+            "name": "Rambla",
+            "term": "Rambla",
+            "identifiers": {
+                "contentmine": "CM.soiltypes52",
+                "wikidata": "Q1608523"
+            }
+        },
+        {
+            "name": "Expansive clay",
+            "term": "Expansive clay",
+            "identifiers": {
+                "contentmine": "CM.soiltypes53",
+                "wikidata": "Q1626102"
+            }
+        },
+        {
+            "name": "Hortisol",
+            "term": "Hortisol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes54",
+                "wikidata": "Q1630234"
+            }
+        },
+        {
+            "name": "Humus accumulation soils",
+            "term": "Humus accumulation soils",
+            "identifiers": {
+                "contentmine": "CM.soiltypes55",
+                "wikidata": "Q1637318"
+            }
+        },
+        {
+            "name": "Pararendzina",
+            "term": "Pararendzina",
+            "identifiers": {
+                "contentmine": "CM.soiltypes56",
+                "wikidata": "Q1669562"
+            }
+        },
+        {
+            "name": "calcareous soil",
+            "term": "calcareous soil",
+            "identifiers": {
+                "contentmine": "CM.soiltypes57",
+                "wikidata": "Q1722361"
+            }
+        },
+        {
+            "name": "Kalkmarsch",
+            "term": "Kalkmarsch",
+            "identifiers": {
+                "contentmine": "CM.soiltypes58",
+                "wikidata": "Q1722370"
+            }
+        },
+        {
+            "name": "Kastanozem",
+            "term": "Kastanozem",
+            "identifiers": {
+                "contentmine": "CM.soiltypes59",
+                "wikidata": "Q1735308"
+            }
+        },
+        {
+            "name": "Kleimarsch",
+            "term": "Kleimarsch",
+            "identifiers": {
+                "contentmine": "CM.soiltypes60",
+                "wikidata": "Q1746182"
+            }
+        },
+        {
+            "name": "Kolluvisol",
+            "term": "Kolluvisol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes61",
+                "wikidata": "Q1779487"
+            }
+        },
+        {
+            "name": "Stagnogley",
+            "term": "Stagnogley",
+            "identifiers": {
+                "contentmine": "CM.soiltypes62",
+                "wikidata": "Q1785030"
+            }
+        },
+        {
+            "name": "Mutterboden",
+            "term": "Mutterboden",
+            "identifiers": {
+                "contentmine": "CM.soiltypes63",
+                "wikidata": "Q1797449"
+            }
+        },
+        {
+            "name": "terra preta",
+            "term": "terra preta",
+            "identifiers": {
+                "contentmine": "CM.soiltypes64",
+                "wikidata": "Q1807448"
+            }
+        },
+        {
+            "name": "Leptosol",
+            "term": "Leptosol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes65",
+                "wikidata": "Q1820181"
+            }
+        },
+        {
+            "name": "lockersyrosem",
+            "term": "lockersyrosem",
+            "identifiers": {
+                "contentmine": "CM.soiltypes66",
+                "wikidata": "Q1867513"
+            }
+        },
+        {
+            "name": "Alisol",
+            "term": "Alisol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes67",
+                "wikidata": "Q1911948"
+            }
+        },
+        {
+            "name": "Acid sulfate soil",
+            "term": "Acid sulfate soil",
+            "identifiers": {
+                "contentmine": "CM.soiltypes68",
+                "wikidata": "Q1923805"
+            }
+        },
+        {
+            "name": "Minutenboden",
+            "term": "Minutenboden",
+            "identifiers": {
+                "contentmine": "CM.soiltypes69",
+                "wikidata": "Q1937756"
+            }
+        },
+        {
+            "name": "Mudde",
+            "term": "Mudde",
+            "identifiers": {
+                "contentmine": "CM.soiltypes70",
+                "wikidata": "Q1951691"
+            }
+        },
+        {
+            "name": "Plinthosol",
+            "term": "Plinthosol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes71",
+                "wikidata": "Q1971080"
+            }
+        },
+        {
+            "name": "Gypsisol",
+            "term": "Gypsisol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes72",
+                "wikidata": "Q1977552"
+            }
+        },
+        {
+            "name": "Technosol",
+            "term": "Technosol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes73",
+                "wikidata": "Q1991279"
+            }
+        },
+        {
+            "name": "Calcisol",
+            "term": "Calcisol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes74",
+                "wikidata": "Q2003953"
+            }
+        },
+        {
+            "name": "Paleosol",
+            "term": "Paleosol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes75",
+                "wikidata": "Q2048517"
+            }
+        },
+        {
+            "name": "parabraunerde",
+            "term": "parabraunerde",
+            "identifiers": {
+                "contentmine": "CM.soiltypes76",
+                "wikidata": "Q2051227"
+            }
+        },
+        {
+            "name": "Pelosol",
+            "term": "Pelosol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes77",
+                "wikidata": "Q2068305"
+            }
+        },
+        {
+            "name": "Planosol",
+            "term": "Planosol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes78",
+                "wikidata": "Q2098287"
+            }
+        },
+        {
+            "name": "Protopedon",
+            "term": "Protopedon",
+            "identifiers": {
+                "contentmine": "CM.soiltypes79",
+                "wikidata": "Q2113750"
+            }
+        },
+        {
+            "name": "reductosol",
+            "term": "reductosol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes80",
+                "wikidata": "Q2136412"
+            }
+        },
+        {
+            "name": "Rigosol",
+            "term": "Rigosol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes81",
+                "wikidata": "Q2152869"
+            }
+        },
+        {
+            "name": "Rohmarsch",
+            "term": "Rohmarsch",
+            "identifiers": {
+                "contentmine": "CM.soiltypes82",
+                "wikidata": "Q2162232"
+            }
+        },
+        {
+            "name": "Solonetz",
+            "term": "Solonetz",
+            "identifiers": {
+                "contentmine": "CM.soiltypes83",
+                "wikidata": "Q2163944"
+            }
+        },
+        {
+            "name": "Umbrisol",
+            "term": "Umbrisol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes84",
+                "wikidata": "Q2238717"
+            }
+        },
+        {
+            "name": "Seemarsch",
+            "term": "Seemarsch",
+            "identifiers": {
+                "contentmine": "CM.soiltypes85",
+                "wikidata": "Q2265384"
+            }
+        },
+        {
+            "name": "Skeleton humus soil",
+            "term": "Skeleton humus soil",
+            "identifiers": {
+                "contentmine": "CM.soiltypes86",
+                "wikidata": "Q2291914"
+            }
+        },
+        {
+            "name": "Grijze bosbodem",
+            "term": "Grijze bosbodem",
+            "identifiers": {
+                "contentmine": "CM.soiltypes87",
+                "wikidata": "Q2294009"
+            }
+        },
+        {
+            "name": "Spodosol",
+            "term": "Spodosol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes88",
+                "wikidata": "Q2311892"
+            }
+        },
+        {
+            "name": "Brown earth",
+            "term": "Brown earth",
+            "identifiers": {
+                "contentmine": "CM.soiltypes89",
+                "wikidata": "Q2333706"
+            }
+        },
+        {
+            "name": "Terra fusca",
+            "term": "Terra fusca",
+            "identifiers": {
+                "contentmine": "CM.soiltypes90",
+                "wikidata": "Q2405155"
+            }
+        },
+        {
+            "name": "Talik",
+            "term": "Talik",
+            "identifiers": {
+                "contentmine": "CM.soiltypes91",
+                "wikidata": "Q2421458"
+            }
+        },
+        {
+            "name": "Yedoma",
+            "term": "Yedoma",
+            "identifiers": {
+                "contentmine": "CM.soiltypes92",
+                "wikidata": "Q2428765"
+            }
+        },
+        {
+            "name": "torflin",
+            "term": "torflin",
+            "identifiers": {
+                "contentmine": "CM.soiltypes93",
+                "wikidata": "Q2443981"
+            }
+        },
+        {
+            "name": "Treposol",
+            "term": "Treposol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes94",
+                "wikidata": "Q2451709"
+            }
+        },
+        {
+            "name": "Tschernitza",
+            "term": "Tschernitza",
+            "identifiers": {
+                "contentmine": "CM.soiltypes95",
+                "wikidata": "Q2457874"
+            }
+        },
+        {
+            "name": "Groengrond",
+            "term": "Groengrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes96",
+                "wikidata": "Q2480777"
+            }
+        },
+        {
+            "name": "Gleysol",
+            "term": "Gleysol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes97",
+                "wikidata": "Q2485878"
+            }
+        },
+        {
+            "name": "Vega",
+            "term": "Vega",
+            "identifiers": {
+                "contentmine": "CM.soiltypes98",
+                "wikidata": "Q2511790"
+            }
+        },
+        {
+            "name": "Oxisol",
+            "term": "Oxisol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes99",
+                "wikidata": "Q2646795"
+            }
+        },
+        {
+            "name": "Luvisol",
+            "term": "Luvisol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes100",
+                "wikidata": "Q2728810"
+            }
+        },
+        {
+            "name": "Plaggen soil",
+            "term": "Plaggen soil",
+            "identifiers": {
+                "contentmine": "CM.soiltypes101",
+                "wikidata": "Q2736463"
+            }
+        },
+        {
+            "name": "Muskeg",
+            "term": "Muskeg",
+            "identifiers": {
+                "contentmine": "CM.soiltypes102",
+                "wikidata": "Q3075786"
+            }
+        },
+        {
+            "name": "Houdek",
+            "term": "Houdek",
+            "identifiers": {
+                "contentmine": "CM.soiltypes103",
+                "wikidata": "Q3141254"
+            }
+        },
+        {
+            "name": "Orthent",
+            "term": "Orthent",
+            "identifiers": {
+                "contentmine": "CM.soiltypes104",
+                "wikidata": "Q3256568"
+            }
+        },
+        {
+            "name": "Durisol",
+            "term": "Durisol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes105",
+                "wikidata": "Q3283325"
+            }
+        },
+        {
+            "name": "Muck",
+            "term": "Muck",
+            "identifiers": {
+                "contentmine": "CM.soiltypes106",
+                "wikidata": "Q3571727"
+            }
+        },
+        {
+            "name": "fragipan",
+            "term": "fragipan",
+            "identifiers": {
+                "contentmine": "CM.soiltypes107",
+                "wikidata": "Q3749222"
+            }
+        },
+        {
+            "name": "Sandy soil",
+            "term": "Sandy soil",
+            "identifiers": {
+                "contentmine": "CM.soiltypes108",
+                "wikidata": "Q3984745"
+            }
+        },
+        {
+            "name": "Psamment",
+            "term": "Psamment",
+            "identifiers": {
+                "contentmine": "CM.soiltypes109",
+                "wikidata": "Q4757656"
+            }
+        },
+        {
+            "name": "Anthrept",
+            "term": "Anthrept",
+            "identifiers": {
+                "contentmine": "CM.soiltypes110",
+                "wikidata": "Q4773870"
+            }
+        },
+        {
+            "name": "Antigo",
+            "term": "Antigo",
+            "identifiers": {
+                "contentmine": "CM.soiltypes111",
+                "wikidata": "Q4774746"
+            }
+        },
+        {
+            "name": "Bama",
+            "term": "Bama",
+            "identifiers": {
+                "contentmine": "CM.soiltypes112",
+                "wikidata": "Q4853268"
+            }
+        },
+        {
+            "name": "Bay mud",
+            "term": "Bay mud",
+            "identifiers": {
+                "contentmine": "CM.soiltypes113",
+                "wikidata": "Q4874186"
+            }
+        },
+        {
+            "name": "Berkshire",
+            "term": "Berkshire",
+            "identifiers": {
+                "contentmine": "CM.soiltypes114",
+                "wikidata": "Q4892240"
+            }
+        },
+        {
+            "name": "Blandford",
+            "term": "Blandford",
+            "identifiers": {
+                "contentmine": "CM.soiltypes115",
+                "wikidata": "Q4925005"
+            }
+        },
+        {
+            "name": "Brickearth",
+            "term": "Brickearth",
+            "identifiers": {
+                "contentmine": "CM.soiltypes116",
+                "wikidata": "Q4965968"
+            }
+        },
+        {
+            "name": "Brown podzolic",
+            "term": "Brown podzolic",
+            "identifiers": {
+                "contentmine": "CM.soiltypes117",
+                "wikidata": "Q4976399"
+            }
+        },
+        {
+            "name": "Calcid",
+            "term": "Calcid",
+            "identifiers": {
+                "contentmine": "CM.soiltypes118",
+                "wikidata": "Q5018769"
+            }
+        },
+        {
+            "name": "Calciorthid",
+            "term": "Calciorthid",
+            "identifiers": {
+                "contentmine": "CM.soiltypes119",
+                "wikidata": "Q5018785"
+            }
+        },
+        {
+            "name": "Casa Grande",
+            "term": "Casa Grande",
+            "identifiers": {
+                "contentmine": "CM.soiltypes120",
+                "wikidata": "Q5047825"
+            }
+        },
+        {
+            "name": "Cecil",
+            "term": "Cecil",
+            "identifiers": {
+                "contentmine": "CM.soiltypes121",
+                "wikidata": "Q5055913"
+            }
+        },
+        {
+            "name": "Charlottetown",
+            "term": "Charlottetown",
+            "identifiers": {
+                "contentmine": "CM.soiltypes122",
+                "wikidata": "Q5086249"
+            }
+        },
+        {
+            "name": "Claypan",
+            "term": "Claypan",
+            "identifiers": {
+                "contentmine": "CM.soiltypes123",
+                "wikidata": "Q5130122"
+            }
+        },
+        {
+            "name": "Downer",
+            "term": "Downer",
+            "identifiers": {
+                "contentmine": "CM.soiltypes124",
+                "wikidata": "Q5303105"
+            }
+        },
+        {
+            "name": "Drummer",
+            "term": "Drummer",
+            "identifiers": {
+                "contentmine": "CM.soiltypes125",
+                "wikidata": "Q5309188"
+            }
+        },
+        {
+            "name": "Fill dirt",
+            "term": "Fill dirt",
+            "identifiers": {
+                "contentmine": "CM.soiltypes126",
+                "wikidata": "Q5448790"
+            }
+        },
+        {
+            "name": "Flatwood",
+            "term": "Flatwood",
+            "identifiers": {
+                "contentmine": "CM.soiltypes127",
+                "wikidata": "Q5458003"
+            }
+        },
+        {
+            "name": "Enkeerdgrond",
+            "term": "Enkeerdgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes128",
+                "wikidata": "Q5583668"
+            }
+        },
+        {
+            "name": "Guelph soil",
+            "term": "Guelph soil",
+            "identifiers": {
+                "contentmine": "CM.soiltypes129",
+                "wikidata": "Q5614806"
+            }
+        },
+        {
+            "name": "Haplocambid",
+            "term": "Haplocambid",
+            "identifiers": {
+                "contentmine": "CM.soiltypes130",
+                "wikidata": "Q5651656"
+            }
+        },
+        {
+            "name": "Hilo",
+            "term": "Hilo",
+            "identifiers": {
+                "contentmine": "CM.soiltypes131",
+                "wikidata": "Q5764309"
+            }
+        },
+        {
+            "name": "Beekeerdgrond",
+            "term": "Beekeerdgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes132",
+                "wikidata": "Q5808555"
+            }
+        },
+        {
+            "name": "Houston Black",
+            "term": "Houston Black",
+            "identifiers": {
+                "contentmine": "CM.soiltypes133",
+                "wikidata": "Q5916395"
+            }
+        },
+        {
+            "name": "Hydric soil",
+            "term": "Hydric soil",
+            "identifiers": {
+                "contentmine": "CM.soiltypes134",
+                "wikidata": "Q5954532"
+            }
+        },
+        {
+            "name": "Jory",
+            "term": "Jory",
+            "identifiers": {
+                "contentmine": "CM.soiltypes135",
+                "wikidata": "Q6279081"
+            }
+        },
+        {
+            "name": "Kalkaska sand",
+            "term": "Kalkaska sand",
+            "identifiers": {
+                "contentmine": "CM.soiltypes136",
+                "wikidata": "Q6353364"
+            }
+        },
+        {
+            "name": "Latosol",
+            "term": "Latosol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes137",
+                "wikidata": "Q6496924"
+            }
+        },
+        {
+            "name": "Menfro",
+            "term": "Menfro",
+            "identifiers": {
+                "contentmine": "CM.soiltypes138",
+                "wikidata": "Q6816931"
+            }
+        },
+        {
+            "name": "Miami",
+            "term": "Miami",
+            "identifiers": {
+                "contentmine": "CM.soiltypes139",
+                "wikidata": "Q6827257"
+            }
+        },
+        {
+            "name": "Narragansett",
+            "term": "Narragansett",
+            "identifiers": {
+                "contentmine": "CM.soiltypes140",
+                "wikidata": "Q6966163"
+            }
+        },
+        {
+            "name": "Natchez silt loam",
+            "term": "Natchez silt loam",
+            "identifiers": {
+                "contentmine": "CM.soiltypes141",
+                "wikidata": "Q6968569"
+            }
+        },
+        {
+            "name": "Necrosol",
+            "term": "Necrosol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes142",
+                "wikidata": "Q6985727"
+            }
+        },
+        {
+            "name": "Orovada",
+            "term": "Orovada",
+            "identifiers": {
+                "contentmine": "CM.soiltypes143",
+                "wikidata": "Q7103892"
+            }
+        },
+        {
+            "name": "Paxton",
+            "term": "Paxton",
+            "identifiers": {
+                "contentmine": "CM.soiltypes144",
+                "wikidata": "Q7156516"
+            }
+        },
+        {
+            "name": "Pedalfer",
+            "term": "Pedalfer",
+            "identifiers": {
+                "contentmine": "CM.soiltypes145",
+                "wikidata": "Q7158985"
+            }
+        },
+        {
+            "name": "Pedocal",
+            "term": "Pedocal",
+            "identifiers": {
+                "contentmine": "CM.soiltypes146",
+                "wikidata": "Q7159330"
+            }
+        },
+        {
+            "name": "Port Silt Loam",
+            "term": "Port Silt Loam",
+            "identifiers": {
+                "contentmine": "CM.soiltypes147",
+                "wikidata": "Q7230940"
+            }
+        },
+        {
+            "name": "San Joaquin",
+            "term": "San Joaquin",
+            "identifiers": {
+                "contentmine": "CM.soiltypes148",
+                "wikidata": "Q7414381"
+            }
+        },
+        {
+            "name": "Scobey",
+            "term": "Scobey",
+            "identifiers": {
+                "contentmine": "CM.soiltypes149",
+                "wikidata": "Q7434216"
+            }
+        },
+        {
+            "name": "Seitz",
+            "term": "Seitz",
+            "identifiers": {
+                "contentmine": "CM.soiltypes150",
+                "wikidata": "Q7447007"
+            }
+        },
+        {
+            "name": "Serpentine soil",
+            "term": "Serpentine soil",
+            "identifiers": {
+                "contentmine": "CM.soiltypes151",
+                "wikidata": "Q7455132"
+            }
+        },
+        {
+            "name": "Sodic soil",
+            "term": "Sodic soil",
+            "identifiers": {
+                "contentmine": "CM.soiltypes152",
+                "wikidata": "Q7553271"
+            }
+        },
+        {
+            "name": "Spodic soil",
+            "term": "Spodic soil",
+            "identifiers": {
+                "contentmine": "CM.soiltypes153",
+                "wikidata": "Q7578776"
+            }
+        },
+        {
+            "name": "Stuttgart",
+            "term": "Stuttgart",
+            "identifiers": {
+                "contentmine": "CM.soiltypes154",
+                "wikidata": "Q7629209"
+            }
+        },
+        {
+            "name": "Subaqueous soil",
+            "term": "Subaqueous soil",
+            "identifiers": {
+                "contentmine": "CM.soiltypes155",
+                "wikidata": "Q7630769"
+            }
+        },
+        {
+            "name": "Tanana",
+            "term": "Tanana",
+            "identifiers": {
+                "contentmine": "CM.soiltypes156",
+                "wikidata": "Q7682278"
+            }
+        },
+        {
+            "name": "Threebear",
+            "term": "Threebear",
+            "identifiers": {
+                "contentmine": "CM.soiltypes157",
+                "wikidata": "Q7798026"
+            }
+        },
+        {
+            "name": "Tifton",
+            "term": "Tifton",
+            "identifiers": {
+                "contentmine": "CM.soiltypes158",
+                "wikidata": "Q7801303"
+            }
+        },
+        {
+            "name": "Tropical peat",
+            "term": "Tropical peat",
+            "identifiers": {
+                "contentmine": "CM.soiltypes159",
+                "wikidata": "Q7846177"
+            }
+        },
+        {
+            "name": "Ustochrept",
+            "term": "Ustochrept",
+            "identifiers": {
+                "contentmine": "CM.soiltypes160",
+                "wikidata": "Q7902200"
+            }
+        },
+        {
+            "name": "Windsor",
+            "term": "Windsor",
+            "identifiers": {
+                "contentmine": "CM.soiltypes161",
+                "wikidata": "Q8024561"
+            }
+        },
+        {
+            "name": "Lerjord",
+            "term": "Lerjord",
+            "identifiers": {
+                "contentmine": "CM.soiltypes162",
+                "wikidata": "Q10559587"
+            }
+        },
+        {
+            "name": "Mjäla",
+            "term": "Mjäla",
+            "identifiers": {
+                "contentmine": "CM.soiltypes163",
+                "wikidata": "Q10586827"
+            }
+        },
+        {
+            "name": "acidic brown soil",
+            "term": "acidic brown soil",
+            "identifiers": {
+                "contentmine": "CM.soiltypes164",
+                "wikidata": "Q11699916"
+            }
+        },
+        {
+            "name": "plaggen",
+            "term": "plaggen",
+            "identifiers": {
+                "contentmine": "CM.soiltypes165",
+                "wikidata": "Q13359535"
+            }
+        },
+        {
+            "name": "Morr",
+            "term": "Morr",
+            "identifiers": {
+                "contentmine": "CM.soiltypes166",
+                "wikidata": "Q13359620"
+            }
+        },
+        {
+            "name": "Aarveengronden",
+            "term": "Aarveengronden",
+            "identifiers": {
+                "contentmine": "CM.soiltypes167",
+                "wikidata": "Q13427907"
+            }
+        },
+        {
+            "name": "Akkereerdgrond",
+            "term": "Akkereerdgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes168",
+                "wikidata": "Q13428848"
+            }
+        },
+        {
+            "name": "Beemdbrikgrond",
+            "term": "Beemdbrikgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes169",
+                "wikidata": "Q13436995"
+            }
+        },
+        {
+            "name": "Bergbrikgrond",
+            "term": "Bergbrikgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes170",
+                "wikidata": "Q13438799"
+            }
+        },
+        {
+            "name": "Bouwteveengrond",
+            "term": "Bouwteveengrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes171",
+                "wikidata": "Q13443075"
+            }
+        },
+        {
+            "name": "Boveengrond",
+            "term": "Boveengrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes172",
+                "wikidata": "Q13443078"
+            }
+        },
+        {
+            "name": "Brikgrond",
+            "term": "Brikgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes173",
+                "wikidata": "Q13445318"
+            }
+        },
+        {
+            "name": "Broekeerdgrond",
+            "term": "Broekeerdgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes174",
+                "wikidata": "Q13445384"
+            }
+        },
+        {
+            "name": "Daalbrikgrond",
+            "term": "Daalbrikgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes175",
+                "wikidata": "Q13510031"
+            }
+        },
+        {
+            "name": "Dampodzolgrond",
+            "term": "Dampodzolgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes176",
+                "wikidata": "Q13511152"
+            }
+        },
+        {
+            "name": "Delbrikgrond",
+            "term": "Delbrikgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes177",
+                "wikidata": "Q13571755"
+            }
+        },
+        {
+            "name": "Drechtvaaggrond",
+            "term": "Drechtvaaggrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes178",
+                "wikidata": "Q13574208"
+            }
+        },
+        {
+            "name": "dune soil",
+            "term": "dune soil",
+            "identifiers": {
+                "contentmine": "CM.soiltypes179",
+                "wikidata": "Q13574572"
+            }
+        },
+        {
+            "name": "Gooreerdgrond",
+            "term": "Gooreerdgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes180",
+                "wikidata": "Q13646090"
+            }
+        },
+        {
+            "name": "Gorsvaaggrond",
+            "term": "Gorsvaaggrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes181",
+                "wikidata": "Q13646207"
+            }
+        },
+        {
+            "name": "Haarpodzolgrond",
+            "term": "Haarpodzolgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes182",
+                "wikidata": "Q13649947"
+            }
+        },
+        {
+            "name": "Heuvelpodzolgrond",
+            "term": "Heuvelpodzolgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes183",
+                "wikidata": "Q13726414"
+            }
+        },
+        {
+            "name": "hoekpodzolgrond",
+            "term": "hoekpodzolgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes184",
+                "wikidata": "Q13727213"
+            }
+        },
+        {
+            "name": "Hofeerdgrond",
+            "term": "Hofeerdgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes185",
+                "wikidata": "Q13727284"
+            }
+        },
+        {
+            "name": "Hogere zandgrond",
+            "term": "Hogere zandgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes186",
+                "wikidata": "Q13727348"
+            }
+        },
+        {
+            "name": "holtpodzolgrond",
+            "term": "holtpodzolgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes187",
+                "wikidata": "Q13727619"
+            }
+        },
+        {
+            "name": "Horstpodzolgrond",
+            "term": "Horstpodzolgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes188",
+                "wikidata": "Q13728428"
+            }
+        },
+        {
+            "name": "kamppodzolgrond",
+            "term": "kamppodzolgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes189",
+                "wikidata": "Q13740915"
+            }
+        },
+        {
+            "name": "Kanteerdgrond",
+            "term": "Kanteerdgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes190",
+                "wikidata": "Q13741074"
+            }
+        },
+        {
+            "name": "Koopveengrond",
+            "term": "Koopveengrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes191",
+                "wikidata": "Q13745239"
+            }
+        },
+        {
+            "name": "Kuilbrikgrond",
+            "term": "Kuilbrikgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes192",
+                "wikidata": "Q13746199"
+            }
+        },
+        {
+            "name": "Laarpodzolgrond",
+            "term": "Laarpodzolgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes193",
+                "wikidata": "Q13746994"
+            }
+        },
+        {
+            "name": "Leekeerdgrond",
+            "term": "Leekeerdgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes194",
+                "wikidata": "Q13748804"
+            }
+        },
+        {
+            "name": "Liedeerdgrond",
+            "term": "Liedeerdgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes195",
+                "wikidata": "Q13751276"
+            }
+        },
+        {
+            "name": "Loopodzolgrond",
+            "term": "Loopodzolgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes196",
+                "wikidata": "Q13770413"
+            }
+        },
+        {
+            "name": "Madeveengrond",
+            "term": "Madeveengrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes197",
+                "wikidata": "Q13808284"
+            }
+        },
+        {
+            "name": "Meerveengrond",
+            "term": "Meerveengrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes198",
+                "wikidata": "Q13824162"
+            }
+        },
+        {
+            "name": "Moerpodzolgrond",
+            "term": "Moerpodzolgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes199",
+                "wikidata": "Q13860363"
+            }
+        },
+        {
+            "name": "Mondveengrond",
+            "term": "Mondveengrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes200",
+                "wikidata": "Q13860772"
+            }
+        },
+        {
+            "name": "Nesvaaggrond",
+            "term": "Nesvaaggrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes201",
+                "wikidata": "Q13894863"
+            }
+        },
+        {
+            "name": "Ooivaaggrond",
+            "term": "Ooivaaggrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes202",
+                "wikidata": "Q13927111"
+            }
+        },
+        {
+            "name": "Plaseerdgrond",
+            "term": "Plaseerdgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes203",
+                "wikidata": "Q14113590"
+            }
+        },
+        {
+            "name": "Podzolgrond",
+            "term": "Podzolgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes204",
+                "wikidata": "Q14133652"
+            }
+        },
+        {
+            "name": "Poldervaaggrond",
+            "term": "Poldervaaggrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes205",
+                "wikidata": "Q14141761"
+            }
+        },
+        {
+            "name": "rooibrikgrond",
+            "term": "rooibrikgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes206",
+                "wikidata": "Q14286976"
+            }
+        },
+        {
+            "name": "Slikvaaggrond",
+            "term": "Slikvaaggrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes207",
+                "wikidata": "Q14360794"
+            }
+        },
+        {
+            "name": "Tochteerdgrond",
+            "term": "Tochteerdgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes208",
+                "wikidata": "Q14495383"
+            }
+        },
+        {
+            "name": "Tuineerdgrond",
+            "term": "Tuineerdgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes209",
+                "wikidata": "Q14509053"
+            }
+        },
+        {
+            "name": "Vaaggrond",
+            "term": "Vaaggrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes210",
+                "wikidata": "Q14512380"
+            }
+        },
+        {
+            "name": "Veldpodzolgrond",
+            "term": "Veldpodzolgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes211",
+                "wikidata": "Q14513225"
+            }
+        },
+        {
+            "name": "Vlakvaaggrond",
+            "term": "Vlakvaaggrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes212",
+                "wikidata": "Q14515899"
+            }
+        },
+        {
+            "name": "Vlierveengrond",
+            "term": "Vlierveengrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes213",
+                "wikidata": "Q14515915"
+            }
+        },
+        {
+            "name": "vlietveengrond",
+            "term": "vlietveengrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes214",
+                "wikidata": "Q14515919"
+            }
+        },
+        {
+            "name": "Vorstvaaggrond",
+            "term": "Vorstvaaggrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes215",
+                "wikidata": "Q14516994"
+            }
+        },
+        {
+            "name": "Waardveengrond",
+            "term": "Waardveengrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes216",
+                "wikidata": "Q14517149"
+            }
+        },
+        {
+            "name": "Weideveengrond",
+            "term": "Weideveengrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes217",
+                "wikidata": "Q14518175"
+            }
+        },
+        {
+            "name": "Woudeerdgrond",
+            "term": "Woudeerdgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes218",
+                "wikidata": "Q14520248"
+            }
+        },
+        {
+            "name": "Eerdgrond",
+            "term": "Eerdgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes219",
+                "wikidata": "Q14627026"
+            }
+        },
+        {
+            "name": "radebrikgrond",
+            "term": "radebrikgrond",
+            "identifiers": {
+                "contentmine": "CM.soiltypes220",
+                "wikidata": "Q14676898"
+            }
+        },
+        {
+            "name": "Fluvi-dystric Gleysol",
+            "term": "Fluvi-dystric Gleysol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes221",
+                "wikidata": "Q15823940"
+            }
+        },
+        {
+            "name": "Organomarsch",
+            "term": "Organomarsch",
+            "identifiers": {
+                "contentmine": "CM.soiltypes222",
+                "wikidata": "Q15837700"
+            }
+        },
+        {
+            "name": "Gumbo",
+            "term": "Gumbo",
+            "identifiers": {
+                "contentmine": "CM.soiltypes223",
+                "wikidata": "Q16872363"
+            }
+        },
+        {
+            "name": "Hume",
+            "term": "Hume",
+            "identifiers": {
+                "contentmine": "CM.soiltypes224",
+                "wikidata": "Q16885167"
+            }
+        },
+        {
+            "name": "Greenwich",
+            "term": "Greenwich",
+            "identifiers": {
+                "contentmine": "CM.soiltypes225",
+                "wikidata": "Q16963074"
+            }
+        },
+        {
+            "name": "Hydrophobic soil",
+            "term": "Hydrophobic soil",
+            "identifiers": {
+                "contentmine": "CM.soiltypes226",
+                "wikidata": "Q16965448"
+            }
+        },
+        {
+            "name": "Ñadi",
+            "term": "Ñadi",
+            "identifiers": {
+                "contentmine": "CM.soiltypes227",
+                "wikidata": "Q16978954"
+            }
+        },
+        {
+            "name": "Red soil",
+            "term": "Red soil",
+            "identifiers": {
+                "contentmine": "CM.soiltypes228",
+                "wikidata": "Q17127302"
+            }
+        },
+        {
+            "name": "vineyard soil",
+            "term": "vineyard soil",
+            "identifiers": {
+                "contentmine": "CM.soiltypes229",
+                "wikidata": "Q18029488"
+            }
+        },
+        {
+            "name": "Lessivés",
+            "term": "Lessivés",
+            "identifiers": {
+                "contentmine": "CM.soiltypes230",
+                "wikidata": "Q18424841"
+            }
+        },
+        {
+            "name": "Dubakella",
+            "term": "Dubakella",
+            "identifiers": {
+                "contentmine": "CM.soiltypes231",
+                "wikidata": "Q19877548"
+            }
+        },
+        {
+            "name": "histel",
+            "term": "histel",
+            "identifiers": {
+                "contentmine": "CM.soiltypes232",
+                "wikidata": "Q20203424"
+            }
+        },
+        {
+            "name": "Cryosol",
+            "term": "Cryosol",
+            "identifiers": {
+                "contentmine": "CM.soiltypes233",
+                "wikidata": "Q20825863"
+            }
+        },
+        {
+            "name": "Blue goo",
+            "term": "Blue goo",
+            "identifiers": {
+                "contentmine": "CM.soiltypes234",
+                "wikidata": "Q23016668"
+            }
+        },
+        {
+            "name": "Ustic",
+            "term": "Ustic",
+            "identifiers": {
+                "contentmine": "CM.soiltypes235",
+                "wikidata": "Q23583528"
+            }
+        },
+        {
+            "name": "Cover loam",
+            "term": "Cover loam",
+            "identifiers": {
+                "contentmine": "CM.soiltypes236",
+                "wikidata": "Q25390847"
+            }
+        },
+        {
+            "name": "Trumao",
+            "term": "Trumao",
+            "identifiers": {
+                "contentmine": "CM.soiltypes237",
+                "wikidata": "Q28163135"
+            }
+        },
+        {
+            "name": "imogo",
+            "term": "imogo",
+            "identifiers": {
+                "contentmine": "CM.soiltypes238",
+                "wikidata": "Q28950944"
+            }
+        },
+        {
+            "name": "Parna",
+            "term": "Parna",
+            "identifiers": {
+                "contentmine": "CM.soiltypes239",
+                "wikidata": "Q30594566"
+            }
+        },
+        {
+            "name": "Mesotrophic soil",
+            "term": "Mesotrophic soil",
+            "identifiers": {
+                "contentmine": "CM.soiltypes240",
+                "wikidata": "Q30598441"
+            }
+        }
+    ]
+}

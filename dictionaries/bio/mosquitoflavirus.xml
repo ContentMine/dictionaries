@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary title="mosquitoflavirus">
+ <entry term="" id="CM.mosquitoflavirus.0" name=""/>
+ <entry term="" id="CM.mosquitoflavirus.1" name="" url="/wiki/File:YellowFeverVirus.jpg"/>
+ <entry term="TEM" id="CM.mosquitoflavirus.2" name="TEM" url="/wiki/Transmission_electron_microscope"/>
+ <entry term="micrograph" id="CM.mosquitoflavirus.3" name="micrograph" url="/wiki/Micrograph"/>
+ <entry term="yellow fever" id="CM.mosquitoflavirus.4" name="yellow fever" url="/wiki/Yellow_fever"/>
+ <entry term="Virus classification" id="CM.mosquitoflavirus.5" name="Virus classification" url="/wiki/Virus_classification"/>
+ <entry term="(+)ssRNA" id="CM.mosquitoflavirus.6" name="(+)ssRNA" url="/wiki/Positive-sense_single-stranded_RNA_virus"/>
+ <entry term="Flaviviridae" id="CM.mosquitoflavirus.7" name="Flaviviridae" url="/wiki/Flaviviridae"/>
+ <entry term="Type species" id="CM.mosquitoflavirus.8" name="Type species" url="/wiki/Type_species"/>
+ <entry term="Yellow fever virus" id="CM.mosquitoflavirus.9" name="Yellow fever virus" url="/wiki/Yellow_fever_virus"/>
+ <entry term="Flaviviridae" id="CM.mosquitoflavirus.10" name="Flaviviridae" url="/wiki/Flaviviridae"/>
+ <entry term="West Nile virus" id="CM.mosquitoflavirus.11" name="West Nile virus" url="/wiki/West_Nile_virus"/>
+ <entry term="dengue virus" id="CM.mosquitoflavirus.12" name="dengue virus" url="/wiki/Dengue_virus"/>
+ <entry term="tick-borne encephalitis virus" id="CM.mosquitoflavirus.13" name="tick-borne encephalitis virus" url="/wiki/Tick-borne_encephalitis"/>
+ <entry term="yellow fever virus" id="CM.mosquitoflavirus.14" name="yellow fever virus" url="/wiki/Yellow_fever"/>
+ <entry term="Zika virus" id="CM.mosquitoflavirus.15" name="Zika virus" url="/wiki/Zika_virus"/>
+ <entry term="viruses" id="CM.mosquitoflavirus.16" name="viruses" url="/wiki/Virus"/>
+ <entry term="encephalitis" id="CM.mosquitoflavirus.17" name="encephalitis" url="/wiki/Encephalitis"/>
+ <entry term="Palm Creek virus" id="CM.mosquitoflavirus.18" name="Palm Creek virus" url="/wiki/Palm_Creek_virus"/>
+ <entry term="Parramatta River virus" id="CM.mosquitoflavirus.19" name="Parramatta River virus" url="/wiki/Parramatta_River_virus"/>
+ <entry term="yellow fever virus" id="CM.mosquitoflavirus.20" name="yellow fever virus" url="/wiki/Yellow_fever_virus"/>
+ <entry term="Latin" id="CM.mosquitoflavirus.21" name="Latin" url="/wiki/Latin"/>
+ <entry term="jaundice" id="CM.mosquitoflavirus.22" name="jaundice" url="/wiki/Jaundice"/>
+ <entry term="enveloped" id="CM.mosquitoflavirus.23" name="enveloped" url="/wiki/Envelope_(biology)"/>
+ <entry term="icosahedral" id="CM.mosquitoflavirus.24" name="icosahedral" url="/wiki/Icosahedral"/>
+ <entry term="nucleocapsid" id="CM.mosquitoflavirus.25" name="nucleocapsid" url="/wiki/Nucleocapsid"/>
+ <entry term="nucleic acid" id="CM.mosquitoflavirus.26" name="nucleic acid" url="/wiki/Nucleic_acid"/>
+ <entry term="positive-sense" id="CM.mosquitoflavirus.27" name="positive-sense" url="/wiki/Positive-sense"/>
+ <entry term="RNA" id="CM.mosquitoflavirus.28" name="RNA" url="/wiki/RNA"/>
+ <entry term="electron microscope" id="CM.mosquitoflavirus.29" name="electron microscope" url="/wiki/Electron_microscope"/>
+ <entry term="arthropod" id="CM.mosquitoflavirus.30" name="arthropod" url="/wiki/Arthropod"/>
+ <entry term="arboviruses" id="CM.mosquitoflavirus.31" name="arboviruses" url="/wiki/Arboviruses"/>
+ <entry term="titers" id="CM.mosquitoflavirus.32" name="titers" url="/wiki/Titer"/>
+ <entry term="dead end host" id="CM.mosquitoflavirus.33" name="dead end host" url="/wiki/Dead_end_host"/>
+ <entry term="yellow fever" id="CM.mosquitoflavirus.34" name="yellow fever" url="/wiki/Yellow_fever_virus"/>
+ <entry term="dengue" id="CM.mosquitoflavirus.35" name="dengue" url="/wiki/Dengue_virus"/>
+ <entry term="zika viruses" id="CM.mosquitoflavirus.36" name="zika viruses" url="/wiki/Zika_virus"/>
+ <entry term="contagious" id="CM.mosquitoflavirus.37" name="contagious" url="/wiki/Contagious_disease"/>
+ <entry term="nematode" id="CM.mosquitoflavirus.38" name="nematode" url="/wiki/Nematode"/>
+ <entry term="Flaviviridae" id="CM.mosquitoflavirus.39" name="Flaviviridae" url="/wiki/Flaviviridae"/>
+ <entry term="Apoi virus" id="CM.mosquitoflavirus.40" name="Apoi virus" url="/w/index.php?title=Apoi_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Aroa virus" id="CM.mosquitoflavirus.41" name="Aroa virus" url="/w/index.php?title=Aroa_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Bagaza virus" id="CM.mosquitoflavirus.42" name="Bagaza virus" url="/w/index.php?title=Bagaza_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Banzi virus" id="CM.mosquitoflavirus.43" name="Banzi virus" url="/w/index.php?title=Banzi_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Bouboui virus" id="CM.mosquitoflavirus.44" name="Bouboui virus" url="/w/index.php?title=Bouboui_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Bukalasa bat virus" id="CM.mosquitoflavirus.45" name="Bukalasa bat virus" url="/w/index.php?title=Bukalasa_bat_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Cacipacore virus" id="CM.mosquitoflavirus.46" name="Cacipacore virus" url="/w/index.php?title=Cacipacore_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Carey Island virus" id="CM.mosquitoflavirus.47" name="Carey Island virus" url="/w/index.php?title=Carey_Island_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Cowbone Ridge virus" id="CM.mosquitoflavirus.48" name="Cowbone Ridge virus" url="/w/index.php?title=Cowbone_Ridge_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Dakar bat virus" id="CM.mosquitoflavirus.49" name="Dakar bat virus" url="/w/index.php?title=Dakar_bat_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Dengue virus" id="CM.mosquitoflavirus.50" name="Dengue virus" url="/wiki/Dengue_virus"/>
+ <entry term="Edge Hill virus" id="CM.mosquitoflavirus.51" name="Edge Hill virus" url="/w/index.php?title=Edge_Hill_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Entebbe bat virus" id="CM.mosquitoflavirus.52" name="Entebbe bat virus" url="/wiki/Entebbe_bat_virus"/>
+ <entry term="Gadgets Gully virus" id="CM.mosquitoflavirus.53" name="Gadgets Gully virus" url="/wiki/Gadgets_Gully_virus"/>
+ <entry term="Ilheus virus" id="CM.mosquitoflavirus.54" name="Ilheus virus" url="/w/index.php?title=Ilheus_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Israel turkey meningoencephalomyelitis virus" id="CM.mosquitoflavirus.55" name="Israel turkey meningoencephalomyelitis virus" url="/w/index.php?title=Israel_turkey_meningoencephalomyelitis_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Japanese encephalitis virus" id="CM.mosquitoflavirus.56" name="Japanese encephalitis virus" url="/wiki/Japanese_encephalitis_virus"/>
+ <entry term="Jugra virus" id="CM.mosquitoflavirus.57" name="Jugra virus" url="/w/index.php?title=Jugra_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Jutiapa virus" id="CM.mosquitoflavirus.58" name="Jutiapa virus" url="/w/index.php?title=Jutiapa_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Kadam virus" id="CM.mosquitoflavirus.59" name="Kadam virus" url="/wiki/Kadam_virus"/>
+ <entry term="Kedougou virus" id="CM.mosquitoflavirus.60" name="Kedougou virus" url="/w/index.php?title=Kedougou_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Kokobera virus" id="CM.mosquitoflavirus.61" name="Kokobera virus" url="/w/index.php?title=Kokobera_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Koutango virus" id="CM.mosquitoflavirus.62" name="Koutango virus" url="/w/index.php?title=Koutango_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Kyasanur Forest disease virus" id="CM.mosquitoflavirus.63" name="Kyasanur Forest disease virus" url="/wiki/Kyasanur_Forest_disease_virus"/>
+ <entry term="Langat virus" id="CM.mosquitoflavirus.64" name="Langat virus" url="/wiki/Langat_virus"/>
+ <entry term="Louping ill virus" id="CM.mosquitoflavirus.65" name="Louping ill virus" url="/wiki/Louping_ill_virus"/>
+ <entry term="Meaban virus" id="CM.mosquitoflavirus.66" name="Meaban virus" url="/w/index.php?title=Meaban_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Modoc virus" id="CM.mosquitoflavirus.67" name="Modoc virus" url="/w/index.php?title=Modoc_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Montana myotis leukoencephalitis virus" id="CM.mosquitoflavirus.68" name="Montana myotis leukoencephalitis virus" url="/w/index.php?title=Montana_myotis_leukoencephalitis_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Murray Valley encephalitis virus" id="CM.mosquitoflavirus.69" name="Murray Valley encephalitis virus" url="/wiki/Murray_Valley_encephalitis_virus"/>
+ <entry term="Ntaya virus" id="CM.mosquitoflavirus.70" name="Ntaya virus" url="/w/index.php?title=Ntaya_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Omsk hemorrhagic fever virus" id="CM.mosquitoflavirus.71" name="Omsk hemorrhagic fever virus" url="/wiki/Omsk_hemorrhagic_fever_virus"/>
+ <entry term="Phnom Penh bat virus" id="CM.mosquitoflavirus.72" name="Phnom Penh bat virus" url="/w/index.php?title=Phnom_Penh_bat_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Powassan virus" id="CM.mosquitoflavirus.73" name="Powassan virus" url="/wiki/Powassan_virus"/>
+ <entry term="Rio Bravo virus" id="CM.mosquitoflavirus.74" name="Rio Bravo virus" url="/w/index.php?title=Rio_Bravo_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Royal Farm virus" id="CM.mosquitoflavirus.75" name="Royal Farm virus" url="/w/index.php?title=Royal_Farm_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Saboya virus" id="CM.mosquitoflavirus.76" name="Saboya virus" url="/w/index.php?title=Saboya_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Sal Vieja virus" id="CM.mosquitoflavirus.77" name="Sal Vieja virus" url="/w/index.php?title=Sal_Vieja_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="San Perlita virus" id="CM.mosquitoflavirus.78" name="San Perlita virus" url="/w/index.php?title=San_Perlita_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Saumarez Reef virus" id="CM.mosquitoflavirus.79" name="Saumarez Reef virus" url="/w/index.php?title=Saumarez_Reef_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Sepik virus" id="CM.mosquitoflavirus.80" name="Sepik virus" url="/w/index.php?title=Sepik_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="St. Louis encephalitis virus" id="CM.mosquitoflavirus.81" name="St. Louis encephalitis virus" url="/wiki/St._Louis_encephalitis_virus"/>
+ <entry term="Tembusu virus" id="CM.mosquitoflavirus.82" name="Tembusu virus" url="/w/index.php?title=Tembusu_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Tick-borne encephalitis virus" id="CM.mosquitoflavirus.83" name="Tick-borne encephalitis virus" url="/wiki/Tick-borne_encephalitis_virus"/>
+ <entry term="Tyuleniy virus" id="CM.mosquitoflavirus.84" name="Tyuleniy virus" url="/w/index.php?title=Tyuleniy_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Uganda S virus" id="CM.mosquitoflavirus.85" name="Uganda S virus" url="/w/index.php?title=Uganda_S_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Usutu virus" id="CM.mosquitoflavirus.86" name="Usutu virus" url="/wiki/Usutu_virus"/>
+ <entry term="Wesselsbron virus" id="CM.mosquitoflavirus.87" name="Wesselsbron virus" url="/wiki/Wesselsbron_virus"/>
+ <entry term="West Nile virus" id="CM.mosquitoflavirus.88" name="West Nile virus" url="/wiki/West_Nile_virus"/>
+ <entry term="Yaounde virus" id="CM.mosquitoflavirus.89" name="Yaounde virus" url="/w/index.php?title=Yaounde_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Yellow fever virus" id="CM.mosquitoflavirus.90" name="Yellow fever virus" url="/wiki/Yellow_fever_virus"/>
+ <entry term="Yokose virus" id="CM.mosquitoflavirus.91" name="Yokose virus" url="/w/index.php?title=Yokose_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Zika virus" id="CM.mosquitoflavirus.92" name="Zika virus" url="/wiki/Zika_virus"/>
+ <entry term="clathrin-mediated endocytosis" id="CM.mosquitoflavirus.93" name="clathrin-mediated endocytosis" url="/wiki/Clathrin-mediated_endocytosis"/>
+ <entry term="zoonosis" id="CM.mosquitoflavirus.94" name="zoonosis" url="/wiki/Zoonosis"/>
+ <entry term="cytoplasm" id="CM.mosquitoflavirus.95" name="cytoplasm" url="/wiki/Cytoplasm"/>
+ <entry term="genome" id="CM.mosquitoflavirus.96" name="genome" url="/wiki/Genome"/>
+ <entry term="mRNA" id="CM.mosquitoflavirus.97" name="mRNA" url="/wiki/MRNA"/>
+ <entry term="(poly-A) tail" id="CM.mosquitoflavirus.98" name="(poly-A) tail" url="/wiki/Poly-A_tail"/>
+ <entry term="replication" id="CM.mosquitoflavirus.99" name="replication" url="/wiki/Self_replication"/>
+ <entry term="ribosome" id="CM.mosquitoflavirus.100" name="ribosome" url="/wiki/Ribosome"/>
+ <entry term="polyprotein" id="CM.mosquitoflavirus.101" name="polyprotein" url="/wiki/Polyprotein"/>
+ <entry term="RNA triphosphatase" id="CM.mosquitoflavirus.102" name="RNA triphosphatase" url="/wiki/RNA_triphosphatase"/>
+ <entry term="methyltransferase" id="CM.mosquitoflavirus.103" name="methyltransferase" url="/wiki/Methyltransferase"/>
+ <entry term="guanylyltransferase" id="CM.mosquitoflavirus.104" name="guanylyltransferase" url="/wiki/Guanylyltransferase"/>
+ <entry term="ATP" id="CM.mosquitoflavirus.105" name="ATP" url="/wiki/Adenosine_triphosphate"/>
+ <entry term="GTP" id="CM.mosquitoflavirus.106" name="GTP" url="/wiki/Guanosine_triphosphate"/>
+ <entry term="S-adenosyl methionine" id="CM.mosquitoflavirus.107" name="S-adenosyl methionine" url="/wiki/S-adenosyl_methionine"/>
+ <entry term="translated" id="CM.mosquitoflavirus.108" name="translated" url="/wiki/Translation_(genetics)"/>
+ <entry term="polypeptide" id="CM.mosquitoflavirus.109" name="polypeptide" url="/wiki/Polypeptide"/>
+ <entry term="autocatalytic" id="CM.mosquitoflavirus.110" name="autocatalytic" url="/wiki/Autocatalytic"/>
+ <entry term="cleave" id="CM.mosquitoflavirus.111" name="cleave" url="/wiki/Bond_cleavage"/>
+ <entry term="polymerase" id="CM.mosquitoflavirus.112" name="polymerase" url="/wiki/Polymerase"/>
+ <entry term="progeny" id="CM.mosquitoflavirus.113" name="progeny" url="/wiki/Offspring"/>
+ <entry term="rough endoplasmic reticulum" id="CM.mosquitoflavirus.114" name="rough endoplasmic reticulum" url="/wiki/Rough_endoplasmic_reticulum"/>
+ <entry term="budding" id="CM.mosquitoflavirus.115" name="budding" url="/wiki/Budding"/>
+ <entry term="lysis" id="CM.mosquitoflavirus.116" name="lysis" url="/wiki/Lysis"/>
+ <entry term="" id="CM.mosquitoflavirus.117" name="" url="/wiki/File:RF01415.png"/>
+ <entry term="Rfam" id="CM.mosquitoflavirus.118" name="Rfam" url="/wiki/Rfam"/>
+ <entry term="RF01415" id="CM.mosquitoflavirus.119" name="RF01415" url="http://rfam.org/family/RF01415"/>
+ <entry term="RNA" id="CM.mosquitoflavirus.120" name="RNA" url="/wiki/RNA"/>
+ <entry term="Cis-reg" id="CM.mosquitoflavirus.121" name="Cis-reg" url="/wiki/Cis-reg"/>
+ <entry term="Domain(s)" id="CM.mosquitoflavirus.122" name="Domain(s)" url="/wiki/Domain_(biology)"/>
+ <entry term="Flaviviridae" id="CM.mosquitoflavirus.123" name="Flaviviridae" url="/wiki/Flaviviridae"/>
+ <entry term="SO" id="CM.mosquitoflavirus.124" name="SO" url="/wiki/Open_Biomedical_Ontologies"/>
+ <entry term="0005836" id="CM.mosquitoflavirus.125" name="0005836" url="http://www.sequenceontology.org/miso/current_release/term/SO:0005836"/>
+ <entry term="PDB" id="CM.mosquitoflavirus.126" name="PDB" url="/wiki/Protein_Data_Bank"/>
+ <entry term="PDBe" id="CM.mosquitoflavirus.127" name="PDBe" url="http://www.ebi.ac.uk/pdbe/entry/search/index/?searchParams=%7B%22rfam_accession%22:%5B%7B%22value%22:%22RF01415%22,%22condition1%22:%22AND%22,%22condition2%22:%22Equal%20to%22%7D%5D,%22resultState%22:%7B%22tabIndex%22:0,%22paginationIndex%22:1,%22perPage%22:%2210%22,%22sortBy%22:%22release_date%20desc%22%7D%7D"/>
+ <entry term="" id="CM.mosquitoflavirus.128" name="" url="/wiki/File:RF00525.png"/>
+ <entry term="Rfam" id="CM.mosquitoflavirus.129" name="Rfam" url="/wiki/Rfam"/>
+ <entry term="RF00525" id="CM.mosquitoflavirus.130" name="RF00525" url="http://rfam.org/family/RF00525"/>
+ <entry term="RNA" id="CM.mosquitoflavirus.131" name="RNA" url="/wiki/RNA"/>
+ <entry term="Cis-reg" id="CM.mosquitoflavirus.132" name="Cis-reg" url="/wiki/Cis-reg"/>
+ <entry term="Domain(s)" id="CM.mosquitoflavirus.133" name="Domain(s)" url="/wiki/Domain_(biology)"/>
+ <entry term="Flaviviridae" id="CM.mosquitoflavirus.134" name="Flaviviridae" url="/wiki/Flaviviridae"/>
+ <entry term="SO" id="CM.mosquitoflavirus.135" name="SO" url="/wiki/Open_Biomedical_Ontologies"/>
+ <entry term="0000233" id="CM.mosquitoflavirus.136" name="0000233" url="http://www.sequenceontology.org/miso/current_release/term/SO:0000233"/>
+ <entry term="PDB" id="CM.mosquitoflavirus.137" name="PDB" url="/wiki/Protein_Data_Bank"/>
+ <entry term="PDBe" id="CM.mosquitoflavirus.138" name="PDBe" url="http://www.ebi.ac.uk/pdbe/entry/search/index/?searchParams=%7B%22rfam_accession%22:%5B%7B%22value%22:%22RF00525%22,%22condition1%22:%22AND%22,%22condition2%22:%22Equal%20to%22%7D%5D,%22resultState%22:%7B%22tabIndex%22:0,%22paginationIndex%22:1,%22perPage%22:%2210%22,%22sortBy%22:%22release_date%20desc%22%7D%7D"/>
+ <entry term="" id="CM.mosquitoflavirus.139" name="" url="/wiki/File:RF00185.png"/>
+ <entry term="Rfam" id="CM.mosquitoflavirus.140" name="Rfam" url="/wiki/Rfam"/>
+ <entry term="RF00185" id="CM.mosquitoflavirus.141" name="RF00185" url="http://rfam.org/family/RF00185"/>
+ <entry term="RNA" id="CM.mosquitoflavirus.142" name="RNA" url="/wiki/RNA"/>
+ <entry term="Cis-reg" id="CM.mosquitoflavirus.143" name="Cis-reg" url="/wiki/Cis-reg"/>
+ <entry term="Domain(s)" id="CM.mosquitoflavirus.144" name="Domain(s)" url="/wiki/Domain_(biology)"/>
+ <entry term="Flaviviridae" id="CM.mosquitoflavirus.145" name="Flaviviridae" url="/wiki/Flaviviridae"/>
+ <entry term="SO" id="CM.mosquitoflavirus.146" name="SO" url="/wiki/Open_Biomedical_Ontologies"/>
+ <entry term="0000205" id="CM.mosquitoflavirus.147" name="0000205" url="http://www.sequenceontology.org/miso/current_release/term/SO:0000205"/>
+ <entry term="PDB" id="CM.mosquitoflavirus.148" name="PDB" url="/wiki/Protein_Data_Bank"/>
+ <entry term="PDBe" id="CM.mosquitoflavirus.149" name="PDBe" url="http://www.ebi.ac.uk/pdbe/entry/search/index/?searchParams=%7B%22rfam_accession%22:%5B%7B%22value%22:%22RF00185%22,%22condition1%22:%22AND%22,%22condition2%22:%22Equal%20to%22%7D%5D,%22resultState%22:%7B%22tabIndex%22:0,%22paginationIndex%22:1,%22perPage%22:%2210%22,%22sortBy%22:%22release_date%20desc%22%7D%7D"/>
+ <entry term="" id="CM.mosquitoflavirus.150" name="" url="/wiki/File:RF00465.png"/>
+ <entry term="Rfam" id="CM.mosquitoflavirus.151" name="Rfam" url="/wiki/Rfam"/>
+ <entry term="RF00465" id="CM.mosquitoflavirus.152" name="RF00465" url="http://rfam.org/family/RF00465"/>
+ <entry term="RNA" id="CM.mosquitoflavirus.153" name="RNA" url="/wiki/RNA"/>
+ <entry term="Cis-reg" id="CM.mosquitoflavirus.154" name="Cis-reg" url="/wiki/Cis-reg"/>
+ <entry term="Domain(s)" id="CM.mosquitoflavirus.155" name="Domain(s)" url="/wiki/Domain_(biology)"/>
+ <entry term="Flaviviridae" id="CM.mosquitoflavirus.156" name="Flaviviridae" url="/wiki/Flaviviridae"/>
+ <entry term="SO" id="CM.mosquitoflavirus.157" name="SO" url="/wiki/Open_Biomedical_Ontologies"/>
+ <entry term="0000233" id="CM.mosquitoflavirus.158" name="0000233" url="http://www.sequenceontology.org/miso/current_release/term/SO:0000233"/>
+ <entry term="PDB" id="CM.mosquitoflavirus.159" name="PDB" url="/wiki/Protein_Data_Bank"/>
+ <entry term="PDBe" id="CM.mosquitoflavirus.160" name="PDBe" url="http://www.ebi.ac.uk/pdbe/entry/search/index/?searchParams=%7B%22rfam_accession%22:%5B%7B%22value%22:%22RF00465%22,%22condition1%22:%22AND%22,%22condition2%22:%22Equal%20to%22%7D%5D,%22resultState%22:%7B%22tabIndex%22:0,%22paginationIndex%22:1,%22perPage%22:%2210%22,%22sortBy%22:%22release_date%20desc%22%7D%7D"/>
+ <entry term="untranslated regions" id="CM.mosquitoflavirus.161" name="untranslated regions" url="/wiki/Untranslated_region"/>
+ <entry term="Dengue virus" id="CM.mosquitoflavirus.162" name="Dengue virus" url="/wiki/Dengue_virus"/>
+ <entry term="secondary structures" id="CM.mosquitoflavirus.163" name="secondary structures" url="/wiki/Secondary_structure"/>
+ <entry term="West Nile virus" id="CM.mosquitoflavirus.164" name="West Nile virus" url="/wiki/West_Nile_virus"/>
+ <entry term="viral replication" id="CM.mosquitoflavirus.165" name="viral replication" url="/wiki/Viral_replication"/>
+ <entry term="endonuclease" id="CM.mosquitoflavirus.166" name="endonuclease" url="/wiki/Endonuclease"/>
+ <entry term="hairpin loop" id="CM.mosquitoflavirus.167" name="hairpin loop" url="/wiki/Hairpin_loop"/>
+ <entry term="Japanese encephalitis virus" id="CM.mosquitoflavirus.168" name="Japanese encephalitis virus" url="/wiki/Japanese_encephalitis_virus"/>
+ <entry term="Dengue virus" id="CM.mosquitoflavirus.169" name="Dengue virus" url="/wiki/Dengue_virus"/>
+ <entry term="translation" id="CM.mosquitoflavirus.170" name="translation" url="/wiki/Translation_(biology)"/>
+ <entry term="pseudoknot" id="CM.mosquitoflavirus.171" name="pseudoknot" url="/wiki/Pseudoknot"/>
+ <entry term="conserved hairpin (cHP)" id="CM.mosquitoflavirus.172" name="conserved hairpin (cHP)" url="/wiki/Flavivirus_capsid_hairpin_cHP"/>
+ <entry term="genomes" id="CM.mosquitoflavirus.173" name="genomes" url="/wiki/Genome"/>
+ <entry term="start codon" id="CM.mosquitoflavirus.174" name="start codon" url="/wiki/Start_codon"/>
+ <entry term="5'-3' exoribonuclease 1" id="CM.mosquitoflavirus.175" name="5'-3' exoribonuclease 1" url="/wiki/5%27-3%27_exoribonuclease_1"/>
+ <entry term="Culex" id="CM.mosquitoflavirus.176" name="Culex" url="/wiki/Culex"/>
+ <entry term="Aedes" id="CM.mosquitoflavirus.177" name="Aedes" url="/wiki/Aedes"/>
+ <entry term="seabirds" id="CM.mosquitoflavirus.178" name="seabirds" url="/wiki/Seabird"/>
+ <entry term="rodents" id="CM.mosquitoflavirus.179" name="rodents" url="/wiki/Rodent"/>
+ <entry term="bats" id="CM.mosquitoflavirus.180" name="bats" url="/wiki/Bat"/>
+ <entry term="Endeis spinosa" id="CM.mosquitoflavirus.181" name="Endeis spinosa" url="/w/index.php?title=Endeis_spinosa&amp;action=edit&amp;redlink=1"/>
+ <entry term="Phylogenetic" id="CM.mosquitoflavirus.182" name="Phylogenetic" url="/wiki/Phylogeny"/>
+ <entry term="zoonosis" id="CM.mosquitoflavirus.183" name="zoonosis" url="/wiki/Zoonosis"/>
+ <entry term="mare" id="CM.mosquitoflavirus.184" name="mare" url="/wiki/Mare"/>
+ <entry term="fetus" id="CM.mosquitoflavirus.185" name="fetus" url="/wiki/Fetus"/>
+ <entry term="killer whale" id="CM.mosquitoflavirus.186" name="killer whale" url="/wiki/Killer_whale"/>
+ <entry term="Texas" id="CM.mosquitoflavirus.187" name="Texas" url="/wiki/Texas"/>
+ <entry term="host range" id="CM.mosquitoflavirus.188" name="host range" url="/wiki/Host_range"/>
+ <entry term="cetaceans" id="CM.mosquitoflavirus.189" name="cetaceans" url="/wiki/Cetacean"/>
+ <entry term="Ondatra zibethicus" id="CM.mosquitoflavirus.190" name="Ondatra zibethicus" url="/wiki/Ondatra_zibethicus"/>
+ <entry term="Tick" id="CM.mosquitoflavirus.191" name="Tick" url="/wiki/Tick"/>
+ <entry term="Mammalian" id="CM.mosquitoflavirus.192" name="Mammalian" url="/wiki/Mammal"/>
+ <entry term="Greek goat encephalitis virus" id="CM.mosquitoflavirus.193" name="Greek goat encephalitis virus" url="/w/index.php?title=Greek_goat_encephalitis_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Kadam virus" id="CM.mosquitoflavirus.194" name="Kadam virus" url="/wiki/Kadam_virus"/>
+ <entry term="Krasnodar virus" id="CM.mosquitoflavirus.195" name="Krasnodar virus" url="/w/index.php?title=Krasnodar_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Mogiana tick virus" id="CM.mosquitoflavirus.196" name="Mogiana tick virus" url="/w/index.php?title=Mogiana_tick_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Ngoye virus" id="CM.mosquitoflavirus.197" name="Ngoye virus" url="/w/index.php?title=Ngoye_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Sokuluk virus" id="CM.mosquitoflavirus.198" name="Sokuluk virus" url="/w/index.php?title=Sokuluk_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Spanish sheep encephalomyelitis virus" id="CM.mosquitoflavirus.199" name="Spanish sheep encephalomyelitis virus" url="/w/index.php?title=Spanish_sheep_encephalomyelitis_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Turkish sheep encephalitis virus" id="CM.mosquitoflavirus.200" name="Turkish sheep encephalitis virus" url="/w/index.php?title=Turkish_sheep_encephalitis_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Absettarov virus" id="CM.mosquitoflavirus.201" name="Absettarov virus" url="/wiki/Absettarov_virus"/>
+ <entry term="Deer tick virus" id="CM.mosquitoflavirus.202" name="Deer tick virus" url="/wiki/Deer_tick_virus"/>
+ <entry term="Gadgets Gully virus" id="CM.mosquitoflavirus.203" name="Gadgets Gully virus" url="/wiki/Gadgets_Gully_virus"/>
+ <entry term="Karshi virus" id="CM.mosquitoflavirus.204" name="Karshi virus" url="/wiki/Karshi_virus"/>
+ <entry term="Kyasanur Forest disease virus" id="CM.mosquitoflavirus.205" name="Kyasanur Forest disease virus" url="/wiki/Kyasanur_Forest_disease_virus"/>
+ <entry term="Alkhurma hemorrhagic fever virus" id="CM.mosquitoflavirus.206" name="Alkhurma hemorrhagic fever virus" url="/w/index.php?title=Alkhurma_hemorrhagic_fever_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Langat virus" id="CM.mosquitoflavirus.207" name="Langat virus" url="/wiki/Langat_virus"/>
+ <entry term="Louping ill virus" id="CM.mosquitoflavirus.208" name="Louping ill virus" url="/wiki/Louping_ill_virus"/>
+ <entry term="Omsk hemorrhagic fever virus" id="CM.mosquitoflavirus.209" name="Omsk hemorrhagic fever virus" url="/wiki/Omsk_hemorrhagic_fever_virus"/>
+ <entry term="Powassan virus" id="CM.mosquitoflavirus.210" name="Powassan virus" url="/wiki/Powassan_virus"/>
+ <entry term="Royal Farm virus" id="CM.mosquitoflavirus.211" name="Royal Farm virus" url="/w/index.php?title=Royal_Farm_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Tick-borne encephalitis virus" id="CM.mosquitoflavirus.212" name="Tick-borne encephalitis virus" url="/wiki/Tick-borne_encephalitis_virus"/>
+ <entry term="Seabird" id="CM.mosquitoflavirus.213" name="Seabird" url="/wiki/Seabird"/>
+ <entry term="Kama virus" id="CM.mosquitoflavirus.214" name="Kama virus" url="/w/index.php?title=Kama_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Meaban virus" id="CM.mosquitoflavirus.215" name="Meaban virus" url="/w/index.php?title=Meaban_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Saumarez Reef virus" id="CM.mosquitoflavirus.216" name="Saumarez Reef virus" url="/w/index.php?title=Saumarez_Reef_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Tyuleniy virus" id="CM.mosquitoflavirus.217" name="Tyuleniy virus" url="/w/index.php?title=Tyuleniy_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Mosquito" id="CM.mosquitoflavirus.218" name="Mosquito" url="/wiki/Mosquito"/>
+ <entry term="Aedes flavivirus" id="CM.mosquitoflavirus.219" name="Aedes flavivirus" url="/w/index.php?title=Aedes_flavivirus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Cell fusing agent virus" id="CM.mosquitoflavirus.220" name="Cell fusing agent virus" url="/w/index.php?title=Cell_fusing_agent_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Aedes galloisi flavivirus" id="CM.mosquitoflavirus.221" name="Aedes galloisi flavivirus" url="/w/index.php?title=Aedes_galloisi_flavivirus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Barkedji virus" id="CM.mosquitoflavirus.222" name="Barkedji virus" url="/w/index.php?title=Barkedji_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Calbertado virus" id="CM.mosquitoflavirus.223" name="Calbertado virus" url="/w/index.php?title=Calbertado_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Chaoyang virus" id="CM.mosquitoflavirus.224" name="Chaoyang virus" url="/w/index.php?title=Chaoyang_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Culex flavivirus" id="CM.mosquitoflavirus.225" name="Culex flavivirus" url="/w/index.php?title=Culex_flavivirus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Culex theileri flavivirus" id="CM.mosquitoflavirus.226" name="Culex theileri flavivirus" url="/w/index.php?title=Culex_theileri_flavivirus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Spanish Culex flavivirus" id="CM.mosquitoflavirus.227" name="Spanish Culex flavivirus" url="/w/index.php?title=Spanish_Culex_flavivirus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Wang Thong virus" id="CM.mosquitoflavirus.228" name="Wang Thong virus" url="/w/index.php?title=Wang_Thong_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Culiseta flavivirus" id="CM.mosquitoflavirus.229" name="Culiseta flavivirus" url="/w/index.php?title=Culiseta_flavivirus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Donggang virus" id="CM.mosquitoflavirus.230" name="Donggang virus" url="/w/index.php?title=Donggang_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Hanko virus" id="CM.mosquitoflavirus.231" name="Hanko virus" url="/w/index.php?title=Hanko_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Ochlerotatus caspius flavivirus" id="CM.mosquitoflavirus.232" name="Ochlerotatus caspius flavivirus" url="/w/index.php?title=Ochlerotatus_caspius_flavivirus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Spanish Ochlerotatus flavivirus" id="CM.mosquitoflavirus.233" name="Spanish Ochlerotatus flavivirus" url="/w/index.php?title=Spanish_Ochlerotatus_flavivirus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Ilomantsi virus" id="CM.mosquitoflavirus.234" name="Ilomantsi virus" url="/w/index.php?title=Ilomantsi_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Kamiti River virus" id="CM.mosquitoflavirus.235" name="Kamiti River virus" url="/w/index.php?title=Kamiti_River_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Lammi virus" id="CM.mosquitoflavirus.236" name="Lammi virus" url="/w/index.php?title=Lammi_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Marisma mosquito virus" id="CM.mosquitoflavirus.237" name="Marisma mosquito virus" url="/w/index.php?title=Marisma_mosquito_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Nakiwogo virus" id="CM.mosquitoflavirus.238" name="Nakiwogo virus" url="/w/index.php?title=Nakiwogo_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Nhumirim virus" id="CM.mosquitoflavirus.239" name="Nhumirim virus" url="/w/index.php?title=Nhumirim_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Nienokoue virus" id="CM.mosquitoflavirus.240" name="Nienokoue virus" url="/w/index.php?title=Nienokoue_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Nounané virus" id="CM.mosquitoflavirus.241" name="Nounané virus" url="/w/index.php?title=Nounan%C3%A9_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Palm Creek virus" id="CM.mosquitoflavirus.242" name="Palm Creek virus" url="/wiki/Palm_Creek_virus"/>
+ <entry term="Panmunjeom flavivirus" id="CM.mosquitoflavirus.243" name="Panmunjeom flavivirus" url="/w/index.php?title=Panmunjeom_flavivirus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Quang Binh virus" id="CM.mosquitoflavirus.244" name="Quang Binh virus" url="/w/index.php?title=Quang_Binh_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Yunnan Culex flavivirus" id="CM.mosquitoflavirus.245" name="Yunnan Culex flavivirus" url="/w/index.php?title=Yunnan_Culex_flavivirus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Aroa virus" id="CM.mosquitoflavirus.246" name="Aroa virus" url="/w/index.php?title=Aroa_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Bussuquara virus" id="CM.mosquitoflavirus.247" name="Bussuquara virus" url="/w/index.php?title=Bussuquara_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Iguape virus" id="CM.mosquitoflavirus.248" name="Iguape virus" url="/w/index.php?title=Iguape_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Naranjal virus" id="CM.mosquitoflavirus.249" name="Naranjal virus" url="/w/index.php?title=Naranjal_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Dengue virus" id="CM.mosquitoflavirus.250" name="Dengue virus" url="/wiki/Dengue_virus"/>
+ <entry term="Kedougou virus" id="CM.mosquitoflavirus.251" name="Kedougou virus" url="/w/index.php?title=Kedougou_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Cacipacore virus" id="CM.mosquitoflavirus.252" name="Cacipacore virus" url="/w/index.php?title=Cacipacore_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Koutango virus" id="CM.mosquitoflavirus.253" name="Koutango virus" url="/w/index.php?title=Koutango_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Kunjin virus" id="CM.mosquitoflavirus.254" name="Kunjin virus" url="/wiki/Kunjin_virus"/>
+ <entry term="Ilheus virus" id="CM.mosquitoflavirus.255" name="Ilheus virus" url="/w/index.php?title=Ilheus_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Japanese encephalitis virus" id="CM.mosquitoflavirus.256" name="Japanese encephalitis virus" url="/wiki/Japanese_encephalitis_virus"/>
+ <entry term="Murray Valley encephalitis virus" id="CM.mosquitoflavirus.257" name="Murray Valley encephalitis virus" url="/wiki/Murray_Valley_encephalitis_virus"/>
+ <entry term="Alfuy virus" id="CM.mosquitoflavirus.258" name="Alfuy virus" url="/w/index.php?title=Alfuy_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="St. Louis encephalitis virus" id="CM.mosquitoflavirus.259" name="St. Louis encephalitis virus" url="/wiki/St._Louis_Encephalitis"/>
+ <entry term="Usutu virus" id="CM.mosquitoflavirus.260" name="Usutu virus" url="/wiki/Usutu_virus"/>
+ <entry term="West Nile virus" id="CM.mosquitoflavirus.261" name="West Nile virus" url="/wiki/West_Nile_virus"/>
+ <entry term="Yaounde virus" id="CM.mosquitoflavirus.262" name="Yaounde virus" url="/w/index.php?title=Yaounde_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Kokobera virus" id="CM.mosquitoflavirus.263" name="Kokobera virus" url="/w/index.php?title=Kokobera_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="New Mapoon virus" id="CM.mosquitoflavirus.264" name="New Mapoon virus" url="/w/index.php?title=New_Mapoon_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Stratford virus" id="CM.mosquitoflavirus.265" name="Stratford virus" url="/w/index.php?title=Stratford_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Bagaza virus" id="CM.mosquitoflavirus.266" name="Bagaza virus" url="/w/index.php?title=Bagaza_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Baiyangdian virus" id="CM.mosquitoflavirus.267" name="Baiyangdian virus" url="/w/index.php?title=Baiyangdian_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Duck egg drop syndrome virus" id="CM.mosquitoflavirus.268" name="Duck egg drop syndrome virus" url="/w/index.php?title=Duck_egg_drop_syndrome_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Ilheus virus" id="CM.mosquitoflavirus.269" name="Ilheus virus" url="/w/index.php?title=Ilheus_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Israel turkey meningoencephalomyelitis virus" id="CM.mosquitoflavirus.270" name="Israel turkey meningoencephalomyelitis virus" url="/w/index.php?title=Israel_turkey_meningoencephalomyelitis_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Jiangsu virus" id="CM.mosquitoflavirus.271" name="Jiangsu virus" url="/w/index.php?title=Jiangsu_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Layer flavivirus" id="CM.mosquitoflavirus.272" name="Layer flavivirus" url="/w/index.php?title=Layer_flavivirus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Ntaya virus" id="CM.mosquitoflavirus.273" name="Ntaya virus" url="/w/index.php?title=Ntaya_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Rocio virus" id="CM.mosquitoflavirus.274" name="Rocio virus" url="/wiki/Rocio_virus"/>
+ <entry term="Sitiawan virus" id="CM.mosquitoflavirus.275" name="Sitiawan virus" url="/w/index.php?title=Sitiawan_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="T'Ho virus" id="CM.mosquitoflavirus.276" name="T'Ho virus" url="/w/index.php?title=T%27Ho_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Tembusu virus" id="CM.mosquitoflavirus.277" name="Tembusu virus" url="/w/index.php?title=Tembusu_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Spondweni virus" id="CM.mosquitoflavirus.278" name="Spondweni virus" url="/wiki/Spondweni_virus"/>
+ <entry term="Zika virus" id="CM.mosquitoflavirus.279" name="Zika virus" url="/wiki/Zika_virus"/>
+ <entry term="Banzi virus" id="CM.mosquitoflavirus.280" name="Banzi virus" url="/w/index.php?title=Banzi_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Bamaga virus" id="CM.mosquitoflavirus.281" name="Bamaga virus" url="/w/index.php?title=Bamaga_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Bouboui virus" id="CM.mosquitoflavirus.282" name="Bouboui virus" url="/w/index.php?title=Bouboui_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Edge Hill virus" id="CM.mosquitoflavirus.283" name="Edge Hill virus" url="/w/index.php?title=Edge_Hill_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Fitzroy river virus" id="CM.mosquitoflavirus.284" name="Fitzroy river virus" url="/w/index.php?title=Fitzroy_river_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Jugra virus" id="CM.mosquitoflavirus.285" name="Jugra virus" url="/w/index.php?title=Jugra_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Saboya virus" id="CM.mosquitoflavirus.286" name="Saboya virus" url="/w/index.php?title=Saboya_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Sepik virus" id="CM.mosquitoflavirus.287" name="Sepik virus" url="/w/index.php?title=Sepik_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Uganda S virus" id="CM.mosquitoflavirus.288" name="Uganda S virus" url="/w/index.php?title=Uganda_S_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Wesselsbron virus" id="CM.mosquitoflavirus.289" name="Wesselsbron virus" url="/wiki/Wesselsbron_virus"/>
+ <entry term="Yellow fever virus" id="CM.mosquitoflavirus.290" name="Yellow fever virus" url="/wiki/Yellow_fever_virus"/>
+ <entry term="Batu cave virus" id="CM.mosquitoflavirus.291" name="Batu cave virus" url="/w/index.php?title=Batu_cave_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Bukulasa bat virus" id="CM.mosquitoflavirus.292" name="Bukulasa bat virus" url="/w/index.php?title=Bukulasa_bat_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Nanay virus" id="CM.mosquitoflavirus.293" name="Nanay virus" url="/w/index.php?title=Nanay_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Rabensburg virus" id="CM.mosquitoflavirus.294" name="Rabensburg virus" url="/w/index.php?title=Rabensburg_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Sitiawan virus" id="CM.mosquitoflavirus.295" name="Sitiawan virus" url="/w/index.php?title=Sitiawan_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="arthropod" id="CM.mosquitoflavirus.296" name="arthropod" url="/wiki/Arthropod"/>
+ <entry term="Tamana bat virus" id="CM.mosquitoflavirus.297" name="Tamana bat virus" url="/w/index.php?title=Tamana_bat_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Entebbe bat virus" id="CM.mosquitoflavirus.298" name="Entebbe bat virus" url="/wiki/Entebbe_bat_virus"/>
+ <entry term="Sokoluk virus" id="CM.mosquitoflavirus.299" name="Sokoluk virus" url="/w/index.php?title=Sokoluk_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Yokose virus" id="CM.mosquitoflavirus.300" name="Yokose virus" url="/w/index.php?title=Yokose_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Apoi virus" id="CM.mosquitoflavirus.301" name="Apoi virus" url="/w/index.php?title=Apoi_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Cowbone Ridge virus" id="CM.mosquitoflavirus.302" name="Cowbone Ridge virus" url="/w/index.php?title=Cowbone_Ridge_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Jutiapa virus" id="CM.mosquitoflavirus.303" name="Jutiapa virus" url="/w/index.php?title=Jutiapa_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Modoc virus" id="CM.mosquitoflavirus.304" name="Modoc virus" url="/w/index.php?title=Modoc_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Sal Vieja virus" id="CM.mosquitoflavirus.305" name="Sal Vieja virus" url="/w/index.php?title=Sal_Vieja_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="San Perlita virus" id="CM.mosquitoflavirus.306" name="San Perlita virus" url="/w/index.php?title=San_Perlita_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Bukalasa bat virus" id="CM.mosquitoflavirus.307" name="Bukalasa bat virus" url="/w/index.php?title=Bukalasa_bat_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Carey Island virus" id="CM.mosquitoflavirus.308" name="Carey Island virus" url="/w/index.php?title=Carey_Island_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Dakar bat virus" id="CM.mosquitoflavirus.309" name="Dakar bat virus" url="/w/index.php?title=Dakar_bat_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Montana myotis leukoencephalitis virus" id="CM.mosquitoflavirus.310" name="Montana myotis leukoencephalitis virus" url="/w/index.php?title=Montana_myotis_leukoencephalitis_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Phnom Penh bat virus" id="CM.mosquitoflavirus.311" name="Phnom Penh bat virus" url="/w/index.php?title=Phnom_Penh_bat_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Rio Bravo virus" id="CM.mosquitoflavirus.312" name="Rio Bravo virus" url="/w/index.php?title=Rio_Bravo_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Assam virus" id="CM.mosquitoflavirus.313" name="Assam virus" url="/w/index.php?title=Assam_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Bamaga virus" id="CM.mosquitoflavirus.314" name="Bamaga virus" url="/w/index.php?title=Bamaga_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Cuacua virus" id="CM.mosquitoflavirus.315" name="Cuacua virus" url="/w/index.php?title=Cuacua_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Donggang virus" id="CM.mosquitoflavirus.316" name="Donggang virus" url="/w/index.php?title=Donggang_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Karumba virus" id="CM.mosquitoflavirus.317" name="Karumba virus" url="/w/index.php?title=Karumba_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Hanko virus" id="CM.mosquitoflavirus.318" name="Hanko virus" url="/w/index.php?title=Hanko_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Haslams Creek virus" id="CM.mosquitoflavirus.319" name="Haslams Creek virus" url="/w/index.php?title=Haslams_Creek_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Mac Peak virus" id="CM.mosquitoflavirus.320" name="Mac Peak virus" url="/w/index.php?title=Mac_Peak_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Marisma mosquito virus" id="CM.mosquitoflavirus.321" name="Marisma mosquito virus" url="/w/index.php?title=Marisma_mosquito_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Mediterranean Ochlerotatus flavivirus" id="CM.mosquitoflavirus.322" name="Mediterranean Ochlerotatus flavivirus" url="/w/index.php?title=Mediterranean_Ochlerotatus_flavivirus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Menghai flavivirus" id="CM.mosquitoflavirus.323" name="Menghai flavivirus" url="/w/index.php?title=Menghai_flavivirus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Nakiwogo virus" id="CM.mosquitoflavirus.324" name="Nakiwogo virus" url="/w/index.php?title=Nakiwogo_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Nanay virus" id="CM.mosquitoflavirus.325" name="Nanay virus" url="/w/index.php?title=Nanay_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Nounané virus" id="CM.mosquitoflavirus.326" name="Nounané virus" url="/w/index.php?title=Nounan%C3%A9_virus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Ochlerotatus caspius flavivirus" id="CM.mosquitoflavirus.327" name="Ochlerotatus caspius flavivirus" url="/w/index.php?title=Ochlerotatus_caspius_flavivirus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Palm Creek virus" id="CM.mosquitoflavirus.328" name="Palm Creek virus" url="/wiki/Palm_Creek_virus"/>
+ <entry term="Parramatta River virus" id="CM.mosquitoflavirus.329" name="Parramatta River virus" url="/wiki/Parramatta_River_virus"/>
+ <entry term="Soybean cyst nematode virus 5" id="CM.mosquitoflavirus.330" name="Soybean cyst nematode virus 5" url="/w/index.php?title=Soybean_cyst_nematode_virus_5&amp;action=edit&amp;redlink=1"/>
+ <entry term="Xishuangbanna Aedes flavivirus" id="CM.mosquitoflavirus.331" name="Xishuangbanna Aedes flavivirus" url="/w/index.php?title=Xishuangbanna_Aedes_flavivirus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Aedes flavivirus" id="CM.mosquitoflavirus.332" name="Aedes flavivirus" url="/w/index.php?title=Aedes_flavivirus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Aedes cinereus flavivirus" id="CM.mosquitoflavirus.333" name="Aedes cinereus flavivirus" url="/w/index.php?title=Aedes_cinereus_flavivirus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Aedes vexans flavivirus" id="CM.mosquitoflavirus.334" name="Aedes vexans flavivirus" url="/w/index.php?title=Aedes_vexans_flavivirus&amp;action=edit&amp;redlink=1"/>
+ <entry term="Culex theileri flavivirus" id="CM.mosquitoflavirus.335" name="Culex theileri flavivirus" url="/w/index.php?title=Culex_theileri_flavivirus&amp;action=edit&amp;redlink=1"/>
+ <entry term="yellow fever 17D vaccine" id="CM.mosquitoflavirus.336" name="yellow fever 17D vaccine" url="/wiki/Yellow_fever_vaccine"/>
+ <entry term="Japanese encephalitis" id="CM.mosquitoflavirus.337" name="Japanese encephalitis" url="/wiki/Japanese_encephalitis"/>
+ <entry term="Tick-borne encephalitis" id="CM.mosquitoflavirus.338" name="Tick-borne encephalitis" url="/wiki/Tick-borne_encephalitis"/>
+ <entry term="Japanese encephalitis vaccine" id="CM.mosquitoflavirus.339" name="Japanese encephalitis vaccine" url="/wiki/Japanese_encephalitis_vaccine"/>
+ <entry term="dengue vaccines" id="CM.mosquitoflavirus.340" name="dengue vaccines" url="/wiki/Dengue_vaccine"/>
+ <query>('') OR ('') OR ('TEM') OR ('micrograph') OR ('yellow fever') OR ('Virus classification') OR ('(+)ssRNA') OR ('Flaviviridae') OR ('Type species') OR ('Yellow fever virus') OR ('Flaviviridae') OR ('West Nile virus') OR ('dengue virus') OR ('tick-borne encephalitis virus') OR ('yellow fever virus') OR ('Zika virus') OR ('viruses') OR ('encephalitis') OR ('Palm Creek virus') OR ('Parramatta River virus') OR ('yellow fever virus') OR ('Latin') OR ('jaundice') OR ('enveloped') OR ('icosahedral') OR ('nucleocapsid') OR ('nucleic acid') OR ('positive-sense') OR ('RNA') OR ('electron microscope') OR ('arthropod') OR ('arboviruses') OR ('titers') OR ('dead end host') OR ('yellow fever') OR ('dengue') OR ('zika viruses') OR ('contagious') OR ('nematode') OR ('Flaviviridae') OR ('Apoi virus') OR ('Aroa virus') OR ('Bagaza virus') OR ('Banzi virus') OR ('Bouboui virus') OR ('Bukalasa bat virus') OR ('Cacipacore virus') OR ('Carey Island virus') OR ('Cowbone Ridge virus') OR ('Dakar bat virus') OR ('Dengue virus') OR ('Edge Hill virus') OR ('Entebbe bat virus') OR ('Gadgets Gully virus') OR ('Ilheus virus') OR ('Israel turkey meningoencephalomyelitis virus') OR ('Japanese encephalitis virus') OR ('Jugra virus') OR ('Jutiapa virus') OR ('Kadam virus') OR ('Kedougou virus') OR ('Kokobera virus') OR ('Koutango virus') OR ('Kyasanur Forest disease virus') OR ('Langat virus') OR ('Louping ill virus') OR ('Meaban virus') OR ('Modoc virus') OR ('Montana myotis leukoencephalitis virus') OR ('Murray Valley encephalitis virus') OR ('Ntaya virus') OR ('Omsk hemorrhagic fever virus') OR ('Phnom Penh bat virus') OR ('Powassan virus') OR ('Rio Bravo virus') OR ('Royal Farm virus') OR ('Saboya virus') OR ('Sal Vieja virus') OR ('San Perlita virus') OR ('Saumarez Reef virus') OR ('Sepik virus') OR ('St. Louis encephalitis virus') OR ('Tembusu virus') OR ('Tick-borne encephalitis virus') OR ('Tyuleniy virus') OR ('Uganda S virus') OR ('Usutu virus') OR ('Wesselsbron virus') OR ('West Nile virus') OR ('Yaounde virus') OR ('Yellow fever virus') OR ('Yokose virus') OR ('Zika virus') OR ('clathrin-mediated endocytosis') OR ('zoonosis') OR ('cytoplasm') OR ('genome') OR ('mRNA') OR ('(poly-A) tail') OR ('replication') OR ('ribosome') OR ('polyprotein') OR ('RNA triphosphatase') OR ('methyltransferase') OR ('guanylyltransferase') OR ('ATP') OR ('GTP') OR ('S-adenosyl methionine') OR ('translated') OR ('polypeptide') OR ('autocatalytic') OR ('cleave') OR ('polymerase') OR ('progeny') OR ('rough endoplasmic reticulum') OR ('budding') OR ('lysis') OR ('') OR ('Rfam') OR ('RF01415') OR ('RNA') OR ('Cis-reg') OR ('Domain(s)') OR ('Flaviviridae') OR ('SO') OR ('0005836') OR ('PDB') OR ('PDBe') OR ('') OR ('Rfam') OR ('RF00525') OR ('RNA') OR ('Cis-reg') OR ('Domain(s)') OR ('Flaviviridae') OR ('SO') OR ('0000233') OR ('PDB') OR ('PDBe') OR ('') OR ('Rfam') OR ('RF00185') OR ('RNA') OR ('Cis-reg') OR ('Domain(s)') OR ('Flaviviridae') OR ('SO') OR ('0000205') OR ('PDB') OR ('PDBe') OR ('') OR ('Rfam') OR ('RF00465') OR ('RNA') OR ('Cis-reg') OR ('Domain(s)') OR ('Flaviviridae') OR ('SO') OR ('0000233') OR ('PDB') OR ('PDBe') OR ('untranslated regions') OR ('Dengue virus') OR ('secondary structures') OR ('West Nile virus') OR ('viral replication') OR ('endonuclease') OR ('hairpin loop') OR ('Japanese encephalitis virus') OR ('Dengue virus') OR ('translation') OR ('pseudoknot') OR ('conserved hairpin (cHP)') OR ('genomes') OR ('start codon') OR ('5'-3' exoribonuclease 1') OR ('Culex') OR ('Aedes') OR ('seabirds') OR ('rodents') OR ('bats') OR ('Endeis spinosa') OR ('Phylogenetic') OR ('zoonosis') OR ('mare') OR ('fetus') OR ('killer whale') OR ('Texas') OR ('host range') OR ('cetaceans') OR ('Ondatra zibethicus') OR ('Tick') OR ('Mammalian') OR ('Greek goat encephalitis virus') OR ('Kadam virus') OR ('Krasnodar virus') OR ('Mogiana tick virus') OR ('Ngoye virus') OR ('Sokuluk virus') OR ('Spanish sheep encephalomyelitis virus') OR ('Turkish sheep encephalitis virus') OR ('Absettarov virus') OR ('Deer tick virus') OR ('Gadgets Gully virus') OR ('Karshi virus') OR ('Kyasanur Forest disease virus') OR ('Alkhurma hemorrhagic fever virus') OR ('Langat virus') OR ('Louping ill virus') OR ('Omsk hemorrhagic fever virus') OR ('Powassan virus') OR ('Royal Farm virus') OR ('Tick-borne encephalitis virus') OR ('Seabird') OR ('Kama virus') OR ('Meaban virus') OR ('Saumarez Reef virus') OR ('Tyuleniy virus') OR ('Mosquito') OR ('Aedes flavivirus') OR ('Cell fusing agent virus') OR ('Aedes galloisi flavivirus') OR ('Barkedji virus') OR ('Calbertado virus') OR ('Chaoyang virus') OR ('Culex flavivirus') OR ('Culex theileri flavivirus') OR ('Spanish Culex flavivirus') OR ('Wang Thong virus') OR ('Culiseta flavivirus') OR ('Donggang virus') OR ('Hanko virus') OR ('Ochlerotatus caspius flavivirus') OR ('Spanish Ochlerotatus flavivirus') OR ('Ilomantsi virus') OR ('Kamiti River virus') OR ('Lammi virus') OR ('Marisma mosquito virus') OR ('Nakiwogo virus') OR ('Nhumirim virus') OR ('Nienokoue virus') OR ('Nounané virus') OR ('Palm Creek virus') OR ('Panmunjeom flavivirus') OR ('Quang Binh virus') OR ('Yunnan Culex flavivirus') OR ('Aroa virus') OR ('Bussuquara virus') OR ('Iguape virus') OR ('Naranjal virus') OR ('Dengue virus') OR ('Kedougou virus') OR ('Cacipacore virus') OR ('Koutango virus') OR ('Kunjin virus') OR ('Ilheus virus') OR ('Japanese encephalitis virus') OR ('Murray Valley encephalitis virus') OR ('Alfuy virus') OR ('St. Louis encephalitis virus') OR ('Usutu virus') OR ('West Nile virus') OR ('Yaounde virus') OR ('Kokobera virus') OR ('New Mapoon virus') OR ('Stratford virus') OR ('Bagaza virus') OR ('Baiyangdian virus') OR ('Duck egg drop syndrome virus') OR ('Ilheus virus') OR ('Israel turkey meningoencephalomyelitis virus') OR ('Jiangsu virus') OR ('Layer flavivirus') OR ('Ntaya virus') OR ('Rocio virus') OR ('Sitiawan virus') OR ('T'Ho virus') OR ('Tembusu virus') OR ('Spondweni virus') OR ('Zika virus') OR ('Banzi virus') OR ('Bamaga virus') OR ('Bouboui virus') OR ('Edge Hill virus') OR ('Fitzroy river virus') OR ('Jugra virus') OR ('Saboya virus') OR ('Sepik virus') OR ('Uganda S virus') OR ('Wesselsbron virus') OR ('Yellow fever virus') OR ('Batu cave virus') OR ('Bukulasa bat virus') OR ('Nanay virus') OR ('Rabensburg virus') OR ('Sitiawan virus') OR ('arthropod') OR ('Tamana bat virus') OR ('Entebbe bat virus') OR ('Sokoluk virus') OR ('Yokose virus') OR ('Apoi virus') OR ('Cowbone Ridge virus') OR ('Jutiapa virus') OR ('Modoc virus') OR ('Sal Vieja virus') OR ('San Perlita virus') OR ('Bukalasa bat virus') OR ('Carey Island virus') OR ('Dakar bat virus') OR ('Montana myotis leukoencephalitis virus') OR ('Phnom Penh bat virus') OR ('Rio Bravo virus') OR ('Assam virus') OR ('Bamaga virus') OR ('Cuacua virus') OR ('Donggang virus') OR ('Karumba virus') OR ('Hanko virus') OR ('Haslams Creek virus') OR ('Mac Peak virus') OR ('Marisma mosquito virus') OR ('Mediterranean Ochlerotatus flavivirus') OR ('Menghai flavivirus') OR ('Nakiwogo virus') OR ('Nanay virus') OR ('Nounané virus') OR ('Ochlerotatus caspius flavivirus') OR ('Palm Creek virus') OR ('Parramatta River virus') OR ('Soybean cyst nematode virus 5') OR ('Xishuangbanna Aedes flavivirus') OR ('Aedes flavivirus') OR ('Aedes cinereus flavivirus') OR ('Aedes vexans flavivirus') OR ('Culex theileri flavivirus') OR ('yellow fever 17D vaccine') OR ('Japanese encephalitis') OR ('Tick-borne encephalitis') OR ('Japanese encephalitis vaccine') OR ('dengue vaccines')</query>
+</dictionary>

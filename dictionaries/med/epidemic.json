@@ -1,0 +1,57 @@
+{
+  "id": "CM.epidemic",
+  "entries": [
+    {
+      "identifiers": {
+        "contentmine": "CM.epidemic0"
+      },
+      "term": "forest",
+      "name": " forest"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.epidemic1",
+        "wikidata": "Q3326411"
+      },
+      "term": "mosquitoes",
+      "name": "mosquitoes"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.epidemic2"
+      },
+      "term": "infection",
+      "name": "infection"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.epidemic3"
+      },
+      "term": "neutralizing",
+      "name": "neutralizing"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.epidemic4"
+      },
+      "term": "serological",
+      "name": "serological"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.epidemic5"
+      },
+      "term": "infections",
+      "name": "infections"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.epidemic6"
+      },
+      "term": "vaccination",
+      "name": "vaccination"
+    }
+  ],
+  "name": "epidemic",
+  "termsByCMId": {}
+}

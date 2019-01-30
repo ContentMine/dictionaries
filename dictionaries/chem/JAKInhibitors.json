@@ -1,0 +1,92 @@
+{
+    "id": "JAKInhibitors",
+    "log": [
+        {
+            "type": "pagepile",
+            "id": "11769",
+            "time": 1511864607188
+        }
+    ],
+    "entries": [
+        {
+            "name": "filgotinib",
+            "term": "filgotinib",
+            "identifiers": {
+                "contentmine": "CM.JAKInhibitors0",
+                "wikidata": "Q19904163"
+            }
+        },
+        {
+            "name": "momelotinib",
+            "term": "momelotinib",
+            "identifiers": {
+                "contentmine": "CM.JAKInhibitors1",
+                "wikidata": "Q252602"
+            }
+        },
+        {
+            "name": "upadacitinib",
+            "term": "upadacitinib",
+            "identifiers": {
+                "contentmine": "CM.JAKInhibitors2",
+                "wikidata": "Q27074125"
+            }
+        },
+        {
+            "name": "gandotinib",
+            "term": "gandotinib",
+            "identifiers": {
+                "contentmine": "CM.JAKInhibitors3",
+                "wikidata": "Q27077770"
+            }
+        },
+        {
+            "name": "oclacitinib",
+            "term": "oclacitinib",
+            "identifiers": {
+                "contentmine": "CM.JAKInhibitors4",
+                "wikidata": "Q27272209"
+            }
+        },
+        {
+            "name": "tofacitinib",
+            "term": "tofacitinib",
+            "identifiers": {
+                "contentmine": "CM.JAKInhibitors5",
+                "wikidata": "Q3530324"
+            }
+        },
+        {
+            "name": "pacritinib",
+            "term": "pacritinib",
+            "identifiers": {
+                "contentmine": "CM.JAKInhibitors6",
+                "wikidata": "Q3888693"
+            }
+        },
+        {
+            "name": "Baricitinib",
+            "term": "Baricitinib",
+            "identifiers": {
+                "contentmine": "CM.JAKInhibitors7",
+                "wikidata": "Q4860707"
+            }
+        },
+        {
+            "name": "lestaurtinib",
+            "term": "lestaurtinib",
+            "identifiers": {
+                "contentmine": "CM.JAKInhibitors8",
+                "wikidata": "Q6531771"
+            }
+        },
+        {
+            "name": "ruxolitinib",
+            "term": "ruxolitinib",
+            "identifiers": {
+                "contentmine": "CM.JAKInhibitors9",
+                "wikidata": "Q7383611"
+            }
+        }
+    ]
+}

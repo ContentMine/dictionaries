@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary title="conservationbio">
+	<desc role="summary">Conservation biology</desc>
+	<desc role="source">https://en.wikipedia.org/wiki/Conservation_biology</desc>
+	<desc created="PMR 2018"</desc>
+ <entry term="acclimate" id="CM.conservationbio.373" name="acclimate" url="/wiki/Acclimate"/>
+ <entry term="acidity" id="CM.conservationbio.366" name="acidity" url="/wiki/Ocean_acidification"/>
+ <entry term="adaptability" id="CM.conservationbio.261" name="adaptability" url="/wiki/Adaptation"/>
+ <entry term="adaptive management" id="CM.conservationbio.225" name="adaptive management" url="/wiki/Adaptive_management"/>
+ <entry term="advocate" id="CM.conservationbio.216" name="advocate" url="/wiki/Advocate"/>
+ <entry term="advocate" id="CM.conservationbio.45" name="advocate" url="/wiki/Advocate"/>
+ <entry term="aesthetic" id="CM.conservationbio.322" name="aesthetic" url="/wiki/Aesthetics"/>
+ <entry term="agricultural expansion" id="CM.conservationbio.399" name="agricultural expansion" url="/wiki/Agricultural_expansion"/>
+ <entry term="agriculture" id="CM.conservationbio.172" name="agriculture" url="/wiki/Agriculture"/>
+ <entry term="algae" id="CM.conservationbio.368" name="algae" url="/wiki/Algae"/>
+ <entry term="amphibians" id="CM.conservationbio.312" name="amphibians" url="/wiki/Amphibian"/>
+ <entry term="animal" id="CM.conservationbio.186" name="animal" url="/wiki/Animal"/>
+ <entry term="anthropocentric" id="CM.conservationbio.234" name="anthropocentric" url="/wiki/Anthropocentric"/>
+ <entry term="anthropology" id="CM.conservationbio.211" name="anthropology" url="/wiki/Anthropology"/>
+ <entry term="Arctic" id="CM.conservationbio.252" name="Arctic" url="/wiki/Arctic"/>
+ <entry term="arts" id="CM.conservationbio.210" name="arts" url="/wiki/Arts"/>
+ <entry term="atmosphere" id="CM.conservationbio.412" name="atmosphere" url="/wiki/Atmosphere"/>
+ <entry term="atmospheric chemistry" id="CM.conservationbio.286" name="atmospheric chemistry" url="/wiki/Atmospheric_chemistry"/>
+ <entry term="background extinction rate" id="CM.conservationbio.195" name="background extinction rate" url="/wiki/Background_extinction_rate"/>
+ <entry term="bias" id="CM.conservationbio.218" name="bias" url="/wiki/Bias"/>
+ <entry term="big cat" id="CM.conservationbio.139" name="big cat" url="/wiki/Big_cat"/>
+ <entry term="Biodiversity Action Plans" id="CM.conservationbio.153" name="Biodiversity Action Plans" url="/wiki/Biodiversity_Action_Plan"/>
+ <entry term="biodiversity hotspots" id="CM.conservationbio.246" name="biodiversity hotspots" url="/wiki/Biodiversity_hotspots"/>
+ <entry term="biodiversity loss" id="CM.conservationbio.42" name="biodiversity loss" url="/wiki/Biodiversity_loss"/>
+ <entry term="Biodiversity threats" id="CM.conservationbio.396" name="Biodiversity threats" url="/wiki/Biodiversity_threats"/>
+ <entry term="biogeography" id="CM.conservationbio.77" name="biogeography" url="/wiki/Biogeography"/>
+ <entry term="Biological Conservation" id="CM.conservationbio.481" name="Biological Conservation" url="/wiki/Biological_Conservation_(journal)"/>
+ <entry term="biomass" id="CM.conservationbio.248" name="biomass" url="/wiki/Biomass"/>
+ <entry term="biosphere" id="CM.conservationbio.170" name="biosphere" url="/wiki/Biosphere"/>
+ <entry term="birds" id="CM.conservationbio.355" name="birds" url="/wiki/Bird"/>
+ <entry term="botanist" id="CM.conservationbio.96" name="botanist" url="/wiki/Botany"/>
+ <entry term="burgeoning human population" id="CM.conservationbio.171" name="burgeoning human population" url="/wiki/Human_overpopulation"/>
+ <entry term="Climate change" id="CM.conservationbio.409" name="Climate change" url="/wiki/Climate_change"/>
+ <entry term="climate mitigation" id="CM.conservationbio.358" name="climate mitigation" url="/wiki/Climate_mitigation"/>
+ <entry term="climate restoration" id="CM.conservationbio.359" name="climate restoration" url="/wiki/Climate_restoration"/>
+ <entry term="colony collapse disorder" id="CM.conservationbio.387" name="colony collapse disorder" url="/wiki/Colony_collapse_disorder"/>
+ <entry term="communities" id="CM.conservationbio.382" name="communities" url="/wiki/Community_(ecology)"/>
+ <entry term="conservation behavior" id="CM.conservationbio.26" name="conservation behavior" url="/wiki/Conservation_behavior"/>
+ <entry term="Conservation Biology" id="CM.conservationbio.485" name="Conservation Biology" url="/wiki/Conservation_Biology_(journal)"/>
+ <entry term="conservation ethic" id="CM.conservationbio.15" name="conservation ethic" url="/wiki/Conservation_ethic"/>
+ <entry term="conservation genetics" id="CM.conservationbio.213" name="conservation genetics" url="/wiki/Conservation_genetics"/>
+ <entry term="Conservation movement" id="CM.conservationbio.82" name="Conservation movement" url="/wiki/Conservation_movement"/>
+ <entry term="conservation organizations" id="CM.conservationbio.81" name="conservation organizations" url="/wiki/Environmental_organization"/>
+ <entry term="conservation status" id="CM.conservationbio.244" name="conservation status" url="/wiki/Conservation_status"/>
+ <entry term="Convention on Biological Diversity" id="CM.conservationbio.165" name="Convention on Biological Diversity" url="/wiki/Convention_on_Biological_Diversity"/>
+ <entry term="Coral bleaching" id="CM.conservationbio.364" name="Coral bleaching" url="/wiki/Coral_bleaching"/>
+ <entry term="Coral reef" id="CM.conservationbio.361" name="Coral reef" url="/wiki/Coral_reef"/>
+ <entry term="Cretaceous–Paleogene extinction event" id="CM.conservationbio.335" name="Cretaceous–Paleogene extinction event" url="/wiki/Cretaceous%E2%80%93Paleogene_extinction_event"/>
+ <entry term="deforestation" id="CM.conservationbio.398" name="deforestation" url="/wiki/Deforestation"/>
+ <entry term="Devonian" id="CM.conservationbio.332" name="Devonian" url="/wiki/Late_Devonian_extinction"/>
+ <entry term="Dinosaur National Monument" id="CM.conservationbio.128" name="Dinosaur National Monument" url="/wiki/Dinosaur_National_Monument"/>
+ <entry term="dispersal" id="CM.conservationbio.31" name="dispersal" url="/wiki/Biological_dispersal"/>
+ <entry term="Diversity and Distributions" id="CM.conservationbio.490" name="Diversity and Distributions" url="/wiki/Diversity_and_Distributions"/>
+ <entry term="ecological" id="CM.conservationbio.328" name="ecological" url="/wiki/Ecological"/>
+ <entry term="Ecology and Society" id="CM.conservationbio.491" name="Ecology and Society" url="/wiki/Ecology_and_Society"/>
+ <entry term="ecology" id="CM.conservationbio.29" name="ecology" url="/wiki/Ecology"/>
+ <entry term="economics" id="CM.conservationbio.208" name="economics" url="/wiki/Economics"/>
+ <entry term="economists" id="CM.conservationbio.269" name="economists" url="/wiki/Economist"/>
+ <entry term="ecosystems" id="CM.conservationbio.220" name="ecosystems" url="/wiki/Ecosystem"/>
+ <entry term="education" id="CM.conservationbio.212" name="education" url="/wiki/Education"/>
+ <entry term="effective population size" id="CM.conservationbio.34" name="effective population size" url="/wiki/Effective_population_size"/>
+ <entry term="effects of global warming" id="CM.conservationbio.414" name="effects of global warming" url="/wiki/Effects_of_global_warming"/>
+ <entry term="End-Capitanian extinction event" id="CM.conservationbio.188" name="End-Capitanian extinction event" url="/wiki/End-Capitanian_extinction_event"/>
+ <entry term="Endangered Species Act" id="CM.conservationbio.151" name="Endangered Species Act" url="/wiki/Endangered_Species_Act"/>
+ <entry term="endangered species" id="CM.conservationbio.243" name="endangered species" url="/wiki/Endangered_species"/>
+ <entry term="endangered species" id="CM.conservationbio.38" name="endangered species" url="/wiki/Endangered_species"/>
+ <entry term="endangered" id="CM.conservationbio.199" name="endangered" url="/wiki/Endangered"/>
+ <entry term="endemic species" id="CM.conservationbio.249" name="endemic species" url="/wiki/Endemic_species"/>
+ <entry term="endemic" id="CM.conservationbio.242" name="endemic" url="/wiki/Endemism"/>
+ <entry term="England" id="CM.conservationbio.84" name="England" url="/wiki/England"/>
+ <entry term="Enlightenment" id="CM.conservationbio.83" name="Enlightenment" url="/wiki/Age_of_Enlightenment"/>
+ <entry term="Environment portal" id="CM.conservationbio.495" name="Environment portal" url="/wiki/Portal:Environment"/>
+ <entry term="environment" id="CM.conservationbio.89" name="environment" url="/wiki/Natural_environment"/>
+ <entry term="environmental stresses" id="CM.conservationbio.365" name="environmental stresses" url="/wiki/Environmental_stress"/>
+ <entry term="epidemic" id="CM.conservationbio.393" name="epidemic" url="/wiki/Epidemic"/>
+ <entry term="ethics" id="CM.conservationbio.48" name="ethics" url="/wiki/Ethics"/>
+ <entry term="Europe" id="CM.conservationbio.71" name="Europe" url="/wiki/Europe"/>
+ <entry term="European Commission" id="CM.conservationbio.277" name="European Commission" url="/wiki/European_Commission"/>
+ <entry term="evidence" id="CM.conservationbio.344" name="evidence" url="/wiki/Evidence"/>
+ <entry term="evolution" id="CM.conservationbio.214" name="evolution" url="/wiki/Evolution"/>
+ <entry term="evolve" id="CM.conservationbio.372" name="evolve" url="/wiki/Evolution"/>
+ <entry term="ex-situ conservation" id="CM.conservationbio.228" name="ex-situ conservation" url="/wiki/Ex-situ_conservation"/>
+ <entry term="Extinct and endangered species portal" id="CM.conservationbio.503" name="Extinct and endangered species portal" url="/wiki/Portal:Extinct_and_endangered_species"/>
+ <entry term="extinction event" id="CM.conservationbio.345" name="extinction event" url="/wiki/Extinction_event"/>
+ <entry term="extinction" id="CM.conservationbio.13" name="extinction" url="/wiki/Extinction"/>
+ <entry term="feedback loop" id="CM.conservationbio.410" name="feedback loop" url="/wiki/Feedback_loop"/>
+ <entry term="Flagship species" id="CM.conservationbio.319" name="Flagship species" url="/wiki/Flagship_species"/>
+ <entry term="food chain" id="CM.conservationbio.308" name="food chain" url="/wiki/Food_chain"/>
+ <entry term="Forest Departments" id="CM.conservationbio.93" name="Forest Departments" url="/wiki/Indian_Forest_Service"/>
+ <entry term="Forest Reserve Act of 1891" id="CM.conservationbio.122" name="Forest Reserve Act of 1891" url="/wiki/Forest_Reserve_Act_of_1891"/>
+ <entry term="forestry" id="CM.conservationbio.105" name="forestry" url="/wiki/Forestry"/>
+ <entry term="forests" id="CM.conservationbio.104" name="forests" url="/wiki/Forest"/>
+ <entry term="fossil record" id="CM.conservationbio.352" name="fossil record" url="/wiki/Fossil_record"/>
+ <entry term="fur clothing" id="CM.conservationbio.119" name="fur clothing" url="/wiki/Fur_clothing"/>
+ <entry term="Game laws" id="CM.conservationbio.113" name="Game laws" url="/wiki/Game_laws"/>
+ <entry term="GDP" id="CM.conservationbio.300" name="GDP" url="/wiki/GDP"/>
+ <entry term="genera" id="CM.conservationbio.187" name="genera" url="/wiki/Genus"/>
+ <entry term="genera" id="CM.conservationbio.348" name="genera" url="/wiki/Genera"/>
+ <entry term="genetic diversity" id="CM.conservationbio.23" name="genetic diversity" url="/wiki/Genetic_diversity"/>
+ <entry term="genetic" id="CM.conservationbio.39" name="genetic" url="/wiki/Genetics"/>
+ <entry term="Geographic Information Systems" id="CM.conservationbio.203" name="Geographic Information Systems" url="/wiki/Geographic_Information_Systems"/>
+ <entry term="global market transactions" id="CM.conservationbio.272" name="global market transactions" url="/wiki/International_finance"/>
+ <entry term="global warming" id="CM.conservationbio.391" name="global warming" url="/wiki/Global_warming"/>
+ <entry term="grassroots movement" id="CM.conservationbio.163" name="grassroots movement" url="/wiki/Grassroots_movement"/>
+ <entry term="grazed unrestricted" id="CM.conservationbio.310" name="grazed unrestricted" url="/wiki/Urchin_barren"/>
+ <entry term="habitat degradation" id="CM.conservationbio.219" name="habitat degradation" url="/wiki/Habitat_degradation"/>
+ <entry term="habitat destruction" id="CM.conservationbio.397" name="habitat destruction" url="/wiki/Habitat_destruction"/>
+ <entry term="Habitat fragmentation" id="CM.conservationbio.403" name="Habitat fragmentation" url="/wiki/Habitat_fragmentation"/>
+ <entry term="habitat loss" id="CM.conservationbio.193" name="habitat loss" url="/wiki/Habitat_loss"/>
+ <entry term="habitat" id="CM.conservationbio.227" name="habitat" url="/wiki/Habitat_(ecology)"/>
+ <entry term="habitats" id="CM.conservationbio.11" name="habitats" url="/wiki/Habitats"/>
+ <entry term="Holocene extinction event" id="CM.conservationbio.346" name="Holocene extinction event" url="/wiki/Holocene_extinction_event"/>
+ <entry term="Holocene extinction" id="CM.conservationbio.341" name="Holocene extinction" url="/wiki/Holocene_extinction"/>
+ <entry term="honey bees" id="CM.conservationbio.386" name="honey bees" url="/wiki/Honey_bee"/>
+ <entry term="honey-bee" id="CM.conservationbio.298" name="honey-bee" url="/wiki/Honey-bee"/>
+ <entry term="Hopetoun Falls" id="CM.conservationbio.7" name="Hopetoun Falls" url="/wiki/Hopetoun_Falls"/>
+ <entry term="humanities" id="CM.conservationbio.209" name="humanities" url="/wiki/Humanities"/>
+ <entry term="in-situ conservation" id="CM.conservationbio.226" name="in-situ conservation" url="/wiki/In-situ_conservation"/>
+ <entry term="inbreeding depression" id="CM.conservationbio.35" name="inbreeding depression" url="/wiki/Inbreeding_depression"/>
+ <entry term="Indicator species" id="CM.conservationbio.311" name="Indicator species" url="/wiki/Indicator_species"/>
+ <entry term="industry" id="CM.conservationbio.173" name="industry" url="/wiki/Industry"/>
+ <entry term="insect" id="CM.conservationbio.380" name="insect" url="/wiki/Insect"/>
+ <entry term="Institute of Ecology and Environmental Management" id="CM.conservationbio.167" name="Institute of Ecology and Environmental Management" url="/wiki/Institute_of_Ecology_and_Environmental_Management"/>
+ <entry term="interdisciplinary" id="CM.conservationbio.232" name="interdisciplinary" url="/wiki/Interdisciplinary"/>
+ <entry term="International Union for Conservation of Nature" id="CM.conservationbio.357" name="International Union for Conservation of Nature" url="/wiki/International_Union_for_Conservation_of_Nature"/>
+ <entry term="intrinsic value" id="CM.conservationbio.233" name="intrinsic value" url="/wiki/Intrinsic_value_(ethics)"/>
+ <entry term="invertebrates" id="CM.conservationbio.198" name="invertebrates" url="/wiki/Invertebrate"/>
+ <entry term="ISBN" id="CM.conservationbio.460" name="ISBN" url="/wiki/International_Standard_Book_Number"/>
+ <entry term="ISBN" id="CM.conservationbio.463" name="ISBN" url="/wiki/International_Standard_Book_Number"/>
+ <entry term="ISBN" id="CM.conservationbio.465" name="ISBN" url="/wiki/International_Standard_Book_Number"/>
+ <entry term="ISBN" id="CM.conservationbio.467" name="ISBN" url="/wiki/International_Standard_Book_Number"/>
+ <entry term="ISBN" id="CM.conservationbio.469" name="ISBN" url="/wiki/International_Standard_Book_Number"/>
+ <entry term="ISBN" id="CM.conservationbio.471" name="ISBN" url="/wiki/International_Standard_Book_Number"/>
+ <entry term="ISBN" id="CM.conservationbio.477" name="ISBN" url="/wiki/International_Standard_Book_Number"/>
+ <entry term="ISBN" id="CM.conservationbio.492" name="ISBN" url="/wiki/International_Standard_Book_Number"/>
+ <entry term="Islamic" id="CM.conservationbio.59" name="Islamic" url="/wiki/Islamic"/>
+ <entry term="IUCN Red List" id="CM.conservationbio.240" name="IUCN Red List" url="/wiki/IUCN_Red_List"/>
+ <entry term="IUCN Red List" id="CM.conservationbio.256" name="IUCN Red List" url="/wiki/IUCN_Red_List"/>
+ <entry term="IUCN Red List" id="CM.conservationbio.257" name="IUCN Red List" url="/wiki/IUCN_Red_List"/>
+ <entry term="James Harkin" id="CM.conservationbio.137" name="James Harkin" url="/wiki/James_Harkin"/>
+ <entry term="James Ranald Martin" id="CM.conservationbio.91" name="James Ranald Martin" url="/wiki/James_Ranald_Martin"/>
+ <entry term="Jared Diamond" id="CM.conservationbio.21" name="Jared Diamond" url="/wiki/Jared_Diamond"/>
+ <entry term="John James Audubon" id="CM.conservationbio.69" name="John James Audubon" url="/wiki/John_James_Audubon"/>
+ <entry term="John Muir" id="CM.conservationbio.123" name="John Muir" url="/wiki/John_Muir"/>
+ <entry term="journal" id="CM.conservationbio.487" name="journal" url="/wiki/Academic_journal"/>
+ <entry term="Kelp beds" id="CM.conservationbio.307" name="Kelp beds" url="/wiki/Kelp_bed"/>
+ <entry term="kelp" id="CM.conservationbio.306" name="kelp" url="/wiki/Kelp"/>
+ <entry term="Keystone species" id="CM.conservationbio.302" name="Keystone species" url="/wiki/Keystone_species"/>
+ <entry term="kittiwake" id="CM.conservationbio.118" name="kittiwake" url="/wiki/Black-legged_kittiwake"/>
+ <entry term="Kurt Benirschke" id="CM.conservationbio.18" name="Kurt Benirschke" url="/wiki/Kurt_Benirschke"/>
+ <entry term="K–Pg" id="CM.conservationbio.179" name="K–Pg" url="/wiki/Cretaceous%E2%80%93Paleogene_extinction_event"/>
+ <entry term="land degradation" id="CM.conservationbio.61" name="land degradation" url="/wiki/Land_degradation"/>
+ <entry term="Land ethic" id="CM.conservationbio.231" name="Land ethic" url="/wiki/Land_ethic"/>
+ <entry term="landscape scale conservation" id="CM.conservationbio.169" name="landscape scale conservation" url="/wiki/Landscape_scale_conservation"/>
+ <entry term="Late D" id="CM.conservationbio.183" name="Late D" url="/wiki/Late_Devonian_extinction"/>
+ <entry term="lichen" id="CM.conservationbio.379" name="lichen" url="/wiki/Lichen"/>
+ <entry term="linked protected areas" id="CM.conservationbio.404" name="linked protected areas" url="/wiki/Wildlife_corridor"/>
+ <entry term="Living Planet Report" id="CM.conservationbio.275" name="Living Planet Report" url="/wiki/Living_Planet_Report"/>
+ <entry term="mammal" id="CM.conservationbio.347" name="mammal" url="/wiki/Mammal"/>
+ <entry term="mammals" id="CM.conservationbio.354" name="mammals" url="/wiki/Mammals"/>
+ <entry term="Marine conservation" id="CM.conservationbio.363" name="Marine conservation" url="/wiki/Marine_conservation"/>
+ <entry term="marine ecosystems" id="CM.conservationbio.376" name="marine ecosystems" url="/wiki/Marine_ecosystem"/>
+ <entry term="Marine pollution" id="CM.conservationbio.362" name="Marine pollution" url="/wiki/Marine_pollution"/>
+ <entry term="marine" id="CM.conservationbio.371" name="marine" url="/wiki/Marine_(ocean)"/>
+ <entry term="microbes" id="CM.conservationbio.375" name="microbes" url="/wiki/Microbes"/>
+ <entry term="migrations" id="CM.conservationbio.321" name="migrations" url="/wiki/Insect_migration"/>
+ <entry term="miner's canary" id="CM.conservationbio.314" name="miner's canary" url="/wiki/Miner%27s_canary"/>
+ <entry term="minimum population viability" id="CM.conservationbio.36" name="minimum population viability" url="/wiki/Minimum_viable_population"/>
+ <entry term="monarch butterfly" id="CM.conservationbio.320" name="monarch butterfly" url="/wiki/Monarch_(butterfly)"/>
+ <entry term="multi-cellular organisms" id="CM.conservationbio.374" name="multi-cellular organisms" url="/wiki/Multi-cellular_organism"/>
+ <entry term="mya" id="CM.conservationbio.331" name="mya" url="/wiki/Mya_(unit)"/>
+ <entry term="National Environmental Policy Act" id="CM.conservationbio.158" name="National Environmental Policy Act" url="/wiki/National_Environmental_Policy_Act"/>
+ <entry term="national forests and preserves" id="CM.conservationbio.126" name="national forests and preserves" url="/wiki/National_Park"/>
+ <entry term="National Trust" id="CM.conservationbio.120" name="National Trust" url="/wiki/National_Trust"/>
+ <entry term="natural capital" id="CM.conservationbio.273" name="natural capital" url="/wiki/Natural_capital"/>
+ <entry term="natural economy" id="CM.conservationbio.285" name="natural economy" url="/wiki/Natural_economy"/>
+ <entry term="Natural history" id="CM.conservationbio.70" name="Natural history" url="/wiki/Natural_history"/>
+ <entry term="natural resource management" id="CM.conservationbio.14" name="natural resource management" url="/wiki/Natural_resource_management"/>
+ <entry term="natural resources" id="CM.conservationbio.370" name="natural resources" url="/wiki/Natural_resource"/>
+ <entry term="Nature Conservancy" id="CM.conservationbio.247" name="Nature Conservancy" url="/wiki/Nature_Conservancy"/>
+ <entry term="nutrient cycling" id="CM.conservationbio.255" name="nutrient cycling" url="/wiki/Nutrient_cycling"/>
+ <entry term="objective science" id="CM.conservationbio.215" name="objective science" url="/wiki/Objectivity_(science)"/>
+ <entry term="Ocean" id="CM.conservationbio.360" name="Ocean" url="/wiki/Ocean"/>
+ <entry term="Ordovician" id="CM.conservationbio.330" name="Ordovician" url="/wiki/Ordovician%E2%80%93Silurian_extinction_event"/>
+ <entry term="ornithologist" id="CM.conservationbio.111" name="ornithologist" url="/wiki/Ornithology"/>
+ <entry term="overexploitation" id="CM.conservationbio.401" name="overexploitation" url="/wiki/Overexploitation"/>
+ <entry term="overhunting" id="CM.conservationbio.309" name="overhunting" url="/wiki/Overhunting"/>
+ <entry term="O–S" id="CM.conservationbio.184" name="O–S" url="/wiki/Ordovician%E2%80%93Silurian_extinction_events"/>
+ <entry term="Pacific Northwest" id="CM.conservationbio.53" name="Pacific Northwest" url="/wiki/Pacific_Northwest"/>
+ <entry term="pagan view" id="CM.conservationbio.62" name="pagan view" url="/wiki/Earth_religion"/>
+ <entry term="paleontological" id="CM.conservationbio.327" name="paleontological" url="/wiki/Paleontological"/>
+ <entry term="pastureland" id="CM.conservationbio.103" name="pastureland" url="/wiki/Pasture"/>
+ <entry term="Permian–Triassic" id="CM.conservationbio.333" name="Permian–Triassic" url="/wiki/Permian%E2%80%93Triassic_extinction_event"/>
+ <entry term="pest control" id="CM.conservationbio.288" name="pest control" url="/wiki/Pest_control"/>
+ <entry term="pesticide" id="CM.conservationbio.316" name="pesticide" url="/wiki/Pesticide"/>
+ <entry term="Pests" id="CM.conservationbio.389" name="Pests" url="/wiki/Pest_(organism)"/>
+ <entry term="Phanerozoic" id="CM.conservationbio.177" name="Phanerozoic" url="/wiki/Phanerozoic"/>
+ <entry term="plant" id="CM.conservationbio.381" name="plant" url="/wiki/Plant"/>
+ <entry term="pollinating crops" id="CM.conservationbio.287" name="pollinating crops" url="/wiki/Pollination_management"/>
+ <entry term="population ecology" id="CM.conservationbio.30" name="population ecology" url="/wiki/Population_ecology"/>
+ <entry term="population" id="CM.conservationbio.40" name="population" url="/wiki/Population"/>
+ <entry term="preservationist" id="CM.conservationbio.229" name="preservationist" url="/wiki/Environmentalism"/>
+ <entry term="protest group" id="CM.conservationbio.116" name="protest group" url="/wiki/Advocacy_group"/>
+ <entry term="public goods" id="CM.conservationbio.280" name="public goods" url="/wiki/Public_goods"/>
+ <entry term="P–Tr" id="CM.conservationbio.181" name="P–Tr" url="/wiki/Permian%E2%80%93Triassic_extinction_event"/>
+ <entry term="Red Listed" id="CM.conservationbio.356" name="Red Listed" url="/wiki/IUCN_Red_List"/>
+ <entry term="reef destruction" id="CM.conservationbio.337" name="reef destruction" url="/wiki/Coral_reef_destruction"/>
+ <entry term="Royal Society for the Protection of Birds" id="CM.conservationbio.114" name="Royal Society for the Protection of Birds" url="/wiki/Royal_Society_for_the_Protection_of_Birds"/>
+ <entry term="Sahara" id="CM.conservationbio.266" name="Sahara" url="/wiki/Sahara"/>
+ <entry term="science" id="CM.conservationbio.221" name="science" url="/wiki/Science"/>
+ <entry term="scientific journal" id="CM.conservationbio.1" name="scientific journal" url="/wiki/Scientific_journal"/>
+ <entry term="Sea Birds Preservation Act of 1869" id="CM.conservationbio.110" name="Sea Birds Preservation Act of 1869" url="/wiki/Sea_Birds_Preservation_Act_1869"/>
+ <entry term="Serengeti" id="CM.conservationbio.251" name="Serengeti" url="/wiki/Serengeti"/>
+ <entry term="Sierra Club" id="CM.conservationbio.124" name="Sierra Club" url="/wiki/Sierra_Club"/>
+ <entry term="silviculture" id="CM.conservationbio.315" name="silviculture" url="/wiki/Silviculture"/>
+ <entry term="social income inequity" id="CM.conservationbio.294" name="social income inequity" url="/wiki/Social_inequity_aversion"/>
+ <entry term="Society for Conservation Biology" id="CM.conservationbio.164" name="Society for Conservation Biology" url="/wiki/Society_for_Conservation_Biology"/>
+ <entry term="Society for the Environment" id="CM.conservationbio.168" name="Society for the Environment" url="/wiki/Society_for_the_Environment"/>
+ <entry term="sockeye salmon" id="CM.conservationbio.54" name="sockeye salmon" url="/wiki/Sockeye_salmon"/>
+ <entry term="source and image info" id="CM.conservationbio.190" name="source and image info" url="/wiki/File:Extinction_intensity.svg"/>
+ <entry term="South America" id="CM.conservationbio.140" name="South America" url="/wiki/South_America"/>
+ <entry term="Species at Risk Act" id="CM.conservationbio.152" name="Species at Risk Act" url="/wiki/Species_at_Risk_Act"/>
+ <entry term="species binomial" id="CM.conservationbio.196" name="species binomial" url="/wiki/Binomial_nomenclature"/>
+ <entry term="species extinction" id="CM.conservationbio.329" name="species extinction" url="/wiki/Species_extinction"/>
+ <entry term="species richness" id="CM.conservationbio.384" name="species richness" url="/wiki/Species_richness"/>
+ <entry term="species" id="CM.conservationbio.10" name="species" url="/wiki/Species"/>
+ <entry term="species" id="CM.conservationbio.349" name="species" url="/wiki/Species"/>
+ <entry term="species" id="CM.conservationbio.41" name="species" url="/wiki/Species"/>
+ <entry term="St Cuthbert" id="CM.conservationbio.65" name="St Cuthbert" url="/wiki/St_Cuthbert"/>
+ <entry term="statistical measures" id="CM.conservationbio.191" name="statistical measures" url="/wiki/Statistical_measure"/>
+ <entry term="Steller's sea cow" id="CM.conservationbio.303" name="Steller's sea cow" url="/wiki/Steller%27s_sea_cow"/>
+ <entry term="steppes" id="CM.conservationbio.250" name="steppes" url="/wiki/Steppe"/>
+ <entry term="Steven J. Cooke" id="CM.conservationbio.204" name="Steven J. Cooke" url="/wiki/Steven_J._Cooke"/>
+ <entry term="sustain" id="CM.conservationbio.44" name="sustain" url="/wiki/Sustainability"/>
+ <entry term="Sustainable development portal" id="CM.conservationbio.501" name="Sustainable development portal" url="/wiki/Portal:Sustainable_development"/>
+ <entry term="sustaining biodiversity" id="CM.conservationbio.245" name="sustaining biodiversity" url="/wiki/Sustainability"/>
+ <entry term="Sweden" id="CM.conservationbio.155" name="Sweden" url="/wiki/Sweden"/>
+ <entry term="symbiotic" id="CM.conservationbio.367" name="symbiotic" url="/wiki/Symbiotic"/>
+ <entry term="Tadrart Acacus" id="CM.conservationbio.264" name="Tadrart Acacus" url="/wiki/Tadrart_Acacus"/>
+ <entry term="taiga" id="CM.conservationbio.253" name="taiga" url="/wiki/Taiga"/>
+ <entry term="Tao" id="CM.conservationbio.56" name="Tao" url="/wiki/Tao"/>
+ <entry term="taxonomic groups" id="CM.conservationbio.377" name="taxonomic groups" url="/wiki/Taxonomic_rank"/>
+ <entry term="technological innovation" id="CM.conservationbio.301" name="technological innovation" url="/wiki/Technological_innovation"/>
+ <entry term="the current biodiversity crisis" id="CM.conservationbio.46" name="the current biodiversity crisis" url="/wiki/Holocene_extinction"/>
+ <entry term="The Plant List" id="CM.conservationbio.201" name="The Plant List" url="/wiki/The_Plant_List"/>
+ <entry term="The Theory of Island Biogeography" id="CM.conservationbio.194" name="The Theory of Island Biogeography" url="/wiki/The_Theory_of_Island_Biogeography"/>
+ <entry term="threatened" id="CM.conservationbio.200" name="threatened" url="/wiki/Threatened"/>
+ <entry term="timber" id="CM.conservationbio.101" name="timber" url="/wiki/Timber"/>
+ <entry term="topsoil" id="CM.conservationbio.102" name="topsoil" url="/wiki/Topsoil"/>
+ <entry term="Tragedy of the Commons" id="CM.conservationbio.50" name="Tragedy of the Commons" url="/wiki/Tragedy_of_the_Commons"/>
+ <entry term="Triassic–Jurassic" id="CM.conservationbio.334" name="Triassic–Jurassic" url="/wiki/Triassic%E2%80%93Jurassic_extinction_event"/>
+ <entry term="tropical deforestation" id="CM.conservationbio.22" name="tropical deforestation" url="/wiki/Tropical_deforestation"/>
+ <entry term="Tr–J" id="CM.conservationbio.180" name="Tr–J" url="/wiki/Triassic%E2%80%93Jurassic_extinction_event"/>
+ <entry term="UK" id="CM.conservationbio.162" name="UK" url="/wiki/UK"/>
+ <entry term="Umbrella species" id="CM.conservationbio.318" name="Umbrella species" url="/wiki/Umbrella_species"/>
+ <entry term="UNESCO" id="CM.conservationbio.157" name="UNESCO" url="/wiki/UNESCO"/>
+ <entry term="urban conservation" id="CM.conservationbio.160" name="urban conservation" url="/wiki/Urban_wildlife"/>
+ <entry term="urban development" id="CM.conservationbio.400" name="urban development" url="/wiki/Urban_planning"/>
+ <entry term="vertebrate" id="CM.conservationbio.351" name="vertebrate" url="/wiki/Vertebrate"/>
+ <entry term="water supply" id="CM.conservationbio.290" name="water supply" url="/wiki/Water_supply"/>
+ <entry term="watersheds" id="CM.conservationbio.109" name="watersheds" url="/wiki/Drainage_basin"/>
+ <entry term="wetland draining" id="CM.conservationbio.338" name="wetland draining" url="/wiki/Threats_to_wetlands"/>
+ <entry term="wetlands" id="CM.conservationbio.313" name="wetlands" url="/wiki/Wetland"/>
+ <entry term="wilderness" id="CM.conservationbio.108" name="wilderness" url="/wiki/Wilderness"/>
+ <entry term="wildlife conservation" id="CM.conservationbio.138" name="wildlife conservation" url="/wiki/Wildlife_conservation"/>
+ <entry term="Wildlife Protection Act of 1972" id="CM.conservationbio.159" name="Wildlife Protection Act of 1972" url="/wiki/Wildlife_Protection_Act_of_1972"/>
+ <entry term="wildlife refuge" id="CM.conservationbio.107" name="wildlife refuge" url="/wiki/Wildlife_refuge"/>
+ <entry term="wildlife sanctuary" id="CM.conservationbio.63" name="wildlife sanctuary" url="/wiki/Wildlife_sanctuary"/>
+ <entry term="wildlife trade" id="CM.conservationbio.402" name="wildlife trade" url="/wiki/Wildlife_trade"/>
+ <entry term="wildlife" id="CM.conservationbio.106" name="wildlife" url="/wiki/Wildlife"/>
+ <entry term="World Wide Fund for Nature" id="CM.conservationbio.340" name="World Wide Fund for Nature" url="/wiki/World_Wide_Fund_for_Nature"/>
+ <entry term="WWF" id="CM.conservationbio.274" name="WWF" url="/wiki/World_Wide_Fund_For_Nature"/>
+ <entry term="Yellowstone National Park" id="CM.conservationbio.100" name="Yellowstone National Park" url="/wiki/Yellowstone_National_Park"/>
+ <entry term="Yosemite National Park" id="CM.conservationbio.134" name="Yosemite National Park" url="/wiki/Yosemite_National_Park"/>
+
+</dictionary>

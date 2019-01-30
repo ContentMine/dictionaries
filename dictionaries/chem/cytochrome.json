@@ -1,0 +1,516 @@
+{
+  "id": "cytochrome",
+  "log": [
+      {
+          "type": "wdqs",
+          "query": "SELECT ?item\nWHERE \n{\n  ?item wdt:P31*/wdt:P279* wd:Q24719744.\n  ?item wdt:P31 wd:Q8054 .\n  ?item wdt:P703 wd:Q15978631\n}",
+          "time": 1511214976158
+      }
+  ],
+  "entries": [
+      {
+          "name": "Cytochrome P450 family 17 subfamily A member 1",
+          "term": "Cytochrome P450 family 17 subfamily A member 1",
+          "identifiers": {
+              "contentmine": "CM.cytochrome0",
+              "wikidata": "Q408305"
+          }
+      },
+      {
+          "name": "Thromboxane A synthase 1",
+          "term": "Thromboxane A synthase 1",
+          "identifiers": {
+              "contentmine": "CM.cytochrome1",
+              "wikidata": "Q408575"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 19 subfamily A member 1",
+          "term": "Cytochrome P450 family 19 subfamily A member 1",
+          "identifiers": {
+              "contentmine": "CM.cytochrome2",
+              "wikidata": "Q415287"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 11 subfamily B member 1",
+          "term": "Cytochrome P450 family 11 subfamily B member 1",
+          "identifiers": {
+              "contentmine": "CM.cytochrome3",
+              "wikidata": "Q904925"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 27 subfamily A member 1",
+          "term": "Cytochrome P450 family 27 subfamily A member 1",
+          "identifiers": {
+              "contentmine": "CM.cytochrome4",
+              "wikidata": "Q1499996"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 11 subfamily B member 2",
+          "term": "Cytochrome P450 family 11 subfamily B member 2",
+          "identifiers": {
+              "contentmine": "CM.cytochrome5",
+              "wikidata": "Q3609382"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 27 subfamily B member 1",
+          "term": "Cytochrome P450 family 27 subfamily B member 1",
+          "identifiers": {
+              "contentmine": "CM.cytochrome6",
+              "wikidata": "Q3650237"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 2 subfamily C member 19",
+          "term": "Cytochrome P450 family 2 subfamily C member 19",
+          "identifiers": {
+              "contentmine": "CM.cytochrome7",
+              "wikidata": "Q3737532"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 2 subfamily C member 8",
+          "term": "Cytochrome P450 family 2 subfamily C member 8",
+          "identifiers": {
+              "contentmine": "CM.cytochrome8",
+              "wikidata": "Q5014957"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 2 subfamily C member 9",
+          "term": "Cytochrome P450 family 2 subfamily C member 9",
+          "identifiers": {
+              "contentmine": "CM.cytochrome9",
+              "wikidata": "Q5014962"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 51 subfamily A member 1",
+          "term": "Cytochrome P450 family 51 subfamily A member 1",
+          "identifiers": {
+              "contentmine": "CM.cytochrome10",
+              "wikidata": "Q21100886"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 26 subfamily A member 1",
+          "term": "Cytochrome P450 family 26 subfamily A member 1",
+          "identifiers": {
+              "contentmine": "CM.cytochrome11",
+              "wikidata": "Q21110732"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 26 subfamily C member 1",
+          "term": "Cytochrome P450 family 26 subfamily C member 1",
+          "identifiers": {
+              "contentmine": "CM.cytochrome12",
+              "wikidata": "Q21110761"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 26 subfamily B member 1",
+          "term": "Cytochrome P450 family 26 subfamily B member 1",
+          "identifiers": {
+              "contentmine": "CM.cytochrome13",
+              "wikidata": "Q21110764"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 4 subfamily B member 1",
+          "term": "Cytochrome P450 family 4 subfamily B member 1",
+          "identifiers": {
+              "contentmine": "CM.cytochrome14",
+              "wikidata": "Q21109897"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 4 subfamily F member 8",
+          "term": "Cytochrome P450 family 4 subfamily F member 8",
+          "identifiers": {
+              "contentmine": "CM.cytochrome15",
+              "wikidata": "Q21109900"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 4 subfamily F member 3",
+          "term": "Cytochrome P450 family 4 subfamily F member 3",
+          "identifiers": {
+              "contentmine": "CM.cytochrome16",
+              "wikidata": "Q21109904"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 4 subfamily A member 22",
+          "term": "Cytochrome P450 family 4 subfamily A member 22",
+          "identifiers": {
+              "contentmine": "CM.cytochrome17",
+              "wikidata": "Q21109906"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 4 subfamily F member 22",
+          "term": "Cytochrome P450 family 4 subfamily F member 22",
+          "identifiers": {
+              "contentmine": "CM.cytochrome18",
+              "wikidata": "Q21109907"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 4 subfamily V member 2",
+          "term": "Cytochrome P450 family 4 subfamily V member 2",
+          "identifiers": {
+              "contentmine": "CM.cytochrome19",
+              "wikidata": "Q21109908"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 4 subfamily Z member 1",
+          "term": "Cytochrome P450 family 4 subfamily Z member 1",
+          "identifiers": {
+              "contentmine": "CM.cytochrome20",
+              "wikidata": "Q21109909"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 4 subfamily X member 1",
+          "term": "Cytochrome P450 family 4 subfamily X member 1",
+          "identifiers": {
+              "contentmine": "CM.cytochrome21",
+              "wikidata": "Q21109910"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 4 subfamily F member 11",
+          "term": "Cytochrome P450 family 4 subfamily F member 11",
+          "identifiers": {
+              "contentmine": "CM.cytochrome22",
+              "wikidata": "Q21109914"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 4 subfamily F member 12",
+          "term": "Cytochrome P450 family 4 subfamily F member 12",
+          "identifiers": {
+              "contentmine": "CM.cytochrome23",
+              "wikidata": "Q21109918"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 21 subfamily A member 2",
+          "term": "Cytochrome P450 family 21 subfamily A member 2",
+          "identifiers": {
+              "contentmine": "CM.cytochrome24",
+              "wikidata": "Q21110736"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 2 subfamily C member 18",
+          "term": "Cytochrome P450 family 2 subfamily C member 18",
+          "identifiers": {
+              "contentmine": "CM.cytochrome25",
+              "wikidata": "Q21110748"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 24 subfamily A member 1",
+          "term": "Cytochrome P450 family 24 subfamily A member 1",
+          "identifiers": {
+              "contentmine": "CM.cytochrome26",
+              "wikidata": "Q21110757"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 20 subfamily A member 1",
+          "term": "Cytochrome P450 family 20 subfamily A member 1",
+          "identifiers": {
+              "contentmine": "CM.cytochrome27",
+              "wikidata": "Q21110760"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 27 subfamily C member 1",
+          "term": "Cytochrome P450 family 27 subfamily C member 1",
+          "identifiers": {
+              "contentmine": "CM.cytochrome28",
+              "wikidata": "Q21111759"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 4 subfamily A member 11",
+          "term": "Cytochrome P450 family 4 subfamily A member 11",
+          "identifiers": {
+              "contentmine": "CM.cytochrome29",
+              "wikidata": "Q21117304"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 2 subfamily R member 1",
+          "term": "Cytochrome P450 family 2 subfamily R member 1",
+          "identifiers": {
+              "contentmine": "CM.cytochrome30",
+              "wikidata": "Q21117307"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 2 subfamily W member 1",
+          "term": "Cytochrome P450 family 2 subfamily W member 1",
+          "identifiers": {
+              "contentmine": "CM.cytochrome31",
+              "wikidata": "Q21117313"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 4 subfamily F member 2",
+          "term": "Cytochrome P450 family 4 subfamily F member 2",
+          "identifiers": {
+              "contentmine": "CM.cytochrome32",
+              "wikidata": "Q21131341"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 46 subfamily A member 1",
+          "term": "Cytochrome P450 family 46 subfamily A member 1",
+          "identifiers": {
+              "contentmine": "CM.cytochrome33",
+              "wikidata": "Q22676602"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 11 subfamily A member 1",
+          "term": "Cytochrome P450 family 11 subfamily A member 1",
+          "identifiers": {
+              "contentmine": "CM.cytochrome34",
+              "wikidata": "Q412483"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 3 subfamily A member 4",
+          "term": "Cytochrome P450 family 3 subfamily A member 4",
+          "identifiers": {
+              "contentmine": "CM.cytochrome35",
+              "wikidata": "Q424440"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 1 subfamily A member 1",
+          "term": "Cytochrome P450 family 1 subfamily A member 1",
+          "identifiers": {
+              "contentmine": "CM.cytochrome36",
+              "wikidata": "Q1407929"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 2 subfamily D member 6",
+          "term": "Cytochrome P450 family 2 subfamily D member 6",
+          "identifiers": {
+              "contentmine": "CM.cytochrome37",
+              "wikidata": "Q3271142"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 1 subfamily A member 2",
+          "term": "Cytochrome P450 family 1 subfamily A member 2",
+          "identifiers": {
+              "contentmine": "CM.cytochrome38",
+              "wikidata": "Q3737406"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 2 subfamily E member 1",
+          "term": "Cytochrome P450 family 2 subfamily E member 1",
+          "identifiers": {
+              "contentmine": "CM.cytochrome39",
+              "wikidata": "Q4210020"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 1 subfamily B member 1",
+          "term": "Cytochrome P450 family 1 subfamily B member 1",
+          "identifiers": {
+              "contentmine": "CM.cytochrome40",
+              "wikidata": "Q5014947"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 2 subfamily A member 6",
+          "term": "Cytochrome P450 family 2 subfamily A member 6",
+          "identifiers": {
+              "contentmine": "CM.cytochrome41",
+              "wikidata": "Q5014953"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 2 subfamily B member 6",
+          "term": "Cytochrome P450 family 2 subfamily B member 6",
+          "identifiers": {
+              "contentmine": "CM.cytochrome42",
+              "wikidata": "Q5014958"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 7 subfamily B member 1",
+          "term": "Cytochrome P450 family 7 subfamily B member 1",
+          "identifiers": {
+              "contentmine": "CM.cytochrome43",
+              "wikidata": "Q21100884"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 2 subfamily S member 1",
+          "term": "Cytochrome P450 family 2 subfamily S member 1",
+          "identifiers": {
+              "contentmine": "CM.cytochrome44",
+              "wikidata": "Q21106635"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 2 subfamily D member 7 (gene/pseudogene)",
+          "term": "Cytochrome P450 family 2 subfamily D member 7 (gene/pseudogene)",
+          "identifiers": {
+              "contentmine": "CM.cytochrome45",
+              "wikidata": "Q21110723"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 2 subfamily A member 7",
+          "term": "Cytochrome P450 family 2 subfamily A member 7",
+          "identifiers": {
+              "contentmine": "CM.cytochrome46",
+              "wikidata": "Q21110743"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 2 subfamily F member 1",
+          "term": "Cytochrome P450 family 2 subfamily F member 1",
+          "identifiers": {
+              "contentmine": "CM.cytochrome47",
+              "wikidata": "Q21110746"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 2 subfamily A member 13",
+          "term": "Cytochrome P450 family 2 subfamily A member 13",
+          "identifiers": {
+              "contentmine": "CM.cytochrome48",
+              "wikidata": "Q21110759"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 3 subfamily A member 5",
+          "term": "Cytochrome P450 family 3 subfamily A member 5",
+          "identifiers": {
+              "contentmine": "CM.cytochrome49",
+              "wikidata": "Q21117300"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 3 subfamily A member 7",
+          "term": "Cytochrome P450 family 3 subfamily A member 7",
+          "identifiers": {
+              "contentmine": "CM.cytochrome50",
+              "wikidata": "Q21117301"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 2 subfamily U member 1",
+          "term": "Cytochrome P450 family 2 subfamily U member 1",
+          "identifiers": {
+              "contentmine": "CM.cytochrome51",
+              "wikidata": "Q21117310"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 3 subfamily A member 43",
+          "term": "Cytochrome P450 family 3 subfamily A member 43",
+          "identifiers": {
+              "contentmine": "CM.cytochrome52",
+              "wikidata": "Q21117314"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 39 subfamily A member 1",
+          "term": "Cytochrome P450 family 39 subfamily A member 1",
+          "identifiers": {
+              "contentmine": "CM.cytochrome53",
+              "wikidata": "Q21117317"
+          }
+      },
+      {
+          "name": "Prostaglandin I2 synthase",
+          "term": "Prostaglandin I2 synthase",
+          "identifiers": {
+              "contentmine": "CM.cytochrome54",
+              "wikidata": "Q904590"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 7 subfamily A member 1",
+          "term": "Cytochrome P450 family 7 subfamily A member 1",
+          "identifiers": {
+              "contentmine": "CM.cytochrome55",
+              "wikidata": "Q5104318"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 8 subfamily B member 1",
+          "term": "Cytochrome P450 family 8 subfamily B member 1",
+          "identifiers": {
+              "contentmine": "CM.cytochrome56",
+              "wikidata": "Q21100889"
+          }
+      },
+      {
+          "name": "Cytochrome P450 family 2 subfamily J member 2",
+          "term": "Cytochrome P450 family 2 subfamily J member 2",
+          "identifiers": {
+              "contentmine": "CM.cytochrome57",
+              "wikidata": "Q21110752"
+          }
+      },
+      {
+          "name": "Cytochrome P450 2D6-like",
+          "term": "Cytochrome P450 2D6-like",
+          "identifiers": {
+              "contentmine": "CM.cytochrome58",
+              "wikidata": "Q33093576"
+          }
+      },
+      {
+        "name": "Cytochrome P450 family 1 subfamily A member 2",
+        "term": "CYP1A2",
+        "identifiers": {
+            "contentmine": "CM.cytochrome59",
+            "wikidata": "Q3737406"
+        }
+    },
+    {
+      "name": "Cytochrome P450 family 1 subfamily A member 1",
+      "term": "CYP1A1",
+      "identifiers": {
+          "contentmine": "CM.cytochrome60",
+          "wikidata": "Q1407929"
+      }
+    },
+    {
+      "name": "Cytochrome P450 family 1 subfamily B member 1",
+      "term": "CYP1A1",
+      "identifiers": {
+          "contentmine": "CM.cytochrome61",
+          "wikidata": "Q5014947"
+      }
+    },
+    {
+      "name": "Cytochrome P450 family 2 subfamily D member 6",
+      "term": "CYP2D6",
+      "identifiers": {
+          "contentmine": "CM.cytochrome62",
+          "wikidata": "Q3271142"
+      }
+    }
+  ]
+}

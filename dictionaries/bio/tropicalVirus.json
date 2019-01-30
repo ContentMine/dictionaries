@@ -1,0 +1,96 @@
+{
+  "id": "CM.tropicalVirus",
+  "entries": [
+    {
+      "identifiers": {
+        "contentmine": "CM.tropicalVirus0",
+        "wikidata": "Q202864"
+      },
+      "term": "ZIKV",
+      "name": "Zika virus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.tropicalVirus1"
+      },
+      "term": "Zika",
+      "name": "Zika virus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.tropicalVirus2",
+        "wikidata": "Q476209"
+      },
+      "term": "DENV",
+      "name": "Dengue virus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.tropicalVirus3",
+        "wikidata": "Q476209"
+      },
+      "term": "Dengue",
+      "name": "Dengue virus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.tropicalVirus4"
+      },
+      "term": "CHIKV",
+      "name": "Chikungunya virus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.tropicalVirus5",
+        "wikidata": "Q243257"
+      },
+      "term": "Chikungunya",
+      "name": "Chikungunya virus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.tropicalVirus6"
+      },
+      "term": "WNV",
+      "name": "West Nile virus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.tropicalVirus7"
+      },
+      "term": "West Nile",
+      "name": "West Nile virus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.tropicalVirus8"
+      },
+      "term": "YFV",
+      "name": "Yellow fever virus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.tropicalVirus9"
+      },
+      "term": "Yellow fever ",
+      "name": "Yellow fever virus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.tropicalVirus10"
+      },
+      "term": "HPV",
+      "name": "Human papilloma virus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.tropicalVirus11",
+        "wikidata": "Q184627"
+      },
+      "term": "Human papilloma virus",
+      "name": "Human papilloma virus"
+    }
+  ],
+  "name": "tropicalVirus",
+  "termsByCMId": {}
+}

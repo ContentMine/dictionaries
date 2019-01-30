@@ -1,0 +1,1574 @@
+{
+    "entries": [
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry0", 
+                "wikidata": "Q954"
+            }, 
+            "term": "Zimbabwe", 
+            "name": "Zimbabwe"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry1", 
+                "wikidata": "Q953"
+            }, 
+            "term": "Zambia", 
+            "name": "Zambia"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry2", 
+                "wikidata": "Q805"
+            }, 
+            "term": "Yemen", 
+            "name": "Yemen"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry3", 
+                "wikidata": "Q881"
+            }, 
+            "term": "Vietnam", 
+            "name": "Vietnam"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry4", 
+                "wikidata": "Q717"
+            }, 
+            "term": "Venezuela", 
+            "name": "Venezuela"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry5", 
+                "wikidata": "Q237"
+            }, 
+            "term": "Vatican City", 
+            "name": "Vatican City"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry6", 
+                "wikidata": "Q686"
+            }, 
+            "term": "Vanuatu", 
+            "name": "Vanuatu"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry7", 
+                "wikidata": "Q265"
+            }, 
+            "term": "Uzbekistan", 
+            "name": "Uzbekistan"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry8", 
+                "wikidata": "Q77"
+            }, 
+            "term": "Uruguay", 
+            "name": "Uruguay"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry9", 
+                "wikidata": "Q30"
+            }, 
+            "term": "United States of America", 
+            "name": "United States of America"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry10", 
+                "wikidata": "Q145"
+            }, 
+            "term": "United Kingdom", 
+            "name": "United Kingdom"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry11", 
+                "wikidata": "Q878"
+            }, 
+            "term": "United Arab Emirates", 
+            "name": "United Arab Emirates"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry12", 
+                "wikidata": "Q212"
+            }, 
+            "term": "Ukraine", 
+            "name": "Ukraine"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry13", 
+                "wikidata": "Q1036"
+            }, 
+            "term": "Uganda", 
+            "name": "Uganda"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry14", 
+                "wikidata": "Q672"
+            }, 
+            "term": "Tuvalu", 
+            "name": "Tuvalu"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry15", 
+                "wikidata": "Q874"
+            }, 
+            "term": "Turkmenistan", 
+            "name": "Turkmenistan"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry16", 
+                "wikidata": "Q43"
+            }, 
+            "term": "Turkey", 
+            "name": "Turkey"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry17", 
+                "wikidata": "Q948"
+            }, 
+            "term": "Tunisia", 
+            "name": "Tunisia"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry18", 
+                "wikidata": "Q754"
+            }, 
+            "term": "Trinidad and Tobago", 
+            "name": "Trinidad and Tobago"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry19", 
+                "wikidata": "Q678"
+            }, 
+            "term": "Tonga", 
+            "name": "Tonga"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry20", 
+                "wikidata": "Q945"
+            }, 
+            "term": "Togo", 
+            "name": "Togo"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry21", 
+                "wikidata": "Q778"
+            }, 
+            "term": "The Bahamas", 
+            "name": "The Bahamas"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry22", 
+                "wikidata": "Q869"
+            }, 
+            "term": "Thailand", 
+            "name": "Thailand"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry23", 
+                "wikidata": "Q924"
+            }, 
+            "term": "Tanzania", 
+            "name": "Tanzania"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry24", 
+                "wikidata": "Q863"
+            }, 
+            "term": "Tajikistan", 
+            "name": "Tajikistan"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry25", 
+                "wikidata": "Q865"
+            }, 
+            "term": "Taiwan", 
+            "name": "Taiwan"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry26", 
+                "wikidata": "Q858"
+            }, 
+            "term": "Syria", 
+            "name": "Syria"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry27", 
+                "wikidata": "Q39"
+            }, 
+            "term": "Switzerland", 
+            "name": "Switzerland"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry28", 
+                "wikidata": "Q34"
+            }, 
+            "term": "Sweden", 
+            "name": "Sweden"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry29", 
+                "wikidata": "Q1050"
+            }, 
+            "term": "Swaziland", 
+            "name": "Swaziland"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry30", 
+                "wikidata": "Q730"
+            }, 
+            "term": "Suriname", 
+            "name": "Suriname"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry31", 
+                "wikidata": "Q1049"
+            }, 
+            "term": "Sudan", 
+            "name": "Sudan"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry32", 
+                "wikidata": "Q854"
+            }, 
+            "term": "Sri Lanka", 
+            "name": "Sri Lanka"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry33", 
+                "wikidata": "Q29"
+            }, 
+            "term": "Spain", 
+            "name": "Spain"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry34", 
+                "wikidata": "Q958"
+            }, 
+            "term": "South Sudan", 
+            "name": "South Sudan"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry35", 
+                "wikidata": "Q884"
+            }, 
+            "term": "South Korea", 
+            "name": "South Korea"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry36", 
+                "wikidata": "Q258"
+            }, 
+            "term": "South Africa", 
+            "name": "South Africa"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry37", 
+                "wikidata": "Q1045"
+            }, 
+            "term": "Somalia", 
+            "name": "Somalia"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry38", 
+                "wikidata": "Q685"
+            }, 
+            "term": "Solomon Islands", 
+            "name": "Solomon Islands"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry39", 
+                "wikidata": "Q215"
+            }, 
+            "term": "Slovenia", 
+            "name": "Slovenia"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry40", 
+                "wikidata": "Q214"
+            }, 
+            "term": "Slovakia", 
+            "name": "Slovakia"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry41", 
+                "wikidata": "Q334"
+            }, 
+            "term": "Singapore", 
+            "name": "Singapore"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry42", 
+                "wikidata": "Q1044"
+            }, 
+            "term": "Sierra Leone", 
+            "name": "Sierra Leone"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry43", 
+                "wikidata": "Q1042"
+            }, 
+            "term": "Seychelles", 
+            "name": "Seychelles"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry44", 
+                "wikidata": "Q403"
+            }, 
+            "term": "Serbia", 
+            "name": "Serbia"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry45", 
+                "wikidata": "Q1041"
+            }, 
+            "term": "Senegal", 
+            "name": "Senegal"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry46", 
+                "wikidata": "Q851"
+            }, 
+            "term": "Saudi Arabia", 
+            "name": "Saudi Arabia"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry47", 
+                "wikidata": "Q1039"
+            }, 
+            "term": "Sao Tom\u00e9 and Pr\u00edncipe", 
+            "name": "Sao Tom\u00e9 and Pr\u00edncipe"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry48", 
+                "wikidata": "Q238"
+            }, 
+            "term": "San Marino", 
+            "name": "San Marino"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry49", 
+                "wikidata": "Q683"
+            }, 
+            "term": "Samoa", 
+            "name": "Samoa"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry50", 
+                "wikidata": "Q757"
+            }, 
+            "term": "Saint Vincent and the Grenadines", 
+            "name": "Saint Vincent and the Grenadines"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry51", 
+                "wikidata": "Q760"
+            }, 
+            "term": "Saint Lucia", 
+            "name": "Saint Lucia"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry52", 
+                "wikidata": "Q763"
+            }, 
+            "term": "Saint Kitts and Nevis", 
+            "name": "Saint Kitts and Nevis"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry53", 
+                "wikidata": "Q40362"
+            }, 
+            "term": "Sahrawi Arab Democratic Republic", 
+            "name": "Sahrawi Arab Democratic Republic"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry54", 
+                "wikidata": "Q1037"
+            }, 
+            "term": "Rwanda", 
+            "name": "Rwanda"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry55", 
+                "wikidata": "Q159"
+            }, 
+            "term": "Russia", 
+            "name": "Russia"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry56", 
+                "wikidata": "Q218"
+            }, 
+            "term": "Romania", 
+            "name": "Romania"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry57", 
+                "wikidata": "Q971"
+            }, 
+            "term": "Republic of the Congo", 
+            "name": "Republic of the Congo"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry58", 
+                "wikidata": "Q217"
+            }, 
+            "term": "Republic of Moldova", 
+            "name": "Republic of Moldova"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry59", 
+                "wikidata": "Q221"
+            }, 
+            "term": "Republic of Macedonia", 
+            "name": "Republic of Macedonia"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry60", 
+                "wikidata": "Q846"
+            }, 
+            "term": "Qatar", 
+            "name": "Qatar"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry61", 
+                "wikidata": "Q45"
+            }, 
+            "term": "Portugal", 
+            "name": "Portugal"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry62", 
+                "wikidata": "Q36"
+            }, 
+            "term": "Poland", 
+            "name": "Poland"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry63", 
+                "wikidata": "Q928"
+            }, 
+            "term": "Philippines", 
+            "name": "Philippines"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry64", 
+                "wikidata": "Q419"
+            }, 
+            "term": "Peru", 
+            "name": "Peru"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry65", 
+                "wikidata": "Q148"
+            }, 
+            "term": "People's Republic of China", 
+            "name": "People's Republic of China"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry66", 
+                "wikidata": "Q733"
+            }, 
+            "term": "Paraguay", 
+            "name": "Paraguay"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry67", 
+                "wikidata": "Q691"
+            }, 
+            "term": "Papua New Guinea", 
+            "name": "Papua New Guinea"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry68", 
+                "wikidata": "Q804"
+            }, 
+            "term": "Panama", 
+            "name": "Panama"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry69", 
+                "wikidata": "Q695"
+            }, 
+            "term": "Palau", 
+            "name": "Palau"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry70", 
+                "wikidata": "Q843"
+            }, 
+            "term": "Pakistan", 
+            "name": "Pakistan"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry71", 
+                "wikidata": "Q842"
+            }, 
+            "term": "Oman", 
+            "name": "Oman"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry72", 
+                "wikidata": "Q20"
+            }, 
+            "term": "Norway", 
+            "name": "Norway"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry73", 
+                "wikidata": "Q423"
+            }, 
+            "term": "North Korea", 
+            "name": "North Korea"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry74", 
+                "wikidata": "Q1033"
+            }, 
+            "term": "Nigeria", 
+            "name": "Nigeria"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry75", 
+                "wikidata": "Q1032"
+            }, 
+            "term": "Niger", 
+            "name": "Niger"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry76", 
+                "wikidata": "Q811"
+            }, 
+            "term": "Nicaragua", 
+            "name": "Nicaragua"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry77", 
+                "wikidata": "Q664"
+            }, 
+            "term": "New Zealand", 
+            "name": "New Zealand"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry78", 
+                "wikidata": "Q837"
+            }, 
+            "term": "Nepal", 
+            "name": "Nepal"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry79", 
+                "wikidata": "Q697"
+            }, 
+            "term": "Nauru", 
+            "name": "Nauru"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry80", 
+                "wikidata": "Q1030"
+            }, 
+            "term": "Namibia", 
+            "name": "Namibia"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry81", 
+                "wikidata": "Q836"
+            }, 
+            "term": "Myanmar", 
+            "name": "Myanmar"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry82", 
+                "wikidata": "Q1029"
+            }, 
+            "term": "Mozambique", 
+            "name": "Mozambique"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry83", 
+                "wikidata": "Q1028"
+            }, 
+            "term": "Morocco", 
+            "name": "Morocco"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry84", 
+                "wikidata": "Q236"
+            }, 
+            "term": "Montenegro", 
+            "name": "Montenegro"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry85", 
+                "wikidata": "Q711"
+            }, 
+            "term": "Mongolia", 
+            "name": "Mongolia"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry86", 
+                "wikidata": "Q235"
+            }, 
+            "term": "Monaco", 
+            "name": "Monaco"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry87", 
+                "wikidata": "Q96"
+            }, 
+            "term": "Mexico", 
+            "name": "Mexico"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry88", 
+                "wikidata": "Q1027"
+            }, 
+            "term": "Mauritius", 
+            "name": "Mauritius"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry89", 
+                "wikidata": "Q1025"
+            }, 
+            "term": "Mauritania", 
+            "name": "Mauritania"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry90", 
+                "wikidata": "Q709"
+            }, 
+            "term": "Marshall Islands", 
+            "name": "Marshall Islands"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry91", 
+                "wikidata": "Q233"
+            }, 
+            "term": "Malta", 
+            "name": "Malta"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry92", 
+                "wikidata": "Q912"
+            }, 
+            "term": "Mali", 
+            "name": "Mali"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry93", 
+                "wikidata": "Q826"
+            }, 
+            "term": "Maldives", 
+            "name": "Maldives"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry94", 
+                "wikidata": "Q833"
+            }, 
+            "term": "Malaysia", 
+            "name": "Malaysia"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry95", 
+                "wikidata": "Q1020"
+            }, 
+            "term": "Malawi", 
+            "name": "Malawi"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry96", 
+                "wikidata": "Q1019"
+            }, 
+            "term": "Madagascar", 
+            "name": "Madagascar"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry97", 
+                "wikidata": "Q32"
+            }, 
+            "term": "Luxembourg", 
+            "name": "Luxembourg"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry98", 
+                "wikidata": "Q37"
+            }, 
+            "term": "Lithuania", 
+            "name": "Lithuania"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry99", 
+                "wikidata": "Q347"
+            }, 
+            "term": "Liechtenstein", 
+            "name": "Liechtenstein"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry100", 
+                "wikidata": "Q1016"
+            }, 
+            "term": "Libya", 
+            "name": "Libya"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry101", 
+                "wikidata": "Q1014"
+            }, 
+            "term": "Liberia", 
+            "name": "Liberia"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry102", 
+                "wikidata": "Q1013"
+            }, 
+            "term": "Lesotho", 
+            "name": "Lesotho"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry103", 
+                "wikidata": "Q822"
+            }, 
+            "term": "Lebanon", 
+            "name": "Lebanon"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry104", 
+                "wikidata": "Q211"
+            }, 
+            "term": "Latvia", 
+            "name": "Latvia"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry105", 
+                "wikidata": "Q819"
+            }, 
+            "term": "Laos", 
+            "name": "Laos"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry106", 
+                "wikidata": "Q813"
+            }, 
+            "term": "Kyrgyzstan", 
+            "name": "Kyrgyzstan"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry107", 
+                "wikidata": "Q817"
+            }, 
+            "term": "Kuwait", 
+            "name": "Kuwait"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry108", 
+                "wikidata": "Q710"
+            }, 
+            "term": "Kiribati", 
+            "name": "Kiribati"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry109", 
+                "wikidata": "Q29999"
+            }, 
+            "term": "Kingdom of the Netherlands", 
+            "name": "Kingdom of the Netherlands"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry110", 
+                "wikidata": "Q114"
+            }, 
+            "term": "Kenya", 
+            "name": "Kenya"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry111", 
+                "wikidata": "Q232"
+            }, 
+            "term": "Kazakhstan", 
+            "name": "Kazakhstan"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry112", 
+                "wikidata": "Q810"
+            }, 
+            "term": "Jordan", 
+            "name": "Jordan"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry113", 
+                "wikidata": "Q17"
+            }, 
+            "term": "Japan", 
+            "name": "Japan"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry114", 
+                "wikidata": "Q766"
+            }, 
+            "term": "Jamaica", 
+            "name": "Jamaica"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry115", 
+                "wikidata": "Q38"
+            }, 
+            "term": "Italy", 
+            "name": "Italy"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry116", 
+                "wikidata": "Q801"
+            }, 
+            "term": "Israel", 
+            "name": "Israel"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry117", 
+                "wikidata": "Q27"
+            }, 
+            "term": "Ireland", 
+            "name": "Ireland"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry118", 
+                "wikidata": "Q796"
+            }, 
+            "term": "Iraq", 
+            "name": "Iraq"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry119", 
+                "wikidata": "Q794"
+            }, 
+            "term": "Iran", 
+            "name": "Iran"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry120", 
+                "wikidata": "Q252"
+            }, 
+            "term": "Indonesia", 
+            "name": "Indonesia"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry121", 
+                "wikidata": "Q668"
+            }, 
+            "term": "India", 
+            "name": "India"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry122", 
+                "wikidata": "Q189"
+            }, 
+            "term": "Iceland", 
+            "name": "Iceland"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry123", 
+                "wikidata": "Q28"
+            }, 
+            "term": "Hungary", 
+            "name": "Hungary"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry124", 
+                "wikidata": "Q783"
+            }, 
+            "term": "Honduras", 
+            "name": "Honduras"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry125", 
+                "wikidata": "Q790"
+            }, 
+            "term": "Haiti", 
+            "name": "Haiti"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry126", 
+                "wikidata": "Q734"
+            }, 
+            "term": "Guyana", 
+            "name": "Guyana"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry127", 
+                "wikidata": "Q1007"
+            }, 
+            "term": "Guinea-Bissau", 
+            "name": "Guinea-Bissau"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry128", 
+                "wikidata": "Q1006"
+            }, 
+            "term": "Guinea", 
+            "name": "Guinea"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry129", 
+                "wikidata": "Q774"
+            }, 
+            "term": "Guatemala", 
+            "name": "Guatemala"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry130", 
+                "wikidata": "Q769"
+            }, 
+            "term": "Grenada", 
+            "name": "Grenada"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry131", 
+                "wikidata": "Q41"
+            }, 
+            "term": "Greece", 
+            "name": "Greece"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry132", 
+                "wikidata": "Q117"
+            }, 
+            "term": "Ghana", 
+            "name": "Ghana"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry133", 
+                "wikidata": "Q183"
+            }, 
+            "term": "Germany", 
+            "name": "Germany"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry134", 
+                "wikidata": "Q230"
+            }, 
+            "term": "Georgia", 
+            "name": "Georgia"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry135", 
+                "wikidata": "Q1005"
+            }, 
+            "term": "Gambia", 
+            "name": "Gambia"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry136", 
+                "wikidata": "Q1000"
+            }, 
+            "term": "Gabon", 
+            "name": "Gabon"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry137", 
+                "wikidata": "Q142"
+            }, 
+            "term": "France", 
+            "name": "France"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry138", 
+                "wikidata": "Q33"
+            }, 
+            "term": "Finland", 
+            "name": "Finland"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry139", 
+                "wikidata": "Q712"
+            }, 
+            "term": "Fiji", 
+            "name": "Fiji"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry140", 
+                "wikidata": "Q702"
+            }, 
+            "term": "Federated States of Micronesia", 
+            "name": "Federated States of Micronesia"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry141", 
+                "wikidata": "Q115"
+            }, 
+            "term": "Ethiopia", 
+            "name": "Ethiopia"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry142", 
+                "wikidata": "Q191"
+            }, 
+            "term": "Estonia", 
+            "name": "Estonia"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry143", 
+                "wikidata": "Q986"
+            }, 
+            "term": "Eritrea", 
+            "name": "Eritrea"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry144", 
+                "wikidata": "Q983"
+            }, 
+            "term": "Equatorial Guinea", 
+            "name": "Equatorial Guinea"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry145", 
+                "wikidata": "Q792"
+            }, 
+            "term": "El Salvador", 
+            "name": "El Salvador"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry146", 
+                "wikidata": "Q79"
+            }, 
+            "term": "Egypt", 
+            "name": "Egypt"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry147", 
+                "wikidata": "Q736"
+            }, 
+            "term": "Ecuador", 
+            "name": "Ecuador"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry148", 
+                "wikidata": "Q574"
+            }, 
+            "term": "East Timor", 
+            "name": "East Timor"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry149", 
+                "wikidata": "Q786"
+            }, 
+            "term": "Dominican Republic", 
+            "name": "Dominican Republic"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry150", 
+                "wikidata": "Q784"
+            }, 
+            "term": "Dominica", 
+            "name": "Dominica"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry151", 
+                "wikidata": "Q977"
+            }, 
+            "term": "Djibouti", 
+            "name": "Djibouti"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry152", 
+                "wikidata": "Q35"
+            }, 
+            "term": "Denmark", 
+            "name": "Denmark"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry153", 
+                "wikidata": "Q974"
+            }, 
+            "term": "Democratic Republic of the Congo", 
+            "name": "Democratic Republic of the Congo"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry154", 
+                "wikidata": "Q213"
+            }, 
+            "term": "Czech Republic", 
+            "name": "Czech Republic"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry155", 
+                "wikidata": "Q229"
+            }, 
+            "term": "Cyprus", 
+            "name": "Cyprus"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry156", 
+                "wikidata": "Q241"
+            }, 
+            "term": "Cuba", 
+            "name": "Cuba"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry157", 
+                "wikidata": "Q224"
+            }, 
+            "term": "Croatia", 
+            "name": "Croatia"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry158", 
+                "wikidata": "Q1008"
+            }, 
+            "term": "C\u00f4te d'Ivoire", 
+            "name": "C\u00f4te d'Ivoire"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry159", 
+                "wikidata": "Q800"
+            }, 
+            "term": "Costa Rica", 
+            "name": "Costa Rica"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry160", 
+                "wikidata": "Q970"
+            }, 
+            "term": "Comoros", 
+            "name": "Comoros"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry161", 
+                "wikidata": "Q739"
+            }, 
+            "term": "Colombia", 
+            "name": "Colombia"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry162", 
+                "wikidata": "Q298"
+            }, 
+            "term": "Chile", 
+            "name": "Chile"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry163", 
+                "wikidata": "Q657"
+            }, 
+            "term": "Chad", 
+            "name": "Chad"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry164", 
+                "wikidata": "Q929"
+            }, 
+            "term": "Central African Republic", 
+            "name": "Central African Republic"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry165", 
+                "wikidata": "Q1011"
+            }, 
+            "term": "Cape Verde", 
+            "name": "Cape Verde"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry166", 
+                "wikidata": "Q16"
+            }, 
+            "term": "Canada", 
+            "name": "Canada"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry167", 
+                "wikidata": "Q1009"
+            }, 
+            "term": "Cameroon", 
+            "name": "Cameroon"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry168", 
+                "wikidata": "Q424"
+            }, 
+            "term": "Cambodia", 
+            "name": "Cambodia"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry169", 
+                "wikidata": "Q967"
+            }, 
+            "term": "Burundi", 
+            "name": "Burundi"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry170", 
+                "wikidata": "Q965"
+            }, 
+            "term": "Burkina Faso", 
+            "name": "Burkina Faso"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry171", 
+                "wikidata": "Q219"
+            }, 
+            "term": "Bulgaria", 
+            "name": "Bulgaria"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry172", 
+                "wikidata": "Q921"
+            }, 
+            "term": "Brunei", 
+            "name": "Brunei"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry173", 
+                "wikidata": "Q155"
+            }, 
+            "term": "Brazil", 
+            "name": "Brazil"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry174", 
+                "wikidata": "Q963"
+            }, 
+            "term": "Botswana", 
+            "name": "Botswana"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry175", 
+                "wikidata": "Q225"
+            }, 
+            "term": "Bosnia and Herzegovina", 
+            "name": "Bosnia and Herzegovina"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry176", 
+                "wikidata": "Q750"
+            }, 
+            "term": "Bolivia", 
+            "name": "Bolivia"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry177", 
+                "wikidata": "Q917"
+            }, 
+            "term": "Bhutan", 
+            "name": "Bhutan"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry178", 
+                "wikidata": "Q962"
+            }, 
+            "term": "Benin", 
+            "name": "Benin"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry179", 
+                "wikidata": "Q242"
+            }, 
+            "term": "Belize", 
+            "name": "Belize"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry180", 
+                "wikidata": "Q31"
+            }, 
+            "term": "Belgium", 
+            "name": "Belgium"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry181", 
+                "wikidata": "Q184"
+            }, 
+            "term": "Belarus", 
+            "name": "Belarus"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry182", 
+                "wikidata": "Q244"
+            }, 
+            "term": "Barbados", 
+            "name": "Barbados"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry183", 
+                "wikidata": "Q902"
+            }, 
+            "term": "Bangladesh", 
+            "name": "Bangladesh"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry184", 
+                "wikidata": "Q398"
+            }, 
+            "term": "Bahrain", 
+            "name": "Bahrain"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry185", 
+                "wikidata": "Q227"
+            }, 
+            "term": "Azerbaijan", 
+            "name": "Azerbaijan"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry186", 
+                "wikidata": "Q40"
+            }, 
+            "term": "Austria", 
+            "name": "Austria"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry187", 
+                "wikidata": "Q408"
+            }, 
+            "term": "Australia", 
+            "name": "Australia"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry188", 
+                "wikidata": "Q399"
+            }, 
+            "term": "Armenia", 
+            "name": "Armenia"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry189", 
+                "wikidata": "Q414"
+            }, 
+            "term": "Argentina", 
+            "name": "Argentina"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry190", 
+                "wikidata": "Q781"
+            }, 
+            "term": "Antigua and Barbuda", 
+            "name": "Antigua and Barbuda"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry191", 
+                "wikidata": "Q916"
+            }, 
+            "term": "Angola", 
+            "name": "Angola"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry192", 
+                "wikidata": "Q228"
+            }, 
+            "term": "Andorra", 
+            "name": "Andorra"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry193", 
+                "wikidata": "Q262"
+            }, 
+            "term": "Algeria", 
+            "name": "Algeria"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry194", 
+                "wikidata": "Q222"
+            }, 
+            "term": "Albania", 
+            "name": "Albania"
+        }, 
+        {
+            "identifiers": {
+                "contentmine": "CM.wikidatacountry195", 
+                "wikidata": "Q889"
+            }, 
+            "term": "Afghanistan", 
+            "name": "Afghanistan"
+        }
+    ], 
+    "name": "wikidatacountry", 
+    "id": "CM.wikidatacountry"
+}

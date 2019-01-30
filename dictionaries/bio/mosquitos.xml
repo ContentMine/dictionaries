@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary title="mosquitos">
+ <entry term="" id="CM.mosquitos.0" name=""/>
+ <entry term="Help" id="CM.mosquitos.1" name="Help" url="//www.mediawiki.org/wiki/Special:MyLanguage/Help:Categories"/>
+ <entry term="" id="CM.mosquitos.2" name="" url="/wiki/File:European_wasp_white_bg.jpg"/>
+ <entry term="Insects portal" id="CM.mosquitos.3" name="Insects portal" url="/wiki/Portal:Insects"/>
+ <entry term="List of mosquito genera" id="CM.mosquitos.4" name="List of mosquito genera" url="/wiki/List_of_mosquito_genera"/>
+ <entry term="learn more" id="CM.mosquitos.5" name="learn more" url="/wiki/Wikipedia:FAQ/Categorization#Why_might_a_category_list_not_be_up_to_date?"/>
+ <entry term="List of mosquito genera" id="CM.mosquitos.6" name="List of mosquito genera" url="/wiki/List_of_mosquito_genera"/>
+ <entry term="Mosquito" id="CM.mosquitos.7" name="Mosquito" url="/wiki/Mosquito"/>
+ <entry term="Aedes" id="CM.mosquitos.8" name="Aedes" url="/wiki/Aedes"/>
+ <entry term="Anopheles" id="CM.mosquitos.9" name="Anopheles" url="/wiki/Anopheles"/>
+ <entry term="Bironella" id="CM.mosquitos.10" name="Bironella" url="/wiki/Bironella"/>
+ <entry term="Chagasia" id="CM.mosquitos.11" name="Chagasia" url="/wiki/Chagasia"/>
+ <entry term="Coquillettidia" id="CM.mosquitos.12" name="Coquillettidia" url="/wiki/Coquillettidia"/>
+ <entry term="Culex" id="CM.mosquitos.13" name="Culex" url="/wiki/Culex"/>
+ <entry term="Culiseta" id="CM.mosquitos.14" name="Culiseta" url="/wiki/Culiseta"/>
+ <entry term="Eretmapodites" id="CM.mosquitos.15" name="Eretmapodites" url="/wiki/Eretmapodites"/>
+ <entry term="Haemagogus" id="CM.mosquitos.16" name="Haemagogus" url="/wiki/Haemagogus"/>
+ <entry term="Lutzia" id="CM.mosquitos.17" name="Lutzia" url="/wiki/Lutzia"/>
+ <entry term="Mansonia" id="CM.mosquitos.18" name="Mansonia" url="/wiki/Mansonia"/>
+ <entry term="Ochlerotatus" id="CM.mosquitos.19" name="Ochlerotatus" url="/wiki/Ochlerotatus"/>
+ <entry term="Opifex (insect)" id="CM.mosquitos.20" name="Opifex (insect)" url="/wiki/Opifex_(insect)"/>
+ <entry term="Psorophora" id="CM.mosquitos.21" name="Psorophora" url="/wiki/Psorophora"/>
+ <entry term="Sabethes" id="CM.mosquitos.22" name="Sabethes" url="/wiki/Sabethes"/>
+ <entry term="Skusea" id="CM.mosquitos.23" name="Skusea" url="/wiki/Skusea"/>
+ <entry term="Toxorhynchites" id="CM.mosquitos.24" name="Toxorhynchites" url="/wiki/Toxorhynchites"/>
+ <entry term="Uranotaenia" id="CM.mosquitos.25" name="Uranotaenia" url="/wiki/Uranotaenia"/>
+ <entry term="Wyeomyia" id="CM.mosquitos.26" name="Wyeomyia" url="/wiki/Wyeomyia"/>
+ <query>('') OR ('Help') OR ('') OR ('Insects portal') OR ('List of mosquito genera') OR ('learn more') OR ('List of mosquito genera') OR ('Mosquito') OR ('Aedes') OR ('Anopheles') OR ('Bironella') OR ('Chagasia') OR ('Coquillettidia') OR ('Culex') OR ('Culiseta') OR ('Eretmapodites') OR ('Haemagogus') OR ('Lutzia') OR ('Mansonia') OR ('Ochlerotatus') OR ('Opifex (insect)') OR ('Psorophora') OR ('Sabethes') OR ('Skusea') OR ('Toxorhynchites') OR ('Uranotaenia') OR ('Wyeomyia')</query>
+</dictionary>

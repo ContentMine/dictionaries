@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary title="bio.conservation">
+ <entry term="" id="CM.[Ljava.lang.String;@67a8eb0a.0" name=""/>
+ <entry term="scientific journal" id="CM.[Ljava.lang.String;@67a8eb0a.1" name="scientific journal" url="/wiki/Scientific_journal"/>
+ <entry term="Biological Conservation (journal)" id="CM.[Ljava.lang.String;@67a8eb0a.2" name="Biological Conservation (journal)" url="/wiki/Biological_Conservation_(journal)"/>
+ <entry term="scientific journal" id="CM.[Ljava.lang.String;@67a8eb0a.3" name="scientific journal" url="/wiki/Scientific_journal"/>
+ <entry term="Conservation Biology (journal)" id="CM.[Ljava.lang.String;@67a8eb0a.4" name="Conservation Biology (journal)" url="/wiki/Conservation_Biology_(journal)"/>
+ <entry term="" id="CM.[Ljava.lang.String;@67a8eb0a.5" name="" url="/wiki/File:Hopetoun_falls.jpg"/>
+ <entry term="" id="CM.[Ljava.lang.String;@67a8eb0a.6" name="" url="/wiki/File:Hopetoun_falls.jpg"/>
+ <entry term="Hopetoun Falls" id="CM.[Ljava.lang.String;@67a8eb0a.7" name="Hopetoun Falls" url="/wiki/Hopetoun_Falls"/>
+ <entry term="Earth" id="CM.[Ljava.lang.String;@67a8eb0a.8" name="Earth" url="/wiki/Earth"/>
+ <entry term="biodiversity" id="CM.[Ljava.lang.String;@67a8eb0a.9" name="biodiversity" url="/wiki/Biodiversity"/>
+ <entry term="species" id="CM.[Ljava.lang.String;@67a8eb0a.10" name="species" url="/wiki/Species"/>
+ <entry term="habitats" id="CM.[Ljava.lang.String;@67a8eb0a.11" name="habitats" url="/wiki/Habitats"/>
+ <entry term="ecosystems" id="CM.[Ljava.lang.String;@67a8eb0a.12" name="ecosystems" url="/wiki/Ecosystems"/>
+ <entry term="extinction" id="CM.[Ljava.lang.String;@67a8eb0a.13" name="extinction" url="/wiki/Extinction"/>
+ <entry term="natural resource management" id="CM.[Ljava.lang.String;@67a8eb0a.14" name="natural resource management" url="/wiki/Natural_resource_management"/>
+ <entry term="conservation ethic" id="CM.[Ljava.lang.String;@67a8eb0a.15" name="conservation ethic" url="/wiki/Conservation_ethic"/>
+ <entry term="University of California, San Diego" id="CM.[Ljava.lang.String;@67a8eb0a.16" name="University of California, San Diego" url="/wiki/University_of_California,_San_Diego"/>
+ <entry term="Michael E. Soulé" id="CM.[Ljava.lang.String;@67a8eb0a.17" name="Michael E. Soulé" url="/wiki/Michael_E._Soul%C3%A9"/>
+ <entry term="Kurt Benirschke" id="CM.[Ljava.lang.String;@67a8eb0a.18" name="Kurt Benirschke" url="/wiki/Kurt_Benirschke"/>
+ <entry term="Otto Frankel" id="CM.[Ljava.lang.String;@67a8eb0a.19" name="Otto Frankel" url="/wiki/Otto_Frankel"/>
+ <entry term="Thomas Lovejoy" id="CM.[Ljava.lang.String;@67a8eb0a.20" name="Thomas Lovejoy" url="/wiki/Thomas_Lovejoy"/>
+ <entry term="Jared Diamond" id="CM.[Ljava.lang.String;@67a8eb0a.21" name="Jared Diamond" url="/wiki/Jared_Diamond"/>
+ <entry term="tropical deforestation" id="CM.[Ljava.lang.String;@67a8eb0a.22" name="tropical deforestation" url="/wiki/Tropical_deforestation"/>
+ <entry term="genetic diversity" id="CM.[Ljava.lang.String;@67a8eb0a.23" name="genetic diversity" url="/wiki/Genetic_diversity"/>
+ <entry term="biodiversity" id="CM.[Ljava.lang.String;@67a8eb0a.24" name="biodiversity" url="/wiki/Biodiversity"/>
+ <entry term="policy" id="CM.[Ljava.lang.String;@67a8eb0a.25" name="policy" url="/wiki/National_Environmental_Policy_Act"/>
+ <entry term="conservation behavior" id="CM.[Ljava.lang.String;@67a8eb0a.26" name="conservation behavior" url="/wiki/Conservation_behavior"/>
+ <entry term="conservation genetics" id="CM.[Ljava.lang.String;@67a8eb0a.27" name="conservation genetics" url="/wiki/Conservation_genetics"/>
+ <entry term="Otto Frankel" id="CM.[Ljava.lang.String;@67a8eb0a.28" name="Otto Frankel" url="/wiki/Otto_Frankel"/>
+ <entry term="ecology" id="CM.[Ljava.lang.String;@67a8eb0a.29" name="ecology" url="/wiki/Ecology"/>
+ <entry term="population ecology" id="CM.[Ljava.lang.String;@67a8eb0a.30" name="population ecology" url="/wiki/Population_ecology"/>
+ <entry term="dispersal" id="CM.[Ljava.lang.String;@67a8eb0a.31" name="dispersal" url="/wiki/Biological_dispersal"/>
+ <entry term="migration" id="CM.[Ljava.lang.String;@67a8eb0a.32" name="migration" url="https://en.wiktionary.org/wiki/migration"/>
+ <entry term="demographics" id="CM.[Ljava.lang.String;@67a8eb0a.33" name="demographics" url="/wiki/Demographics"/>
+ <entry term="effective population size" id="CM.[Ljava.lang.String;@67a8eb0a.34" name="effective population size" url="/wiki/Effective_population_size"/>
+ <entry term="inbreeding depression" id="CM.[Ljava.lang.String;@67a8eb0a.35" name="inbreeding depression" url="/wiki/Inbreeding_depression"/>
+ <entry term="minimum population viability" id="CM.[Ljava.lang.String;@67a8eb0a.36" name="minimum population viability" url="/wiki/Minimum_viable_population"/>
+ <entry term="rare" id="CM.[Ljava.lang.String;@67a8eb0a.37" name="rare" url="/wiki/Rare_species"/>
+ <entry term="endangered species" id="CM.[Ljava.lang.String;@67a8eb0a.38" name="endangered species" url="/wiki/Endangered_species"/>
+ <entry term="genetic" id="CM.[Ljava.lang.String;@67a8eb0a.39" name="genetic" url="/wiki/Genetics"/>
+ <entry term="population" id="CM.[Ljava.lang.String;@67a8eb0a.40" name="population" url="/wiki/Population"/>
+ <entry term="species" id="CM.[Ljava.lang.String;@67a8eb0a.41" name="species" url="/wiki/Species"/>
+ <entry term="biodiversity loss" id="CM.[Ljava.lang.String;@67a8eb0a.42" name="biodiversity loss" url="/wiki/Biodiversity_loss"/>
+ <entry term="extinctions" id="CM.[Ljava.lang.String;@67a8eb0a.43" name="extinctions" url="/wiki/Extinction"/>
+ <entry term="sustain" id="CM.[Ljava.lang.String;@67a8eb0a.44" name="sustain" url="/wiki/Sustainability"/>
+ <entry term="advocate" id="CM.[Ljava.lang.String;@67a8eb0a.45" name="advocate" url="/wiki/Advocate"/>
+ <entry term="the current biodiversity crisis" id="CM.[Ljava.lang.String;@67a8eb0a.46" name="the current biodiversity crisis" url="/wiki/Holocene_extinction"/>
+ <entry term="morals" id="CM.[Ljava.lang.String;@67a8eb0a.47" name="morals" url="/wiki/Morals"/>
+ <entry term="ethics" id="CM.[Ljava.lang.String;@67a8eb0a.48" name="ethics" url="/wiki/Ethics"/>
+ <entry term="reason" id="CM.[Ljava.lang.String;@67a8eb0a.49" name="reason" url="/wiki/Reason"/>
+ <entry term="Tragedy of the Commons" id="CM.[Ljava.lang.String;@67a8eb0a.50" name="Tragedy of the Commons" url="/wiki/Tragedy_of_the_Commons"/>
+ <entry term="Tlingit" id="CM.[Ljava.lang.String;@67a8eb0a.51" name="Tlingit" url="/wiki/Tlingit_people"/>
+ <entry term="Haida" id="CM.[Ljava.lang.String;@67a8eb0a.52" name="Haida" url="/wiki/Haida_people"/>
+ <entry term="Pacific Northwest" id="CM.[Ljava.lang.String;@67a8eb0a.53" name="Pacific Northwest" url="/wiki/Pacific_Northwest"/>
+ <entry term="sockeye salmon" id="CM.[Ljava.lang.String;@67a8eb0a.54" name="sockeye salmon" url="/wiki/Sockeye_salmon"/>
+ <entry term="Ashoka" id="CM.[Ljava.lang.String;@67a8eb0a.55" name="Ashoka" url="/wiki/Ashoka"/>
+ <entry term="Tao" id="CM.[Ljava.lang.String;@67a8eb0a.56" name="Tao" url="/wiki/Tao"/>
+ <entry term="Shinto" id="CM.[Ljava.lang.String;@67a8eb0a.57" name="Shinto" url="/wiki/Shinto"/>
+ <entry term="Hindu" id="CM.[Ljava.lang.String;@67a8eb0a.58" name="Hindu" url="/wiki/Hindu"/>
+ <entry term="Islamic" id="CM.[Ljava.lang.String;@67a8eb0a.59" name="Islamic" url="/wiki/Islamic"/>
+ <entry term="Buddhist" id="CM.[Ljava.lang.String;@67a8eb0a.60" name="Buddhist" url="/wiki/Buddhist"/>
+ <entry term="land degradation" id="CM.[Ljava.lang.String;@67a8eb0a.61" name="land degradation" url="/wiki/Land_degradation"/>
+ <entry term="pagan view" id="CM.[Ljava.lang.String;@67a8eb0a.62" name="pagan view" url="/wiki/Earth_religion"/>
+ <entry term="wildlife sanctuary" id="CM.[Ljava.lang.String;@67a8eb0a.63" name="wildlife sanctuary" url="/wiki/Wildlife_sanctuary"/>
+ <entry term="Farne Islands" id="CM.[Ljava.lang.String;@67a8eb0a.64" name="Farne Islands" url="/wiki/Farne_Islands"/>
+ <entry term="St Cuthbert" id="CM.[Ljava.lang.String;@67a8eb0a.65" name="St Cuthbert" url="/wiki/St_Cuthbert"/>
+ <entry term="" id="CM.[Ljava.lang.String;@67a8eb0a.66" name="" url="/wiki/File:White_Gerfalcons.jpg"/>
+ <entry term="" id="CM.[Ljava.lang.String;@67a8eb0a.67" name="" url="/wiki/File:White_Gerfalcons.jpg"/>
+ <entry term="gyrfalcons" id="CM.[Ljava.lang.String;@67a8eb0a.68" name="gyrfalcons" url="/wiki/Gyrfalcon"/>
+ <entry term="John James Audubon" id="CM.[Ljava.lang.String;@67a8eb0a.69" name="John James Audubon" url="/wiki/John_James_Audubon"/>
+ <entry term="Natural history" id="CM.[Ljava.lang.String;@67a8eb0a.70" name="Natural history" url="/wiki/Natural_history"/>
+ <entry term="Europe" id="CM.[Ljava.lang.String;@67a8eb0a.71" name="Europe" url="/wiki/Europe"/>
+ <entry term="North America" id="CM.[Ljava.lang.String;@67a8eb0a.72" name="North America" url="/wiki/North_America"/>
+ <entry term="Germany" id="CM.[Ljava.lang.String;@67a8eb0a.73" name="Germany" url="/wiki/Germany"/>
+ <entry term="Great Britain" id="CM.[Ljava.lang.String;@67a8eb0a.74" name="Great Britain" url="/wiki/Great_Britain"/>
+ <entry term="United States" id="CM.[Ljava.lang.String;@67a8eb0a.75" name="United States" url="/wiki/United_States"/>
+ <entry term="France" id="CM.[Ljava.lang.String;@67a8eb0a.76" name="France" url="/wiki/France"/>
+ <entry term="biogeography" id="CM.[Ljava.lang.String;@67a8eb0a.77" name="biogeography" url="/wiki/Biogeography"/>
+ <entry term="Alexander von Humboldt" id="CM.[Ljava.lang.String;@67a8eb0a.78" name="Alexander von Humboldt" url="/wiki/Alexander_von_Humboldt"/>
+ <entry term="Charles Lyell" id="CM.[Ljava.lang.String;@67a8eb0a.79" name="Charles Lyell" url="/wiki/Charles_Lyell"/>
+ <entry term="Charles Darwin" id="CM.[Ljava.lang.String;@67a8eb0a.80" name="Charles Darwin" url="/wiki/Charles_Darwin"/>
+ <entry term="conservation organizations" id="CM.[Ljava.lang.String;@67a8eb0a.81" name="conservation organizations" url="/wiki/Environmental_organization"/>
+ <entry term="Conservation movement" id="CM.[Ljava.lang.String;@67a8eb0a.82" name="Conservation movement" url="/wiki/Conservation_movement"/>
+ <entry term="Enlightenment" id="CM.[Ljava.lang.String;@67a8eb0a.83" name="Enlightenment" url="/wiki/Age_of_Enlightenment"/>
+ <entry term="England" id="CM.[Ljava.lang.String;@67a8eb0a.84" name="England" url="/wiki/England"/>
+ <entry term="Scotland" id="CM.[Ljava.lang.String;@67a8eb0a.85" name="Scotland" url="/wiki/Scotland"/>
+ <entry term="Lord Monboddo" id="CM.[Ljava.lang.String;@67a8eb0a.86" name="Lord Monboddo" url="/wiki/Lord_Monboddo"/>
+ <entry term="Christian theology" id="CM.[Ljava.lang.String;@67a8eb0a.87" name="Christian theology" url="/wiki/Christian_theology"/>
+ <entry term="British India" id="CM.[Ljava.lang.String;@67a8eb0a.88" name="British India" url="/wiki/British_India"/>
+ <entry term="environment" id="CM.[Ljava.lang.String;@67a8eb0a.89" name="environment" url="/wiki/Natural_environment"/>
+ <entry term="civic duty" id="CM.[Ljava.lang.String;@67a8eb0a.90" name="civic duty" url="/wiki/Civic_duty"/>
+ <entry term="James Ranald Martin" id="CM.[Ljava.lang.String;@67a8eb0a.91" name="James Ranald Martin" url="/wiki/James_Ranald_Martin"/>
+ <entry term="British India" id="CM.[Ljava.lang.String;@67a8eb0a.92" name="British India" url="/wiki/British_India"/>
+ <entry term="Forest Departments" id="CM.[Ljava.lang.String;@67a8eb0a.93" name="Forest Departments" url="/wiki/Indian_Forest_Service"/>
+ <entry term="Madras" id="CM.[Ljava.lang.String;@67a8eb0a.94" name="Madras" url="/wiki/Madras"/>
+ <entry term="Alexander Gibson" id="CM.[Ljava.lang.String;@67a8eb0a.95" name="Alexander Gibson" url="/wiki/Alexander_Gibson_(botanist)"/>
+ <entry term="botanist" id="CM.[Ljava.lang.String;@67a8eb0a.96" name="botanist" url="/wiki/Botany"/>
+ <entry term="Governor-General" id="CM.[Ljava.lang.String;@67a8eb0a.97" name="Governor-General" url="/wiki/Governor-General_of_India"/>
+ <entry term="Lord Dalhousie" id="CM.[Ljava.lang.String;@67a8eb0a.98" name="Lord Dalhousie" url="/wiki/James_Broun-Ramsay,_1st_Marquess_of_Dalhousie"/>
+ <entry term="other colonies" id="CM.[Ljava.lang.String;@67a8eb0a.99" name="other colonies" url="/wiki/British_empire"/>
+ <entry term="Yellowstone National Park" id="CM.[Ljava.lang.String;@67a8eb0a.100" name="Yellowstone National Park" url="/wiki/Yellowstone_National_Park"/>
+ <entry term="timber" id="CM.[Ljava.lang.String;@67a8eb0a.101" name="timber" url="/wiki/Timber"/>
+ <entry term="topsoil" id="CM.[Ljava.lang.String;@67a8eb0a.102" name="topsoil" url="/wiki/Topsoil"/>
+ <entry term="pastureland" id="CM.[Ljava.lang.String;@67a8eb0a.103" name="pastureland" url="/wiki/Pasture"/>
+ <entry term="forests" id="CM.[Ljava.lang.String;@67a8eb0a.104" name="forests" url="/wiki/Forest"/>
+ <entry term="forestry" id="CM.[Ljava.lang.String;@67a8eb0a.105" name="forestry" url="/wiki/Forestry"/>
+ <entry term="wildlife" id="CM.[Ljava.lang.String;@67a8eb0a.106" name="wildlife" url="/wiki/Wildlife"/>
+ <entry term="wildlife refuge" id="CM.[Ljava.lang.String;@67a8eb0a.107" name="wildlife refuge" url="/wiki/Wildlife_refuge"/>
+ <entry term="wilderness" id="CM.[Ljava.lang.String;@67a8eb0a.108" name="wilderness" url="/wiki/Wilderness"/>
+ <entry term="watersheds" id="CM.[Ljava.lang.String;@67a8eb0a.109" name="watersheds" url="/wiki/Drainage_basin"/>
+ <entry term="Sea Birds Preservation Act of 1869" id="CM.[Ljava.lang.String;@67a8eb0a.110" name="Sea Birds Preservation Act of 1869" url="/wiki/Sea_Birds_Preservation_Act_1869"/>
+ <entry term="ornithologist" id="CM.[Ljava.lang.String;@67a8eb0a.111" name="ornithologist" url="/wiki/Ornithology"/>
+ <entry term="Alfred Newton" id="CM.[Ljava.lang.String;@67a8eb0a.112" name="Alfred Newton" url="/wiki/Alfred_Newton"/>
+ <entry term="Game laws" id="CM.[Ljava.lang.String;@67a8eb0a.113" name="Game laws" url="/wiki/Game_laws"/>
+ <entry term="Royal Society for the Protection of Birds" id="CM.[Ljava.lang.String;@67a8eb0a.114" name="Royal Society for the Protection of Birds" url="/wiki/Royal_Society_for_the_Protection_of_Birds"/>
+ <entry term="Manchester" id="CM.[Ljava.lang.String;@67a8eb0a.115" name="Manchester" url="/wiki/Manchester"/>
+ <entry term="protest group" id="CM.[Ljava.lang.String;@67a8eb0a.116" name="protest group" url="/wiki/Advocacy_group"/>
+ <entry term="great crested grebe" id="CM.[Ljava.lang.String;@67a8eb0a.117" name="great crested grebe" url="/wiki/Great_crested_grebe"/>
+ <entry term="kittiwake" id="CM.[Ljava.lang.String;@67a8eb0a.118" name="kittiwake" url="/wiki/Black-legged_kittiwake"/>
+ <entry term="fur clothing" id="CM.[Ljava.lang.String;@67a8eb0a.119" name="fur clothing" url="/wiki/Fur_clothing"/>
+ <entry term="National Trust" id="CM.[Ljava.lang.String;@67a8eb0a.120" name="National Trust" url="/wiki/National_Trust"/>
+ <entry term="United States" id="CM.[Ljava.lang.String;@67a8eb0a.121" name="United States" url="/wiki/United_States"/>
+ <entry term="Forest Reserve Act of 1891" id="CM.[Ljava.lang.String;@67a8eb0a.122" name="Forest Reserve Act of 1891" url="/wiki/Forest_Reserve_Act_of_1891"/>
+ <entry term="John Muir" id="CM.[Ljava.lang.String;@67a8eb0a.123" name="John Muir" url="/wiki/John_Muir"/>
+ <entry term="Sierra Club" id="CM.[Ljava.lang.String;@67a8eb0a.124" name="Sierra Club" url="/wiki/Sierra_Club"/>
+ <entry term="New York Zoological Society" id="CM.[Ljava.lang.String;@67a8eb0a.125" name="New York Zoological Society" url="/wiki/New_York_Zoological_Society"/>
+ <entry term="national forests and preserves" id="CM.[Ljava.lang.String;@67a8eb0a.126" name="national forests and preserves" url="/wiki/National_Park"/>
+ <entry term="Theodore Roosevelt" id="CM.[Ljava.lang.String;@67a8eb0a.127" name="Theodore Roosevelt" url="/wiki/Theodore_Roosevelt"/>
+ <entry term="Dinosaur National Monument" id="CM.[Ljava.lang.String;@67a8eb0a.128" name="Dinosaur National Monument" url="/wiki/Dinosaur_National_Monument"/>
+ <entry term="" id="CM.[Ljava.lang.String;@67a8eb0a.129" name="" url="/wiki/File:Muir_and_Roosevelt_restored.jpg"/>
+ <entry term="" id="CM.[Ljava.lang.String;@67a8eb0a.130" name="" url="/wiki/File:Muir_and_Roosevelt_restored.jpg"/>
+ <entry term="Roosevelt" id="CM.[Ljava.lang.String;@67a8eb0a.131" name="Roosevelt" url="/wiki/Theodore_Roosevelt"/>
+ <entry term="Muir" id="CM.[Ljava.lang.String;@67a8eb0a.132" name="Muir" url="/wiki/John_Muir"/>
+ <entry term="Glacier Point" id="CM.[Ljava.lang.String;@67a8eb0a.133" name="Glacier Point" url="/wiki/Glacier_Point"/>
+ <entry term="Yosemite National Park" id="CM.[Ljava.lang.String;@67a8eb0a.134" name="Yosemite National Park" url="/wiki/Yosemite_National_Park"/>
+ <entry term="Canadian" id="CM.[Ljava.lang.String;@67a8eb0a.135" name="Canadian" url="/wiki/Canadians"/>
+ <entry term="Charles Gordon Hewitt" id="CM.[Ljava.lang.String;@67a8eb0a.136" name="Charles Gordon Hewitt" url="/wiki/Charles_Gordon_Hewitt"/>
+ <entry term="James Harkin" id="CM.[Ljava.lang.String;@67a8eb0a.137" name="James Harkin" url="/wiki/James_Harkin"/>
+ <entry term="wildlife conservation" id="CM.[Ljava.lang.String;@67a8eb0a.138" name="wildlife conservation" url="/wiki/Wildlife_conservation"/>
+ <entry term="big cat" id="CM.[Ljava.lang.String;@67a8eb0a.139" name="big cat" url="/wiki/Big_cat"/>
+ <entry term="South America" id="CM.[Ljava.lang.String;@67a8eb0a.140" name="South America" url="/wiki/South_America"/>
+ <entry term="Carl E. Akeley" id="CM.[Ljava.lang.String;@67a8eb0a.141" name="Carl E. Akeley" url="/wiki/Carl_E._Akeley"/>
+ <entry term="Archie Carr" id="CM.[Ljava.lang.String;@67a8eb0a.142" name="Archie Carr" url="/wiki/Archie_Carr"/>
+ <entry term="citation needed" id="CM.[Ljava.lang.String;@67a8eb0a.143" name="citation needed" url="/wiki/Wikipedia:Citation_needed"/>
+ <entry term="Virunga Mountains" id="CM.[Ljava.lang.String;@67a8eb0a.144" name="Virunga Mountains" url="/wiki/Virunga_Mountains"/>
+ <entry term="mountain gorilla" id="CM.[Ljava.lang.String;@67a8eb0a.145" name="mountain gorilla" url="/wiki/Mountain_gorilla"/>
+ <entry term="Albert I of Belgium" id="CM.[Ljava.lang.String;@67a8eb0a.146" name="Albert I of Belgium" url="/wiki/Albert_I_of_Belgium"/>
+ <entry term="mountain gorilla" id="CM.[Ljava.lang.String;@67a8eb0a.147" name="mountain gorilla" url="/wiki/Mountain_gorilla"/>
+ <entry term="Albert National Park" id="CM.[Ljava.lang.String;@67a8eb0a.148" name="Albert National Park" url="/wiki/Albert_National_Park"/>
+ <entry term="Virunga National Park" id="CM.[Ljava.lang.String;@67a8eb0a.149" name="Virunga National Park" url="/wiki/Virunga_National_Park"/>
+ <entry term="Democratic Republic of Congo" id="CM.[Ljava.lang.String;@67a8eb0a.150" name="Democratic Republic of Congo" url="/wiki/Democratic_Republic_of_Congo"/>
+ <entry term="Endangered Species Act" id="CM.[Ljava.lang.String;@67a8eb0a.151" name="Endangered Species Act" url="/wiki/Endangered_Species_Act"/>
+ <entry term="Species at Risk Act" id="CM.[Ljava.lang.String;@67a8eb0a.152" name="Species at Risk Act" url="/wiki/Species_at_Risk_Act"/>
+ <entry term="Biodiversity Action Plans" id="CM.[Ljava.lang.String;@67a8eb0a.153" name="Biodiversity Action Plans" url="/wiki/Biodiversity_Action_Plan"/>
+ <entry term="Australia" id="CM.[Ljava.lang.String;@67a8eb0a.154" name="Australia" url="/wiki/Australia"/>
+ <entry term="Sweden" id="CM.[Ljava.lang.String;@67a8eb0a.155" name="Sweden" url="/wiki/Sweden"/>
+ <entry term="United Kingdom" id="CM.[Ljava.lang.String;@67a8eb0a.156" name="United Kingdom" url="/wiki/United_Kingdom"/>
+ <entry term="UNESCO" id="CM.[Ljava.lang.String;@67a8eb0a.157" name="UNESCO" url="/wiki/UNESCO"/>
+ <entry term="National Environmental Policy Act" id="CM.[Ljava.lang.String;@67a8eb0a.158" name="National Environmental Policy Act" url="/wiki/National_Environmental_Policy_Act"/>
+ <entry term="Wildlife Protection Act of 1972" id="CM.[Ljava.lang.String;@67a8eb0a.159" name="Wildlife Protection Act of 1972" url="/wiki/Wildlife_Protection_Act_of_1972"/>
+ <entry term="urban conservation" id="CM.[Ljava.lang.String;@67a8eb0a.160" name="urban conservation" url="/wiki/Urban_wildlife"/>
+ <entry term="Birmingham" id="CM.[Ljava.lang.String;@67a8eb0a.161" name="Birmingham" url="/wiki/Birmingham"/>
+ <entry term="UK" id="CM.[Ljava.lang.String;@67a8eb0a.162" name="UK" url="/wiki/UK"/>
+ <entry term="grassroots movement" id="CM.[Ljava.lang.String;@67a8eb0a.163" name="grassroots movement" url="/wiki/Grassroots_movement"/>
+ <entry term="Society for Conservation Biology" id="CM.[Ljava.lang.String;@67a8eb0a.164" name="Society for Conservation Biology" url="/wiki/Society_for_Conservation_Biology"/>
+ <entry term="Convention on Biological Diversity" id="CM.[Ljava.lang.String;@67a8eb0a.165" name="Convention on Biological Diversity" url="/wiki/Convention_on_Biological_Diversity"/>
+ <entry term="Biodiversity Action Plans" id="CM.[Ljava.lang.String;@67a8eb0a.166" name="Biodiversity Action Plans" url="/wiki/Biodiversity_Action_Plan"/>
+ <entry term="Institute of Ecology and Environmental Management" id="CM.[Ljava.lang.String;@67a8eb0a.167" name="Institute of Ecology and Environmental Management" url="/wiki/Institute_of_Ecology_and_Environmental_Management"/>
+ <entry term="Society for the Environment" id="CM.[Ljava.lang.String;@67a8eb0a.168" name="Society for the Environment" url="/wiki/Society_for_the_Environment"/>
+ <entry term="landscape scale conservation" id="CM.[Ljava.lang.String;@67a8eb0a.169" name="landscape scale conservation" url="/wiki/Landscape_scale_conservation"/>
+ <entry term="biosphere" id="CM.[Ljava.lang.String;@67a8eb0a.170" name="biosphere" url="/wiki/Biosphere"/>
+ <entry term="burgeoning human population" id="CM.[Ljava.lang.String;@67a8eb0a.171" name="burgeoning human population" url="/wiki/Human_overpopulation"/>
+ <entry term="agriculture" id="CM.[Ljava.lang.String;@67a8eb0a.172" name="agriculture" url="/wiki/Agriculture"/>
+ <entry term="industry" id="CM.[Ljava.lang.String;@67a8eb0a.173" name="industry" url="/wiki/Industry"/>
+ <entry term="Aldo Leopold" id="CM.[Ljava.lang.String;@67a8eb0a.174" name="Aldo Leopold" url="/wiki/Aldo_Leopold"/>
+ <entry term="A Sand County Almanac" id="CM.[Ljava.lang.String;@67a8eb0a.175" name="A Sand County Almanac" url="/wiki/A_Sand_County_Almanac"/>
+ <entry term="" id="CM.[Ljava.lang.String;@67a8eb0a.176" name="" url="/wiki/File:Extinction_intensity.svg"/>
+ <entry term="Phanerozoic" id="CM.[Ljava.lang.String;@67a8eb0a.177" name="Phanerozoic" url="/wiki/Phanerozoic"/>
+ <entry term="(H)" id="CM.[Ljava.lang.String;@67a8eb0a.178" name="(H)" url="/wiki/Holocene_extinction"/>
+ <entry term="K–Pg" id="CM.[Ljava.lang.String;@67a8eb0a.179" name="K–Pg" url="/wiki/Cretaceous%E2%80%93Paleogene_extinction_event"/>
+ <entry term="Tr–J" id="CM.[Ljava.lang.String;@67a8eb0a.180" name="Tr–J" url="/wiki/Triassic%E2%80%93Jurassic_extinction_event"/>
+ <entry term="P–Tr" id="CM.[Ljava.lang.String;@67a8eb0a.181" name="P–Tr" url="/wiki/Permian%E2%80%93Triassic_extinction_event"/>
+ <entry term="Cap" id="CM.[Ljava.lang.String;@67a8eb0a.182" name="Cap" url="/wiki/End-Capitanian_extinction_event"/>
+ <entry term="Late D" id="CM.[Ljava.lang.String;@67a8eb0a.183" name="Late D" url="/wiki/Late_Devonian_extinction"/>
+ <entry term="O–S" id="CM.[Ljava.lang.String;@67a8eb0a.184" name="O–S" url="/wiki/Ordovician%E2%80%93Silurian_extinction_events"/>
+ <entry term="" id="CM.[Ljava.lang.String;@67a8eb0a.185" name="" url="/wiki/File:Extinction_intensity.svg"/>
+ <entry term="animal" id="CM.[Ljava.lang.String;@67a8eb0a.186" name="animal" url="/wiki/Animal"/>
+ <entry term="genera" id="CM.[Ljava.lang.String;@67a8eb0a.187" name="genera" url="/wiki/Genus"/>
+ <entry term="End-Capitanian extinction event" id="CM.[Ljava.lang.String;@67a8eb0a.188" name="End-Capitanian extinction event" url="/wiki/End-Capitanian_extinction_event"/>
+ <entry term="Extinction event" id="CM.[Ljava.lang.String;@67a8eb0a.189" name="Extinction event" url="/wiki/Extinction_event"/>
+ <entry term="source and image info" id="CM.[Ljava.lang.String;@67a8eb0a.190" name="source and image info" url="/wiki/File:Extinction_intensity.svg"/>
+ <entry term="statistical measures" id="CM.[Ljava.lang.String;@67a8eb0a.191" name="statistical measures" url="/wiki/Statistical_measure"/>
+ <entry term="fossil records" id="CM.[Ljava.lang.String;@67a8eb0a.192" name="fossil records" url="/wiki/Fossil_record"/>
+ <entry term="habitat loss" id="CM.[Ljava.lang.String;@67a8eb0a.193" name="habitat loss" url="/wiki/Habitat_loss"/>
+ <entry term="The Theory of Island Biogeography" id="CM.[Ljava.lang.String;@67a8eb0a.194" name="The Theory of Island Biogeography" url="/wiki/The_Theory_of_Island_Biogeography"/>
+ <entry term="background extinction rate" id="CM.[Ljava.lang.String;@67a8eb0a.195" name="background extinction rate" url="/wiki/Background_extinction_rate"/>
+ <entry term="species binomial" id="CM.[Ljava.lang.String;@67a8eb0a.196" name="species binomial" url="/wiki/Binomial_nomenclature"/>
+ <entry term="vertebrates" id="CM.[Ljava.lang.String;@67a8eb0a.197" name="vertebrates" url="/wiki/Vertebrate"/>
+ <entry term="invertebrates" id="CM.[Ljava.lang.String;@67a8eb0a.198" name="invertebrates" url="/wiki/Invertebrate"/>
+ <entry term="endangered" id="CM.[Ljava.lang.String;@67a8eb0a.199" name="endangered" url="/wiki/Endangered"/>
+ <entry term="threatened" id="CM.[Ljava.lang.String;@67a8eb0a.200" name="threatened" url="/wiki/Threatened"/>
+ <entry term="The Plant List" id="CM.[Ljava.lang.String;@67a8eb0a.201" name="The Plant List" url="/wiki/The_Plant_List"/>
+ <entry term="grant proposals" id="CM.[Ljava.lang.String;@67a8eb0a.202" name="grant proposals" url="/wiki/Grant_(money)"/>
+ <entry term="Geographic Information Systems" id="CM.[Ljava.lang.String;@67a8eb0a.203" name="Geographic Information Systems" url="/wiki/Geographic_Information_Systems"/>
+ <entry term="Steven J. Cooke" id="CM.[Ljava.lang.String;@67a8eb0a.204" name="Steven J. Cooke" url="/wiki/Steven_J._Cooke"/>
+ <entry term="Society for Conservation Biology" id="CM.[Ljava.lang.String;@67a8eb0a.205" name="Society for Conservation Biology" url="/wiki/Society_for_Conservation_Biology"/>
+ <entry term="philosophy" id="CM.[Ljava.lang.String;@67a8eb0a.206" name="philosophy" url="/wiki/Philosophy"/>
+ <entry term="law" id="CM.[Ljava.lang.String;@67a8eb0a.207" name="law" url="/wiki/Law"/>
+ <entry term="economics" id="CM.[Ljava.lang.String;@67a8eb0a.208" name="economics" url="/wiki/Economics"/>
+ <entry term="humanities" id="CM.[Ljava.lang.String;@67a8eb0a.209" name="humanities" url="/wiki/Humanities"/>
+ <entry term="arts" id="CM.[Ljava.lang.String;@67a8eb0a.210" name="arts" url="/wiki/Arts"/>
+ <entry term="anthropology" id="CM.[Ljava.lang.String;@67a8eb0a.211" name="anthropology" url="/wiki/Anthropology"/>
+ <entry term="education" id="CM.[Ljava.lang.String;@67a8eb0a.212" name="education" url="/wiki/Education"/>
+ <entry term="conservation genetics" id="CM.[Ljava.lang.String;@67a8eb0a.213" name="conservation genetics" url="/wiki/Conservation_genetics"/>
+ <entry term="evolution" id="CM.[Ljava.lang.String;@67a8eb0a.214" name="evolution" url="/wiki/Evolution"/>
+ <entry term="objective science" id="CM.[Ljava.lang.String;@67a8eb0a.215" name="objective science" url="/wiki/Objectivity_(science)"/>
+ <entry term="advocate" id="CM.[Ljava.lang.String;@67a8eb0a.216" name="advocate" url="/wiki/Advocate"/>
+ <entry term="value in nature" id="CM.[Ljava.lang.String;@67a8eb0a.217" name="value in nature" url="/wiki/Ecosystem_valuation"/>
+ <entry term="bias" id="CM.[Ljava.lang.String;@67a8eb0a.218" name="bias" url="/wiki/Bias"/>
+ <entry term="habitat degradation" id="CM.[Ljava.lang.String;@67a8eb0a.219" name="habitat degradation" url="/wiki/Habitat_degradation"/>
+ <entry term="ecosystems" id="CM.[Ljava.lang.String;@67a8eb0a.220" name="ecosystems" url="/wiki/Ecosystem"/>
+ <entry term="science" id="CM.[Ljava.lang.String;@67a8eb0a.221" name="science" url="/wiki/Science"/>
+ <entry term="reason" id="CM.[Ljava.lang.String;@67a8eb0a.222" name="reason" url="/wiki/Reason"/>
+ <entry term="logic" id="CM.[Ljava.lang.String;@67a8eb0a.223" name="logic" url="/wiki/Logic"/>
+ <entry term="values" id="CM.[Ljava.lang.String;@67a8eb0a.224" name="values" url="/wiki/Value_(personal_and_cultural)"/>
+ <entry term="adaptive management" id="CM.[Ljava.lang.String;@67a8eb0a.225" name="adaptive management" url="/wiki/Adaptive_management"/>
+ <entry term="in-situ conservation" id="CM.[Ljava.lang.String;@67a8eb0a.226" name="in-situ conservation" url="/wiki/In-situ_conservation"/>
+ <entry term="habitat" id="CM.[Ljava.lang.String;@67a8eb0a.227" name="habitat" url="/wiki/Habitat_(ecology)"/>
+ <entry term="ex-situ conservation" id="CM.[Ljava.lang.String;@67a8eb0a.228" name="ex-situ conservation" url="/wiki/Ex-situ_conservation"/>
+ <entry term="preservationist" id="CM.[Ljava.lang.String;@67a8eb0a.229" name="preservationist" url="/wiki/Environmentalism"/>
+ <entry term="Conservation (ethic)" id="CM.[Ljava.lang.String;@67a8eb0a.230" name="Conservation (ethic)" url="/wiki/Conservation_(ethic)"/>
+ <entry term="Land ethic" id="CM.[Ljava.lang.String;@67a8eb0a.231" name="Land ethic" url="/wiki/Land_ethic"/>
+ <entry term="interdisciplinary" id="CM.[Ljava.lang.String;@67a8eb0a.232" name="interdisciplinary" url="/wiki/Interdisciplinary"/>
+ <entry term="intrinsic value" id="CM.[Ljava.lang.String;@67a8eb0a.233" name="intrinsic value" url="/wiki/Intrinsic_value_(ethics)"/>
+ <entry term="anthropocentric" id="CM.[Ljava.lang.String;@67a8eb0a.234" name="anthropocentric" url="/wiki/Anthropocentric"/>
+ <entry term="utilitarianism" id="CM.[Ljava.lang.String;@67a8eb0a.235" name="utilitarianism" url="/wiki/Utilitarianism"/>
+ <entry term="Aldo Leopold" id="CM.[Ljava.lang.String;@67a8eb0a.236" name="Aldo Leopold" url="/wiki/Aldo_Leopold"/>
+ <entry term="" id="CM.[Ljava.lang.String;@67a8eb0a.237" name="" url="/wiki/File:BiomassCharts.jpg"/>
+ <entry term="" id="CM.[Ljava.lang.String;@67a8eb0a.238" name="" url="/wiki/File:BiomassCharts.jpg"/>
+ <entry term="Biodiversity § Benefits of biodiversity" id="CM.[Ljava.lang.String;@67a8eb0a.239" name="Biodiversity § Benefits of biodiversity" url="/wiki/Biodiversity#Benefits_of_biodiversity"/>
+ <entry term="IUCN Red List" id="CM.[Ljava.lang.String;@67a8eb0a.240" name="IUCN Red List" url="/wiki/IUCN_Red_List"/>
+ <entry term="rare" id="CM.[Ljava.lang.String;@67a8eb0a.241" name="rare" url="/wiki/Rare_species"/>
+ <entry term="endemic" id="CM.[Ljava.lang.String;@67a8eb0a.242" name="endemic" url="/wiki/Endemism"/>
+ <entry term="endangered species" id="CM.[Ljava.lang.String;@67a8eb0a.243" name="endangered species" url="/wiki/Endangered_species"/>
+ <entry term="conservation status" id="CM.[Ljava.lang.String;@67a8eb0a.244" name="conservation status" url="/wiki/Conservation_status"/>
+ <entry term="sustaining biodiversity" id="CM.[Ljava.lang.String;@67a8eb0a.245" name="sustaining biodiversity" url="/wiki/Sustainability"/>
+ <entry term="biodiversity hotspots" id="CM.[Ljava.lang.String;@67a8eb0a.246" name="biodiversity hotspots" url="/wiki/Biodiversity_hotspots"/>
+ <entry term="Nature Conservancy" id="CM.[Ljava.lang.String;@67a8eb0a.247" name="Nature Conservancy" url="/wiki/Nature_Conservancy"/>
+ <entry term="biomass" id="CM.[Ljava.lang.String;@67a8eb0a.248" name="biomass" url="/wiki/Biomass"/>
+ <entry term="endemic species" id="CM.[Ljava.lang.String;@67a8eb0a.249" name="endemic species" url="/wiki/Endemic_species"/>
+ <entry term="steppes" id="CM.[Ljava.lang.String;@67a8eb0a.250" name="steppes" url="/wiki/Steppe"/>
+ <entry term="Serengeti" id="CM.[Ljava.lang.String;@67a8eb0a.251" name="Serengeti" url="/wiki/Serengeti"/>
+ <entry term="Arctic" id="CM.[Ljava.lang.String;@67a8eb0a.252" name="Arctic" url="/wiki/Arctic"/>
+ <entry term="taiga" id="CM.[Ljava.lang.String;@67a8eb0a.253" name="taiga" url="/wiki/Taiga"/>
+ <entry term="ecosystem services" id="CM.[Ljava.lang.String;@67a8eb0a.254" name="ecosystem services" url="/wiki/Ecosystem_services"/>
+ <entry term="nutrient cycling" id="CM.[Ljava.lang.String;@67a8eb0a.255" name="nutrient cycling" url="/wiki/Nutrient_cycling"/>
+ <entry term="IUCN Red List" id="CM.[Ljava.lang.String;@67a8eb0a.256" name="IUCN Red List" url="/wiki/IUCN_Red_List"/>
+ <entry term="IUCN Red List" id="CM.[Ljava.lang.String;@67a8eb0a.257" name="IUCN Red List" url="/wiki/IUCN_Red_List"/>
+ <entry term="dubious" id="CM.[Ljava.lang.String;@67a8eb0a.258" name="dubious" url="/wiki/Wikipedia:Accuracy_dispute#Disputed_statement"/>
+ <entry term="discuss" id="CM.[Ljava.lang.String;@67a8eb0a.259" name="discuss" url="/wiki/Talk:Conservation_biology#Dubious"/>
+ <entry term="not in citation given" id="CM.[Ljava.lang.String;@67a8eb0a.260" name="not in citation given" url="/wiki/Wikipedia:Verifiability"/>
+ <entry term="adaptability" id="CM.[Ljava.lang.String;@67a8eb0a.261" name="adaptability" url="/wiki/Adaptation"/>
+ <entry term="" id="CM.[Ljava.lang.String;@67a8eb0a.262" name="" url="/wiki/File:Libya_4985_Tadrart_Acacus_Luca_Galuzzi_2007.jpg"/>
+ <entry term="" id="CM.[Ljava.lang.String;@67a8eb0a.263" name="" url="/wiki/File:Libya_4985_Tadrart_Acacus_Luca_Galuzzi_2007.jpg"/>
+ <entry term="Tadrart Acacus" id="CM.[Ljava.lang.String;@67a8eb0a.264" name="Tadrart Acacus" url="/wiki/Tadrart_Acacus"/>
+ <entry term="Libya" id="CM.[Ljava.lang.String;@67a8eb0a.265" name="Libya" url="/wiki/Libya"/>
+ <entry term="Sahara" id="CM.[Ljava.lang.String;@67a8eb0a.266" name="Sahara" url="/wiki/Sahara"/>
+ <entry term="Ecosystem services" id="CM.[Ljava.lang.String;@67a8eb0a.267" name="Ecosystem services" url="/wiki/Ecosystem_services"/>
+ <entry term="Biodiversity" id="CM.[Ljava.lang.String;@67a8eb0a.268" name="Biodiversity" url="/wiki/Biodiversity"/>
+ <entry term="economists" id="CM.[Ljava.lang.String;@67a8eb0a.269" name="economists" url="/wiki/Economist"/>
+ <entry term="wealth" id="CM.[Ljava.lang.String;@67a8eb0a.270" name="wealth" url="/wiki/Wealth"/>
+ <entry term="services" id="CM.[Ljava.lang.String;@67a8eb0a.271" name="services" url="/wiki/Service_(economics)"/>
+ <entry term="global market transactions" id="CM.[Ljava.lang.String;@67a8eb0a.272" name="global market transactions" url="/wiki/International_finance"/>
+ <entry term="natural capital" id="CM.[Ljava.lang.String;@67a8eb0a.273" name="natural capital" url="/wiki/Natural_capital"/>
+ <entry term="WWF" id="CM.[Ljava.lang.String;@67a8eb0a.274" name="WWF" url="/wiki/World_Wide_Fund_For_Nature"/>
+ <entry term="Living Planet Report" id="CM.[Ljava.lang.String;@67a8eb0a.275" name="Living Planet Report" url="/wiki/Living_Planet_Report"/>
+ <entry term="G8+5" id="CM.[Ljava.lang.String;@67a8eb0a.276" name="G8+5" url="/wiki/G8%2B5"/>
+ <entry term="European Commission" id="CM.[Ljava.lang.String;@67a8eb0a.277" name="European Commission" url="/wiki/European_Commission"/>
+ <entry term="ecosystem services" id="CM.[Ljava.lang.String;@67a8eb0a.278" name="ecosystem services" url="/wiki/Ecosystem_services"/>
+ <entry term="ecosystem services" id="CM.[Ljava.lang.String;@67a8eb0a.279" name="ecosystem services" url="/wiki/Ecosystem_services"/>
+ <entry term="public goods" id="CM.[Ljava.lang.String;@67a8eb0a.280" name="public goods" url="/wiki/Public_goods"/>
+ <entry term="market" id="CM.[Ljava.lang.String;@67a8eb0a.281" name="market" url="/wiki/Market_(economics)"/>
+ <entry term="price" id="CM.[Ljava.lang.String;@67a8eb0a.282" name="price" url="/wiki/Price"/>
+ <entry term="value" id="CM.[Ljava.lang.String;@67a8eb0a.283" name="value" url="/wiki/Value_(economics)"/>
+ <entry term="Wall Street" id="CM.[Ljava.lang.String;@67a8eb0a.284" name="Wall Street" url="/wiki/Wall_Street"/>
+ <entry term="natural economy" id="CM.[Ljava.lang.String;@67a8eb0a.285" name="natural economy" url="/wiki/Natural_economy"/>
+ <entry term="atmospheric chemistry" id="CM.[Ljava.lang.String;@67a8eb0a.286" name="atmospheric chemistry" url="/wiki/Atmospheric_chemistry"/>
+ <entry term="pollinating crops" id="CM.[Ljava.lang.String;@67a8eb0a.287" name="pollinating crops" url="/wiki/Pollination_management"/>
+ <entry term="pest control" id="CM.[Ljava.lang.String;@67a8eb0a.288" name="pest control" url="/wiki/Pest_control"/>
+ <entry term="cycling soil nutrients" id="CM.[Ljava.lang.String;@67a8eb0a.289" name="cycling soil nutrients" url="/wiki/Soil_ecology"/>
+ <entry term="water supply" id="CM.[Ljava.lang.String;@67a8eb0a.290" name="water supply" url="/wiki/Water_supply"/>
+ <entry term="correlation" id="CM.[Ljava.lang.String;@67a8eb0a.291" name="correlation" url="/wiki/Correlation"/>
+ <entry term="markets" id="CM.[Ljava.lang.String;@67a8eb0a.292" name="markets" url="/wiki/Market_(economics)"/>
+ <entry term="natural capital" id="CM.[Ljava.lang.String;@67a8eb0a.293" name="natural capital" url="/wiki/Natural_capital"/>
+ <entry term="social income inequity" id="CM.[Ljava.lang.String;@67a8eb0a.294" name="social income inequity" url="/wiki/Social_inequity_aversion"/>
+ <entry term="natural capital" id="CM.[Ljava.lang.String;@67a8eb0a.295" name="natural capital" url="/wiki/Natural_capital"/>
+ <entry term="human value" id="CM.[Ljava.lang.String;@67a8eb0a.296" name="human value" url="/wiki/Human_value"/>
+ <entry term="North American" id="CM.[Ljava.lang.String;@67a8eb0a.297" name="North American" url="/wiki/North_America"/>
+ <entry term="honey-bee" id="CM.[Ljava.lang.String;@67a8eb0a.298" name="honey-bee" url="/wiki/Honey-bee"/>
+ <entry term="New Zealand" id="CM.[Ljava.lang.String;@67a8eb0a.299" name="New Zealand" url="/wiki/New_Zealand"/>
+ <entry term="GDP" id="CM.[Ljava.lang.String;@67a8eb0a.300" name="GDP" url="/wiki/GDP"/>
+ <entry term="technological innovation" id="CM.[Ljava.lang.String;@67a8eb0a.301" name="technological innovation" url="/wiki/Technological_innovation"/>
+ <entry term="Keystone species" id="CM.[Ljava.lang.String;@67a8eb0a.302" name="Keystone species" url="/wiki/Keystone_species"/>
+ <entry term="Steller's sea cow" id="CM.[Ljava.lang.String;@67a8eb0a.303" name="Steller's sea cow" url="/wiki/Steller%27s_sea_cow"/>
+ <entry term="sea otters" id="CM.[Ljava.lang.String;@67a8eb0a.304" name="sea otters" url="/wiki/Sea_otter"/>
+ <entry term="sea urchins" id="CM.[Ljava.lang.String;@67a8eb0a.305" name="sea urchins" url="/wiki/Sea_urchin"/>
+ <entry term="kelp" id="CM.[Ljava.lang.String;@67a8eb0a.306" name="kelp" url="/wiki/Kelp"/>
+ <entry term="Kelp beds" id="CM.[Ljava.lang.String;@67a8eb0a.307" name="Kelp beds" url="/wiki/Kelp_bed"/>
+ <entry term="food chain" id="CM.[Ljava.lang.String;@67a8eb0a.308" name="food chain" url="/wiki/Food_chain"/>
+ <entry term="overhunting" id="CM.[Ljava.lang.String;@67a8eb0a.309" name="overhunting" url="/wiki/Overhunting"/>
+ <entry term="grazed unrestricted" id="CM.[Ljava.lang.String;@67a8eb0a.310" name="grazed unrestricted" url="/wiki/Urchin_barren"/>
+ <entry term="Indicator species" id="CM.[Ljava.lang.String;@67a8eb0a.311" name="Indicator species" url="/wiki/Indicator_species"/>
+ <entry term="amphibians" id="CM.[Ljava.lang.String;@67a8eb0a.312" name="amphibians" url="/wiki/Amphibian"/>
+ <entry term="wetlands" id="CM.[Ljava.lang.String;@67a8eb0a.313" name="wetlands" url="/wiki/Wetland"/>
+ <entry term="miner's canary" id="CM.[Ljava.lang.String;@67a8eb0a.314" name="miner's canary" url="/wiki/Miner%27s_canary"/>
+ <entry term="silviculture" id="CM.[Ljava.lang.String;@67a8eb0a.315" name="silviculture" url="/wiki/Silviculture"/>
+ <entry term="pesticide" id="CM.[Ljava.lang.String;@67a8eb0a.316" name="pesticide" url="/wiki/Pesticide"/>
+ <entry term="NGOs" id="CM.[Ljava.lang.String;@67a8eb0a.317" name="NGOs" url="/wiki/NGO"/>
+ <entry term="Umbrella species" id="CM.[Ljava.lang.String;@67a8eb0a.318" name="Umbrella species" url="/wiki/Umbrella_species"/>
+ <entry term="Flagship species" id="CM.[Ljava.lang.String;@67a8eb0a.319" name="Flagship species" url="/wiki/Flagship_species"/>
+ <entry term="monarch butterfly" id="CM.[Ljava.lang.String;@67a8eb0a.320" name="monarch butterfly" url="/wiki/Monarch_(butterfly)"/>
+ <entry term="migrations" id="CM.[Ljava.lang.String;@67a8eb0a.321" name="migrations" url="/wiki/Insect_migration"/>
+ <entry term="aesthetic" id="CM.[Ljava.lang.String;@67a8eb0a.322" name="aesthetic" url="/wiki/Aesthetics"/>
+ <entry term="giant panda" id="CM.[Ljava.lang.String;@67a8eb0a.323" name="giant panda" url="/wiki/Giant_panda"/>
+ <entry term="blue whale" id="CM.[Ljava.lang.String;@67a8eb0a.324" name="blue whale" url="/wiki/Blue_whale"/>
+ <entry term="tiger" id="CM.[Ljava.lang.String;@67a8eb0a.325" name="tiger" url="/wiki/Tiger"/>
+ <entry term="mountain gorilla" id="CM.[Ljava.lang.String;@67a8eb0a.326" name="mountain gorilla" url="/wiki/Mountain_gorilla"/>
+ <entry term="paleontological" id="CM.[Ljava.lang.String;@67a8eb0a.327" name="paleontological" url="/wiki/Paleontological"/>
+ <entry term="ecological" id="CM.[Ljava.lang.String;@67a8eb0a.328" name="ecological" url="/wiki/Ecological"/>
+ <entry term="species extinction" id="CM.[Ljava.lang.String;@67a8eb0a.329" name="species extinction" url="/wiki/Species_extinction"/>
+ <entry term="Ordovician" id="CM.[Ljava.lang.String;@67a8eb0a.330" name="Ordovician" url="/wiki/Ordovician%E2%80%93Silurian_extinction_event"/>
+ <entry term="mya" id="CM.[Ljava.lang.String;@67a8eb0a.331" name="mya" url="/wiki/Mya_(unit)"/>
+ <entry term="Devonian" id="CM.[Ljava.lang.String;@67a8eb0a.332" name="Devonian" url="/wiki/Late_Devonian_extinction"/>
+ <entry term="Permian–Triassic" id="CM.[Ljava.lang.String;@67a8eb0a.333" name="Permian–Triassic" url="/wiki/Permian%E2%80%93Triassic_extinction_event"/>
+ <entry term="Triassic–Jurassic" id="CM.[Ljava.lang.String;@67a8eb0a.334" name="Triassic–Jurassic" url="/wiki/Triassic%E2%80%93Jurassic_extinction_event"/>
+ <entry term="Cretaceous–Paleogene extinction event" id="CM.[Ljava.lang.String;@67a8eb0a.335" name="Cretaceous–Paleogene extinction event" url="/wiki/Cretaceous%E2%80%93Paleogene_extinction_event"/>
+ <entry term="deforestation" id="CM.[Ljava.lang.String;@67a8eb0a.336" name="deforestation" url="/wiki/Deforestation"/>
+ <entry term="reef destruction" id="CM.[Ljava.lang.String;@67a8eb0a.337" name="reef destruction" url="/wiki/Coral_reef_destruction"/>
+ <entry term="wetland draining" id="CM.[Ljava.lang.String;@67a8eb0a.338" name="wetland draining" url="/wiki/Threats_to_wetlands"/>
+ <entry term="Living Planet Report" id="CM.[Ljava.lang.String;@67a8eb0a.339" name="Living Planet Report" url="/wiki/Living_Planet_Report"/>
+ <entry term="World Wide Fund for Nature" id="CM.[Ljava.lang.String;@67a8eb0a.340" name="World Wide Fund for Nature" url="/wiki/World_Wide_Fund_for_Nature"/>
+ <entry term="Holocene extinction" id="CM.[Ljava.lang.String;@67a8eb0a.341" name="Holocene extinction" url="/wiki/Holocene_extinction"/>
+ <entry term="" id="CM.[Ljava.lang.String;@67a8eb0a.342" name="" url="/wiki/File:ChildrenPerceptionBiomass.jpg"/>
+ <entry term="" id="CM.[Ljava.lang.String;@67a8eb0a.343" name="" url="/wiki/File:ChildrenPerceptionBiomass.jpg"/>
+ <entry term="evidence" id="CM.[Ljava.lang.String;@67a8eb0a.344" name="evidence" url="/wiki/Evidence"/>
+ <entry term="extinction event" id="CM.[Ljava.lang.String;@67a8eb0a.345" name="extinction event" url="/wiki/Extinction_event"/>
+ <entry term="Holocene extinction event" id="CM.[Ljava.lang.String;@67a8eb0a.346" name="Holocene extinction event" url="/wiki/Holocene_extinction_event"/>
+ <entry term="mammal" id="CM.[Ljava.lang.String;@67a8eb0a.347" name="mammal" url="/wiki/Mammal"/>
+ <entry term="genera" id="CM.[Ljava.lang.String;@67a8eb0a.348" name="genera" url="/wiki/Genera"/>
+ <entry term="species" id="CM.[Ljava.lang.String;@67a8eb0a.349" name="species" url="/wiki/Species"/>
+ <entry term="amphibians are declining" id="CM.[Ljava.lang.String;@67a8eb0a.350" name="amphibians are declining" url="/wiki/Decline_in_amphibian_populations"/>
+ <entry term="vertebrate" id="CM.[Ljava.lang.String;@67a8eb0a.351" name="vertebrate" url="/wiki/Vertebrate"/>
+ <entry term="fossil record" id="CM.[Ljava.lang.String;@67a8eb0a.352" name="fossil record" url="/wiki/Fossil_record"/>
+ <entry term="vertebrate" id="CM.[Ljava.lang.String;@67a8eb0a.353" name="vertebrate" url="/wiki/Vertebrate"/>
+ <entry term="mammals" id="CM.[Ljava.lang.String;@67a8eb0a.354" name="mammals" url="/wiki/Mammals"/>
+ <entry term="birds" id="CM.[Ljava.lang.String;@67a8eb0a.355" name="birds" url="/wiki/Bird"/>
+ <entry term="Red Listed" id="CM.[Ljava.lang.String;@67a8eb0a.356" name="Red Listed" url="/wiki/IUCN_Red_List"/>
+ <entry term="International Union for Conservation of Nature" id="CM.[Ljava.lang.String;@67a8eb0a.357" name="International Union for Conservation of Nature" url="/wiki/International_Union_for_Conservation_of_Nature"/>
+ <entry term="climate mitigation" id="CM.[Ljava.lang.String;@67a8eb0a.358" name="climate mitigation" url="/wiki/Climate_mitigation"/>
+ <entry term="climate restoration" id="CM.[Ljava.lang.String;@67a8eb0a.359" name="climate restoration" url="/wiki/Climate_restoration"/>
+ <entry term="Ocean" id="CM.[Ljava.lang.String;@67a8eb0a.360" name="Ocean" url="/wiki/Ocean"/>
+ <entry term="Coral reef" id="CM.[Ljava.lang.String;@67a8eb0a.361" name="Coral reef" url="/wiki/Coral_reef"/>
+ <entry term="Marine pollution" id="CM.[Ljava.lang.String;@67a8eb0a.362" name="Marine pollution" url="/wiki/Marine_pollution"/>
+ <entry term="Marine conservation" id="CM.[Ljava.lang.String;@67a8eb0a.363" name="Marine conservation" url="/wiki/Marine_conservation"/>
+ <entry term="Coral bleaching" id="CM.[Ljava.lang.String;@67a8eb0a.364" name="Coral bleaching" url="/wiki/Coral_bleaching"/>
+ <entry term="environmental stresses" id="CM.[Ljava.lang.String;@67a8eb0a.365" name="environmental stresses" url="/wiki/Environmental_stress"/>
+ <entry term="acidity" id="CM.[Ljava.lang.String;@67a8eb0a.366" name="acidity" url="/wiki/Ocean_acidification"/>
+ <entry term="symbiotic" id="CM.[Ljava.lang.String;@67a8eb0a.367" name="symbiotic" url="/wiki/Symbiotic"/>
+ <entry term="algae" id="CM.[Ljava.lang.String;@67a8eb0a.368" name="algae" url="/wiki/Algae"/>
+ <entry term="biodiversity" id="CM.[Ljava.lang.String;@67a8eb0a.369" name="biodiversity" url="/wiki/Biodiversity"/>
+ <entry term="natural resources" id="CM.[Ljava.lang.String;@67a8eb0a.370" name="natural resources" url="/wiki/Natural_resource"/>
+ <entry term="marine" id="CM.[Ljava.lang.String;@67a8eb0a.371" name="marine" url="/wiki/Marine_(ocean)"/>
+ <entry term="evolve" id="CM.[Ljava.lang.String;@67a8eb0a.372" name="evolve" url="/wiki/Evolution"/>
+ <entry term="acclimate" id="CM.[Ljava.lang.String;@67a8eb0a.373" name="acclimate" url="/wiki/Acclimate"/>
+ <entry term="multi-cellular organisms" id="CM.[Ljava.lang.String;@67a8eb0a.374" name="multi-cellular organisms" url="/wiki/Multi-cellular_organism"/>
+ <entry term="microbes" id="CM.[Ljava.lang.String;@67a8eb0a.375" name="microbes" url="/wiki/Microbes"/>
+ <entry term="marine ecosystems" id="CM.[Ljava.lang.String;@67a8eb0a.376" name="marine ecosystems" url="/wiki/Marine_ecosystem"/>
+ <entry term="taxonomic groups" id="CM.[Ljava.lang.String;@67a8eb0a.377" name="taxonomic groups" url="/wiki/Taxonomic_rank"/>
+ <entry term="fungal" id="CM.[Ljava.lang.String;@67a8eb0a.378" name="fungal" url="/wiki/Fungus"/>
+ <entry term="lichen" id="CM.[Ljava.lang.String;@67a8eb0a.379" name="lichen" url="/wiki/Lichen"/>
+ <entry term="insect" id="CM.[Ljava.lang.String;@67a8eb0a.380" name="insect" url="/wiki/Insect"/>
+ <entry term="plant" id="CM.[Ljava.lang.String;@67a8eb0a.381" name="plant" url="/wiki/Plant"/>
+ <entry term="communities" id="CM.[Ljava.lang.String;@67a8eb0a.382" name="communities" url="/wiki/Community_(ecology)"/>
+ <entry term="biosphere" id="CM.[Ljava.lang.String;@67a8eb0a.383" name="biosphere" url="/wiki/Biosphere"/>
+ <entry term="species richness" id="CM.[Ljava.lang.String;@67a8eb0a.384" name="species richness" url="/wiki/Species_richness"/>
+ <entry term="biomass" id="CM.[Ljava.lang.String;@67a8eb0a.385" name="biomass" url="/wiki/Biomass"/>
+ <entry term="honey bees" id="CM.[Ljava.lang.String;@67a8eb0a.386" name="honey bees" url="/wiki/Honey_bee"/>
+ <entry term="colony collapse disorder" id="CM.[Ljava.lang.String;@67a8eb0a.387" name="colony collapse disorder" url="/wiki/Colony_collapse_disorder"/>
+ <entry term="beekeepers" id="CM.[Ljava.lang.String;@67a8eb0a.388" name="beekeepers" url="/wiki/Beekeeper"/>
+ <entry term="Pests" id="CM.[Ljava.lang.String;@67a8eb0a.389" name="Pests" url="/wiki/Pest_(organism)"/>
+ <entry term="pesticides" id="CM.[Ljava.lang.String;@67a8eb0a.390" name="pesticides" url="/wiki/Pesticide"/>
+ <entry term="global warming" id="CM.[Ljava.lang.String;@67a8eb0a.391" name="global warming" url="/wiki/Global_warming"/>
+ <entry term="mountain pine beetle" id="CM.[Ljava.lang.String;@67a8eb0a.392" name="mountain pine beetle" url="/wiki/Mountain_pine_beetle"/>
+ <entry term="epidemic" id="CM.[Ljava.lang.String;@67a8eb0a.393" name="epidemic" url="/wiki/Epidemic"/>
+ <entry term="British Columbia" id="CM.[Ljava.lang.String;@67a8eb0a.394" name="British Columbia" url="/wiki/British_Columbia"/>
+ <entry term="Conservation biology of parasites" id="CM.[Ljava.lang.String;@67a8eb0a.395" name="Conservation biology of parasites" url="/wiki/Conservation_biology_of_parasites"/>
+ <entry term="Biodiversity threats" id="CM.[Ljava.lang.String;@67a8eb0a.396" name="Biodiversity threats" url="/wiki/Biodiversity_threats"/>
+ <entry term="habitat destruction" id="CM.[Ljava.lang.String;@67a8eb0a.397" name="habitat destruction" url="/wiki/Habitat_destruction"/>
+ <entry term="deforestation" id="CM.[Ljava.lang.String;@67a8eb0a.398" name="deforestation" url="/wiki/Deforestation"/>
+ <entry term="agricultural expansion" id="CM.[Ljava.lang.String;@67a8eb0a.399" name="agricultural expansion" url="/wiki/Agricultural_expansion"/>
+ <entry term="urban development" id="CM.[Ljava.lang.String;@67a8eb0a.400" name="urban development" url="/wiki/Urban_planning"/>
+ <entry term="overexploitation" id="CM.[Ljava.lang.String;@67a8eb0a.401" name="overexploitation" url="/wiki/Overexploitation"/>
+ <entry term="wildlife trade" id="CM.[Ljava.lang.String;@67a8eb0a.402" name="wildlife trade" url="/wiki/Wildlife_trade"/>
+ <entry term="Habitat fragmentation" id="CM.[Ljava.lang.String;@67a8eb0a.403" name="Habitat fragmentation" url="/wiki/Habitat_fragmentation"/>
+ <entry term="linked protected areas" id="CM.[Ljava.lang.String;@67a8eb0a.404" name="linked protected areas" url="/wiki/Wildlife_corridor"/>
+ <entry term="nutrient cycling" id="CM.[Ljava.lang.String;@67a8eb0a.405" name="nutrient cycling" url="/wiki/Nutrient_cycling"/>
+ <entry term="conservation management and planning" id="CM.[Ljava.lang.String;@67a8eb0a.406" name="conservation management and planning" url="/wiki/Conservation_management_system"/>
+ <entry term="genes" id="CM.[Ljava.lang.String;@67a8eb0a.407" name="genes" url="/wiki/Gene"/>
+ <entry term="Yellowstone National Park" id="CM.[Ljava.lang.String;@67a8eb0a.408" name="Yellowstone National Park" url="/wiki/Yellowstone_National_Park"/>
+ <entry term="Climate change" id="CM.[Ljava.lang.String;@67a8eb0a.409" name="Climate change" url="/wiki/Climate_change"/>
+ <entry term="feedback loop" id="CM.[Ljava.lang.String;@67a8eb0a.410" name="feedback loop" url="/wiki/Feedback_loop"/>
+ <entry term="carbon dioxide" id="CM.[Ljava.lang.String;@67a8eb0a.411" name="carbon dioxide" url="/wiki/Carbon_dioxide"/>
+ <entry term="atmosphere" id="CM.[Ljava.lang.String;@67a8eb0a.412" name="atmosphere" url="/wiki/Atmosphere"/>
+ <entry term="cycle" id="CM.[Ljava.lang.String;@67a8eb0a.413" name="cycle" url="/wiki/Carbon_cycle"/>
+ <entry term="effects of global warming" id="CM.[Ljava.lang.String;@67a8eb0a.414" name="effects of global warming" url="/wiki/Effects_of_global_warming"/>
+ <entry term="doi" id="CM.[Ljava.lang.String;@67a8eb0a.415" name="doi" url="/wiki/Digital_object_identifier"/>
+ <entry term="10.1046/j.1365-294X.1999.00798.x" id="CM.[Ljava.lang.String;@67a8eb0a.416" name="10.1046/j.1365-294X.1999.00798.x" url="//doi.org/10.1046%2Fj.1365-294X.1999.00798.x"/>
+ <entry term="Bibcode" id="CM.[Ljava.lang.String;@67a8eb0a.417" name="Bibcode" url="/wiki/Bibcode"/>
+ <entry term="2006Sci...313...58B" id="CM.[Ljava.lang.String;@67a8eb0a.418" name="2006Sci...313...58B" url="http://adsabs.harvard.edu/abs/2006Sci...313...58B"/>
+ <entry term="doi" id="CM.[Ljava.lang.String;@67a8eb0a.419" name="doi" url="/wiki/Digital_object_identifier"/>
+ <entry term="10.1126/science.1127609" id="CM.[Ljava.lang.String;@67a8eb0a.420" name="10.1126/science.1127609" url="//doi.org/10.1126%2Fscience.1127609"/>
+ <entry term="&quot;Conserving Biodiversity Coldspots&quot;" id="CM.[Ljava.lang.String;@67a8eb0a.421" name="&quot;Conserving Biodiversity Coldspots&quot;" url="https://web.archive.org/web/20060906162035/http://www.nau.edu/~envsci/sisk/courses/env440/readings/Kareiva%20et%20al%202003%20Am%20Sci.pdf"/>
+ <entry term="doi" id="CM.[Ljava.lang.String;@67a8eb0a.422" name="doi" url="/wiki/Digital_object_identifier"/>
+ <entry term="10.1511/2003.4.344" id="CM.[Ljava.lang.String;@67a8eb0a.423" name="10.1511/2003.4.344" url="//doi.org/10.1511%2F2003.4.344"/>
+ <entry term="the original" id="CM.[Ljava.lang.String;@67a8eb0a.424" name="the original" url="http://www.nau.edu/~envsci/sisk/courses/env440/readings/Kareiva+et+al+2003+Am+Sci.pdf"/>
+ <entry term="&quot;Amphibian Decline or Extinction? Current Declines Dwarf Background Extinction Rate&quot;" id="CM.[Ljava.lang.String;@67a8eb0a.425" name="&quot;Amphibian Decline or Extinction? Current Declines Dwarf Background Extinction Rate&quot;" url="https://web.archive.org/web/20081217133741/https://www.herpconbio.org/~herpconb/McCallum/amphibian%20extinctions.pdf"/>
+ <entry term="doi" id="CM.[Ljava.lang.String;@67a8eb0a.426" name="doi" url="/wiki/Digital_object_identifier"/>
+ <entry term="10.1670/0022-1511(2007)41[483:ADOECD]2.0.CO;2" id="CM.[Ljava.lang.String;@67a8eb0a.427" name="10.1670/0022-1511(2007)41[483:ADOECD]2.0.CO;2" url="//doi.org/10.1670%2F0022-1511%282007%2941%5B483%3AADOECD%5D2.0.CO%3B2"/>
+ <entry term="the original" id="CM.[Ljava.lang.String;@67a8eb0a.428" name="the original" url="https://www.herpconbio.org/~herpconb/McCallum/amphibian%20extinctions.pdf"/>
+ <entry term="Bibcode" id="CM.[Ljava.lang.String;@67a8eb0a.429" name="Bibcode" url="/wiki/Bibcode"/>
+ <entry term="2000Natur.403..853M" id="CM.[Ljava.lang.String;@67a8eb0a.430" name="2000Natur.403..853M" url="http://adsabs.harvard.edu/abs/2000Natur.403..853M"/>
+ <entry term="doi" id="CM.[Ljava.lang.String;@67a8eb0a.431" name="doi" url="/wiki/Digital_object_identifier"/>
+ <entry term="10.1038/35002501" id="CM.[Ljava.lang.String;@67a8eb0a.432" name="10.1038/35002501" url="//doi.org/10.1038%2F35002501"/>
+ <entry term="PMID" id="CM.[Ljava.lang.String;@67a8eb0a.433" name="PMID" url="/wiki/PubMed_Identifier"/>
+ <entry term="10706275" id="CM.[Ljava.lang.String;@67a8eb0a.434" name="10706275" url="//www.ncbi.nlm.nih.gov/pubmed/10706275"/>
+ <entry term="Bibcode" id="CM.[Ljava.lang.String;@67a8eb0a.435" name="Bibcode" url="/wiki/Bibcode"/>
+ <entry term="2006Sci...313...58B" id="CM.[Ljava.lang.String;@67a8eb0a.436" name="2006Sci...313...58B" url="http://adsabs.harvard.edu/abs/2006Sci...313...58B"/>
+ <entry term="doi" id="CM.[Ljava.lang.String;@67a8eb0a.437" name="doi" url="/wiki/Digital_object_identifier"/>
+ <entry term="10.1126/science.1127609" id="CM.[Ljava.lang.String;@67a8eb0a.438" name="10.1126/science.1127609" url="//doi.org/10.1126%2Fscience.1127609"/>
+ <entry term="&quot;Conserving Biodiversity Coldspots&quot;" id="CM.[Ljava.lang.String;@67a8eb0a.439" name="&quot;Conserving Biodiversity Coldspots&quot;" url="https://web.archive.org/web/20060906162035/http://www.nau.edu/~envsci/sisk/courses/env440/readings/Kareiva%20et%20al%202003%20Am%20Sci.pdf"/>
+ <entry term="doi" id="CM.[Ljava.lang.String;@67a8eb0a.440" name="doi" url="/wiki/Digital_object_identifier"/>
+ <entry term="10.1511/2003.4.344" id="CM.[Ljava.lang.String;@67a8eb0a.441" name="10.1511/2003.4.344" url="//doi.org/10.1511%2F2003.4.344"/>
+ <entry term="the original" id="CM.[Ljava.lang.String;@67a8eb0a.442" name="the original" url="http://www.nau.edu/~envsci/sisk/courses/env440/readings/Kareiva+et+al+2003+Am+Sci.pdf"/>
+ <entry term="doi" id="CM.[Ljava.lang.String;@67a8eb0a.443" name="doi" url="/wiki/Digital_object_identifier"/>
+ <entry term="10.1007/s10531-013-0476-6" id="CM.[Ljava.lang.String;@67a8eb0a.444" name="10.1007/s10531-013-0476-6" url="//doi.org/10.1007%2Fs10531-013-0476-6"/>
+ <entry term="Bibcode" id="CM.[Ljava.lang.String;@67a8eb0a.445" name="Bibcode" url="/wiki/Bibcode"/>
+ <entry term="2000Natur.403..853M" id="CM.[Ljava.lang.String;@67a8eb0a.446" name="2000Natur.403..853M" url="http://adsabs.harvard.edu/abs/2000Natur.403..853M"/>
+ <entry term="doi" id="CM.[Ljava.lang.String;@67a8eb0a.447" name="doi" url="/wiki/Digital_object_identifier"/>
+ <entry term="10.1038/35002501" id="CM.[Ljava.lang.String;@67a8eb0a.448" name="10.1038/35002501" url="//doi.org/10.1038%2F35002501"/>
+ <entry term="PMID" id="CM.[Ljava.lang.String;@67a8eb0a.449" name="PMID" url="/wiki/PubMed_Identifier"/>
+ <entry term="10706275" id="CM.[Ljava.lang.String;@67a8eb0a.450" name="10706275" url="//www.ncbi.nlm.nih.gov/pubmed/10706275"/>
+ <entry term="&quot;Are we in the midst of the sixth mass extinction? A view from the world of amphibians&quot;" id="CM.[Ljava.lang.String;@67a8eb0a.451" name="&quot;Are we in the midst of the sixth mass extinction? A view from the world of amphibians&quot;" url="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2556420"/>
+ <entry term="Bibcode" id="CM.[Ljava.lang.String;@67a8eb0a.452" name="Bibcode" url="/wiki/Bibcode"/>
+ <entry term="2008PNAS..10511466W" id="CM.[Ljava.lang.String;@67a8eb0a.453" name="2008PNAS..10511466W" url="http://adsabs.harvard.edu/abs/2008PNAS..10511466W"/>
+ <entry term="doi" id="CM.[Ljava.lang.String;@67a8eb0a.454" name="doi" url="/wiki/Digital_object_identifier"/>
+ <entry term="10.1073/pnas.0801921105" id="CM.[Ljava.lang.String;@67a8eb0a.455" name="10.1073/pnas.0801921105" url="//doi.org/10.1073%2Fpnas.0801921105"/>
+ <entry term="PMC" id="CM.[Ljava.lang.String;@67a8eb0a.456" name="PMC" url="/wiki/PubMed_Central"/>
+ <entry term="2556420" id="CM.[Ljava.lang.String;@67a8eb0a.457" name="2556420" url="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2556420"/>
+ <entry term="PMID" id="CM.[Ljava.lang.String;@67a8eb0a.458" name="PMID" url="/wiki/PubMed_Identifier"/>
+ <entry term="18695221" id="CM.[Ljava.lang.String;@67a8eb0a.459" name="18695221" url="//www.ncbi.nlm.nih.gov/pubmed/18695221"/>
+ <entry term="ISBN" id="CM.[Ljava.lang.String;@67a8eb0a.460" name="ISBN" url="/wiki/International_Standard_Book_Number"/>
+ <entry term="1-55963-662-9" id="CM.[Ljava.lang.String;@67a8eb0a.461" name="1-55963-662-9" url="/wiki/Special:BookSources/1-55963-662-9"/>
+ <entry term="link" id="CM.[Ljava.lang.String;@67a8eb0a.462" name="link" url="/wiki/Category:CS1_maint:_Multiple_names:_authors_list"/>
+ <entry term="ISBN" id="CM.[Ljava.lang.String;@67a8eb0a.463" name="ISBN" url="/wiki/International_Standard_Book_Number"/>
+ <entry term="0-87893-597-5" id="CM.[Ljava.lang.String;@67a8eb0a.464" name="0-87893-597-5" url="/wiki/Special:BookSources/0-87893-597-5"/>
+ <entry term="ISBN" id="CM.[Ljava.lang.String;@67a8eb0a.465" name="ISBN" url="/wiki/International_Standard_Book_Number"/>
+ <entry term="0-87893-728-5" id="CM.[Ljava.lang.String;@67a8eb0a.466" name="0-87893-728-5" url="/wiki/Special:BookSources/0-87893-728-5"/>
+ <entry term="ISBN" id="CM.[Ljava.lang.String;@67a8eb0a.467" name="ISBN" url="/wiki/International_Standard_Book_Number"/>
+ <entry term="0-87893-720-X" id="CM.[Ljava.lang.String;@67a8eb0a.468" name="0-87893-720-X" url="/wiki/Special:BookSources/0-87893-720-X"/>
+ <entry term="ISBN" id="CM.[Ljava.lang.String;@67a8eb0a.469" name="ISBN" url="/wiki/International_Standard_Book_Number"/>
+ <entry term="0-87893-800-1" id="CM.[Ljava.lang.String;@67a8eb0a.470" name="0-87893-800-1" url="/wiki/Special:BookSources/0-87893-800-1"/>
+ <entry term="ISBN" id="CM.[Ljava.lang.String;@67a8eb0a.471" name="ISBN" url="/wiki/International_Standard_Book_Number"/>
+ <entry term="978-0-226-44009-5" id="CM.[Ljava.lang.String;@67a8eb0a.472" name="978-0-226-44009-5" url="/wiki/Special:BookSources/978-0-226-44009-5"/>
+ <entry term="Training Manual on Spatial Analysis of Plant Diversity and Distribution" id="CM.[Ljava.lang.String;@67a8eb0a.473" name="Training Manual on Spatial Analysis of Plant Diversity and Distribution" url="https://web.archive.org/web/20110927164904/http://www.bioversityinternational.org/training/training_materials/gis_manual.html"/>
+ <entry term="the original" id="CM.[Ljava.lang.String;@67a8eb0a.474" name="the original" url="http://www.bioversityinternational.org/training/training_materials/gis_manual.html"/>
+ <entry term="Conservation biology for all" id="CM.[Ljava.lang.String;@67a8eb0a.475" name="Conservation biology for all" url="http://www.mongabay.com/conservation-biology-for-all.html"/>
+ <entry term="What Works in Conservation" id="CM.[Ljava.lang.String;@67a8eb0a.476" name="What Works in Conservation" url="http://www.openbookpublishers.com/product/347/what-works-in-conservation"/>
+ <entry term="ISBN" id="CM.[Ljava.lang.String;@67a8eb0a.477" name="ISBN" url="/wiki/International_Standard_Book_Number"/>
+ <entry term="0-446-58095-3" id="CM.[Ljava.lang.String;@67a8eb0a.478" name="0-446-58095-3" url="/wiki/Special:BookSources/0-446-58095-3"/>
+ <entry term="&quot;Conservationists use triage to determine which species to save and not: Like battlefield medics, conservationists are being forced to explicitly apply triage to determine which creatures to save and which to let go&quot;" id="CM.[Ljava.lang.String;@67a8eb0a.479" name="&quot;Conservationists use triage to determine which species to save and not: Like battlefield medics, conservationists are being forced to explicitly apply triage to determine which creatures to save and which to let go&quot;" url="https://www.scientificamerican.com/article/conservationists-triage-determine-which-endangered-species-to-save/"/>
+ <entry term="[2]" id="CM.[Ljava.lang.String;@67a8eb0a.480" name="[2]" url="http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291469-1795"/>
+ <entry term="Biological Conservation" id="CM.[Ljava.lang.String;@67a8eb0a.481" name="Biological Conservation" url="/wiki/Biological_Conservation_(journal)"/>
+ <entry term="[3]" id="CM.[Ljava.lang.String;@67a8eb0a.482" name="[3]" url="http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291936-6779"/>
+ <entry term="Society for Conservation Biology" id="CM.[Ljava.lang.String;@67a8eb0a.483" name="Society for Conservation Biology" url="/wiki/Society_for_Conservation_Biology"/>
+ <entry term="[4]" id="CM.[Ljava.lang.String;@67a8eb0a.484" name="[4]" url="http://www.conservationandsociety.org/"/>
+ <entry term="Conservation Biology" id="CM.[Ljava.lang.String;@67a8eb0a.485" name="Conservation Biology" url="/wiki/Conservation_Biology_(journal)"/>
+ <entry term="peer-reviewed" id="CM.[Ljava.lang.String;@67a8eb0a.486" name="peer-reviewed" url="/wiki/Peer-reviewed"/>
+ <entry term="journal" id="CM.[Ljava.lang.String;@67a8eb0a.487" name="journal" url="/wiki/Academic_journal"/>
+ <entry term="Society for Conservation Biology" id="CM.[Ljava.lang.String;@67a8eb0a.488" name="Society for Conservation Biology" url="/wiki/Society_for_Conservation_Biology"/>
+ <entry term="[5]" id="CM.[Ljava.lang.String;@67a8eb0a.489" name="[5]" url="http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291755-263X"/>
+ <entry term="Diversity and Distributions" id="CM.[Ljava.lang.String;@67a8eb0a.490" name="Diversity and Distributions" url="/wiki/Diversity_and_Distributions"/>
+ <entry term="Ecology and Society" id="CM.[Ljava.lang.String;@67a8eb0a.491" name="Ecology and Society" url="/wiki/Ecology_and_Society"/>
+ <entry term="ISBN" id="CM.[Ljava.lang.String;@67a8eb0a.492" name="ISBN" url="/wiki/International_Standard_Book_Number"/>
+ <entry term="0-85092-392-1" id="CM.[Ljava.lang.String;@67a8eb0a.493" name="0-85092-392-1" url="/wiki/Special:BookSources/0-85092-392-1"/>
+ <entry term="" id="CM.[Ljava.lang.String;@67a8eb0a.494" name="" url="/wiki/File:Aegopodium_podagraria1_ies.jpg"/>
+ <entry term="Environment portal" id="CM.[Ljava.lang.String;@67a8eb0a.495" name="Environment portal" url="/wiki/Portal:Environment"/>
+ <entry term="" id="CM.[Ljava.lang.String;@67a8eb0a.496" name="" url="/wiki/File:Earth_Day_Flag.png"/>
+ <entry term="Ecology portal" id="CM.[Ljava.lang.String;@67a8eb0a.497" name="Ecology portal" url="/wiki/Portal:Ecology"/>
+ <entry term="" id="CM.[Ljava.lang.String;@67a8eb0a.498" name="" url="/wiki/File:The_Earth_seen_from_Apollo_17_with_transparent_background.png"/>
+ <entry term="Earth sciences portal" id="CM.[Ljava.lang.String;@67a8eb0a.499" name="Earth sciences portal" url="/wiki/Portal:Earth_sciences"/>
+ <entry term="" id="CM.[Ljava.lang.String;@67a8eb0a.500" name="" url="/wiki/File:Sustainable_development.svg"/>
+ <entry term="Sustainable development portal" id="CM.[Ljava.lang.String;@67a8eb0a.501" name="Sustainable development portal" url="/wiki/Portal:Sustainable_development"/>
+ <entry term="" id="CM.[Ljava.lang.String;@67a8eb0a.502" name="" url="/wiki/File:ExtinctDodoBird.jpeg"/>
+ <entry term="Extinct and endangered species portal" id="CM.[Ljava.lang.String;@67a8eb0a.503" name="Extinct and endangered species portal" url="/wiki/Portal:Extinct_and_endangered_species"/>
+ <entry term="" id="CM.[Ljava.lang.String;@67a8eb0a.504" name="" url="/wiki/File:Issoria_lathonia.jpg"/>
+ <entry term="Biology portal" id="CM.[Ljava.lang.String;@67a8eb0a.505" name="Biology portal" url="/wiki/Portal:Biology"/>
+ <query>('') OR ('scientific journal') OR ('Biological Conservation (journal)') OR ('scientific journal') OR ('Conservation Biology (journal)') OR ('') OR ('') OR ('Hopetoun Falls') OR ('Earth') OR ('biodiversity') OR ('species') OR ('habitats') OR ('ecosystems') OR ('extinction') OR ('natural resource management') OR ('conservation ethic') OR ('University of California, San Diego') OR ('Michael E. Soulé') OR ('Kurt Benirschke') OR ('Otto Frankel') OR ('Thomas Lovejoy') OR ('Jared Diamond') OR ('tropical deforestation') OR ('genetic diversity') OR ('biodiversity') OR ('policy') OR ('conservation behavior') OR ('conservation genetics') OR ('Otto Frankel') OR ('ecology') OR ('population ecology') OR ('dispersal') OR ('migration') OR ('demographics') OR ('effective population size') OR ('inbreeding depression') OR ('minimum population viability') OR ('rare') OR ('endangered species') OR ('genetic') OR ('population') OR ('species') OR ('biodiversity loss') OR ('extinctions') OR ('sustain') OR ('advocate') OR ('the current biodiversity crisis') OR ('morals') OR ('ethics') OR ('reason') OR ('Tragedy of the Commons') OR ('Tlingit') OR ('Haida') OR ('Pacific Northwest') OR ('sockeye salmon') OR ('Ashoka') OR ('Tao') OR ('Shinto') OR ('Hindu') OR ('Islamic') OR ('Buddhist') OR ('land degradation') OR ('pagan view') OR ('wildlife sanctuary') OR ('Farne Islands') OR ('St Cuthbert') OR ('') OR ('') OR ('gyrfalcons') OR ('John James Audubon') OR ('Natural history') OR ('Europe') OR ('North America') OR ('Germany') OR ('Great Britain') OR ('United States') OR ('France') OR ('biogeography') OR ('Alexander von Humboldt') OR ('Charles Lyell') OR ('Charles Darwin') OR ('conservation organizations') OR ('Conservation movement') OR ('Enlightenment') OR ('England') OR ('Scotland') OR ('Lord Monboddo') OR ('Christian theology') OR ('British India') OR ('environment') OR ('civic duty') OR ('James Ranald Martin') OR ('British India') OR ('Forest Departments') OR ('Madras') OR ('Alexander Gibson') OR ('botanist') OR ('Governor-General') OR ('Lord Dalhousie') OR ('other colonies') OR ('Yellowstone National Park') OR ('timber') OR ('topsoil') OR ('pastureland') OR ('forests') OR ('forestry') OR ('wildlife') OR ('wildlife refuge') OR ('wilderness') OR ('watersheds') OR ('Sea Birds Preservation Act of 1869') OR ('ornithologist') OR ('Alfred Newton') OR ('Game laws') OR ('Royal Society for the Protection of Birds') OR ('Manchester') OR ('protest group') OR ('great crested grebe') OR ('kittiwake') OR ('fur clothing') OR ('National Trust') OR ('United States') OR ('Forest Reserve Act of 1891') OR ('John Muir') OR ('Sierra Club') OR ('New York Zoological Society') OR ('national forests and preserves') OR ('Theodore Roosevelt') OR ('Dinosaur National Monument') OR ('') OR ('') OR ('Roosevelt') OR ('Muir') OR ('Glacier Point') OR ('Yosemite National Park') OR ('Canadian') OR ('Charles Gordon Hewitt') OR ('James Harkin') OR ('wildlife conservation') OR ('big cat') OR ('South America') OR ('Carl E. Akeley') OR ('Archie Carr') OR ('citation needed') OR ('Virunga Mountains') OR ('mountain gorilla') OR ('Albert I of Belgium') OR ('mountain gorilla') OR ('Albert National Park') OR ('Virunga National Park') OR ('Democratic Republic of Congo') OR ('Endangered Species Act') OR ('Species at Risk Act') OR ('Biodiversity Action Plans') OR ('Australia') OR ('Sweden') OR ('United Kingdom') OR ('UNESCO') OR ('National Environmental Policy Act') OR ('Wildlife Protection Act of 1972') OR ('urban conservation') OR ('Birmingham') OR ('UK') OR ('grassroots movement') OR ('Society for Conservation Biology') OR ('Convention on Biological Diversity') OR ('Biodiversity Action Plans') OR ('Institute of Ecology and Environmental Management') OR ('Society for the Environment') OR ('landscape scale conservation') OR ('biosphere') OR ('burgeoning human population') OR ('agriculture') OR ('industry') OR ('Aldo Leopold') OR ('A Sand County Almanac') OR ('') OR ('Phanerozoic') OR ('(H)') OR ('K–Pg') OR ('Tr–J') OR ('P–Tr') OR ('Cap') OR ('Late D') OR ('O–S') OR ('') OR ('animal') OR ('genera') OR ('End-Capitanian extinction event') OR ('Extinction event') OR ('source and image info') OR ('statistical measures') OR ('fossil records') OR ('habitat loss') OR ('The Theory of Island Biogeography') OR ('background extinction rate') OR ('species binomial') OR ('vertebrates') OR ('invertebrates') OR ('endangered') OR ('threatened') OR ('The Plant List') OR ('grant proposals') OR ('Geographic Information Systems') OR ('Steven J. Cooke') OR ('Society for Conservation Biology') OR ('philosophy') OR ('law') OR ('economics') OR ('humanities') OR ('arts') OR ('anthropology') OR ('education') OR ('conservation genetics') OR ('evolution') OR ('objective science') OR ('advocate') OR ('value in nature') OR ('bias') OR ('habitat degradation') OR ('ecosystems') OR ('science') OR ('reason') OR ('logic') OR ('values') OR ('adaptive management') OR ('in-situ conservation') OR ('habitat') OR ('ex-situ conservation') OR ('preservationist') OR ('Conservation (ethic)') OR ('Land ethic') OR ('interdisciplinary') OR ('intrinsic value') OR ('anthropocentric') OR ('utilitarianism') OR ('Aldo Leopold') OR ('') OR ('') OR ('Biodiversity § Benefits of biodiversity') OR ('IUCN Red List') OR ('rare') OR ('endemic') OR ('endangered species') OR ('conservation status') OR ('sustaining biodiversity') OR ('biodiversity hotspots') OR ('Nature Conservancy') OR ('biomass') OR ('endemic species') OR ('steppes') OR ('Serengeti') OR ('Arctic') OR ('taiga') OR ('ecosystem services') OR ('nutrient cycling') OR ('IUCN Red List') OR ('IUCN Red List') OR ('dubious') OR ('discuss') OR ('not in citation given') OR ('adaptability') OR ('') OR ('') OR ('Tadrart Acacus') OR ('Libya') OR ('Sahara') OR ('Ecosystem services') OR ('Biodiversity') OR ('economists') OR ('wealth') OR ('services') OR ('global market transactions') OR ('natural capital') OR ('WWF') OR ('Living Planet Report') OR ('G8+5') OR ('European Commission') OR ('ecosystem services') OR ('ecosystem services') OR ('public goods') OR ('market') OR ('price') OR ('value') OR ('Wall Street') OR ('natural economy') OR ('atmospheric chemistry') OR ('pollinating crops') OR ('pest control') OR ('cycling soil nutrients') OR ('water supply') OR ('correlation') OR ('markets') OR ('natural capital') OR ('social income inequity') OR ('natural capital') OR ('human value') OR ('North American') OR ('honey-bee') OR ('New Zealand') OR ('GDP') OR ('technological innovation') OR ('Keystone species') OR ('Steller's sea cow') OR ('sea otters') OR ('sea urchins') OR ('kelp') OR ('Kelp beds') OR ('food chain') OR ('overhunting') OR ('grazed unrestricted') OR ('Indicator species') OR ('amphibians') OR ('wetlands') OR ('miner's canary') OR ('silviculture') OR ('pesticide') OR ('NGOs') OR ('Umbrella species') OR ('Flagship species') OR ('monarch butterfly') OR ('migrations') OR ('aesthetic') OR ('giant panda') OR ('blue whale') OR ('tiger') OR ('mountain gorilla') OR ('paleontological') OR ('ecological') OR ('species extinction') OR ('Ordovician') OR ('mya') OR ('Devonian') OR ('Permian–Triassic') OR ('Triassic–Jurassic') OR ('Cretaceous–Paleogene extinction event') OR ('deforestation') OR ('reef destruction') OR ('wetland draining') OR ('Living Planet Report') OR ('World Wide Fund for Nature') OR ('Holocene extinction') OR ('') OR ('') OR ('evidence') OR ('extinction event') OR ('Holocene extinction event') OR ('mammal') OR ('genera') OR ('species') OR ('amphibians are declining') OR ('vertebrate') OR ('fossil record') OR ('vertebrate') OR ('mammals') OR ('birds') OR ('Red Listed') OR ('International Union for Conservation of Nature') OR ('climate mitigation') OR ('climate restoration') OR ('Ocean') OR ('Coral reef') OR ('Marine pollution') OR ('Marine conservation') OR ('Coral bleaching') OR ('environmental stresses') OR ('acidity') OR ('symbiotic') OR ('algae') OR ('biodiversity') OR ('natural resources') OR ('marine') OR ('evolve') OR ('acclimate') OR ('multi-cellular organisms') OR ('microbes') OR ('marine ecosystems') OR ('taxonomic groups') OR ('fungal') OR ('lichen') OR ('insect') OR ('plant') OR ('communities') OR ('biosphere') OR ('species richness') OR ('biomass') OR ('honey bees') OR ('colony collapse disorder') OR ('beekeepers') OR ('Pests') OR ('pesticides') OR ('global warming') OR ('mountain pine beetle') OR ('epidemic') OR ('British Columbia') OR ('Conservation biology of parasites') OR ('Biodiversity threats') OR ('habitat destruction') OR ('deforestation') OR ('agricultural expansion') OR ('urban development') OR ('overexploitation') OR ('wildlife trade') OR ('Habitat fragmentation') OR ('linked protected areas') OR ('nutrient cycling') OR ('conservation management and planning') OR ('genes') OR ('Yellowstone National Park') OR ('Climate change') OR ('feedback loop') OR ('carbon dioxide') OR ('atmosphere') OR ('cycle') OR ('effects of global warming') OR ('doi') OR ('10.1046/j.1365-294X.1999.00798.x') OR ('Bibcode') OR ('2006Sci...313...58B') OR ('doi') OR ('10.1126/science.1127609') OR ('"Conserving Biodiversity Coldspots"') OR ('doi') OR ('10.1511/2003.4.344') OR ('the original') OR ('"Amphibian Decline or Extinction? Current Declines Dwarf Background Extinction Rate"') OR ('doi') OR ('10.1670/0022-1511(2007)41[483:ADOECD]2.0.CO;2') OR ('the original') OR ('Bibcode') OR ('2000Natur.403..853M') OR ('doi') OR ('10.1038/35002501') OR ('PMID') OR ('10706275') OR ('Bibcode') OR ('2006Sci...313...58B') OR ('doi') OR ('10.1126/science.1127609') OR ('"Conserving Biodiversity Coldspots"') OR ('doi') OR ('10.1511/2003.4.344') OR ('the original') OR ('doi') OR ('10.1007/s10531-013-0476-6') OR ('Bibcode') OR ('2000Natur.403..853M') OR ('doi') OR ('10.1038/35002501') OR ('PMID') OR ('10706275') OR ('"Are we in the midst of the sixth mass extinction? A view from the world of amphibians"') OR ('Bibcode') OR ('2008PNAS..10511466W') OR ('doi') OR ('10.1073/pnas.0801921105') OR ('PMC') OR ('2556420') OR ('PMID') OR ('18695221') OR ('ISBN') OR ('1-55963-662-9') OR ('link') OR ('ISBN') OR ('0-87893-597-5') OR ('ISBN') OR ('0-87893-728-5') OR ('ISBN') OR ('0-87893-720-X') OR ('ISBN') OR ('0-87893-800-1') OR ('ISBN') OR ('978-0-226-44009-5') OR ('Training Manual on Spatial Analysis of Plant Diversity and Distribution') OR ('the original') OR ('Conservation biology for all') OR ('What Works in Conservation') OR ('ISBN') OR ('0-446-58095-3') OR ('"Conservationists use triage to determine which species to save and not: Like battlefield medics, conservationists are being forced to explicitly apply triage to determine which creatures to save and which to let go"') OR ('[2]') OR ('Biological Conservation') OR ('[3]') OR ('Society for Conservation Biology') OR ('[4]') OR ('Conservation Biology') OR ('peer-reviewed') OR ('journal') OR ('Society for Conservation Biology') OR ('[5]') OR ('Diversity and Distributions') OR ('Ecology and Society') OR ('ISBN') OR ('0-85092-392-1') OR ('') OR ('Environment portal') OR ('') OR ('Ecology portal') OR ('') OR ('Earth sciences portal') OR ('') OR ('Sustainable development portal') OR ('') OR ('Extinct and endangered species portal') OR ('') OR ('Biology portal')</query>
+</dictionary>

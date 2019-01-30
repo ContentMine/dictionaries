@@ -1,0 +1,52 @@
+{
+    "id": "labratstrains",
+    "log": [
+        {
+            "type": "wdqs",
+            "query": "SELECT ?item\nWHERE \n{\n  ?item wdt:P279 wd:Q3089676.\n  SERVICE wikibase:label { bd:serviceParam wikibase:language \"[AUTO_LANGUAGE],en\". }\n}",
+            "time": 1511866119424
+        }
+    ],
+    "entries": [
+        {
+            "name": "Biobreeding rat",
+            "term": "Biobreeding rat",
+            "identifiers": {
+                "contentmine": "CM.labratstrains0",
+                "wikidata": "Q795497"
+            }
+        },
+        {
+            "name": "Zucker Rat",
+            "term": "Zucker Rat",
+            "identifiers": {
+                "contentmine": "CM.labratstrains1",
+                "wikidata": "Q3420007"
+            }
+        },
+        {
+            "name": "Brattleboro rat",
+            "term": "Brattleboro rat",
+            "identifiers": {
+                "contentmine": "CM.labratstrains2",
+                "wikidata": "Q4958126"
+            }
+        },
+        {
+            "name": "Wistar Rat",
+            "term": "Wistar Rat",
+            "identifiers": {
+                "contentmine": "CM.labratstrains3",
+                "wikidata": "Q15734314"
+            }
+        },
+        {
+            "name": "Sprague-Dawley rat",
+            "term": "Sprague-Dawley rat",
+            "identifiers": {
+                "contentmine": "CM.labratstrains4",
+                "wikidata": "Q42744404"
+            }
+        }
+    ]
+}
