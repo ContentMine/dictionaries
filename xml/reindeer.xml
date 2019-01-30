@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary title="reindeer">
+ <entry term="" id="CM.reindeer.0" name=""/>
+ <entry term="Reindeer (disambiguation)" id="CM.reindeer.1" name="Reindeer (disambiguation)" url="/wiki/Reindeer_(disambiguation)"/>
+ <entry term="Caribou (disambiguation)" id="CM.reindeer.2" name="Caribou (disambiguation)" url="/wiki/Caribou_(disambiguation)"/>
+ <entry term="Middle Pleistocene" id="CM.reindeer.3" name="Middle Pleistocene" url="/wiki/Middle_Pleistocene"/>
+ <entry term="PreЄ" id="CM.reindeer.4" name="PreЄ" url="/wiki/Precambrian"/>
+ <entry term="Є" id="CM.reindeer.5" name="Є" url="/wiki/Cambrian"/>
+ <entry term="O" id="CM.reindeer.6" name="O" url="/wiki/Ordovician"/>
+ <entry term="S" id="CM.reindeer.7" name="S" url="/wiki/Silurian"/>
+ <entry term="D" id="CM.reindeer.8" name="D" url="/wiki/Devonian"/>
+ <entry term="C" id="CM.reindeer.9" name="C" url="/wiki/Carboniferous"/>
+ <entry term="P" id="CM.reindeer.10" name="P" url="/wiki/Permian"/>
+ <entry term="T" id="CM.reindeer.11" name="T" url="/wiki/Triassic"/>
+ <entry term="J" id="CM.reindeer.12" name="J" url="/wiki/Jurassic"/>
+ <entry term="K" id="CM.reindeer.13" name="K" url="/wiki/Cretaceous"/>
+ <entry term="Pg" id="CM.reindeer.14" name="Pg" url="/wiki/Paleogene"/>
+ <entry term="N" id="CM.reindeer.15" name="N" url="/wiki/Neogene"/>
+ <entry term="" id="CM.reindeer.16" name="" url="/wiki/File:Reinbukken_p%C3%A5_frisk_gr%C3%B8nt_beite._-_panoramio.jpg"/>
+ <entry term="Conservation status" id="CM.reindeer.17" name="Conservation status" url="/wiki/Conservation_status"/>
+ <entry term="Vulnerable" id="CM.reindeer.18" name="Vulnerable" url="/wiki/Vulnerable_species"/>
+ <entry term="IUCN 3.1" id="CM.reindeer.19" name="IUCN 3.1" url="/wiki/IUCN_Red_List"/>
+ <entry term="Scientific classification" id="CM.reindeer.20" name="Scientific classification" url="/wiki/Taxonomy_(biology)"/>
+ <entry term="" id="CM.reindeer.21" name="" url="/wiki/Template:Taxonomy/Rangifer"/>
+ <entry term="Animalia" id="CM.reindeer.22" name="Animalia" url="/wiki/Animal"/>
+ <entry term="Chordata" id="CM.reindeer.23" name="Chordata" url="/wiki/Chordate"/>
+ <entry term="Mammalia" id="CM.reindeer.24" name="Mammalia" url="/wiki/Mammal"/>
+ <entry term="Artiodactyla" id="CM.reindeer.25" name="Artiodactyla" url="/wiki/Even-toed_ungulate"/>
+ <entry term="Cervidae" id="CM.reindeer.26" name="Cervidae" url="/wiki/Cervidae"/>
+ <entry term="Capreolinae" id="CM.reindeer.27" name="Capreolinae" url="/wiki/Capreolinae"/>
+ <entry term="Rangiferini" id="CM.reindeer.28" name="Rangiferini" url="/wiki/Deer"/>
+ <entry term="Rangifer" id="CM.reindeer.29" name="Rangifer"/>
+ <entry term="Charles Hamilton Smith" id="CM.reindeer.30" name="Charles Hamilton Smith" url="/wiki/Charles_Hamilton_Smith"/>
+ <entry term="Binomial name" id="CM.reindeer.31" name="Binomial name" url="/wiki/Binomial_nomenclature"/>
+ <entry term="Linnaeus" id="CM.reindeer.32" name="Linnaeus" url="/wiki/Carl_Linnaeus"/>
+ <entry term="" id="CM.reindeer.33" name="" url="/wiki/File:Rangifer_tarandus_map.png"/>
+ <entry term="Synonyms" id="CM.reindeer.34" name="Synonyms" url="/wiki/Synonym_(taxonomy)"/>
+ <entry term="circumpolar distribution" id="CM.reindeer.35" name="circumpolar distribution" url="/wiki/Circumpolar_distribution"/>
+ <entry term="boreal woodland caribou" id="CM.reindeer.36" name="boreal woodland caribou" url="/wiki/Boreal_woodland_caribou"/>
+ <entry term="Svalbard reindeer" id="CM.reindeer.37" name="Svalbard reindeer" url="/wiki/Svalbard_reindeer"/>
+ <entry term="Nunavut" id="CM.reindeer.38" name="Nunavut" url="/wiki/Nunavut"/>
+ <entry term="Selkirk Mountains" id="CM.reindeer.39" name="Selkirk Mountains" url="/wiki/Selkirk_Mountains"/>
+ <entry term="Barren-ground caribou" id="CM.reindeer.40" name="Barren-ground caribou" url="/wiki/Barren-ground_caribou"/>
+ <entry term="Porcupine caribou" id="CM.reindeer.41" name="Porcupine caribou" url="/wiki/Porcupine_caribou"/>
+ <entry term="Peary caribou" id="CM.reindeer.42" name="Peary caribou" url="/wiki/Peary_caribou"/>
+ <entry term="Kitaa" id="CM.reindeer.43" name="Kitaa" url="/wiki/Kitaa"/>
+ <entry term="Queen Charlotte Islands caribou" id="CM.reindeer.44" name="Queen Charlotte Islands caribou" url="/wiki/Queen_Charlotte_Islands_caribou"/>
+ <entry term="Committee on the Status of Endangered Wildlife in Canada" id="CM.reindeer.45" name="Committee on the Status of Endangered Wildlife in Canada" url="/wiki/Committee_on_the_Status_of_Endangered_Wildlife_in_Canada"/>
+ <entry term="IUCN" id="CM.reindeer.46" name="IUCN" url="/wiki/International_Union_for_Conservation_of_Nature"/>
+ <entry term="Caribou Inuit" id="CM.reindeer.47" name="Caribou Inuit" url="/wiki/Caribou_Inuit"/>
+ <entry term="Kivalliq Region" id="CM.reindeer.48" name="Kivalliq Region" url="/wiki/Kivalliq_Region"/>
+ <entry term="Inupiat" id="CM.reindeer.49" name="Inupiat" url="/wiki/Inupiat_people"/>
+ <entry term="Inuvialuit" id="CM.reindeer.50" name="Inuvialuit" url="/wiki/Inuvialuit"/>
+ <entry term="Hän" id="CM.reindeer.51" name="Hän" url="/wiki/H%C3%A4n_people"/>
+ <entry term="Northern Tutchone" id="CM.reindeer.52" name="Northern Tutchone" url="/wiki/Northern_Tutchone"/>
+ <entry term="Gwich'in" id="CM.reindeer.53" name="Gwich'in" url="/wiki/Gwich%27in"/>
+ <entry term="Sami people" id="CM.reindeer.54" name="Sami people" url="/wiki/Sami_people"/>
+ <entry term="Lapland" id="CM.reindeer.55" name="Lapland" url="/wiki/S%C3%A1pmi"/>
+ <entry term="pulks" id="CM.reindeer.56" name="pulks" url="/wiki/Pulk"/>
+ <entry term="Santa Claus's reindeer" id="CM.reindeer.57" name="Santa Claus's reindeer" url="/wiki/Santa_Claus%27s_reindeer"/>
+ <entry term="Carl Linnaeus" id="CM.reindeer.58" name="Carl Linnaeus" url="/wiki/Carl_Linnaeus"/>
+ <entry term="Albertus Magnus" id="CM.reindeer.59" name="Albertus Magnus" url="/wiki/Albertus_Magnus"/>
+ <entry term="Saami" id="CM.reindeer.60" name="Saami" url="/wiki/Sami_languages"/>
+ <entry term="Ulisse Aldrovandi" id="CM.reindeer.61" name="Ulisse Aldrovandi" url="/wiki/Ulisse_Aldrovandi"/>
+ <entry term="Konrad Gesner" id="CM.reindeer.62" name="Konrad Gesner" url="/wiki/Konrad_Gesner"/>
+ <entry term="Aristotle" id="CM.reindeer.63" name="Aristotle" url="/wiki/Aristotle"/>
+ <entry term="Theophrastus" id="CM.reindeer.64" name="Theophrastus" url="/wiki/Theophrastus"/>
+ <entry term="IUCN" id="CM.reindeer.65" name="IUCN" url="/wiki/International_Union_for_Conservation_of_Nature"/>
+ <entry term="Mi'kmaq" id="CM.reindeer.66" name="Mi'kmaq" url="/wiki/Mi%27kmaq_language"/>
+ <entry term="Inuktitut" id="CM.reindeer.67" name="Inuktitut" url="/wiki/Inuktitut"/>
+ <entry term="Mi'kmaq" id="CM.reindeer.68" name="Mi'kmaq" url="/wiki/M%C3%ADkmaq_language"/>
+ <entry term="Mi'kmaq" id="CM.reindeer.69" name="Mi'kmaq" url="/wiki/Mi%27kmaq"/>
+ <entry term="Algonquian" id="CM.reindeer.70" name="Algonquian" url="/wiki/Algonquian_languages"/>
+ <entry term="Woods Cree" id="CM.reindeer.71" name="Woods Cree" url="/wiki/Woods_Cree"/>
+ <entry term="Cree" id="CM.reindeer.72" name="Cree" url="/wiki/Cree"/>
+ <entry term="Koyukon language" id="CM.reindeer.73" name="Koyukon language" url="/wiki/Koyukon_language"/>
+ <entry term="Koyukon" id="CM.reindeer.74" name="Koyukon" url="/wiki/Koyukon_people"/>
+ <entry term="Athabaskan" id="CM.reindeer.75" name="Athabaskan" url="/wiki/Athabaskan_languages"/>
+ <entry term="Gwich’in language" id="CM.reindeer.76" name="Gwich’in language" url="/wiki/Gwich%E2%80%99in_language"/>
+ <entry term="Gwich’in" id="CM.reindeer.77" name="Gwich’in" url="/wiki/Gwich%E2%80%99in"/>
+ <entry term="Hän language" id="CM.reindeer.78" name="Hän language" url="/wiki/H%C3%A4n_language"/>
+ <entry term="Hän" id="CM.reindeer.79" name="Hän" url="/wiki/H%C3%A4n"/>
+ <entry term="Inuktitut" id="CM.reindeer.80" name="Inuktitut" url="/wiki/Inuktitut"/>
+ <entry term="Inuit" id="CM.reindeer.81" name="Inuit" url="/wiki/Inuit"/>
+ <entry term="Eskimo–Aleut" id="CM.reindeer.82" name="Eskimo–Aleut" url="/wiki/Eskimo%E2%80%93Aleut_languages"/>
+ <entry term="Inupiaq language" id="CM.reindeer.83" name="Inupiaq language" url="/wiki/Inupiaq_language"/>
+ <entry term="Inupiat people" id="CM.reindeer.84" name="Inupiat people" url="/wiki/Inupiat_people"/>
+ <entry term="Yup'ik" id="CM.reindeer.85" name="Yup'ik" url="/wiki/Central_Alaskan_Yup%27ik_language"/>
+ <entry term="Yup'ik" id="CM.reindeer.86" name="Yup'ik" url="/wiki/Yup%27ik"/>
+ <entry term="Carl Linnaeus" id="CM.reindeer.87" name="Carl Linnaeus" url="/wiki/Carl_Linnaeus"/>
+ <entry term="Gmelin" id="CM.reindeer.88" name="Gmelin" url="/wiki/Johann_Friedrich_Gmelin"/>
+ <entry term="Labrador" id="CM.reindeer.89" name="Labrador" url="/wiki/Labrador"/>
+ <entry term="British Columbia" id="CM.reindeer.90" name="British Columbia" url="/wiki/British_Columbia"/>
+ <entry term="Newfoundland" id="CM.reindeer.91" name="Newfoundland" url="/wiki/Newfoundland_(island)"/>
+ <entry term="Don E. Wilson" id="CM.reindeer.92" name="Don E. Wilson" url="/wiki/Don_E._Wilson"/>
+ <entry term="Valerius Geist" id="CM.reindeer.93" name="Valerius Geist" url="/wiki/Valerius_Geist"/>
+ <entry term="subspecies" id="CM.reindeer.94" name="subspecies" url="/wiki/Subspecies"/>
+ <entry term="mtDNA" id="CM.reindeer.95" name="mtDNA" url="/wiki/MtDNA"/>
+ <entry term="Mammal Species of the World" id="CM.reindeer.96" name="Mammal Species of the World" url="/wiki/Mammal_Species_of_the_World"/>
+ <entry term="1915" id="CM.reindeer.97" name="1915" url="https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=180701Millais,"/>
+ <entry term="Busk reindeer" id="CM.reindeer.98" name="Busk reindeer" url="/w/index.php?title=Busk_reindeer&amp;action=edit&amp;redlink=1"/>
+ <entry term="Labrador caribou" id="CM.reindeer.99" name="Labrador caribou" url="/w/index.php?title=Labrador_caribou&amp;action=edit&amp;redlink=1"/>
+ <entry term="Quebec" id="CM.reindeer.100" name="Quebec" url="/wiki/Quebec"/>
+ <entry term="Labrador" id="CM.reindeer.101" name="Labrador" url="/wiki/Newfoundland_and_Labrador"/>
+ <entry term="boreal woodland caribou" id="CM.reindeer.102" name="boreal woodland caribou" url="/wiki/Boreal_woodland_caribou"/>
+ <entry term="migratory woodland caribou" id="CM.reindeer.103" name="migratory woodland caribou" url="/wiki/Migratory_woodland_caribou"/>
+ <entry term="Porcupine caribou" id="CM.reindeer.104" name="Porcupine caribou" url="/wiki/Porcupine_caribou"/>
+ <entry term="Alaska" id="CM.reindeer.105" name="Alaska" url="/wiki/Alaska"/>
+ <entry term="Yukon" id="CM.reindeer.106" name="Yukon" url="/wiki/Yukon"/>
+ <entry term="Finnish forest reindeer" id="CM.reindeer.107" name="Finnish forest reindeer" url="/wiki/Finnish_forest_reindeer"/>
+ <entry term="Finland" id="CM.reindeer.108" name="Finland" url="/wiki/Finland"/>
+ <entry term="Barren-ground caribou" id="CM.reindeer.109" name="Barren-ground caribou" url="/wiki/Barren-ground_caribou"/>
+ <entry term="Nunavut" id="CM.reindeer.110" name="Nunavut" url="/wiki/Nunavut"/>
+ <entry term="Northwest Territories" id="CM.reindeer.111" name="Northwest Territories" url="/wiki/Northwest_Territories"/>
+ <entry term="Osborn's caribou" id="CM.reindeer.112" name="Osborn's caribou" url="/w/index.php?title=Osborn%27s_caribou&amp;action=edit&amp;redlink=1"/>
+ <entry term="British Columbia" id="CM.reindeer.113" name="British Columbia" url="/wiki/British_Columbia"/>
+ <entry term="Novaya Zemlya reindeer" id="CM.reindeer.114" name="Novaya Zemlya reindeer" url="/w/index.php?title=Novaya_Zemlya_reindeer&amp;action=edit&amp;redlink=1"/>
+ <entry term="Novaya Zemlya" id="CM.reindeer.115" name="Novaya Zemlya" url="/wiki/Novaya_Zemlya"/>
+ <entry term="Peary caribou" id="CM.reindeer.116" name="Peary caribou" url="/wiki/Peary_caribou"/>
+ <entry term="Kamchatkan reindeer" id="CM.reindeer.117" name="Kamchatkan reindeer" url="/w/index.php?title=Kamchatkan_reindeer&amp;action=edit&amp;redlink=1"/>
+ <entry term="Kamchatka Peninsula" id="CM.reindeer.118" name="Kamchatka Peninsula" url="/wiki/Kamchatka_Peninsula"/>
+ <entry term="Sea of Okhotsk" id="CM.reindeer.119" name="Sea of Okhotsk" url="/wiki/Sea_of_Okhotsk"/>
+ <entry term="Svalbard reindeer" id="CM.reindeer.120" name="Svalbard reindeer" url="/wiki/Svalbard_reindeer"/>
+ <entry term="Svalbard" id="CM.reindeer.121" name="Svalbard" url="/wiki/Svalbard"/>
+ <entry term="Norway" id="CM.reindeer.122" name="Norway" url="/wiki/Norway"/>
+ <entry term="Siberian tundra reindeer" id="CM.reindeer.123" name="Siberian tundra reindeer" url="/w/index.php?title=Siberian_tundra_reindeer&amp;action=edit&amp;redlink=1"/>
+ <entry term="Siberia" id="CM.reindeer.124" name="Siberia" url="/wiki/Siberia"/>
+ <entry term="Mountain reindeer" id="CM.reindeer.125" name="Mountain reindeer" url="/wiki/Mountain_reindeer"/>
+ <entry term="Fennoscandian Peninsula" id="CM.reindeer.126" name="Fennoscandian Peninsula" url="/wiki/Fennoscandia"/>
+ <entry term="Norway" id="CM.reindeer.127" name="Norway" url="/wiki/Norway"/>
+ <entry term="Newfoundland caribou" id="CM.reindeer.128" name="Newfoundland caribou" url="/w/index.php?title=Newfoundland_caribou&amp;action=edit&amp;redlink=1"/>
+ <entry term="Newfoundland" id="CM.reindeer.129" name="Newfoundland" url="/wiki/Newfoundland_(island)"/>
+ <entry term="Siberian forest reindeer" id="CM.reindeer.130" name="Siberian forest reindeer" url="/w/index.php?title=Siberian_forest_reindeer&amp;action=edit&amp;redlink=1"/>
+ <entry term="Ural Mountains" id="CM.reindeer.131" name="Ural Mountains" url="/wiki/Ural_Mountains"/>
+ <entry term="Altai Mountains" id="CM.reindeer.132" name="Altai Mountains" url="/wiki/Altai_Mountains"/>
+ <entry term="Queen Charlotte Islands caribou" id="CM.reindeer.133" name="Queen Charlotte Islands caribou" url="/wiki/Queen_Charlotte_Islands_caribou"/>
+ <entry term="Graham Island" id="CM.reindeer.134" name="Graham Island" url="/wiki/Graham_Island"/>
+ <entry term="Queen Charlotte Islands" id="CM.reindeer.135" name="Queen Charlotte Islands" url="/wiki/Haida_Gwaii"/>
+ <entry term="Arctic reindeer" id="CM.reindeer.136" name="Arctic reindeer" url="/wiki/Arctic_reindeer"/>
+ <entry term="Greenland" id="CM.reindeer.137" name="Greenland" url="/wiki/Greenland"/>
+ <entry term="mtDNA" id="CM.reindeer.138" name="mtDNA" url="/wiki/MtDNA"/>
+ <entry term="ecotype" id="CM.reindeer.139" name="ecotype" url="/wiki/Ecotype"/>
+ <entry term="Pleistocene" id="CM.reindeer.140" name="Pleistocene" url="/wiki/Pleistocene"/>
+ <entry term="Günz" id="CM.reindeer.141" name="Günz" url="/wiki/G%C3%BCnz"/>
+ <entry term="Ice Age" id="CM.reindeer.142" name="Ice Age" url="/wiki/Last_Glacial_Maximum"/>
+ <entry term="Mesolithic" id="CM.reindeer.143" name="Mesolithic" url="/wiki/Mesolithic"/>
+ <entry term="Mesolithic" id="CM.reindeer.144" name="Mesolithic" url="/wiki/Mesolithic"/>
+ <entry term="Neolithic" id="CM.reindeer.145" name="Neolithic" url="/wiki/Neolithic"/>
+ <entry term="last glacial period" id="CM.reindeer.146" name="last glacial period" url="/wiki/Last_glacial_period"/>
+ <entry term="Norway" id="CM.reindeer.147" name="Norway" url="/wiki/Norway"/>
+ <entry term="Jotunheimen" id="CM.reindeer.148" name="Jotunheimen" url="/wiki/Jotunheimen"/>
+ <entry term="trapping pits" id="CM.reindeer.149" name="trapping pits" url="/wiki/Trapping_pit"/>
+ <entry term="Migration Period" id="CM.reindeer.150" name="Migration Period" url="/wiki/Migration_Period"/>
+ <entry term="Stone Age" id="CM.reindeer.151" name="Stone Age" url="/wiki/Stone_Age"/>
+ <entry term="citation needed" id="CM.reindeer.152" name="citation needed" url="/wiki/Wikipedia:Citation_needed"/>
+ <entry term="" id="CM.reindeer.153" name="" url="/wiki/File:ReindeerLoosingVelvet.jpg"/>
+ <entry term="" id="CM.reindeer.154" name="" url="/wiki/File:ReindeerLoosingVelvet.jpg"/>
+ <entry term="antlers" id="CM.reindeer.155" name="antlers" url="/wiki/Antler"/>
+ <entry term="cervid" id="CM.reindeer.156" name="cervid" url="/wiki/Cervidae"/>
+ <entry term="moose" id="CM.reindeer.157" name="moose" url="/wiki/Moose"/>
+ <entry term="citation needed" id="CM.reindeer.158" name="citation needed" url="/wiki/Wikipedia:Citation_needed"/>
+ <entry term="antlerogenesis" id="CM.reindeer.159" name="antlerogenesis" url="/w/index.php?title=Antlerogenesis&amp;action=edit&amp;redlink=1"/>
+ <entry term="boreal woodland caribou" id="CM.reindeer.160" name="boreal woodland caribou" url="/wiki/Boreal_woodland_caribou"/>
+ <entry term="Dolphin-Union caribou" id="CM.reindeer.161" name="Dolphin-Union caribou" url="/wiki/Dolphin-Union_caribou"/>
+ <entry term="keystone species" id="CM.reindeer.162" name="keystone species" url="/wiki/Keystone_species"/>
+ <entry term="Igloolik" id="CM.reindeer.163" name="Igloolik" url="/wiki/Qikiqtaaluk_Region"/>
+ <entry term="National Gallery of Canada" id="CM.reindeer.164" name="National Gallery of Canada" url="/wiki/National_Gallery_of_Canada"/>
+ <entry term="fur" id="CM.reindeer.165" name="fur" url="/wiki/Fur"/>
+ <entry term="Peary caribou" id="CM.reindeer.166" name="Peary caribou" url="/wiki/Peary_caribou"/>
+ <entry term="boreal woodland caribou" id="CM.reindeer.167" name="boreal woodland caribou" url="/wiki/Boreal_woodland_caribou"/>
+ <entry term="coat" id="CM.reindeer.168" name="coat" url="/wiki/Coat_(animal)"/>
+ <entry term="woolly" id="CM.reindeer.169" name="woolly" url="/wiki/Wool"/>
+ <entry term="core body temperature" id="CM.reindeer.170" name="core body temperature" url="/wiki/Core_body_temperature"/>
+ <entry term="thermogradient" id="CM.reindeer.171" name="thermogradient" url="/wiki/Thermogradient"/>
+ <entry term="countercurrent heat exchange" id="CM.reindeer.172" name="countercurrent heat exchange" url="/wiki/Countercurrent_exchange"/>
+ <entry term="nasal passages" id="CM.reindeer.173" name="nasal passages" url="/wiki/Nasal_passages"/>
+ <entry term="mucosa" id="CM.reindeer.174" name="mucosa" url="/wiki/Mucous_membrane"/>
+ <entry term="body heat" id="CM.reindeer.175" name="body heat" url="/wiki/Thermoregulation"/>
+ <entry term="mucous membranes" id="CM.reindeer.176" name="mucous membranes" url="/wiki/Mucous_membrane"/>
+ <entry term="moose" id="CM.reindeer.177" name="moose" url="/wiki/Moose"/>
+ <entry term="turbinate bones" id="CM.reindeer.178" name="turbinate bones" url="/wiki/Nasal_concha"/>
+ <entry term="nostrils" id="CM.reindeer.179" name="nostrils" url="/wiki/Nostril"/>
+ <entry term="SARA" id="CM.reindeer.180" name="SARA" url="/wiki/Species_at_Risk_Act"/>
+ <entry term="hooves" id="CM.reindeer.181" name="hooves" url="/wiki/Hoof"/>
+ <entry term="lichen" id="CM.reindeer.182" name="lichen" url="/wiki/Lichen"/>
+ <entry term="reindeer lichen" id="CM.reindeer.183" name="reindeer lichen" url="/wiki/Cladonia_rangiferina"/>
+ <entry term="" id="CM.reindeer.184" name="" url="/wiki/File:Mammals_of_northern_Alaska_on_the_Arctic_slope_(1956)_Rangifer_arcticus_groenlandicus_skull.png"/>
+ <entry term="" id="CM.reindeer.185" name="" url="/wiki/File:Mammals_of_northern_Alaska_on_the_Arctic_slope_(1956)_Rangifer_arcticus_groenlandicus_skull.png"/>
+ <entry term="Allen's rule" id="CM.reindeer.186" name="Allen's rule" url="/wiki/Allen%27s_rule"/>
+ <entry term="University College London" id="CM.reindeer.187" name="University College London" url="/wiki/University_College_London"/>
+ <entry term="University of Tromsø" id="CM.reindeer.188" name="University of Tromsø" url="/wiki/University_of_Troms%C3%B8"/>
+ <entry term="" id="CM.reindeer.189" name="" url="/wiki/File:Reindeer_licking_salt_from_roadway.jpg"/>
+ <entry term="" id="CM.reindeer.190" name="" url="/wiki/File:Reindeer_licking_salt_from_roadway.jpg"/>
+ <entry term="British Columbia" id="CM.reindeer.191" name="British Columbia" url="/wiki/British_Columbia"/>
+ <entry term="ruminants" id="CM.reindeer.192" name="ruminants" url="/wiki/Ruminant"/>
+ <entry term="lichens" id="CM.reindeer.193" name="lichens" url="/wiki/Lichen"/>
+ <entry term="reindeer moss" id="CM.reindeer.194" name="reindeer moss" url="/wiki/Cladonia_rangiferina"/>
+ <entry term="gastropods" id="CM.reindeer.195" name="gastropods" url="/wiki/Gastropod"/>
+ <entry term="enzyme" id="CM.reindeer.196" name="enzyme" url="/wiki/Enzyme"/>
+ <entry term="lichenin" id="CM.reindeer.197" name="lichenin" url="/wiki/Lichenin"/>
+ <entry term="glucose" id="CM.reindeer.198" name="glucose" url="/wiki/Glucose"/>
+ <entry term="willows" id="CM.reindeer.199" name="willows" url="/wiki/Willow"/>
+ <entry term="birches" id="CM.reindeer.200" name="birches" url="/wiki/Birch"/>
+ <entry term="sedges" id="CM.reindeer.201" name="sedges" url="/wiki/Cyperaceae"/>
+ <entry term="grasses" id="CM.reindeer.202" name="grasses" url="/wiki/Grass"/>
+ <entry term="citation needed" id="CM.reindeer.203" name="citation needed" url="/wiki/Wikipedia:Citation_needed"/>
+ <entry term="lemmings" id="CM.reindeer.204" name="lemmings" url="/wiki/Lemming"/>
+ <entry term="Arctic char" id="CM.reindeer.205" name="Arctic char" url="/wiki/Arctic_char"/>
+ <entry term="bird eggs" id="CM.reindeer.206" name="bird eggs" url="/wiki/Egg_(biology)"/>
+ <entry term="Chukchis" id="CM.reindeer.207" name="Chukchis" url="/wiki/Chukchi_people"/>
+ <entry term="continuous daylight" id="CM.reindeer.208" name="continuous daylight" url="/wiki/Midnight_sun"/>
+ <entry term="synchronized with the sun" id="CM.reindeer.209" name="synchronized with the sun" url="/wiki/Circadian"/>
+ <entry term="ultradian" id="CM.reindeer.210" name="ultradian" url="/wiki/Ultradian_rhythm"/>
+ <entry term="" id="CM.reindeer.211" name="" url="/wiki/File:Svensk_ren.JPG"/>
+ <entry term="" id="CM.reindeer.212" name="" url="/wiki/File:Svensk_ren.JPG"/>
+ <entry term="Rut (mammalian reproduction) § Cervidae" id="CM.reindeer.213" name="Rut (mammalian reproduction) § Cervidae" url="/wiki/Rut_(mammalian_reproduction)#Cervidae"/>
+ <entry term="" id="CM.reindeer.214" name="" url="/wiki/File:Caribou_using_antlers.jpg"/>
+ <entry term="" id="CM.reindeer.215" name="" url="/wiki/File:Caribou_using_antlers.jpg"/>
+ <entry term="Ungava" id="CM.reindeer.216" name="Ungava" url="/wiki/District_of_Ungava"/>
+ <entry term="Labrador" id="CM.reindeer.217" name="Labrador" url="/wiki/Labrador"/>
+ <entry term="migrate" id="CM.reindeer.218" name="migrate" url="/wiki/Animal_migration"/>
+ <entry term="culling" id="CM.reindeer.219" name="culling" url="/wiki/Culling"/>
+ <entry term="circadian rhythm" id="CM.reindeer.220" name="circadian rhythm" url="/wiki/Circadian_rhythm"/>
+ <entry term="" id="CM.reindeer.221" name="" url="/wiki/File:20070818-0001-strolling_reindeer.jpg"/>
+ <entry term="" id="CM.reindeer.222" name="" url="/wiki/File:20070818-0001-strolling_reindeer.jpg"/>
+ <entry term="Scandinavia" id="CM.reindeer.223" name="Scandinavia" url="/wiki/Scandinavia"/>
+ <entry term="Greenland" id="CM.reindeer.224" name="Greenland" url="/wiki/Greenland"/>
+ <entry term="Mongolia" id="CM.reindeer.225" name="Mongolia" url="/wiki/Mongolia"/>
+ <entry term="50th latitude" id="CM.reindeer.226" name="50th latitude" url="/wiki/50th_parallel_north"/>
+ <entry term="Alaska" id="CM.reindeer.227" name="Alaska" url="/wiki/Alaska"/>
+ <entry term="Washington" id="CM.reindeer.228" name="Washington" url="/wiki/Washington_(state)"/>
+ <entry term="Maine" id="CM.reindeer.229" name="Maine" url="/wiki/Maine"/>
+ <entry term="Idaho" id="CM.reindeer.230" name="Idaho" url="/wiki/Idaho"/>
+ <entry term="Ireland" id="CM.reindeer.231" name="Ireland" url="/wiki/Ireland"/>
+ <entry term="Pleistocene" id="CM.reindeer.232" name="Pleistocene" url="/wiki/Pleistocene"/>
+ <entry term="Nevada" id="CM.reindeer.233" name="Nevada" url="/wiki/Nevada"/>
+ <entry term="Tennessee" id="CM.reindeer.234" name="Tennessee" url="/wiki/Tennessee"/>
+ <entry term="Spain" id="CM.reindeer.235" name="Spain" url="/wiki/Spain"/>
+ <entry term="Norway" id="CM.reindeer.236" name="Norway" url="/wiki/Norway"/>
+ <entry term="Finland" id="CM.reindeer.237" name="Finland" url="/wiki/Finland"/>
+ <entry term="Siberia" id="CM.reindeer.238" name="Siberia" url="/wiki/Siberia"/>
+ <entry term="Mongolia" id="CM.reindeer.239" name="Mongolia" url="/wiki/Mongolia"/>
+ <entry term="China" id="CM.reindeer.240" name="China" url="/wiki/China"/>
+ <entry term="Sakhalin Island" id="CM.reindeer.241" name="Sakhalin Island" url="/wiki/Sakhalin_Island"/>
+ <entry term="Kerguelen Islands" id="CM.reindeer.242" name="Kerguelen Islands" url="/wiki/Kerguelen_Islands"/>
+ <entry term="South Georgia Island" id="CM.reindeer.243" name="South Georgia Island" url="/wiki/South_Georgia_Island"/>
+ <entry term="Pribilof Islands" id="CM.reindeer.244" name="Pribilof Islands" url="/wiki/Pribilof_Islands"/>
+ <entry term="St. Matthew Island" id="CM.reindeer.245" name="St. Matthew Island" url="/wiki/St._Matthew_Island"/>
+ <entry term="Holarctic" id="CM.reindeer.246" name="Holarctic" url="/wiki/Holarctic"/>
+ <entry term="tundra" id="CM.reindeer.247" name="tundra" url="/wiki/Tundra"/>
+ <entry term="taiga" id="CM.reindeer.248" name="taiga" url="/wiki/Taiga"/>
+ <entry term="climate change" id="CM.reindeer.249" name="climate change" url="/wiki/Climate_change"/>
+ <entry term="Barren-ground caribou" id="CM.reindeer.250" name="Barren-ground caribou" url="/wiki/Barren-ground_caribou"/>
+ <entry term="climate change" id="CM.reindeer.251" name="climate change" url="/wiki/Climate_change"/>
+ <entry term="mismatch" id="CM.reindeer.252" name="mismatch" url="/wiki/Match/mismatch"/>
+ <entry term="phenological" id="CM.reindeer.253" name="phenological" url="/wiki/Phenology"/>
+ <entry term="lichen" id="CM.reindeer.254" name="lichen" url="/wiki/Lichen"/>
+ <entry term="" id="CM.reindeer.255" name="" url="/wiki/File:Reindeer-on-the-rocks.jpg"/>
+ <entry term="" id="CM.reindeer.256" name="" url="/wiki/File:Reindeer-on-the-rocks.jpg"/>
+ <entry term="Golden eagles" id="CM.reindeer.257" name="Golden eagles" url="/wiki/Golden_eagle"/>
+ <entry term="Wolverines" id="CM.reindeer.258" name="Wolverines" url="/wiki/Wolverine"/>
+ <entry term="Brown bears" id="CM.reindeer.259" name="Brown bears" url="/wiki/Brown_bear"/>
+ <entry term="polar bears" id="CM.reindeer.260" name="polar bears" url="/wiki/Polar_bear"/>
+ <entry term="grey wolf" id="CM.reindeer.261" name="grey wolf" url="/wiki/Grey_wolf"/>
+ <entry term="foxes" id="CM.reindeer.262" name="foxes" url="/wiki/Fox"/>
+ <entry term="hawks" id="CM.reindeer.263" name="hawks" url="/wiki/Hawk"/>
+ <entry term="ravens" id="CM.reindeer.264" name="ravens" url="/wiki/Raven"/>
+ <entry term="mosquitoes" id="CM.reindeer.265" name="mosquitoes" url="/wiki/Mosquito"/>
+ <entry term="black flies" id="CM.reindeer.266" name="black flies" url="/wiki/Black_fly"/>
+ <entry term="botflies" id="CM.reindeer.267" name="botflies" url="/wiki/Botfly"/>
+ <entry term="deer botflies" id="CM.reindeer.268" name="deer botflies" url="/wiki/Deer_botfly"/>
+ <entry term="Hypoderma tarandi" id="CM.reindeer.269" name="Hypoderma tarandi" url="/wiki/Hypoderma_tarandi"/>
+ <entry term="Cephenemyia trompe" id="CM.reindeer.270" name="Cephenemyia trompe" url="/wiki/Cephenemyia_trompe"/>
+ <entry term="citation needed" id="CM.reindeer.271" name="citation needed" url="/wiki/Wikipedia:Citation_needed"/>
+ <entry term="Greenland shark" id="CM.reindeer.272" name="Greenland shark" url="/wiki/Greenland_shark"/>
+ <entry term="Atlantic" id="CM.reindeer.273" name="Atlantic" url="/wiki/Atlantic"/>
+ <entry term="ungulate" id="CM.reindeer.274" name="ungulate" url="/wiki/Ungulate"/>
+ <entry term="White-tailed deer" id="CM.reindeer.275" name="White-tailed deer" url="/wiki/White-tailed_deer"/>
+ <entry term="meningeal worm" id="CM.reindeer.276" name="meningeal worm" url="/wiki/Parelaphostrongylus_tenuis"/>
+ <entry term="nematode" id="CM.reindeer.277" name="nematode" url="/wiki/Nematode"/>
+ <entry term="moose" id="CM.reindeer.278" name="moose" url="/wiki/Moose"/>
+ <entry term="elk" id="CM.reindeer.279" name="elk" url="/wiki/Elk"/>
+ <entry term="mule deer" id="CM.reindeer.280" name="mule deer" url="/wiki/Mule_deer"/>
+ <entry term="Reindeer in Russia" id="CM.reindeer.281" name="Reindeer in Russia" url="/wiki/Reindeer_in_Russia"/>
+ <entry term="" id="CM.reindeer.282" name="" url="/wiki/File:Rangifer_tarandus_Map_NA.svg"/>
+ <entry term="" id="CM.reindeer.283" name="" url="/wiki/File:Rangifer_tarandus_Map_NA.svg"/>
+ <entry term="woodland (boreal)" id="CM.reindeer.284" name="woodland (boreal)" url="/wiki/Boreal_woodland_caribou"/>
+ <entry term="woodland (migratory)" id="CM.reindeer.285" name="woodland (migratory)" url="/wiki/Migratory_woodland_caribou"/>
+ <entry term="R. t. dawsoni" id="CM.reindeer.286" name="R. t. dawsoni" url="/wiki/Queen_Charlotte_Islands_caribou"/>
+ <entry term="R. t. granti" id="CM.reindeer.287" name="R. t. granti" url="/wiki/Porcupine_caribou"/>
+ <entry term="R. t. groenlandicus" id="CM.reindeer.288" name="R. t. groenlandicus" url="/wiki/Barren-ground_caribou"/>
+ <entry term="R. t. pearyi" id="CM.reindeer.289" name="R. t. pearyi" url="/wiki/Peary_caribou"/>
+ <entry term="woodland (boreal)" id="CM.reindeer.290" name="woodland (boreal)" url="/wiki/Boreal_woodland_caribou"/>
+ <entry term="woodland (migratory)" id="CM.reindeer.291" name="woodland (migratory)" url="/wiki/Migratory_woodland_caribou"/>
+ <entry term="Porcupine caribou" id="CM.reindeer.292" name="Porcupine caribou" url="/wiki/Porcupine_caribou"/>
+ <entry term="barren-ground caribou" id="CM.reindeer.293" name="barren-ground caribou" url="/wiki/Barren-ground_caribou"/>
+ <entry term="Peary caribou" id="CM.reindeer.294" name="Peary caribou" url="/wiki/Peary_caribou"/>
+ <entry term="boreal woodland caribou" id="CM.reindeer.295" name="boreal woodland caribou" url="/wiki/Boreal_woodland_caribou"/>
+ <entry term="migratory woodland caribou" id="CM.reindeer.296" name="migratory woodland caribou" url="/wiki/Migratory_woodland_caribou"/>
+ <entry term="Columbia" id="CM.reindeer.297" name="Columbia" url="/wiki/Columbia_River"/>
+ <entry term="Kootenay" id="CM.reindeer.298" name="Kootenay" url="/wiki/Kootenay_River"/>
+ <entry term="Kootenai" id="CM.reindeer.299" name="Kootenai" url="/wiki/Kootenai_River"/>
+ <entry term="Kootenay Lake" id="CM.reindeer.300" name="Kootenay Lake" url="/wiki/Kootenay_Lake"/>
+ <entry term="Idaho" id="CM.reindeer.301" name="Idaho" url="/wiki/Idaho"/>
+ <entry term="Washington" id="CM.reindeer.302" name="Washington" url="/wiki/Washington_(state)"/>
+ <entry term="boreal woodland caribou" id="CM.reindeer.303" name="boreal woodland caribou" url="/wiki/Boreal_woodland_caribou"/>
+ <entry term="Selkirk Mountains" id="CM.reindeer.304" name="Selkirk Mountains" url="/wiki/Selkirk_Mountains"/>
+ <entry term="Idaho" id="CM.reindeer.305" name="Idaho" url="/wiki/Idaho"/>
+ <entry term="" id="CM.reindeer.306" name="" url="/wiki/File:Caribou_Fort_Greely.jpg"/>
+ <entry term="" id="CM.reindeer.307" name="" url="/wiki/File:Caribou_Fort_Greely.jpg"/>
+ <entry term="Fort Greely, Alaska" id="CM.reindeer.308" name="Fort Greely, Alaska" url="/wiki/Fort_Greely,_Alaska"/>
+ <entry term="Porcupine caribou" id="CM.reindeer.309" name="Porcupine caribou" url="/wiki/Porcupine_caribou"/>
+ <entry term="" id="CM.reindeer.310" name="" url="/wiki/File:Rentier_fws_1.jpg"/>
+ <entry term="" id="CM.reindeer.311" name="" url="/wiki/File:Rentier_fws_1.jpg"/>
+ <entry term="Porcupine caribou" id="CM.reindeer.312" name="Porcupine caribou" url="/wiki/Porcupine_caribou"/>
+ <entry term="Porcupine River" id="CM.reindeer.313" name="Porcupine River" url="/wiki/Porcupine_River"/>
+ <entry term="Aklavik, Northwest Territories" id="CM.reindeer.314" name="Aklavik, Northwest Territories" url="/wiki/Aklavik"/>
+ <entry term="Dawson City, Yukon" id="CM.reindeer.315" name="Dawson City, Yukon" url="/wiki/Dawson_City,_Yukon"/>
+ <entry term="Kaktovik, Alaska" id="CM.reindeer.316" name="Kaktovik, Alaska" url="/wiki/Kaktovik,_Alaska"/>
+ <entry term="Beaufort Sea" id="CM.reindeer.317" name="Beaufort Sea" url="/wiki/Beaufort_Sea"/>
+ <entry term="subspecies" id="CM.reindeer.318" name="subspecies" url="/wiki/Subspecies"/>
+ <entry term="Alaska" id="CM.reindeer.319" name="Alaska" url="/wiki/Alaska"/>
+ <entry term="Yukon" id="CM.reindeer.320" name="Yukon" url="/wiki/Yukon"/>
+ <entry term="Gwich'in people" id="CM.reindeer.321" name="Gwich'in people" url="/wiki/Gwich%27in"/>
+ <entry term="Inupiat" id="CM.reindeer.322" name="Inupiat" url="/wiki/Inupiat_people"/>
+ <entry term="Inuvialuit" id="CM.reindeer.323" name="Inuvialuit" url="/wiki/Inuvialuit"/>
+ <entry term="Hän" id="CM.reindeer.324" name="Hän" url="/wiki/H%C3%A4n_people"/>
+ <entry term="Northern Tutchone" id="CM.reindeer.325" name="Northern Tutchone" url="/wiki/Northern_Tutchone"/>
+ <entry term="Arctic National Wildlife Refuge" id="CM.reindeer.326" name="Arctic National Wildlife Refuge" url="/wiki/Arctic_National_Wildlife_Refuge"/>
+ <entry term="Gwich'in" id="CM.reindeer.327" name="Gwich'in" url="/wiki/Gwich%27in"/>
+ <entry term="" id="CM.reindeer.328" name="" url="/wiki/File:Caribou.jpg"/>
+ <entry term="" id="CM.reindeer.329" name="" url="/wiki/File:Caribou.jpg"/>
+ <entry term="Seward Peninsula" id="CM.reindeer.330" name="Seward Peninsula" url="/wiki/Seward_Peninsula"/>
+ <entry term="" id="CM.reindeer.331" name="" url="/wiki/File:Relief_map_of_USA_Alaska.png"/>
+ <entry term=" " id="CM.reindeer.332" name=" " url="/wiki/File:Relief_map_of_USA_Alaska.png"/>
+ <entry term="Teshekpuk Lake" id="CM.reindeer.333" name="Teshekpuk Lake" url="/wiki/Teshekpuk_Lake"/>
+ <entry term="Teshekpuk Lake" id="CM.reindeer.334" name="Teshekpuk Lake" url="/wiki/Teshekpuk_Lake"/>
+ <entry term="North Slope" id="CM.reindeer.335" name="North Slope" url="/wiki/Alaska_North_Slope"/>
+ <entry term="Iñupiat" id="CM.reindeer.336" name="Iñupiat" url="/wiki/Inupiat_people"/>
+ <entry term="National Petroleum Reserve-Alaska" id="CM.reindeer.337" name="National Petroleum Reserve-Alaska" url="/wiki/National_Petroleum_Reserve-Alaska"/>
+ <entry term="U.S. Department of the Interior" id="CM.reindeer.338" name="U.S. Department of the Interior" url="/wiki/U.S._Department_of_the_Interior"/>
+ <entry term="Arctic National Wildlife Refuge" id="CM.reindeer.339" name="Arctic National Wildlife Refuge" url="/wiki/Arctic_National_Wildlife_Refuge"/>
+ <entry term="ConocoPhillips" id="CM.reindeer.340" name="ConocoPhillips" url="/wiki/ConocoPhillips"/>
+ <entry term="U.S. District Court for the District of Alaska" id="CM.reindeer.341" name="U.S. District Court for the District of Alaska" url="/wiki/United_States_District_Court_for_the_District_of_Alaska"/>
+ <entry term="U. S. Secretary of the Interior" id="CM.reindeer.342" name="U. S. Secretary of the Interior" url="/wiki/United_States_Secretary_of_the_Interior"/>
+ <entry term="Ryan Zinke" id="CM.reindeer.343" name="Ryan Zinke" url="/wiki/Ryan_Zinke"/>
+ <entry term="Bureau of Land Management" id="CM.reindeer.344" name="Bureau of Land Management" url="/wiki/Bureau_of_Land_Management"/>
+ <entry term="Prudhoe Bay Oil Field" id="CM.reindeer.345" name="Prudhoe Bay Oil Field" url="/wiki/Prudhoe_Bay_Oil_Field"/>
+ <entry term="Prudhoe Bay" id="CM.reindeer.346" name="Prudhoe Bay" url="/wiki/Prudhoe_Bay"/>
+ <entry term="Arctic National Wildlife Refuge" id="CM.reindeer.347" name="Arctic National Wildlife Refuge" url="/wiki/Arctic_National_Wildlife_Refuge"/>
+ <entry term="barren-ground caribou" id="CM.reindeer.348" name="barren-ground caribou" url="/wiki/Barren-ground_caribou"/>
+ <entry term="Qamanirjuaq" id="CM.reindeer.349" name="Qamanirjuaq" url="/wiki/Qamanirjuaq_Lake"/>
+ <entry term="" id="CM.reindeer.350" name="" url="/wiki/File:Caribou_Thelon_River_1978.jpg"/>
+ <entry term="" id="CM.reindeer.351" name="" url="/wiki/File:Caribou_Thelon_River_1978.jpg"/>
+ <entry term="Thelon River" id="CM.reindeer.352" name="Thelon River" url="/wiki/Thelon_River"/>
+ <entry term="Queen Maud Gulf" id="CM.reindeer.353" name="Queen Maud Gulf" url="/wiki/Queen_Maud_Gulf"/>
+ <entry term="Queen Maud Gulf" id="CM.reindeer.354" name="Queen Maud Gulf" url="/wiki/Queen_Maud_Gulf"/>
+ <entry term="Baker Lake" id="CM.reindeer.355" name="Baker Lake" url="/wiki/Baker_Lake_(Nunavut)"/>
+ <entry term="Southampton Island" id="CM.reindeer.356" name="Southampton Island" url="/wiki/Southampton_Island"/>
+ <entry term="Peary caribou" id="CM.reindeer.357" name="Peary caribou" url="/wiki/Peary_caribou"/>
+ <entry term="" id="CM.reindeer.358" name="" url="/wiki/File:Mech_06.jpg"/>
+ <entry term="" id="CM.reindeer.359" name="" url="/wiki/File:Mech_06.jpg"/>
+ <entry term="Nunavut" id="CM.reindeer.360" name="Nunavut" url="/wiki/Nunavut"/>
+ <entry term="Bathurst" id="CM.reindeer.361" name="Bathurst" url="/wiki/Bathurst_Inlet"/>
+ <entry term="Tuktut Nogait National Park" id="CM.reindeer.362" name="Tuktut Nogait National Park" url="/wiki/Tuktut_Nogait_National_Park"/>
+ <entry term="ecotypes" id="CM.reindeer.363" name="ecotypes" url="/wiki/Ecotype"/>
+ <entry term="boreal woodland caribou" id="CM.reindeer.364" name="boreal woodland caribou" url="/wiki/Boreal_woodland_caribou"/>
+ <entry term="migratory woodland caribou" id="CM.reindeer.365" name="migratory woodland caribou" url="/wiki/Migratory_woodland_caribou"/>
+ <entry term="clarification needed" id="CM.reindeer.366" name="clarification needed" url="/wiki/Wikipedia:Please_clarify"/>
+ <entry term="boreal forest" id="CM.reindeer.367" name="boreal forest" url="/wiki/Boreal_forest_of_Canada"/>
+ <entry term="Northwest Territories" id="CM.reindeer.368" name="Northwest Territories" url="/wiki/Northwest_Territories"/>
+ <entry term="Labrador" id="CM.reindeer.369" name="Labrador" url="/wiki/Labrador"/>
+ <entry term="Newfoundland and Labrador" id="CM.reindeer.370" name="Newfoundland and Labrador" url="/wiki/Newfoundland_and_Labrador"/>
+ <entry term="New England" id="CM.reindeer.371" name="New England" url="/wiki/New_England"/>
+ <entry term="threatened" id="CM.reindeer.372" name="threatened" url="/wiki/Threatened_species"/>
+ <entry term="George River (Quebec)" id="CM.reindeer.373" name="George River (Quebec)" url="/wiki/George_River_(Quebec)"/>
+ <entry term="Ungava" id="CM.reindeer.374" name="Ungava" url="/wiki/Ungava_Peninsula"/>
+ <entry term="Quebec" id="CM.reindeer.375" name="Quebec" url="/wiki/Quebec"/>
+ <entry term="Labrador" id="CM.reindeer.376" name="Labrador" url="/wiki/Labrador"/>
+ <entry term="as reported by the Canadian Broadcasting Corporation" id="CM.reindeer.377" name="as reported by the Canadian Broadcasting Corporation" url="http://www.cbc.ca/news/canada/newfoundland-labrador/george-river-caribou-ban-5-years-1.4506775"/>
+ <entry term="" id="CM.reindeer.378" name="" url="/wiki/File:Caribou_crossing_Leaf_River.jpg"/>
+ <entry term="Leaf River" id="CM.reindeer.379" name="Leaf River" url="/wiki/Leaf_River_(Quebec)"/>
+ <entry term="Hudson Bay" id="CM.reindeer.380" name="Hudson Bay" url="/wiki/Hudson_Bay"/>
+ <entry term="Queen Charlotte Islands caribou" id="CM.reindeer.381" name="Queen Charlotte Islands caribou" url="/wiki/Queen_Charlotte_Islands_caribou"/>
+ <entry term="Queen Charlotte Islands caribou" id="CM.reindeer.382" name="Queen Charlotte Islands caribou" url="/wiki/Queen_Charlotte_Islands_caribou"/>
+ <entry term="Graham Island" id="CM.reindeer.383" name="Graham Island" url="/wiki/Graham_Island"/>
+ <entry term="Queen Charlotte Islands" id="CM.reindeer.384" name="Queen Charlotte Islands" url="/wiki/Haida_Gwaii"/>
+ <entry term="DNA" id="CM.reindeer.385" name="DNA" url="/wiki/DNA"/>
+ <entry term="mitochondrial DNA" id="CM.reindeer.386" name="mitochondrial DNA" url="/wiki/Mitochondrial_DNA"/>
+ <entry term="citation needed" id="CM.reindeer.387" name="citation needed" url="/wiki/Wikipedia:Citation_needed"/>
+ <entry term="citation needed" id="CM.reindeer.388" name="citation needed" url="/wiki/Wikipedia:Citation_needed"/>
+ <entry term="Norway" id="CM.reindeer.389" name="Norway" url="/wiki/Norway"/>
+ <entry term="World Heritage Site" id="CM.reindeer.390" name="World Heritage Site" url="/wiki/World_Heritage_Site"/>
+ <entry term="Dovrefjell-Sunndalsfjella National Park" id="CM.reindeer.391" name="Dovrefjell-Sunndalsfjella National Park" url="/wiki/Dovrefjell-Sunndalsfjella_National_Park"/>
+ <entry term="Reinheimen National Park" id="CM.reindeer.392" name="Reinheimen National Park" url="/wiki/Reinheimen_National_Park"/>
+ <entry term="Rondane National Park" id="CM.reindeer.393" name="Rondane National Park" url="/wiki/Rondane_National_Park"/>
+ <entry term="Southern Norway" id="CM.reindeer.394" name="Southern Norway" url="/wiki/Southern_Norway"/>
+ <entry term="citation needed" id="CM.reindeer.395" name="citation needed" url="/wiki/Wikipedia:Citation_needed"/>
+ <entry term="Norwegian Environment Agency" id="CM.reindeer.396" name="Norwegian Environment Agency" url="/wiki/Norwegian_Environment_Agency"/>
+ <entry term="Hardangervidda" id="CM.reindeer.397" name="Hardangervidda" url="/wiki/Hardangervidda"/>
+ <entry term="Svalbard reindeer" id="CM.reindeer.398" name="Svalbard reindeer" url="/wiki/Svalbard_reindeer"/>
+ <entry term="" id="CM.reindeer.399" name="" url="/wiki/File:Spitsbergen_reindeer01.jpg"/>
+ <entry term="" id="CM.reindeer.400" name="" url="/wiki/File:Spitsbergen_reindeer01.jpg"/>
+ <entry term="Svalbard" id="CM.reindeer.401" name="Svalbard" url="/wiki/Svalbard"/>
+ <entry term="Svalbard" id="CM.reindeer.402" name="Svalbard" url="/wiki/Svalbard"/>
+ <entry term="insular dwarfism" id="CM.reindeer.403" name="insular dwarfism" url="/wiki/Insular_dwarfism"/>
+ <entry term="Allen's rule" id="CM.reindeer.404" name="Allen's rule" url="/wiki/Allen%27s_rule"/>
+ <entry term="" id="CM.reindeer.405" name="" url="/wiki/File:Svalbardrein_pho.jpg"/>
+ <entry term="" id="CM.reindeer.406" name="" url="/wiki/File:Svalbardrein_pho.jpg"/>
+ <entry term="Finnish forest reindeer" id="CM.reindeer.407" name="Finnish forest reindeer" url="/wiki/Finnish_forest_reindeer"/>
+ <entry term="Fennoscandia peninsula" id="CM.reindeer.408" name="Fennoscandia peninsula" url="/wiki/Fennoscandia"/>
+ <entry term="Northern Europe" id="CM.reindeer.409" name="Northern Europe" url="/wiki/Northern_Europe"/>
+ <entry term="Karelia" id="CM.reindeer.410" name="Karelia" url="/wiki/Karelia"/>
+ <entry term="Finland" id="CM.reindeer.411" name="Finland" url="/wiki/Finland"/>
+ <entry term="citation needed" id="CM.reindeer.412" name="citation needed" url="/wiki/Wikipedia:Citation_needed"/>
+ <entry term="Iceland" id="CM.reindeer.413" name="Iceland" url="/wiki/Iceland"/>
+ <entry term="Cairngorms National Park" id="CM.reindeer.414" name="Cairngorms National Park" url="/wiki/Cairngorms_National_Park"/>
+ <entry term="Tundra" id="CM.reindeer.415" name="Tundra" url="/wiki/Tundra"/>
+ <entry term="" id="CM.reindeer.416" name="" url="/wiki/File:RangiferTarandus.jpg"/>
+ <entry term="" id="CM.reindeer.417" name="" url="/wiki/File:RangiferTarandus.jpg"/>
+ <entry term="South Georgian" id="CM.reindeer.418" name="South Georgian" url="/wiki/South_Georgia_and_the_South_Sandwich_Islands"/>
+ <entry term="South Georgia" id="CM.reindeer.419" name="South Georgia" url="/wiki/South_Georgia_and_the_South_Sandwich_Islands"/>
+ <entry term="South Georgian reindeer" id="CM.reindeer.420" name="South Georgian reindeer" url="/wiki/Reindeer_in_South_Georgia"/>
+ <entry term="glaciers" id="CM.reindeer.421" name="glaciers" url="/wiki/Glacier"/>
+ <entry term="Kerguelen Islands" id="CM.reindeer.422" name="Kerguelen Islands" url="/wiki/Kerguelen_Islands"/>
+ <entry term="" id="CM.reindeer.423" name="" url="/wiki/File:Rangifer_tarandus_herds_map.svg"/>
+ <entry term="" id="CM.reindeer.424" name="" url="/wiki/File:Rangifer_tarandus_herds_map.svg"/>
+ <entry term="Porcupine" id="CM.reindeer.425" name="Porcupine" url="/wiki/Porcupine_River"/>
+ <entry term="Bluenose" id="CM.reindeer.426" name="Bluenose" url="/wiki/Bluenose_Lake"/>
+ <entry term="Bathurst" id="CM.reindeer.427" name="Bathurst" url="/wiki/Cape_Bathurst"/>
+ <entry term="Beverly" id="CM.reindeer.428" name="Beverly" url="/wiki/Beverly_Lake_(Nunavut)"/>
+ <entry term="Qamanirjuaq" id="CM.reindeer.429" name="Qamanirjuaq" url="/wiki/Qamanirjuaq_Lake"/>
+ <entry term="Leaf River" id="CM.reindeer.430" name="Leaf River" url="/wiki/Leaf_River_(Quebec)"/>
+ <entry term="George River" id="CM.reindeer.431" name="George River" url="/wiki/George_River_(Quebec)"/>
+ <entry term="Taimyr Peninsula" id="CM.reindeer.432" name="Taimyr Peninsula" url="/wiki/Taimyr_Peninsula"/>
+ <entry term="Lena" id="CM.reindeer.433" name="Lena" url="/wiki/Lena_River"/>
+ <entry term="Olenek" id="CM.reindeer.434" name="Olenek" url="/wiki/Olenyok_River"/>
+ <entry term="Yana" id="CM.reindeer.435" name="Yana" url="/wiki/Yana_River"/>
+ <entry term="Indigirka" id="CM.reindeer.436" name="Indigirka" url="/wiki/Indigirka_River"/>
+ <entry term="Sundrum herd" id="CM.reindeer.437" name="Sundrum herd" url="/wiki/Sundrun_River"/>
+ <entry term="subspecies" id="CM.reindeer.438" name="subspecies" url="/wiki/Subspecies"/>
+ <entry term="extinct" id="CM.reindeer.439" name="extinct" url="/wiki/Extinct"/>
+ <entry term="IUCN" id="CM.reindeer.440" name="IUCN" url="/wiki/IUCN"/>
+ <entry term="Vulnerable" id="CM.reindeer.441" name="Vulnerable" url="/wiki/Vulnerable_species"/>
+ <entry term="extinct" id="CM.reindeer.442" name="extinct" url="/wiki/Extinct"/>
+ <entry term="Columbia" id="CM.reindeer.443" name="Columbia" url="/wiki/Columbia_River"/>
+ <entry term="Kootenay" id="CM.reindeer.444" name="Kootenay" url="/wiki/Kootenay_River"/>
+ <entry term="Kootenai" id="CM.reindeer.445" name="Kootenai" url="/wiki/Kootenai_River"/>
+ <entry term="Kootenay Lake" id="CM.reindeer.446" name="Kootenay Lake" url="/wiki/Kootenay_Lake"/>
+ <entry term="Idaho" id="CM.reindeer.447" name="Idaho" url="/wiki/Idaho"/>
+ <entry term="Washington" id="CM.reindeer.448" name="Washington" url="/wiki/Washington_(state)"/>
+ <entry term="habitat" id="CM.reindeer.449" name="habitat" url="/wiki/Habitat"/>
+ <entry term="extirpated" id="CM.reindeer.450" name="extirpated" url="/wiki/Local_extinction"/>
+ <entry term="threatened" id="CM.reindeer.451" name="threatened" url="/wiki/Threatened_species"/>
+ <entry term="Environment Canada" id="CM.reindeer.452" name="Environment Canada" url="/wiki/Environment_Canada"/>
+ <entry term="threatened" id="CM.reindeer.453" name="threatened" url="/wiki/Threatened_species"/>
+ <entry term="Committee on the Status of Endangered Wildlife in Canada" id="CM.reindeer.454" name="Committee on the Status of Endangered Wildlife in Canada" url="/wiki/Committee_on_the_Status_of_Endangered_Wildlife_in_Canada"/>
+ <entry term="Environment Canada" id="CM.reindeer.455" name="Environment Canada" url="/wiki/Environment_Canada"/>
+ <entry term="Reindeer in Siberian Shamanism" id="CM.reindeer.456" name="Reindeer in Siberian Shamanism" url="/wiki/Reindeer_in_Siberian_Shamanism"/>
+ <entry term="" id="CM.reindeer.457" name="" url="/wiki/File:Reindeer_pulling_sleigh,_Russia.jpg"/>
+ <entry term="" id="CM.reindeer.458" name="" url="/wiki/File:Reindeer_pulling_sleigh,_Russia.jpg"/>
+ <entry term="Reindeer hunting in Greenland" id="CM.reindeer.459" name="Reindeer hunting in Greenland" url="/wiki/Reindeer_hunting_in_Greenland"/>
+ <entry term="circumpolar peoples" id="CM.reindeer.460" name="circumpolar peoples" url="/wiki/Circumpolar_peoples"/>
+ <entry term="Saami" id="CM.reindeer.461" name="Saami" url="/wiki/Sami_people"/>
+ <entry term="Nenets" id="CM.reindeer.462" name="Nenets" url="/wiki/Nenets_people"/>
+ <entry term="Khants" id="CM.reindeer.463" name="Khants" url="/wiki/Khanty_people"/>
+ <entry term="Evenks" id="CM.reindeer.464" name="Evenks" url="/wiki/Evenks"/>
+ <entry term="Yukaghirs" id="CM.reindeer.465" name="Yukaghirs" url="/wiki/Yukaghir"/>
+ <entry term="Chukchi" id="CM.reindeer.466" name="Chukchi" url="/wiki/Chukchi_people"/>
+ <entry term="Koryaks" id="CM.reindeer.467" name="Koryaks" url="/wiki/Koryaks"/>
+ <entry term="Eurasia" id="CM.reindeer.468" name="Eurasia" url="/wiki/Eurasia"/>
+ <entry term="Bronze" id="CM.reindeer.469" name="Bronze" url="/wiki/Bronze_Age"/>
+ <entry term="Iron Ages" id="CM.reindeer.470" name="Iron Ages" url="/wiki/Iron_Age"/>
+ <entry term="Soviet Union" id="CM.reindeer.471" name="Soviet Union" url="/wiki/Soviet_Union"/>
+ <entry term="fur" id="CM.reindeer.472" name="fur" url="/wiki/Fur"/>
+ <entry term="Seward Peninsula" id="CM.reindeer.473" name="Seward Peninsula" url="/wiki/Seward_Peninsula"/>
+ <entry term="citation needed" id="CM.reindeer.474" name="citation needed" url="/wiki/Wikipedia:Citation_needed"/>
+ <entry term="meat" id="CM.reindeer.475" name="meat" url="/wiki/Meat"/>
+ <entry term="meatballs" id="CM.reindeer.476" name="meatballs" url="/wiki/Meatball"/>
+ <entry term="Sautéed reindeer" id="CM.reindeer.477" name="Sautéed reindeer" url="/wiki/Saut%C3%A9ed_reindeer"/>
+ <entry term="sausage" id="CM.reindeer.478" name="sausage" url="/wiki/Sausage"/>
+ <entry term="grocery stores" id="CM.reindeer.479" name="grocery stores" url="/wiki/Grocery_store"/>
+ <entry term="salted" id="CM.reindeer.480" name="salted" url="/wiki/Salt-cured_meat"/>
+ <entry term="smoked" id="CM.reindeer.481" name="smoked" url="/wiki/Smoked_meat"/>
+ <entry term="Finnish Lapland" id="CM.reindeer.482" name="Finnish Lapland" url="/wiki/Finnish_Lapland"/>
+ <entry term="PDO" id="CM.reindeer.483" name="PDO" url="/wiki/Protected_Geographical_Status#Protected_designation_of_origin_(PDO)"/>
+ <entry term="antlers" id="CM.reindeer.484" name="antlers" url="/wiki/Antlers"/>
+ <entry term="aphrodisiac" id="CM.reindeer.485" name="aphrodisiac" url="/wiki/Aphrodisiac"/>
+ <entry term="Caribou" id="CM.reindeer.486" name="Caribou" url="/wiki/Caribou_(drink)"/>
+ <entry term="Inuit" id="CM.reindeer.487" name="Inuit" url="/wiki/Inuit"/>
+ <entry term="First Nations" id="CM.reindeer.488" name="First Nations" url="/wiki/First_Nations"/>
+ <entry term="Alaska Natives" id="CM.reindeer.489" name="Alaska Natives" url="/wiki/Alaska_Natives"/>
+ <entry term="Kalaallit" id="CM.reindeer.490" name="Kalaallit" url="/wiki/Kalaallit"/>
+ <entry term="" id="CM.reindeer.491" name="" url="/wiki/File:Early_20th_Century_Inuit_parka_(UBC).jpg"/>
+ <entry term="" id="CM.reindeer.492" name="" url="/wiki/File:Early_20th_Century_Inuit_parka_(UBC).jpg"/>
+ <entry term="parka" id="CM.reindeer.493" name="parka" url="/wiki/Parka"/>
+ <entry term="Caribou Inuit" id="CM.reindeer.494" name="Caribou Inuit" url="/wiki/Caribou_Inuit"/>
+ <entry term="Nunavut" id="CM.reindeer.495" name="Nunavut" url="/wiki/Nunavut"/>
+ <entry term="Keewatin Region" id="CM.reindeer.496" name="Keewatin Region" url="/wiki/Keewatin_Region,_Northwest_Territories"/>
+ <entry term="Kivalliq Region" id="CM.reindeer.497" name="Kivalliq Region" url="/wiki/Kivalliq_Region"/>
+ <entry term="Ihalmiut" id="CM.reindeer.498" name="Ihalmiut" url="/wiki/Ihalmiut"/>
+ <entry term="Kivalliq Region" id="CM.reindeer.499" name="Kivalliq Region" url="/wiki/Kivalliq_Region"/>
+ <entry term="Yukon River" id="CM.reindeer.500" name="Yukon River" url="/wiki/Yukon_River"/>
+ <entry term="Koyukuk National Wildlife Refuge" id="CM.reindeer.501" name="Koyukuk National Wildlife Refuge" url="/wiki/Koyukuk_National_Wildlife_Refuge"/>
+ <entry term="gold rush" id="CM.reindeer.502" name="gold rush" url="/wiki/Gold_rush"/>
+ <entry term="Huslia" id="CM.reindeer.503" name="Huslia" url="/wiki/Huslia,_Alaska"/>
+ <entry term="Tanana" id="CM.reindeer.504" name="Tanana" url="/wiki/Tanana,_Alaska"/>
+ <entry term="Porcupine caribou" id="CM.reindeer.505" name="Porcupine caribou" url="/wiki/Porcupine_caribou"/>
+ <entry term="language revitalization" id="CM.reindeer.506" name="language revitalization" url="/wiki/Language_revitalization"/>
+ <entry term="Alaska Native Language Center" id="CM.reindeer.507" name="Alaska Native Language Center" url="/wiki/Alaska_Native_Language_Center"/>
+ <entry term="University of Alaska" id="CM.reindeer.508" name="University of Alaska" url="/wiki/University_of_Alaska"/>
+ <entry term="Fairbanks" id="CM.reindeer.509" name="Fairbanks" url="/wiki/Fairbanks"/>
+ <entry term="Porcupine caribou" id="CM.reindeer.510" name="Porcupine caribou" url="/wiki/Porcupine_caribou"/>
+ <entry term="Gwich'in" id="CM.reindeer.511" name="Gwich'in" url="/wiki/Gwich%27in"/>
+ <entry term="Reindeer herding" id="CM.reindeer.512" name="Reindeer herding" url="/wiki/Reindeer_herding"/>
+ <entry term="" id="CM.reindeer.513" name="" url="/wiki/File:Archangel_reindeer3.jpg"/>
+ <entry term="" id="CM.reindeer.514" name="" url="/wiki/File:Archangel_reindeer3.jpg"/>
+ <entry term="Arkhangelsk" id="CM.reindeer.515" name="Arkhangelsk" url="/wiki/Arkhangelsk"/>
+ <entry term="Russia" id="CM.reindeer.516" name="Russia" url="/wiki/Russia"/>
+ <entry term="photochrom" id="CM.reindeer.517" name="photochrom" url="/wiki/Photochrom"/>
+ <entry term="" id="CM.reindeer.518" name="" url="/wiki/File:Reindeer_milking.jpg"/>
+ <entry term="" id="CM.reindeer.519" name="" url="/wiki/File:Reindeer_milking.jpg"/>
+ <entry term="Norway" id="CM.reindeer.520" name="Norway" url="/wiki/Norway"/>
+ <entry term="Sweden" id="CM.reindeer.521" name="Sweden" url="/wiki/Sweden"/>
+ <entry term="Finland" id="CM.reindeer.522" name="Finland" url="/wiki/Finland"/>
+ <entry term="Kola Peninsula" id="CM.reindeer.523" name="Kola Peninsula" url="/wiki/Kola_Peninsula"/>
+ <entry term="dubious" id="CM.reindeer.524" name="dubious" url="/wiki/Wikipedia:Accuracy_dispute#Disputed_statement"/>
+ <entry term="discuss" id="CM.reindeer.525" name="discuss" url="/wiki/Talk:Reindeer#Dubious"/>
+ <entry term="f" id="CM.reindeer.526" name="f" url="/wiki/Form_(zoology)"/>
+ <entry term="Karelia" id="CM.reindeer.527" name="Karelia" url="/wiki/Karelia"/>
+ <entry term="Arkhangelsk" id="CM.reindeer.528" name="Arkhangelsk" url="/wiki/Arkhangelsk"/>
+ <entry term="Komi" id="CM.reindeer.529" name="Komi" url="/wiki/Komi_Republic"/>
+ <entry term="Fennoscandia" id="CM.reindeer.530" name="Fennoscandia" url="/wiki/Fennoscandia"/>
+ <entry term="Russia" id="CM.reindeer.531" name="Russia" url="/wiki/Russia"/>
+ <entry term="herded" id="CM.reindeer.532" name="herded" url="/wiki/Herding"/>
+ <entry term="Sami" id="CM.reindeer.533" name="Sami" url="/wiki/Sami_people"/>
+ <entry term="Nenets" id="CM.reindeer.534" name="Nenets" url="/wiki/Nenets_people"/>
+ <entry term="beasts of burden" id="CM.reindeer.535" name="beasts of burden" url="/wiki/Working_animal"/>
+ <entry term="citation needed" id="CM.reindeer.536" name="citation needed" url="/wiki/Wikipedia:Citation_needed"/>
+ <entry term="Domesticated" id="CM.reindeer.537" name="Domesticated" url="/wiki/List_of_domesticated_animals"/>
+ <entry term="citation needed" id="CM.reindeer.538" name="citation needed" url="/wiki/Wikipedia:Citation_needed"/>
+ <entry term="U.S. Revenue Cutter Service" id="CM.reindeer.539" name="U.S. Revenue Cutter Service" url="/wiki/U.S._Revenue_Cutter_Service"/>
+ <entry term="Sheldon Jackson" id="CM.reindeer.540" name="Sheldon Jackson" url="/wiki/Sheldon_Jackson"/>
+ <entry term="Native peoples" id="CM.reindeer.541" name="Native peoples" url="/wiki/Indigenous_peoples"/>
+ <entry term="Wales, Alaska" id="CM.reindeer.542" name="Wales, Alaska" url="/wiki/Wales,_Alaska"/>
+ <entry term="satellite" id="CM.reindeer.543" name="satellite" url="/wiki/Satellite"/>
+ <entry term="citation needed" id="CM.reindeer.544" name="citation needed" url="/wiki/Wikipedia:Citation_needed"/>
+ <entry term="Domesticated" id="CM.reindeer.545" name="Domesticated" url="/wiki/Domestication"/>
+ <entry term="Fennoscandia" id="CM.reindeer.546" name="Fennoscandia" url="/wiki/Fennoscandia"/>
+ <entry term="Cairngorms" id="CM.reindeer.547" name="Cairngorms" url="/wiki/Cairngorms"/>
+ <entry term="Scotland" id="CM.reindeer.548" name="Scotland" url="/wiki/Scotland"/>
+ <entry term="agricultural subsidies" id="CM.reindeer.549" name="agricultural subsidies" url="/wiki/Agricultural_subsidy"/>
+ <entry term="diesel fuel" id="CM.reindeer.550" name="diesel fuel" url="/wiki/Diesel_fuel"/>
+ <entry term="electric generators" id="CM.reindeer.551" name="electric generators" url="/wiki/Electric_generator"/>
+ <entry term="snowmobile" id="CM.reindeer.552" name="snowmobile" url="/wiki/Snowmobile"/>
+ <entry term="photovoltaic" id="CM.reindeer.553" name="photovoltaic" url="/wiki/Photovoltaic"/>
+ <entry term="Aristotle" id="CM.reindeer.554" name="Aristotle" url="/wiki/Aristotle"/>
+ <entry term="Theophrastus" id="CM.reindeer.555" name="Theophrastus" url="/wiki/Theophrastus"/>
+ <entry term="tarandos" id="CM.reindeer.556" name="tarandos" url="/wiki/Parandrus"/>
+ <entry term="Bodines" id="CM.reindeer.557" name="Bodines" url="/wiki/Budini"/>
+ <entry term="Scythia" id="CM.reindeer.558" name="Scythia" url="/wiki/Scythia"/>
+ <entry term="Ural Mountains" id="CM.reindeer.559" name="Ural Mountains" url="/wiki/Ural_Mountains"/>
+ <entry term="" id="CM.reindeer.560" name="" url="/wiki/File:ReindeerTOP.jpg"/>
+ <entry term="" id="CM.reindeer.561" name="" url="/wiki/File:ReindeerTOP.jpg"/>
+ <entry term="Julius Caesar" id="CM.reindeer.562" name="Julius Caesar" url="/wiki/Julius_Caesar"/>
+ <entry term="Commentarii de Bello Gallico" id="CM.reindeer.563" name="Commentarii de Bello Gallico" url="/wiki/Commentarii_de_Bello_Gallico"/>
+ <entry term="Hercynian Forest" id="CM.reindeer.564" name="Hercynian Forest" url="/wiki/Hercynian_Forest"/>
+ <entry term="ox" id="CM.reindeer.565" name="ox" url="/wiki/Ox"/>
+ <entry term="stag" id="CM.reindeer.566" name="stag" url="/wiki/Stag"/>
+ <entry term="Olaus Magnus" id="CM.reindeer.567" name="Olaus Magnus" url="/wiki/Olaus_Magnus"/>
+ <entry term="Historia de Gentibus Septentrionalibus" id="CM.reindeer.568" name="Historia de Gentibus Septentrionalibus" url="/wiki/Historia_de_Gentibus_Septentrionalibus"/>
+ <entry term="Rome" id="CM.reindeer.569" name="Rome" url="/wiki/Rome"/>
+ <entry term="Gustav I of Sweden" id="CM.reindeer.570" name="Gustav I of Sweden" url="/wiki/Gustav_I_of_Sweden"/>
+ <entry term="Albert I, Duke of Prussia" id="CM.reindeer.571" name="Albert I, Duke of Prussia" url="/wiki/Albert_I,_Duke_of_Prussia"/>
+ <entry term="Conrad Gessner" id="CM.reindeer.572" name="Conrad Gessner" url="/wiki/Conrad_Gessner"/>
+ <entry term="World War II" id="CM.reindeer.573" name="World War II" url="/wiki/World_War_II"/>
+ <entry term="Soviet Army" id="CM.reindeer.574" name="Soviet Army" url="/wiki/Soviet_Army"/>
+ <entry term="pack animals" id="CM.reindeer.575" name="pack animals" url="/wiki/Pack_animal"/>
+ <entry term="Murmansk" id="CM.reindeer.576" name="Murmansk" url="/wiki/Murmansk"/>
+ <entry term="Karelian front" id="CM.reindeer.577" name="Karelian front" url="/wiki/Karelian_Front"/>
+ <entry term="Nenets" id="CM.reindeer.578" name="Nenets" url="/wiki/Nenets_people"/>
+ <entry term="Nenets Autonomous Okrug" id="CM.reindeer.579" name="Nenets Autonomous Okrug" url="/wiki/Nenets_Autonomous_Okrug"/>
+ <entry term="Arkhangelsk" id="CM.reindeer.580" name="Arkhangelsk" url="/wiki/Arkhangelsk"/>
+ <entry term="Komi" id="CM.reindeer.581" name="Komi" url="/wiki/Komi_Republic"/>
+ <entry term="" id="CM.reindeer.582" name="" url="/wiki/File:Reindeer.yate.arp.750pix.jpg"/>
+ <entry term="" id="CM.reindeer.583" name="" url="/wiki/File:Reindeer.yate.arp.750pix.jpg"/>
+ <entry term="Santa Claus's reindeer" id="CM.reindeer.584" name="Santa Claus's reindeer" url="/wiki/Santa_Claus%27s_reindeer"/>
+ <entry term="folklore" id="CM.reindeer.585" name="folklore" url="/wiki/Folklore"/>
+ <entry term="Santa Claus" id="CM.reindeer.586" name="Santa Claus" url="/wiki/Santa_Claus"/>
+ <entry term="A Visit from St. Nicholas" id="CM.reindeer.587" name="A Visit from St. Nicholas" url="/wiki/A_Visit_from_St._Nicholas"/>
+ <entry term="blitz" id="CM.reindeer.588" name="blitz" url="https://en.wiktionary.org/wiki/Blitz"/>
+ <entry term="Rudolph the Red-Nosed Reindeer" id="CM.reindeer.589" name="Rudolph the Red-Nosed Reindeer" url="/wiki/Rudolph_the_Red-Nosed_Reindeer"/>
+ <entry term="Brian Jungen" id="CM.reindeer.590" name="Brian Jungen" url="/wiki/Brian_Jungen"/>
+ <entry term="Dunne-za" id="CM.reindeer.591" name="Dunne-za" url="/wiki/Dunne-za"/>
+ <entry term="Banff, Alberta" id="CM.reindeer.592" name="Banff, Alberta" url="/wiki/Banff,_Alberta"/>
+ <entry term="Tomson Highway" id="CM.reindeer.593" name="Tomson Highway" url="/wiki/Tomson_Highway"/>
+ <entry term="CM" id="CM.reindeer.594" name="CM" url="/wiki/Order_of_Canada"/>
+ <entry term="Canadian" id="CM.reindeer.595" name="Canadian" url="/wiki/Canadians"/>
+ <entry term="Cree" id="CM.reindeer.596" name="Cree" url="/wiki/Cree"/>
+ <entry term="playwright" id="CM.reindeer.597" name="playwright" url="/wiki/Playwright"/>
+ <entry term="novelist" id="CM.reindeer.598" name="novelist" url="/wiki/Novelist"/>
+ <entry term="children's author" id="CM.reindeer.599" name="children's author" url="/wiki/Children%27s_author"/>
+ <entry term="Brochet" id="CM.reindeer.600" name="Brochet" url="/wiki/Brochet,_Manitoba"/>
+ <entry term="Manitoba" id="CM.reindeer.601" name="Manitoba" url="/wiki/Manitoba"/>
+ <entry term="The Globe and Mail" id="CM.reindeer.602" name="The Globe and Mail" url="/wiki/The_Globe_and_Mail"/>
+ <entry term="Eidfjord" id="CM.reindeer.603" name="Eidfjord" url="/wiki/Eidfjord"/>
+ <entry term="Porsanger" id="CM.reindeer.604" name="Porsanger" url="/wiki/Porsanger"/>
+ <entry term="Rendalen" id="CM.reindeer.605" name="Rendalen" url="/wiki/Rendalen"/>
+ <entry term="Tromsø" id="CM.reindeer.606" name="Tromsø" url="/wiki/Troms%C3%B8"/>
+ <entry term="Vadsø" id="CM.reindeer.607" name="Vadsø" url="/wiki/Vads%C3%B8"/>
+ <entry term="Vågå" id="CM.reindeer.608" name="Vågå" url="/wiki/V%C3%A5g%C3%A5"/>
+ <entry term="Västerbotten" id="CM.reindeer.609" name="Västerbotten" url="/wiki/V%C3%A4sterbotten"/>
+ <entry term="Sweden" id="CM.reindeer.610" name="Sweden" url="/wiki/Sweden"/>
+ <entry term="Västerbotten County" id="CM.reindeer.611" name="Västerbotten County" url="/wiki/V%C3%A4sterbotten_County"/>
+ <entry term="Piteå" id="CM.reindeer.612" name="Piteå" url="/wiki/Pite%C3%A5"/>
+ <entry term="Umeå University" id="CM.reindeer.613" name="Umeå University" url="/wiki/Ume%C3%A5_University"/>
+ <entry term="quarter" id="CM.reindeer.614" name="quarter" url="/wiki/Quarter_(Canadian_coin)"/>
+ <entry term="Newfoundland and Labrador" id="CM.reindeer.615" name="Newfoundland and Labrador" url="/wiki/Newfoundland_and_Labrador"/>
+ <entry term="coat of arms of Nunavut" id="CM.reindeer.616" name="coat of arms of Nunavut" url="/wiki/Coat_of_arms_of_Nunavut"/>
+ <entry term="Beaumont-Hamel Newfoundland Memorial" id="CM.reindeer.617" name="Beaumont-Hamel Newfoundland Memorial" url="/wiki/Beaumont-Hamel_Newfoundland_Memorial"/>
+ <entry term="World War I" id="CM.reindeer.618" name="World War I" url="/wiki/World_War_I"/>
+ <entry term="Bowring Park" id="CM.reindeer.619" name="Bowring Park" url="/wiki/Bowring_Park_(St._John%27s)"/>
+ <entry term="citation needed" id="CM.reindeer.620" name="citation needed" url="/wiki/Wikipedia:Citation_needed"/>
+ <entry term="Kuusamo" id="CM.reindeer.621" name="Kuusamo" url="/wiki/Kuusamo"/>
+ <entry term="Inari" id="CM.reindeer.622" name="Inari" url="/wiki/Inari,_Finland"/>
+ <entry term="Hypoderma tarandi" id="CM.reindeer.623" name="Hypoderma tarandi" url="/wiki/Hypoderma_tarandi"/>
+ <entry term="Cephenemyia trompe" id="CM.reindeer.624" name="Cephenemyia trompe" url="/wiki/Cephenemyia_trompe"/>
+ <entry term="^" id="CM.reindeer.625" name="^" url="#cite_ref-36"/>
+ <entry term="Integrated Taxonomic Information System" id="CM.reindeer.626" name="Integrated Taxonomic Information System" url="/wiki/Integrated_Taxonomic_Information_System"/>
+ <entry term="a" id="CM.reindeer.627" name="a" url="#cite_ref-n1_41-0"/>
+ <entry term="b" id="CM.reindeer.628" name="b" url="#cite_ref-n1_41-1"/>
+ <entry term="c" id="CM.reindeer.629" name="c" url="#cite_ref-n1_41-2"/>
+ <entry term="^" id="CM.reindeer.630" name="^" url="#cite_ref-42"/>
+ <entry term="^" id="CM.reindeer.631" name="^" url="#cite_ref-69"/>
+ <entry term="&quot;Designatable Units for Caribou (Rangifer tarandus) in Canada&quot;" id="CM.reindeer.632" name="&quot;Designatable Units for Caribou (Rangifer tarandus) in Canada&quot;" url="https://web.archive.org/web/20160303234528/http://www.cosewic.gc.ca/eng/sct12/COSEWIC_Caribou_DU_Report_23Dec2011.pdf"/>
+ <entry term="the original" id="CM.reindeer.633" name="the original" url="http://www.cosewic.gc.ca/eng/sct12/COSEWIC_Caribou_DU_Report_23Dec2011.pdf"/>
+ <entry term="Wikispecies" id="CM.reindeer.634" name="Wikispecies" url="/wiki/Wikispecies"/>
+ <entry term="Rangifer tarandus" id="CM.reindeer.635" name="Rangifer tarandus" url="https://species.wikimedia.org/wiki/Rangifer_tarandus"/>
+ <entry term="reindeer" id="CM.reindeer.636" name="reindeer" url="https://en.wiktionary.org/wiki/reindeer"/>
+ <entry term="caribou" id="CM.reindeer.637" name="caribou" url="https://en.wiktionary.org/wiki/caribou"/>
+ <entry term="The Reindeer Portal, Source of Information About Reindeer Husbandry Worldwide" id="CM.reindeer.638" name="The Reindeer Portal, Source of Information About Reindeer Husbandry Worldwide" url="http://www.reindeerportal.org/"/>
+ <entry term="1935 Reindeer Herding in the Northwest Territories" id="CM.reindeer.639" name="1935 Reindeer Herding in the Northwest Territories" url="https://web.archive.org/web/20130605052633/http://www.pwnhc.ca/timeline/index_winIFix.asp?forward=http%3A%2F%2Fwww.pwnhc.ca%2Ftimeline%2F1925%2FReindeer_1935.htm#Scene_1"/>
+ <entry term="General information on Caribou and Reindeer" id="CM.reindeer.640" name="General information on Caribou and Reindeer" url="http://www.nps.gov/archive/bela/html/rangifer.htm"/>
+ <entry term="Human Role in Reindeer/Caribou Systems" id="CM.reindeer.641" name="Human Role in Reindeer/Caribou Systems" url="https://web.archive.org/web/20051023182634/http://www.rangifer.net/rangifer/index.cfm"/>
+ <entry term="Reindeer hunting as World Heritage – a ten-thousand-year-long tradition" id="CM.reindeer.642" name="Reindeer hunting as World Heritage – a ten-thousand-year-long tradition" url="https://archive.is/20121220062008/http://www.villreinfangst.no/eng/index.php"/>
+ <entry term="Reindeer Research Program – Alaska reindeer research and industry development" id="CM.reindeer.643" name="Reindeer Research Program – Alaska reindeer research and industry development" url="http://reindeer.salrm.uaf.edu/"/>
+ <entry term="Adaptations To Life In The Arctic" id="CM.reindeer.644" name="Adaptations To Life In The Arctic" url="http://reindeer.salrm.uaf.edu/about_reindeer/adaptations/index.php#Adaptations%20To%20Life%20In%20The%20Arctic"/>
+ <entry term="Rangifer " id="CM.reindeer.645" name="Rangifer " url="http://www.ub.uit.no/baser/rangifer/"/>
+ <entry term="Rangifer tarandus on the IUCN Red List" id="CM.reindeer.646" name="Rangifer tarandus on the IUCN Red List" url="https://www.iucnredlist.org/species/29742/22167140"/>
+ <entry term="" id="CM.reindeer.647" name="" url="/wiki/File:Wikisource-logo.svg"/>
+ <entry term="Ingersoll, Ernest" id="CM.reindeer.648" name="Ingersoll, Ernest" url="/wiki/Ernest_Ingersoll"/>
+ <entry term="Caribou" id="CM.reindeer.649" name="Caribou" url="https://en.wikisource.org/wiki/The_Encyclopedia_Americana_(1920)/Caribou"/>
+ <entry term="Encyclopedia Americana" id="CM.reindeer.650" name="Encyclopedia Americana" url="/wiki/Encyclopedia_Americana"/>
+ <entry term="Lydekker, Richard" id="CM.reindeer.651" name="Lydekker, Richard" url="/wiki/Richard_Lydekker"/>
+ <entry term="Reindeer" id="CM.reindeer.652" name="Reindeer" url="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Reindeer"/>
+ <entry term="Encyclopædia Britannica" id="CM.reindeer.653" name="Encyclopædia Britannica" url="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition"/>
+ <entry term="Reindeer" id="CM.reindeer.654" name="Reindeer" url="https://en.wikisource.org/wiki/The_New_International_Encyclop%C3%A6dia/Reindeer"/>
+ <entry term="New International Encyclopedia" id="CM.reindeer.655" name="New International Encyclopedia" url="/wiki/New_International_Encyclopedia"/>
+ <entry term="&quot;The Other 364 Days of the Year: The Real Lives of Wild Reindeer Categories: Biology and Ecosystems&quot;" id="CM.reindeer.656" name="&quot;The Other 364 Days of the Year: The Real Lives of Wild Reindeer Categories: Biology and Ecosystems&quot;" url="http://www.usgs.gov/blogs/features/usgs_top_story/the-other-364-days-of-the-year-the-real-lives-of-wild-reindeer-3/"/>
+ <entry term="U.S. Geological Survey" id="CM.reindeer.657" name="U.S. Geological Survey" url="/wiki/U.S._Geological_Survey"/>
+ <entry term="&quot;Reference Article: Reindeer (caribou)&quot;" id="CM.reindeer.658" name="&quot;Reference Article: Reindeer (caribou)&quot;" url="https://www.sciencedaily.com/articles/r/reindeer.htm"/>
+ <entry term="Frequently Asked Questions about Caribou" id="CM.reindeer.659" name="Frequently Asked Questions about Caribou" url="https://web.archive.org/web/20061206062749/http://arctic.fws.gov/carcon.htm"/>
+ <entry term="Arctic National Wildlife Refuge" id="CM.reindeer.660" name="Arctic National Wildlife Refuge" url="/wiki/Arctic_National_Wildlife_Refuge"/>
+ <entry term="Caribou and You" id="CM.reindeer.661" name="Caribou and You" url="http://www.caribouandyou.ca"/>
+ <entry term="CPAWS" id="CM.reindeer.662" name="CPAWS" url="/wiki/CPAWS"/>
+ <entry term="Newfoundland Five-Year Caribou Strategy Seeks to Address Declining Populations" id="CM.reindeer.663" name="Newfoundland Five-Year Caribou Strategy Seeks to Address Declining Populations" url="http://www.releases.gov.nl.ca/releases/2008/env/0207n06.htm"/>
+ <query>('') OR ('Reindeer (disambiguation)') OR ('Caribou (disambiguation)') OR ('Middle Pleistocene') OR ('PreЄ') OR ('Є') OR ('O') OR ('S') OR ('D') OR ('C') OR ('P') OR ('T') OR ('J') OR ('K') OR ('Pg') OR ('N') OR ('') OR ('Conservation status') OR ('Vulnerable') OR ('IUCN 3.1') OR ('Scientific classification') OR ('') OR ('Animalia') OR ('Chordata') OR ('Mammalia') OR ('Artiodactyla') OR ('Cervidae') OR ('Capreolinae') OR ('Rangiferini') OR ('Rangifer') OR ('Charles Hamilton Smith') OR ('Binomial name') OR ('Linnaeus') OR ('') OR ('Synonyms') OR ('circumpolar distribution') OR ('boreal woodland caribou') OR ('Svalbard reindeer') OR ('Nunavut') OR ('Selkirk Mountains') OR ('Barren-ground caribou') OR ('Porcupine caribou') OR ('Peary caribou') OR ('Kitaa') OR ('Queen Charlotte Islands caribou') OR ('Committee on the Status of Endangered Wildlife in Canada') OR ('IUCN') OR ('Caribou Inuit') OR ('Kivalliq Region') OR ('Inupiat') OR ('Inuvialuit') OR ('Hän') OR ('Northern Tutchone') OR ('Gwich'in') OR ('Sami people') OR ('Lapland') OR ('pulks') OR ('Santa Claus's reindeer') OR ('Carl Linnaeus') OR ('Albertus Magnus') OR ('Saami') OR ('Ulisse Aldrovandi') OR ('Konrad Gesner') OR ('Aristotle') OR ('Theophrastus') OR ('IUCN') OR ('Mi'kmaq') OR ('Inuktitut') OR ('Mi'kmaq') OR ('Mi'kmaq') OR ('Algonquian') OR ('Woods Cree') OR ('Cree') OR ('Koyukon language') OR ('Koyukon') OR ('Athabaskan') OR ('Gwich’in language') OR ('Gwich’in') OR ('Hän language') OR ('Hän') OR ('Inuktitut') OR ('Inuit') OR ('Eskimo–Aleut') OR ('Inupiaq language') OR ('Inupiat people') OR ('Yup'ik') OR ('Yup'ik') OR ('Carl Linnaeus') OR ('Gmelin') OR ('Labrador') OR ('British Columbia') OR ('Newfoundland') OR ('Don E. Wilson') OR ('Valerius Geist') OR ('subspecies') OR ('mtDNA') OR ('Mammal Species of the World') OR ('1915') OR ('Busk reindeer') OR ('Labrador caribou') OR ('Quebec') OR ('Labrador') OR ('boreal woodland caribou') OR ('migratory woodland caribou') OR ('Porcupine caribou') OR ('Alaska') OR ('Yukon') OR ('Finnish forest reindeer') OR ('Finland') OR ('Barren-ground caribou') OR ('Nunavut') OR ('Northwest Territories') OR ('Osborn's caribou') OR ('British Columbia') OR ('Novaya Zemlya reindeer') OR ('Novaya Zemlya') OR ('Peary caribou') OR ('Kamchatkan reindeer') OR ('Kamchatka Peninsula') OR ('Sea of Okhotsk') OR ('Svalbard reindeer') OR ('Svalbard') OR ('Norway') OR ('Siberian tundra reindeer') OR ('Siberia') OR ('Mountain reindeer') OR ('Fennoscandian Peninsula') OR ('Norway') OR ('Newfoundland caribou') OR ('Newfoundland') OR ('Siberian forest reindeer') OR ('Ural Mountains') OR ('Altai Mountains') OR ('Queen Charlotte Islands caribou') OR ('Graham Island') OR ('Queen Charlotte Islands') OR ('Arctic reindeer') OR ('Greenland') OR ('mtDNA') OR ('ecotype') OR ('Pleistocene') OR ('Günz') OR ('Ice Age') OR ('Mesolithic') OR ('Mesolithic') OR ('Neolithic') OR ('last glacial period') OR ('Norway') OR ('Jotunheimen') OR ('trapping pits') OR ('Migration Period') OR ('Stone Age') OR ('citation needed') OR ('') OR ('') OR ('antlers') OR ('cervid') OR ('moose') OR ('citation needed') OR ('antlerogenesis') OR ('boreal woodland caribou') OR ('Dolphin-Union caribou') OR ('keystone species') OR ('Igloolik') OR ('National Gallery of Canada') OR ('fur') OR ('Peary caribou') OR ('boreal woodland caribou') OR ('coat') OR ('woolly') OR ('core body temperature') OR ('thermogradient') OR ('countercurrent heat exchange') OR ('nasal passages') OR ('mucosa') OR ('body heat') OR ('mucous membranes') OR ('moose') OR ('turbinate bones') OR ('nostrils') OR ('SARA') OR ('hooves') OR ('lichen') OR ('reindeer lichen') OR ('') OR ('') OR ('Allen's rule') OR ('University College London') OR ('University of Tromsø') OR ('') OR ('') OR ('British Columbia') OR ('ruminants') OR ('lichens') OR ('reindeer moss') OR ('gastropods') OR ('enzyme') OR ('lichenin') OR ('glucose') OR ('willows') OR ('birches') OR ('sedges') OR ('grasses') OR ('citation needed') OR ('lemmings') OR ('Arctic char') OR ('bird eggs') OR ('Chukchis') OR ('continuous daylight') OR ('synchronized with the sun') OR ('ultradian') OR ('') OR ('') OR ('Rut (mammalian reproduction) § Cervidae') OR ('') OR ('') OR ('Ungava') OR ('Labrador') OR ('migrate') OR ('culling') OR ('circadian rhythm') OR ('') OR ('') OR ('Scandinavia') OR ('Greenland') OR ('Mongolia') OR ('50th latitude') OR ('Alaska') OR ('Washington') OR ('Maine') OR ('Idaho') OR ('Ireland') OR ('Pleistocene') OR ('Nevada') OR ('Tennessee') OR ('Spain') OR ('Norway') OR ('Finland') OR ('Siberia') OR ('Mongolia') OR ('China') OR ('Sakhalin Island') OR ('Kerguelen Islands') OR ('South Georgia Island') OR ('Pribilof Islands') OR ('St. Matthew Island') OR ('Holarctic') OR ('tundra') OR ('taiga') OR ('climate change') OR ('Barren-ground caribou') OR ('climate change') OR ('mismatch') OR ('phenological') OR ('lichen') OR ('') OR ('') OR ('Golden eagles') OR ('Wolverines') OR ('Brown bears') OR ('polar bears') OR ('grey wolf') OR ('foxes') OR ('hawks') OR ('ravens') OR ('mosquitoes') OR ('black flies') OR ('botflies') OR ('deer botflies') OR ('Hypoderma tarandi') OR ('Cephenemyia trompe') OR ('citation needed') OR ('Greenland shark') OR ('Atlantic') OR ('ungulate') OR ('White-tailed deer') OR ('meningeal worm') OR ('nematode') OR ('moose') OR ('elk') OR ('mule deer') OR ('Reindeer in Russia') OR ('') OR ('') OR ('woodland (boreal)') OR ('woodland (migratory)') OR ('R. t. dawsoni') OR ('R. t. granti') OR ('R. t. groenlandicus') OR ('R. t. pearyi') OR ('woodland (boreal)') OR ('woodland (migratory)') OR ('Porcupine caribou') OR ('barren-ground caribou') OR ('Peary caribou') OR ('boreal woodland caribou') OR ('migratory woodland caribou') OR ('Columbia') OR ('Kootenay') OR ('Kootenai') OR ('Kootenay Lake') OR ('Idaho') OR ('Washington') OR ('boreal woodland caribou') OR ('Selkirk Mountains') OR ('Idaho') OR ('') OR ('') OR ('Fort Greely, Alaska') OR ('Porcupine caribou') OR ('') OR ('') OR ('Porcupine caribou') OR ('Porcupine River') OR ('Aklavik, Northwest Territories') OR ('Dawson City, Yukon') OR ('Kaktovik, Alaska') OR ('Beaufort Sea') OR ('subspecies') OR ('Alaska') OR ('Yukon') OR ('Gwich'in people') OR ('Inupiat') OR ('Inuvialuit') OR ('Hän') OR ('Northern Tutchone') OR ('Arctic National Wildlife Refuge') OR ('Gwich'in') OR ('') OR ('') OR ('Seward Peninsula') OR ('') OR (' ') OR ('Teshekpuk Lake') OR ('Teshekpuk Lake') OR ('North Slope') OR ('Iñupiat') OR ('National Petroleum Reserve-Alaska') OR ('U.S. Department of the Interior') OR ('Arctic National Wildlife Refuge') OR ('ConocoPhillips') OR ('U.S. District Court for the District of Alaska') OR ('U. S. Secretary of the Interior') OR ('Ryan Zinke') OR ('Bureau of Land Management') OR ('Prudhoe Bay Oil Field') OR ('Prudhoe Bay') OR ('Arctic National Wildlife Refuge') OR ('barren-ground caribou') OR ('Qamanirjuaq') OR ('') OR ('') OR ('Thelon River') OR ('Queen Maud Gulf') OR ('Queen Maud Gulf') OR ('Baker Lake') OR ('Southampton Island') OR ('Peary caribou') OR ('') OR ('') OR ('Nunavut') OR ('Bathurst') OR ('Tuktut Nogait National Park') OR ('ecotypes') OR ('boreal woodland caribou') OR ('migratory woodland caribou') OR ('clarification needed') OR ('boreal forest') OR ('Northwest Territories') OR ('Labrador') OR ('Newfoundland and Labrador') OR ('New England') OR ('threatened') OR ('George River (Quebec)') OR ('Ungava') OR ('Quebec') OR ('Labrador') OR ('as reported by the Canadian Broadcasting Corporation') OR ('') OR ('Leaf River') OR ('Hudson Bay') OR ('Queen Charlotte Islands caribou') OR ('Queen Charlotte Islands caribou') OR ('Graham Island') OR ('Queen Charlotte Islands') OR ('DNA') OR ('mitochondrial DNA') OR ('citation needed') OR ('citation needed') OR ('Norway') OR ('World Heritage Site') OR ('Dovrefjell-Sunndalsfjella National Park') OR ('Reinheimen National Park') OR ('Rondane National Park') OR ('Southern Norway') OR ('citation needed') OR ('Norwegian Environment Agency') OR ('Hardangervidda') OR ('Svalbard reindeer') OR ('') OR ('') OR ('Svalbard') OR ('Svalbard') OR ('insular dwarfism') OR ('Allen's rule') OR ('') OR ('') OR ('Finnish forest reindeer') OR ('Fennoscandia peninsula') OR ('Northern Europe') OR ('Karelia') OR ('Finland') OR ('citation needed') OR ('Iceland') OR ('Cairngorms National Park') OR ('Tundra') OR ('') OR ('') OR ('South Georgian') OR ('South Georgia') OR ('South Georgian reindeer') OR ('glaciers') OR ('Kerguelen Islands') OR ('') OR ('') OR ('Porcupine') OR ('Bluenose') OR ('Bathurst') OR ('Beverly') OR ('Qamanirjuaq') OR ('Leaf River') OR ('George River') OR ('Taimyr Peninsula') OR ('Lena') OR ('Olenek') OR ('Yana') OR ('Indigirka') OR ('Sundrum herd') OR ('subspecies') OR ('extinct') OR ('IUCN') OR ('Vulnerable') OR ('extinct') OR ('Columbia') OR ('Kootenay') OR ('Kootenai') OR ('Kootenay Lake') OR ('Idaho') OR ('Washington') OR ('habitat') OR ('extirpated') OR ('threatened') OR ('Environment Canada') OR ('threatened') OR ('Committee on the Status of Endangered Wildlife in Canada') OR ('Environment Canada') OR ('Reindeer in Siberian Shamanism') OR ('') OR ('') OR ('Reindeer hunting in Greenland') OR ('circumpolar peoples') OR ('Saami') OR ('Nenets') OR ('Khants') OR ('Evenks') OR ('Yukaghirs') OR ('Chukchi') OR ('Koryaks') OR ('Eurasia') OR ('Bronze') OR ('Iron Ages') OR ('Soviet Union') OR ('fur') OR ('Seward Peninsula') OR ('citation needed') OR ('meat') OR ('meatballs') OR ('Sautéed reindeer') OR ('sausage') OR ('grocery stores') OR ('salted') OR ('smoked') OR ('Finnish Lapland') OR ('PDO') OR ('antlers') OR ('aphrodisiac') OR ('Caribou') OR ('Inuit') OR ('First Nations') OR ('Alaska Natives') OR ('Kalaallit') OR ('') OR ('') OR ('parka') OR ('Caribou Inuit') OR ('Nunavut') OR ('Keewatin Region') OR ('Kivalliq Region') OR ('Ihalmiut') OR ('Kivalliq Region') OR ('Yukon River') OR ('Koyukuk National Wildlife Refuge') OR ('gold rush') OR ('Huslia') OR ('Tanana') OR ('Porcupine caribou') OR ('language revitalization') OR ('Alaska Native Language Center') OR ('University of Alaska') OR ('Fairbanks') OR ('Porcupine caribou') OR ('Gwich'in') OR ('Reindeer herding') OR ('') OR ('') OR ('Arkhangelsk') OR ('Russia') OR ('photochrom') OR ('') OR ('') OR ('Norway') OR ('Sweden') OR ('Finland') OR ('Kola Peninsula') OR ('dubious') OR ('discuss') OR ('f') OR ('Karelia') OR ('Arkhangelsk') OR ('Komi') OR ('Fennoscandia') OR ('Russia') OR ('herded') OR ('Sami') OR ('Nenets') OR ('beasts of burden') OR ('citation needed') OR ('Domesticated') OR ('citation needed') OR ('U.S. Revenue Cutter Service') OR ('Sheldon Jackson') OR ('Native peoples') OR ('Wales, Alaska') OR ('satellite') OR ('citation needed') OR ('Domesticated') OR ('Fennoscandia') OR ('Cairngorms') OR ('Scotland') OR ('agricultural subsidies') OR ('diesel fuel') OR ('electric generators') OR ('snowmobile') OR ('photovoltaic') OR ('Aristotle') OR ('Theophrastus') OR ('tarandos') OR ('Bodines') OR ('Scythia') OR ('Ural Mountains') OR ('') OR ('') OR ('Julius Caesar') OR ('Commentarii de Bello Gallico') OR ('Hercynian Forest') OR ('ox') OR ('stag') OR ('Olaus Magnus') OR ('Historia de Gentibus Septentrionalibus') OR ('Rome') OR ('Gustav I of Sweden') OR ('Albert I, Duke of Prussia') OR ('Conrad Gessner') OR ('World War II') OR ('Soviet Army') OR ('pack animals') OR ('Murmansk') OR ('Karelian front') OR ('Nenets') OR ('Nenets Autonomous Okrug') OR ('Arkhangelsk') OR ('Komi') OR ('') OR ('') OR ('Santa Claus's reindeer') OR ('folklore') OR ('Santa Claus') OR ('A Visit from St. Nicholas') OR ('blitz') OR ('Rudolph the Red-Nosed Reindeer') OR ('Brian Jungen') OR ('Dunne-za') OR ('Banff, Alberta') OR ('Tomson Highway') OR ('CM') OR ('Canadian') OR ('Cree') OR ('playwright') OR ('novelist') OR ('children's author') OR ('Brochet') OR ('Manitoba') OR ('The Globe and Mail') OR ('Eidfjord') OR ('Porsanger') OR ('Rendalen') OR ('Tromsø') OR ('Vadsø') OR ('Vågå') OR ('Västerbotten') OR ('Sweden') OR ('Västerbotten County') OR ('Piteå') OR ('Umeå University') OR ('quarter') OR ('Newfoundland and Labrador') OR ('coat of arms of Nunavut') OR ('Beaumont-Hamel Newfoundland Memorial') OR ('World War I') OR ('Bowring Park') OR ('citation needed') OR ('Kuusamo') OR ('Inari') OR ('Hypoderma tarandi') OR ('Cephenemyia trompe') OR ('^') OR ('Integrated Taxonomic Information System') OR ('a') OR ('b') OR ('c') OR ('^') OR ('^') OR ('"Designatable Units for Caribou (Rangifer tarandus) in Canada"') OR ('the original') OR ('Wikispecies') OR ('Rangifer tarandus') OR ('reindeer') OR ('caribou') OR ('The Reindeer Portal, Source of Information About Reindeer Husbandry Worldwide') OR ('1935 Reindeer Herding in the Northwest Territories') OR ('General information on Caribou and Reindeer') OR ('Human Role in Reindeer/Caribou Systems') OR ('Reindeer hunting as World Heritage – a ten-thousand-year-long tradition') OR ('Reindeer Research Program – Alaska reindeer research and industry development') OR ('Adaptations To Life In The Arctic') OR ('Rangifer ') OR ('Rangifer tarandus on the IUCN Red List') OR ('') OR ('Ingersoll, Ernest') OR ('Caribou') OR ('Encyclopedia Americana') OR ('Lydekker, Richard') OR ('Reindeer') OR ('Encyclopædia Britannica') OR ('Reindeer') OR ('New International Encyclopedia') OR ('"The Other 364 Days of the Year: The Real Lives of Wild Reindeer Categories: Biology and Ecosystems"') OR ('U.S. Geological Survey') OR ('"Reference Article: Reindeer (caribou)"') OR ('Frequently Asked Questions about Caribou') OR ('Arctic National Wildlife Refuge') OR ('Caribou and You') OR ('CPAWS') OR ('Newfoundland Five-Year Caribou Strategy Seeks to Address Declining Populations')</query>
+</dictionary>

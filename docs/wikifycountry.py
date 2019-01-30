@@ -12,7 +12,9 @@ if (args.facet==None):
 facetname = args.facet
 print ("facet "+facetname)
 
-JSON_ROOT="/Users/pm286/workspace/dictionaries/json/"
+DICT_ROOT="/Users/pm286/workspace/dictionaries/"
+OUT_ROOT=DICT_ROOT+"json/"
+RAW_ROOT=DICT_ROOT+"raw/"
 
 CMDOT="CM."
 CONTENTMINE="contentmine"
@@ -20,7 +22,7 @@ ENTRIES="entries"
 ID="id"
 IDENTIFIERS="identifiers"
 NAME="name"
-RAW_SUFF=".raw.json"
+RAW_SUFF=".json"
 TERM_LABEL="termLabel"
 TERM="term"
 WIKIDATA="wikidata"
@@ -69,9 +71,10 @@ def make_facet(wikidatajsonpath, facetname):
         return facet
 
 print ("transforming dictionaries")
+infile=RAW_ROOT+facetname+RAW_SUFF
+outfile=OUT_ROOT+facetname+OUT_SUFF
+new_facet = make_facet(infile, facetname)
 
-new_facet = make_facet(JSON_ROOT+facetname+RAW_SUFF, facetname)
-
-with open("{0}.json".format(facetname), "w") as outfile:
-    json.dump(new_facet, outfile, indent=4)
+with open(outfile, "w") as outf:
+    json.dump(new_facet, outf, indent=4)
 

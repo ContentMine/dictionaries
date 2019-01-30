@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary title="crystalsystem">
+ <entry term="cubic" name="cubic"/>
+ <entry term="tetragonal" name="tetragonal"/>
+ <entry term="hexagonal" name="hexagonal"/>
+ <entry term="trigonal" name="trigonal"/>
+ <entry term="orthorhombic" name="orthorhombic"/>
+ <entry term="monoclinic" name="monoclinic"/>
+ <entry term="triclinic" name="triclinic"/>
+</dictionary>
