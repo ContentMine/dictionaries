@@ -1,0 +1,851 @@
+{
+  "entries": [
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.0"
+      },
+      "name": "5\u0027 Cap",
+      "term": "5\u0027 Cap"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.1"
+      },
+      "name": "adenine",
+      "term": "adenine"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.2"
+      },
+      "name": "animal viruses",
+      "term": "animal viruses"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.3"
+      },
+      "name": "bacteriophage",
+      "term": "bacteriophage"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.4"
+      },
+      "name": "Beet necrotic yellow vein virus",
+      "term": "Beet necrotic yellow vein virus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.5"
+      },
+      "name": "Beijerinck",
+      "term": "Beijerinck"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.6"
+      },
+      "name": "BIOS Scientific Publishers",
+      "term": "BIOS Scientific Publishers"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.7"
+      },
+      "name": "biotechnology",
+      "term": "biotechnology"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.8"
+      },
+      "name": "Brome mosaic virus",
+      "term": "Brome mosaic virus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.9"
+      },
+      "name": "Bromoviridae",
+      "term": "Bromoviridae"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.10"
+      },
+      "name": "buds",
+      "term": "buds"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.11"
+      },
+      "name": "Cauliflower mosaic virus",
+      "term": "Cauliflower mosaic virus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.12"
+      },
+      "name": "cell",
+      "term": "cell"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.13"
+      },
+      "name": "cell walls",
+      "term": "cell walls"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.14"
+      },
+      "name": "Chamberland filter-candle",
+      "term": "Chamberland filter-candle"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.15"
+      },
+      "name": "circumference",
+      "term": "circumference"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.16"
+      },
+      "name": "Compositae",
+      "term": "Compositae"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.17"
+      },
+      "name": "contagium vivum fluidum",
+      "term": "contagium vivum fluidum"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.18"
+      },
+      "name": "Cucurbitaceae",
+      "term": "Cucurbitaceae"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.19"
+      },
+      "name": "diameter",
+      "term": "diameter"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.20"
+      },
+      "name": "disease",
+      "term": "disease"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.21"
+      },
+      "name": "doi",
+      "term": "doi"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.22"
+      },
+      "name": "dsRNA",
+      "term": "dsRNA"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.23"
+      },
+      "name": "electron microscope",
+      "term": "electron microscope"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.24"
+      },
+      "name": "endocytosis",
+      "term": "endocytosis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.25"
+      },
+      "name": "eukaryotic",
+      "term": "eukaryotic"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.26"
+      },
+      "name": "families",
+      "term": "families"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.27"
+      },
+      "name": "foregut",
+      "term": "foregut"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.28"
+      },
+      "name": "Geminiviridae",
+      "term": "Geminiviridae"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.29"
+      },
+      "name": "genera",
+      "term": "genera"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.30"
+      },
+      "name": "genetic",
+      "term": "genetic"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.31"
+      },
+      "name": "genome",
+      "term": "genome"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.32"
+      },
+      "name": "genomes",
+      "term": "genomes"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.33"
+      },
+      "name": "Gramineae",
+      "term": "Gramineae"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.34"
+      },
+      "name": "guanine",
+      "term": "guanine"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.35"
+      },
+      "name": "haemolymph",
+      "term": "haemolymph"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.36"
+      },
+      "name": "higher plants",
+      "term": "higher plants"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.37"
+      },
+      "name": "host",
+      "term": "host"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.38"
+      },
+      "name": "hypothesis",
+      "term": "hypothesis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.39"
+      },
+      "name": "icosahedral",
+      "term": "icosahedral"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.40"
+      },
+      "name": "infection",
+      "term": "infection"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.41"
+      },
+      "name": "insects",
+      "term": "insects"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.42"
+      },
+      "name": "integer",
+      "term": "integer"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.43"
+      },
+      "name": "intracellular parasites",
+      "term": "intracellular parasites"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.44"
+      },
+      "name": "isometric",
+      "term": "isometric"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.45"
+      },
+      "name": "JSTOR",
+      "term": "JSTOR"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.46"
+      },
+      "name": "lead section",
+      "term": "lead section"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.47"
+      },
+      "name": "leafhoppers",
+      "term": "leafhoppers"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.48"
+      },
+      "name": "Leguminosae",
+      "term": "Leguminosae"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.49"
+      },
+      "name": "lipid envelope",
+      "term": "lipid envelope"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.50"
+      },
+      "name": "messenger RNA",
+      "term": "messenger RNA"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.51"
+      },
+      "name": "methyltransferase",
+      "term": "methyltransferase"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.52"
+      },
+      "name": "microorganisms",
+      "term": "microorganisms"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.53"
+      },
+      "name": "microscopic",
+      "term": "microscopic"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.54"
+      },
+      "name": "mRNAs",
+      "term": "mRNAs"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.55"
+      },
+      "name": "multipartite",
+      "term": "multipartite"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.56"
+      },
+      "name": "nematodes",
+      "term": "nematodes"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.57"
+      },
+      "name": "nm",
+      "term": "nm"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.58"
+      },
+      "name": "Nobel Prize",
+      "term": "Nobel Prize"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.59"
+      },
+      "name": "nucleic acid",
+      "term": "nucleic acid"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.60"
+      },
+      "name": "old world",
+      "term": "old world"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.61"
+      },
+      "name": "parasitic",
+      "term": "parasitic"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.62"
+      },
+      "name": "pathogenic",
+      "term": "pathogenic"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.63"
+      },
+      "name": "Pepper mild mottle virus",
+      "term": "Pepper mild mottle virus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.64"
+      },
+      "name": "Pepper Mild Mottle Virus",
+      "term": "Pepper Mild Mottle Virus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.65"
+      },
+      "name": "plant cells",
+      "term": "plant cells"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.66"
+      },
+      "name": "Plant defenses against viral infection",
+      "term": "Plant defenses against viral infection"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.67"
+      },
+      "name": "plants",
+      "term": "plants"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.68"
+      },
+      "name": "plasmodesmata",
+      "term": "plasmodesmata"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.69"
+      },
+      "name": "PMC",
+      "term": "PMC"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.70"
+      },
+      "name": "PMID",
+      "term": "PMID"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.71"
+      },
+      "name": "polycistronic",
+      "term": "polycistronic"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.72"
+      },
+      "name": "Polymyxa graminis",
+      "term": "Polymyxa graminis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.73"
+      },
+      "name": "polypeptides",
+      "term": "polypeptides"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.74"
+      },
+      "name": "polyprotein",
+      "term": "polyprotein"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.75"
+      },
+      "name": "Potyviridae",
+      "term": "Potyviridae"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.76"
+      },
+      "name": "promoter",
+      "term": "promoter"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.77"
+      },
+      "name": "proteinase",
+      "term": "proteinase"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.78"
+      },
+      "name": "proteins",
+      "term": "proteins"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.79"
+      },
+      "name": "protozoa",
+      "term": "protozoa"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.80"
+      },
+      "name": "provide an accessible overview",
+      "term": "provide an accessible overview"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.81"
+      },
+      "name": "replicase",
+      "term": "replicase"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.82"
+      },
+      "name": "replicate",
+      "term": "replicate"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.83"
+      },
+      "name": "resistance",
+      "term": "resistance"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.84"
+      },
+      "name": "reverse transcriptase",
+      "term": "reverse transcriptase"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.85"
+      },
+      "name": "Rhabdoviridae",
+      "term": "Rhabdoviridae"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.86"
+      },
+      "name": "ribosomes",
+      "term": "ribosomes"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.87"
+      },
+      "name": "RNA",
+      "term": "RNA"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.88"
+      },
+      "name": "RNA polymerase",
+      "term": "RNA polymerase"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.89"
+      },
+      "name": "RNA viruses",
+      "term": "RNA viruses"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.90"
+      },
+      "name": "rod-shaped",
+      "term": "rod-shaped"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.91"
+      },
+      "name": "roots",
+      "term": "roots"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.92"
+      },
+      "name": "Rosaceae",
+      "term": "Rosaceae"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.93"
+      },
+      "name": "salivary glands",
+      "term": "salivary glands"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.94"
+      },
+      "name": "siRNA",
+      "term": "siRNA"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.95"
+      },
+      "name": "Solanaceae",
+      "term": "Solanaceae"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.96"
+      },
+      "name": "spontaneously",
+      "term": "spontaneously"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.97"
+      },
+      "name": "stop codon",
+      "term": "stop codon"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.98"
+      },
+      "name": "stylet",
+      "term": "stylet"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.99"
+      },
+      "name": "subgenomic",
+      "term": "subgenomic"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.100"
+      },
+      "name": "summarize",
+      "term": "summarize"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.101"
+      },
+      "name": "symbionts",
+      "term": "symbionts"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.102"
+      },
+      "name": "talk page",
+      "term": "talk page"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.103"
+      },
+      "name": "Tobacco mosaic virus",
+      "term": "Tobacco mosaic virus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.104"
+      },
+      "name": "tobacco mosaic virus",
+      "term": "tobacco mosaic virus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.105"
+      },
+      "name": "Tobacco mosaic virus",
+      "term": "Tobacco mosaic virus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.106"
+      },
+      "name": "tobacco rattle virus",
+      "term": "tobacco rattle virus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.107"
+      },
+      "name": "tobacco ringspot virus",
+      "term": "tobacco ringspot virus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.108"
+      },
+      "name": "tomato spotted wilt virus",
+      "term": "tomato spotted wilt virus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.109"
+      },
+      "name": "transformations",
+      "term": "transformations"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.110"
+      },
+      "name": "translation",
+      "term": "translation"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.111"
+      },
+      "name": "translational regulation",
+      "term": "translational regulation"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.112"
+      },
+      "name": "Tymoviridae",
+      "term": "Tymoviridae"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.113"
+      },
+      "name": "vector",
+      "term": "vector"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.114"
+      },
+      "name": "viral",
+      "term": "viral"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.115"
+      },
+      "name": "virions",
+      "term": "virions"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.116"
+      },
+      "name": "viruses",
+      "term": "viruses"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.117"
+      },
+      "name": "Wendell Stanley",
+      "term": "Wendell Stanley"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.118"
+      },
+      "name": "white fly",
+      "term": "white fly"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.119"
+      },
+      "name": "Zaitlin, Milton",
+      "term": "Zaitlin, Milton"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.virus.120"
+      },
+      "name": "zoosporic",
+      "term": "zoosporic"
+    }
+  ]
+}

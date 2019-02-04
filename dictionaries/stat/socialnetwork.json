@@ -1,0 +1,1362 @@
+{
+  "entries": [
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.0"
+      },
+      "name": "About.me",
+      "term": "About.me"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.1"
+      },
+      "name": "aNobii",
+      "term": "aNobii"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.2"
+      },
+      "name": "AsianAvenue",
+      "term": "AsianAvenue"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.3"
+      },
+      "name": "aSmallWorld",
+      "term": "aSmallWorld"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.4"
+      },
+      "name": "Athlinks",
+      "term": "Athlinks"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.5"
+      },
+      "name": "Audimated.com",
+      "term": "Audimated.com"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.6"
+      },
+      "name": "Bebo",
+      "term": "Bebo"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.7"
+      },
+      "name": "Biip.no",
+      "term": "Biip.no"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.8"
+      },
+      "name": "BlackPlanet",
+      "term": "BlackPlanet"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.9"
+      },
+      "name": "Bolt.com",
+      "term": "Bolt.com"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.10"
+      },
+      "name": "Busuu",
+      "term": "Busuu"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.11"
+      },
+      "name": "Buzznet",
+      "term": "Buzznet"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.12"
+      },
+      "name": "CafeMom",
+      "term": "CafeMom"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.13"
+      },
+      "name": "Care2",
+      "term": "Care2"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.14"
+      },
+      "name": "CaringBridge",
+      "term": "CaringBridge"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.15"
+      },
+      "name": "Classmates.com",
+      "term": "Classmates.com"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.16"
+      },
+      "name": "Cloob",
+      "term": "Cloob"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.17"
+      },
+      "name": "Commonground",
+      "term": "Commonground"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.18"
+      },
+      "name": "CouchSurfing",
+      "term": "CouchSurfing"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.19"
+      },
+      "name": "CozyCot",
+      "term": "CozyCot"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.20"
+      },
+      "name": "Crunchyroll",
+      "term": "Crunchyroll"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.21"
+      },
+      "name": "Cucumbertown",
+      "term": "Cucumbertown"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.22"
+      },
+      "name": "Cyworld",
+      "term": "Cyworld"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.23"
+      },
+      "name": "DailyStrength",
+      "term": "DailyStrength"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.24"
+      },
+      "name": "delicious",
+      "term": "delicious"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.25"
+      },
+      "name": "DeviantArt",
+      "term": "DeviantArt"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.26"
+      },
+      "name": "Diaspora*",
+      "term": "Diaspora*"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.27"
+      },
+      "name": "Disaboom",
+      "term": "Disaboom"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.28"
+      },
+      "name": "Dol2day",
+      "term": "Dol2day"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.29"
+      },
+      "name": "DontStayIn",
+      "term": "DontStayIn"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.30"
+      },
+      "name": "douban",
+      "term": "douban"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.31"
+      },
+      "name": "Doximity",
+      "term": "Doximity"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.32"
+      },
+      "name": "Draugiem.lv",
+      "term": "Draugiem.lv"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.33"
+      },
+      "name": "Dreamwidth",
+      "term": "Dreamwidth"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.34"
+      },
+      "name": "DXY.cn",
+      "term": "DXY.cn"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.35"
+      },
+      "name": "Elftown",
+      "term": "Elftown"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.36"
+      },
+      "name": "Elixio",
+      "term": "Elixio"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.37"
+      },
+      "name": "Ello",
+      "term": "Ello"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.38"
+      },
+      "name": "English, baby!",
+      "term": "English, baby!"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.39"
+      },
+      "name": "Eons.com",
+      "term": "Eons.com"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.40"
+      },
+      "name": "eToro",
+      "term": "eToro"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.41"
+      },
+      "name": "Experience Project",
+      "term": "Experience Project"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.42"
+      },
+      "name": "Facebook",
+      "term": "Facebook"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.43"
+      },
+      "name": "Fetlife",
+      "term": "Fetlife"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.44"
+      },
+      "name": "FilmAffinity",
+      "term": "FilmAffinity"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.45"
+      },
+      "name": "Filmow",
+      "term": "Filmow"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.46"
+      },
+      "name": "FledgeWing",
+      "term": "FledgeWing"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.47"
+      },
+      "name": "Flickr",
+      "term": "Flickr"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.48"
+      },
+      "name": "Flixster",
+      "term": "Flixster"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.49"
+      },
+      "name": "Focus.com",
+      "term": "Focus.com"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.50"
+      },
+      "name": "Fotki",
+      "term": "Fotki"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.51"
+      },
+      "name": "Fotolog",
+      "term": "Fotolog"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.52"
+      },
+      "name": "Foursquare",
+      "term": "Foursquare"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.53"
+      },
+      "name": "Friendica",
+      "term": "Friendica"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.54"
+      },
+      "name": "Fuelmyblog",
+      "term": "Fuelmyblog"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.55"
+      },
+      "name": "Fyuse",
+      "term": "Fyuse"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.56"
+      },
+      "name": "Gab.ai",
+      "term": "Gab.ai"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.57"
+      },
+      "name": "Gaia Online",
+      "term": "Gaia Online"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.58"
+      },
+      "name": "GamerDNA",
+      "term": "GamerDNA"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.59"
+      },
+      "name": "Gapyear.com",
+      "term": "Gapyear.com"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.60"
+      },
+      "name": "Gather.com",
+      "term": "Gather.com"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.61"
+      },
+      "name": "Gays.com",
+      "term": "Gays.com"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.62"
+      },
+      "name": "Geni.com",
+      "term": "Geni.com"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.63"
+      },
+      "name": "Gentlemint",
+      "term": "Gentlemint"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.64"
+      },
+      "name": "GetGlue",
+      "term": "GetGlue"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.65"
+      },
+      "name": "GirlsAskGuys",
+      "term": "GirlsAskGuys"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.66"
+      },
+      "name": "Gogoyoko",
+      "term": "Gogoyoko"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.67"
+      },
+      "name": "Goodreads",
+      "term": "Goodreads"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.68"
+      },
+      "name": "Goodwizz",
+      "term": "Goodwizz"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.69"
+      },
+      "name": "Google+",
+      "term": "Google+"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.70"
+      },
+      "name": "GovLoop",
+      "term": "GovLoop"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.71"
+      },
+      "name": "Grindr",
+      "term": "Grindr"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.72"
+      },
+      "name": "Grono.net",
+      "term": "Grono.net"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.73"
+      },
+      "name": "Habbo",
+      "term": "Habbo"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.74"
+      },
+      "name": "hi5",
+      "term": "hi5"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.75"
+      },
+      "name": "Hospitality Club",
+      "term": "Hospitality Club"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.76"
+      },
+      "name": "Hotlist",
+      "term": "Hotlist"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.77"
+      },
+      "name": "HR.com",
+      "term": "HR.com"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.78"
+      },
+      "name": "Hub Culture",
+      "term": "Hub Culture"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.79"
+      },
+      "name": "Ibibo",
+      "term": "Ibibo"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.80"
+      },
+      "name": "Identi.ca",
+      "term": "Identi.ca"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.81"
+      },
+      "name": "Indaba Music",
+      "term": "Indaba Music"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.82"
+      },
+      "name": "Influenster",
+      "term": "Influenster"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.83"
+      },
+      "name": "Instagram",
+      "term": "Instagram"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.84"
+      },
+      "name": "IRC-Galleria",
+      "term": "IRC-Galleria"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.85"
+      },
+      "name": "italki",
+      "term": "italki"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.86"
+      },
+      "name": "Itsmy",
+      "term": "Itsmy"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.87"
+      },
+      "name": "Jaiku",
+      "term": "Jaiku"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.88"
+      },
+      "name": "Jiepang",
+      "term": "Jiepang"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.89"
+      },
+      "name": "Kaixin001",
+      "term": "Kaixin001"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.90"
+      },
+      "name": "Kiwibox",
+      "term": "Kiwibox"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.91"
+      },
+      "name": "LaiBhaari",
+      "term": "LaiBhaari"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.92"
+      },
+      "name": "Last.fm",
+      "term": "Last.fm"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.93"
+      },
+      "name": "Late Night Shots",
+      "term": "Late Night Shots"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.94"
+      },
+      "name": "LibraryThing",
+      "term": "LibraryThing"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.95"
+      },
+      "name": "Lifeknot",
+      "term": "Lifeknot"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.96"
+      },
+      "name": "LinkedIn",
+      "term": "LinkedIn"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.97"
+      },
+      "name": "LinkExpats",
+      "term": "LinkExpats"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.98"
+      },
+      "name": "Listography",
+      "term": "Listography"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.99"
+      },
+      "name": "LiveJournal",
+      "term": "LiveJournal"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.100"
+      },
+      "name": "Livemocha",
+      "term": "Livemocha"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.101"
+      },
+      "name": "Makeoutclub",
+      "term": "Makeoutclub"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.102"
+      },
+      "name": "Mastodon",
+      "term": "Mastodon"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.103"
+      },
+      "name": "MEETin",
+      "term": "MEETin"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.104"
+      },
+      "name": "Meetup (website)",
+      "term": "Meetup (website)"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.105"
+      },
+      "name": "MillatFacebook",
+      "term": "MillatFacebook"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.106"
+      },
+      "name": "Minds",
+      "term": "Minds"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.107"
+      },
+      "name": "mixi",
+      "term": "mixi"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.108"
+      },
+      "name": "MocoSpace",
+      "term": "MocoSpace"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.109"
+      },
+      "name": "MOG",
+      "term": "MOG"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.110"
+      },
+      "name": "MouthShut.com",
+      "term": "MouthShut.com"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.111"
+      },
+      "name": "Mubi",
+      "term": "Mubi"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.112"
+      },
+      "name": "MyHeritage",
+      "term": "MyHeritage"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.113"
+      },
+      "name": "Myspace",
+      "term": "Myspace"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.114"
+      },
+      "name": "Nasza-klasa.pl",
+      "term": "Nasza-klasa.pl"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.115"
+      },
+      "name": "Nexopia",
+      "term": "Nexopia"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.116"
+      },
+      "name": "Ning",
+      "term": "Ning"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.117"
+      },
+      "name": "Odnoklassniki",
+      "term": "Odnoklassniki"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.118"
+      },
+      "name": "Open Diary",
+      "term": "Open Diary"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.119"
+      },
+      "name": "OUTeverywhere",
+      "term": "OUTeverywhere"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.120"
+      },
+      "name": "Partyflock",
+      "term": "Partyflock"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.121"
+      },
+      "name": "PatientsLikeMe",
+      "term": "PatientsLikeMe"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.122"
+      },
+      "name": "Pingsta",
+      "term": "Pingsta"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.123"
+      },
+      "name": "Pinterest",
+      "term": "Pinterest"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.124"
+      },
+      "name": "Plaxo",
+      "term": "Plaxo"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.125"
+      },
+      "name": "Playfire",
+      "term": "Playfire"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.126"
+      },
+      "name": "Playlist.com",
+      "term": "Playlist.com"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.127"
+      },
+      "name": "Plurk",
+      "term": "Plurk"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.128"
+      },
+      "name": "Poolwo",
+      "term": "Poolwo"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.129"
+      },
+      "name": "Quechup",
+      "term": "Quechup"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.130"
+      },
+      "name": "Quora",
+      "term": "Quora"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.131"
+      },
+      "name": "Qzone",
+      "term": "Qzone"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.132"
+      },
+      "name": "Raptr",
+      "term": "Raptr"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.133"
+      },
+      "name": "Ravelry",
+      "term": "Ravelry"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.134"
+      },
+      "name": "Renren",
+      "term": "Renren"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.135"
+      },
+      "name": "ReverbNation.com",
+      "term": "ReverbNation.com"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.136"
+      },
+      "name": "Rooster Teeth",
+      "term": "Rooster Teeth"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.137"
+      },
+      "name": "Ryze",
+      "term": "Ryze"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.138"
+      },
+      "name": "ScienceStage",
+      "term": "ScienceStage"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.139"
+      },
+      "name": "ShareTheMusic",
+      "term": "ShareTheMusic"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.140"
+      },
+      "name": "Shelfari",
+      "term": "Shelfari"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.141"
+      },
+      "name": "Sina Weibo",
+      "term": "Sina Weibo"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.142"
+      },
+      "name": "Skoob",
+      "term": "Skoob"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.143"
+      },
+      "name": "Skyrock",
+      "term": "Skyrock"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.144"
+      },
+      "name": "SocialVibe",
+      "term": "SocialVibe"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.145"
+      },
+      "name": "Sonico.com",
+      "term": "Sonico.com"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.146"
+      },
+      "name": "SoundCloud",
+      "term": "SoundCloud"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.147"
+      },
+      "name": "Spaces",
+      "term": "Spaces"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.148"
+      },
+      "name": "Spot.IM",
+      "term": "Spot.IM"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.149"
+      },
+      "name": "Spring.me",
+      "term": "Spring.me"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.150"
+      },
+      "name": "Stage 32",
+      "term": "Stage 32"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.151"
+      },
+      "name": "Streetlife",
+      "term": "Streetlife"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.152"
+      },
+      "name": "Students Circle Network",
+      "term": "Students Circle Network"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.153"
+      },
+      "name": "StudiVZ",
+      "term": "StudiVZ"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.154"
+      },
+      "name": "StumbleUpon",
+      "term": "StumbleUpon"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.155"
+      },
+      "name": "Tagged",
+      "term": "Tagged"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.156"
+      },
+      "name": "Talkbiznow",
+      "term": "Talkbiznow"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.157"
+      },
+      "name": "Taringa!",
+      "term": "Taringa!"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.158"
+      },
+      "name": "TeachStreet",
+      "term": "TeachStreet"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.159"
+      },
+      "name": "TermWiki",
+      "term": "TermWiki"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.160"
+      },
+      "name": "The Sphere",
+      "term": "The Sphere"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.161"
+      },
+      "name": "TravBuddy.com",
+      "term": "TravBuddy.com"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.162"
+      },
+      "name": "Travellerspoint",
+      "term": "Travellerspoint"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.163"
+      },
+      "name": "tribe.net",
+      "term": "tribe.net"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.164"
+      },
+      "name": "Trombi.com",
+      "term": "Trombi.com"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.165"
+      },
+      "name": "Tsu",
+      "term": "Tsu"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.166"
+      },
+      "name": "Tuenti",
+      "term": "Tuenti"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.167"
+      },
+      "name": "Tumblr",
+      "term": "Tumblr"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.168"
+      },
+      "name": "Twitter",
+      "term": "Twitter"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.169"
+      },
+      "name": "Tylted",
+      "term": "Tylted"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.170"
+      },
+      "name": "Untappd",
+      "term": "Untappd"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.171"
+      },
+      "name": "Uplike",
+      "term": "Uplike"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.172"
+      },
+      "name": "Vampirefreaks.com",
+      "term": "Vampirefreaks.com"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.173"
+      },
+      "name": "Viadeo",
+      "term": "Viadeo"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.174"
+      },
+      "name": "Virb",
+      "term": "Virb"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.175"
+      },
+      "name": "VK",
+      "term": "VK"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.176"
+      },
+      "name": "Vox",
+      "term": "Vox"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.177"
+      },
+      "name": "Wattpad",
+      "term": "Wattpad"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.178"
+      },
+      "name": "WAYN",
+      "term": "WAYN"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.179"
+      },
+      "name": "We Heart It",
+      "term": "We Heart It"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.180"
+      },
+      "name": "WeeWorld",
+      "term": "WeeWorld"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.181"
+      },
+      "name": "Wellwer",
+      "term": "Wellwer"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.182"
+      },
+      "name": "Wepolls.com",
+      "term": "Wepolls.com"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.183"
+      },
+      "name": "Wer-kennt-wen",
+      "term": "Wer-kennt-wen"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.184"
+      },
+      "name": "weRead",
+      "term": "weRead"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.185"
+      },
+      "name": "Wooxie",
+      "term": "Wooxie"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.186"
+      },
+      "name": "WriteAPrisoner.com",
+      "term": "WriteAPrisoner.com"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.187"
+      },
+      "name": "Xanga",
+      "term": "Xanga"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.188"
+      },
+      "name": "XING",
+      "term": "XING"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.189"
+      },
+      "name": "Xt3",
+      "term": "Xt3"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.190"
+      },
+      "name": "Yammer",
+      "term": "Yammer"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.191"
+      },
+      "name": "Yelp, Inc.",
+      "term": "Yelp, Inc."
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.192"
+      },
+      "name": "Yookos",
+      "term": "Yookos"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.socialnetwork.193"
+      },
+      "name": "Zoo.gr",
+      "term": "Zoo.gr"
+    }
+  ]
+}

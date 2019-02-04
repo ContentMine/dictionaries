@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary title="animal.insectvectorshuman">
+ <entry term="Aedes aegypti" name="Aedes aegypti" url="/wiki/Aedes_aegypti" id="CM.animal.insectvectorshuman.0" wikipedia="Aedes_aegypti"/>
+ <entry term="Aedes albopictus" name="Aedes albopictus" url="/wiki/Aedes_albopictus" id="CM.animal.insectvectorshuman.1" wikipedia="Aedes_albopictus"/>
+ <entry term="Aedes japonicus" name="Aedes japonicus" url="/wiki/Aedes_japonicus" id="CM.animal.insectvectorshuman.2" wikipedia="Aedes_japonicus"/>
+ <entry term="Aedes koreicus" name="Aedes koreicus" url="/wiki/Aedes_koreicus" id="CM.animal.insectvectorshuman.3" wikipedia="Aedes_koreicus"/>
+ <entry term="Aedes luteocephalus" name="Aedes luteocephalus" url="/wiki/Aedes_luteocephalus" id="CM.animal.insectvectorshuman.4" wikipedia="Aedes_luteocephalus"/>
+ <entry term="Aedes mediovittatus" name="Aedes mediovittatus" url="/wiki/Aedes_mediovittatus" id="CM.animal.insectvectorshuman.5" wikipedia="Aedes_mediovittatus"/>
+ <entry term="Anopheles" name="Anopheles" url="/wiki/Anopheles" id="CM.animal.insectvectorshuman.6" wikipedia="Anopheles"/>
+ <entry term="Anopheles barberi" name="Anopheles barberi" url="/wiki/Anopheles_barberi" id="CM.animal.insectvectorshuman.7" wikipedia="Anopheles_barberi"/>
+ <entry term="Anopheles claviger" name="Anopheles claviger" url="/wiki/Anopheles_claviger" id="CM.animal.insectvectorshuman.8" wikipedia="Anopheles_claviger"/>
+ <entry term="Anopheles crucians" name="Anopheles crucians" url="/wiki/Anopheles_crucians" id="CM.animal.insectvectorshuman.9" wikipedia="Anopheles_crucians"/>
+ <entry term="Anopheles culicifacies" name="Anopheles culicifacies" url="/wiki/Anopheles_culicifacies" id="CM.animal.insectvectorshuman.10" wikipedia="Anopheles_culicifacies"/>
+ <entry term="Anopheles dirus" name="Anopheles dirus" url="/wiki/Anopheles_dirus" id="CM.animal.insectvectorshuman.11" wikipedia="Anopheles_dirus"/>
+ <entry term="Anopheles earlei" name="Anopheles earlei" url="/wiki/Anopheles_earlei" id="CM.animal.insectvectorshuman.12" wikipedia="Anopheles_earlei"/>
+ <entry term="Anopheles gambiae" name="Anopheles gambiae" url="/wiki/Anopheles_gambiae" id="CM.animal.insectvectorshuman.13" wikipedia="Anopheles_gambiae"/>
+ <entry term="Anopheles punctipennis" name="Anopheles punctipennis" url="/wiki/Anopheles_punctipennis" id="CM.animal.insectvectorshuman.14" wikipedia="Anopheles_punctipennis"/>
+ <entry term="Anopheles sinensis" name="Anopheles sinensis" url="/wiki/Anopheles_sinensis" id="CM.animal.insectvectorshuman.15" wikipedia="Anopheles_sinensis"/>
+ <entry term="Black fly" name="Black fly" url="/wiki/Black_fly" id="CM.animal.insectvectorshuman.16" wikipedia="Black_fly"/>
+ <entry term="Calliphoridae" name="Calliphoridae" url="/wiki/Calliphoridae" id="CM.animal.insectvectorshuman.17" wikipedia="Calliphoridae"/>
+ <entry term="Culex" name="Culex" url="/wiki/Culex" id="CM.animal.insectvectorshuman.18" wikipedia="Culex"/>
+ <entry term="Culex annulirostris" name="Culex annulirostris" url="/wiki/Culex_annulirostris" id="CM.animal.insectvectorshuman.19" wikipedia="Culex_annulirostris"/>
+ <entry term="Culex erythrothorax" name="Culex erythrothorax" url="/wiki/Culex_erythrothorax" id="CM.animal.insectvectorshuman.20" wikipedia="Culex_erythrothorax"/>
+ <entry term="Culex perfuscus" name="Culex perfuscus" url="/wiki/Culex_perfuscus" id="CM.animal.insectvectorshuman.21" wikipedia="Culex_perfuscus"/>
+ <entry term="Culex sitiens" name="Culex sitiens" url="/wiki/Culex_sitiens" id="CM.animal.insectvectorshuman.22" wikipedia="Culex_sitiens"/>
+ <entry term="Culex tritaeniorhynchus" name="Culex tritaeniorhynchus" url="/wiki/Culex_tritaeniorhynchus" id="CM.animal.insectvectorshuman.23" wikipedia="Culex_tritaeniorhynchus"/>
+ <entry term="Evandromyia chacuensis" name="Evandromyia chacuensis" url="/wiki/Evandromyia_chacuensis" id="CM.animal.insectvectorshuman.24" wikipedia="Evandromyia_chacuensis"/>
+ <entry term="Flea" name="Flea" url="/wiki/Flea" id="CM.animal.insectvectorshuman.25" wikipedia="Flea"/>
+ <entry term="Haemagogus soperi" name="Haemagogus soperi" url="/wiki/Haemagogus_soperi" id="CM.animal.insectvectorshuman.26" wikipedia="Haemagogus_soperi"/>
+ <entry term="Hippelates" name="Hippelates" url="/wiki/Hippelates" id="CM.animal.insectvectorshuman.27" wikipedia="Hippelates"/>
+ <entry term="Housefly" name="Housefly" url="/wiki/Housefly" id="CM.animal.insectvectorshuman.28" wikipedia="Housefly"/>
+ <entry term="Kerteszia" name="Kerteszia" url="/wiki/Kerteszia" id="CM.animal.insectvectorshuman.29" wikipedia="Kerteszia"/>
+ <entry term="Lutzomyia" name="Lutzomyia" url="/wiki/Lutzomyia" id="CM.animal.insectvectorshuman.30" wikipedia="Lutzomyia"/>
+ <entry term="Lutzomyia anthophora" name="Lutzomyia anthophora" url="/wiki/Lutzomyia_anthophora" id="CM.animal.insectvectorshuman.31" wikipedia="Lutzomyia_anthophora"/>
+ <entry term="Mosquito" name="Mosquito" url="/wiki/Mosquito" id="CM.animal.insectvectorshuman.32" wikipedia="Mosquito"/>
+ <entry term="Mosquito-malaria theory" name="Mosquito-malaria theory" url="/wiki/Mosquito-malaria_theory" id="CM.animal.insectvectorshuman.33" wikipedia="Mosquito-malaria_theory"/>
+ <entry term="Musca sorbens" name="Musca sorbens" url="/wiki/Musca_sorbens" id="CM.animal.insectvectorshuman.34" wikipedia="Musca_sorbens"/>
+ <entry term="Oriental rat flea" name="Oriental rat flea" url="/wiki/Oriental_rat_flea" id="CM.animal.insectvectorshuman.35" wikipedia="Oriental_rat_flea"/>
+ <entry term="Phlebotomus" name="Phlebotomus" url="/wiki/Phlebotomus" id="CM.animal.insectvectorshuman.36" wikipedia="Phlebotomus"/>
+ <entry term="Rhodnius prolixus" name="Rhodnius prolixus" url="/wiki/Rhodnius_prolixus" id="CM.animal.insectvectorshuman.37" wikipedia="Rhodnius_prolixus"/>
+ <entry term="Sarcophaga peregrina" name="Sarcophaga peregrina" url="/wiki/Sarcophaga_peregrina" id="CM.animal.insectvectorshuman.38" wikipedia="Sarcophaga_peregrina"/>
+ <entry term="Simuliinae" name="Simuliinae" url="/wiki/Simuliinae" id="CM.animal.insectvectorshuman.39" wikipedia="Simuliinae"/>
+ <entry term="Simuliini" name="Simuliini" url="/wiki/Simuliini" id="CM.animal.insectvectorshuman.40" wikipedia="Simuliini"/>
+ <entry term="Simulium" name="Simulium" url="/wiki/Simulium" id="CM.animal.insectvectorshuman.41" wikipedia="Simulium"/>
+ <entry term="Simulium yahense" name="Simulium yahense" url="/wiki/Simulium_yahense" id="CM.animal.insectvectorshuman.42" wikipedia="Simulium_yahense"/>
+ <entry term="Triatoma" name="Triatoma" url="/wiki/Triatoma" id="CM.animal.insectvectorshuman.43" wikipedia="Triatoma"/>
+ <entry term="Triatoma brasiliensis" name="Triatoma brasiliensis" url="/wiki/Triatoma_brasiliensis" id="CM.animal.insectvectorshuman.44" wikipedia="Triatoma_brasiliensis"/>
+ <entry term="Triatoma carrioni" name="Triatoma carrioni" url="/wiki/Triatoma_carrioni" id="CM.animal.insectvectorshuman.45" wikipedia="Triatoma_carrioni"/>
+ <entry term="Triatoma dimidiata" name="Triatoma dimidiata" url="/wiki/Triatoma_dimidiata" id="CM.animal.insectvectorshuman.46" wikipedia="Triatoma_dimidiata"/>
+ <entry term="Triatoma gerstaeckeri" name="Triatoma gerstaeckeri" url="/wiki/Triatoma_gerstaeckeri" id="CM.animal.insectvectorshuman.47" wikipedia="Triatoma_gerstaeckeri"/>
+ <entry term="Triatoma indictiva" name="Triatoma indictiva" url="/wiki/Triatoma_indictiva" id="CM.animal.insectvectorshuman.48" wikipedia="Triatoma_indictiva"/>
+ <entry term="Triatoma infestans" name="Triatoma infestans" url="/wiki/Triatoma_infestans" id="CM.animal.insectvectorshuman.49" wikipedia="Triatoma_infestans"/>
+ <entry term="Triatoma juazeirensis" name="Triatoma juazeirensis" url="/wiki/Triatoma_juazeirensis" id="CM.animal.insectvectorshuman.50" wikipedia="Triatoma_juazeirensis"/>
+ <entry term="Triatoma melanica" name="Triatoma melanica" url="/wiki/Triatoma_melanica" id="CM.animal.insectvectorshuman.51" wikipedia="Triatoma_melanica"/>
+ <entry term="Triatoma nigromaculata" name="Triatoma nigromaculata" url="/wiki/Triatoma_nigromaculata" id="CM.animal.insectvectorshuman.52" wikipedia="Triatoma_nigromaculata"/>
+ <entry term="Triatoma protracta" name="Triatoma protracta" url="/wiki/Triatoma_protracta" id="CM.animal.insectvectorshuman.53" wikipedia="Triatoma_protracta"/>
+ <entry term="Triatoma sanguisuga" name="Triatoma sanguisuga" url="/wiki/Triatoma_sanguisuga" id="CM.animal.insectvectorshuman.54" wikipedia="Triatoma_sanguisuga"/>
+ <entry term="Triatominae" name="Triatominae" url="/wiki/Triatominae" id="CM.animal.insectvectorshuman.55" wikipedia="Triatominae"/>
+ <entry term="Tsetse fly" name="Tsetse fly" url="/wiki/Tsetse_fly" id="CM.animal.insectvectorshuman.56" wikipedia="Tsetse_fly"/>
+ <query>('Aedes aegypti') OR ('Aedes albopictus') OR ('Aedes japonicus') OR ('Aedes koreicus') OR ('Aedes luteocephalus') OR ('Aedes mediovittatus') OR ('Anopheles') OR ('Anopheles barberi') OR ('Anopheles claviger') OR ('Anopheles crucians') OR ('Anopheles culicifacies') OR ('Anopheles dirus') OR ('Anopheles earlei') OR ('Anopheles gambiae') OR ('Anopheles punctipennis') OR ('Anopheles sinensis') OR ('Black fly') OR ('Calliphoridae') OR ('Culex') OR ('Culex annulirostris') OR ('Culex erythrothorax') OR ('Culex perfuscus') OR ('Culex sitiens') OR ('Culex tritaeniorhynchus') OR ('Evandromyia chacuensis') OR ('Flea') OR ('Haemagogus soperi') OR ('Hippelates') OR ('Housefly') OR ('Kerteszia') OR ('Lutzomyia') OR ('Lutzomyia anthophora') OR ('Mosquito') OR ('Mosquito-malaria theory') OR ('Musca sorbens') OR ('Oriental rat flea') OR ('Phlebotomus') OR ('Rhodnius prolixus') OR ('Sarcophaga peregrina') OR ('Simuliinae') OR ('Simuliini') OR ('Simulium') OR ('Simulium yahense') OR ('Triatoma') OR ('Triatoma brasiliensis') OR ('Triatoma carrioni') OR ('Triatoma dimidiata') OR ('Triatoma gerstaeckeri') OR ('Triatoma indictiva') OR ('Triatoma infestans') OR ('Triatoma juazeirensis') OR ('Triatoma melanica') OR ('Triatoma nigromaculata') OR ('Triatoma protracta') OR ('Triatoma sanguisuga') OR ('Triatominae') OR ('Tsetse fly')</query>
+</dictionary>

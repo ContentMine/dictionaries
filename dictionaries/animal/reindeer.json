@@ -1,0 +1,228 @@
+{
+  "entries": [
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.reindeer.0"
+      },
+      "name": "Alaska Reindeer Service",
+      "term": "Alaska Reindeer Service"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.reindeer.1"
+      },
+      "name": "Arctic",
+      "term": "Arctic"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.reindeer.2"
+      },
+      "name": "Arctic reindeer",
+      "term": "Arctic reindeer"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.reindeer.3"
+      },
+      "name": "Barren-ground caribou",
+      "term": "Barren-ground caribou"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.reindeer.4"
+      },
+      "name": "Boreal woodland caribou",
+      "term": "Boreal woodland caribou"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.reindeer.5"
+      },
+      "name": "category",
+      "term": "category"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.reindeer.6"
+      },
+      "name": "Cephenemyia trompe",
+      "term": "Cephenemyia trompe"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.reindeer.7"
+      },
+      "name": "deer",
+      "term": "deer"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.reindeer.8"
+      },
+      "name": "Dolphin-Union caribou",
+      "term": "Dolphin-Union caribou"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.reindeer.9"
+      },
+      "name": "Hypoderma tarandi",
+      "term": "Hypoderma tarandi"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.reindeer.10"
+      },
+      "name": "learn more",
+      "term": "learn more"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.reindeer.11"
+      },
+      "name": "Migratory woodland caribou",
+      "term": "Migratory woodland caribou"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.reindeer.12"
+      },
+      "name": "Mountain reindeer",
+      "term": "Mountain reindeer"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.reindeer.13"
+      },
+      "name": "North America",
+      "term": "North America"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.reindeer.14"
+      },
+      "name": "Peary caribou",
+      "term": "Peary caribou"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.reindeer.15"
+      },
+      "name": "Porcupine caribou",
+      "term": "Porcupine caribou"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.reindeer.16"
+      },
+      "name": "Queen Charlotte Islands caribou",
+      "term": "Queen Charlotte Islands caribou"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.reindeer.17"
+      },
+      "name": "Rangifer (journal)",
+      "term": "Rangifer (journal)"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.reindeer.18"
+      },
+      "name": "Reindeer",
+      "term": "Reindeer"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.reindeer.19"
+      },
+      "name": "Reindeer Act",
+      "term": "Reindeer Act"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.reindeer.20"
+      },
+      "name": "Reindeer cheese",
+      "term": "Reindeer cheese"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.reindeer.21"
+      },
+      "name": "Reindeer herding",
+      "term": "Reindeer herding"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.reindeer.22"
+      },
+      "name": "Reindeer hunting in Greenland",
+      "term": "Reindeer hunting in Greenland"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.reindeer.23"
+      },
+      "name": "Reindeer in Russia",
+      "term": "Reindeer in Russia"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.reindeer.24"
+      },
+      "name": "Reindeer in Siberian shamanism",
+      "term": "Reindeer in Siberian shamanism"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.reindeer.25"
+      },
+      "name": "Reindeer in South Georgia",
+      "term": "Reindeer in South Georgia"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.reindeer.26"
+      },
+      "name": "Reindeer Police",
+      "term": "Reindeer Police"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.reindeer.27"
+      },
+      "name": "Reindeer\u0027s-milk cheeses",
+      "term": "Reindeer\u0027s-milk cheeses"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.reindeer.28"
+      },
+      "name": "Sautéed reindeer",
+      "term": "Sautéed reindeer"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.reindeer.29"
+      },
+      "name": "Subarctic",
+      "term": "Subarctic"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.reindeer.30"
+      },
+      "name": "Svalbard reindeer",
+      "term": "Svalbard reindeer"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.reindeer.31"
+      },
+      "name": "Teller Reindeer Station",
+      "term": "Teller Reindeer Station"
+    }
+  ]
+}

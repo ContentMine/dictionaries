@@ -1,0 +1,368 @@
+{
+  "entries": [
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.0"
+      },
+      "name": "Alkanet",
+      "term": "Alkanet"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.1"
+      },
+      "name": "Asafoetida",
+      "term": "Asafoetida"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.2"
+      },
+      "name": "Bay Leaf",
+      "term": "Bay Leaf"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.3"
+      },
+      "name": "Black cardamom",
+      "term": "Black cardamom"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.4"
+      },
+      "name": "Black Cumin",
+      "term": "Black Cumin"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.5"
+      },
+      "name": "Black Pepper",
+      "term": "Black Pepper"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.6"
+      },
+      "name": "Capers",
+      "term": "Capers"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.7"
+      },
+      "name": "Capsicum",
+      "term": "Capsicum"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.8"
+      },
+      "name": "Carom",
+      "term": "Carom"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.9"
+      },
+      "name": "Celery",
+      "term": "Celery"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.10"
+      },
+      "name": "Charoli",
+      "term": "Charoli"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.11"
+      },
+      "name": "Chili Pepper",
+      "term": "Chili Pepper"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.12"
+      },
+      "name": "Cinnamon",
+      "term": "Cinnamon"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.13"
+      },
+      "name": "Citric Acid",
+      "term": "Citric Acid"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.14"
+      },
+      "name": "Cloves",
+      "term": "Cloves"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.15"
+      },
+      "name": "Coriander",
+      "term": "Coriander"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.16"
+      },
+      "name": "Cubeb",
+      "term": "Cubeb"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.17"
+      },
+      "name": "Cumin",
+      "term": "Cumin"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.18"
+      },
+      "name": "Curry Tree",
+      "term": "Curry Tree"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.19"
+      },
+      "name": "Fennel",
+      "term": "Fennel"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.20"
+      },
+      "name": "Fennel seed",
+      "term": "Fennel seed"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.21"
+      },
+      "name": "Fenugreek",
+      "term": "Fenugreek"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.22"
+      },
+      "name": "Garam Masala",
+      "term": "Garam Masala"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.23"
+      },
+      "name": "Garcinia gummi-gutta",
+      "term": "Garcinia gummi-gutta"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.24"
+      },
+      "name": "Garcinia indica",
+      "term": "Garcinia indica"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.25"
+      },
+      "name": "Garlic",
+      "term": "Garlic"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.26"
+      },
+      "name": "Ginger",
+      "term": "Ginger"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.27"
+      },
+      "name": "Green cardamom",
+      "term": "Green cardamom"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.28"
+      },
+      "name": "Indian Bay Leaf",
+      "term": "Indian Bay Leaf"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.29"
+      },
+      "name": "Indian Bedellium Tree",
+      "term": "Indian Bedellium Tree"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.30"
+      },
+      "name": "Jakhya",
+      "term": "Jakhya"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.31"
+      },
+      "name": "Kalpasi",
+      "term": "Kalpasi"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.32"
+      },
+      "name": "Licorice",
+      "term": "Licorice"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.33"
+      },
+      "name": "Long Pepper",
+      "term": "Long Pepper"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.34"
+      },
+      "name": "Mace",
+      "term": "Mace"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.35"
+      },
+      "name": "Mango",
+      "term": "Mango"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.36"
+      },
+      "name": "Mint",
+      "term": "Mint"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.37"
+      },
+      "name": "Nigella",
+      "term": "Nigella"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.38"
+      },
+      "name": "Nutmeg",
+      "term": "Nutmeg"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.39"
+      },
+      "name": "Panch Phoron",
+      "term": "Panch Phoron"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.40"
+      },
+      "name": "Peppercorns",
+      "term": "Peppercorns"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.41"
+      },
+      "name": "Pomegranate",
+      "term": "Pomegranate"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.42"
+      },
+      "name": "Poppy Seed",
+      "term": "Poppy Seed"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.43"
+      },
+      "name": "Radhuni",
+      "term": "Radhuni"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.44"
+      },
+      "name": "Red Chilli",
+      "term": "Red Chilli"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.45"
+      },
+      "name": "Saffron",
+      "term": "Saffron"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.46"
+      },
+      "name": "Star Anise",
+      "term": "Star Anise"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.47"
+      },
+      "name": "Sweet Neem",
+      "term": "Sweet Neem"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.48"
+      },
+      "name": "Tamarind",
+      "term": "Tamarind"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.49"
+      },
+      "name": "Tragacanth",
+      "term": "Tragacanth"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.50"
+      },
+      "name": "Turmeric",
+      "term": "Turmeric"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.spice.51"
+      },
+      "name": "White Pepper",
+      "term": "White Pepper"
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "entries": [
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.0"
+      },
+      "name": "African Trypanosomiasis",
+      "term": "African Trypanosomiasis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.1"
+      },
+      "name": "arboviral infections",
+      "term": "arboviral infections"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.2"
+      },
+      "name": "Ascariasis",
+      "term": "Ascariasis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.3"
+      },
+      "name": "Balantidiasis",
+      "term": "Balantidiasis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.4"
+      },
+      "name": "Bartonella",
+      "term": "Bartonella"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.5"
+      },
+      "name": "Bejel",
+      "term": "Bejel"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.6"
+      },
+      "name": "Bovine Tuberculosis",
+      "term": "Bovine Tuberculosis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.7"
+      },
+      "name": "Buruli Ulcer",
+      "term": "Buruli Ulcer"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.8"
+      },
+      "name": "Chagas Disease",
+      "term": "Chagas Disease"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.9"
+      },
+      "name": "Cholera",
+      "term": "Cholera"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.10"
+      },
+      "name": "Cysticercosis",
+      "term": "Cysticercosis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.11"
+      },
+      "name": "Dengue",
+      "term": "Dengue"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.12"
+      },
+      "name": "Dracunculiasis",
+      "term": "Dracunculiasis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.13"
+      },
+      "name": "E. coli",
+      "term": "E. coli"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.14"
+      },
+      "name": "Echinococcosis",
+      "term": "Echinococcosis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.15"
+      },
+      "name": "Eumycetoma",
+      "term": "Eumycetoma"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.16"
+      },
+      "name": "Food-borne Trematodiases",
+      "term": "Food-borne Trematodiases"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.17"
+      },
+      "name": "Giardiasis",
+      "term": "Giardiasis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.18"
+      },
+      "name": "Hookworm Diseases",
+      "term": "Hookworm Diseases"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.19"
+      },
+      "name": "Humans",
+      "term": "Humans"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.20"
+      },
+      "name": "Japanese encephalitis",
+      "term": "Japanese encephalitis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.21"
+      },
+      "name": "Larva Migrans",
+      "term": "Larva Migrans"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.22"
+      },
+      "name": "Leishmaniasis",
+      "term": "Leishmaniasis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.23"
+      },
+      "name": "Leprosy",
+      "term": "Leprosy"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.24"
+      },
+      "name": "Leptospirosis",
+      "term": "Leptospirosis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.25"
+      },
+      "name": "Loiasis",
+      "term": "Loiasis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.26"
+      },
+      "name": "Lymphatic Filariasis",
+      "term": "Lymphatic Filariasis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.27"
+      },
+      "name": "Myiasis",
+      "term": "Myiasis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.28"
+      },
+      "name": "Onchocerciasis",
+      "term": "Onchocerciasis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.29"
+      },
+      "name": "Paracoccidioidomycosis",
+      "term": "Paracoccidioidomycosis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.30"
+      },
+      "name": "Pinta",
+      "term": "Pinta"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.31"
+      },
+      "name": "Rabies",
+      "term": "Rabies"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.32"
+      },
+      "name": "Relapsing fever",
+      "term": "Relapsing fever"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.33"
+      },
+      "name": "Rift Valley fever",
+      "term": "Rift Valley fever"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.34"
+      },
+      "name": "Salmonella",
+      "term": "Salmonella"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.35"
+      },
+      "name": "Scabies",
+      "term": "Scabies"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.36"
+      },
+      "name": "Schistosomiasis",
+      "term": "Schistosomiasis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.37"
+      },
+      "name": "Shigella",
+      "term": "Shigella"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.38"
+      },
+      "name": "Soil-transmitted Helminthiases",
+      "term": "Soil-transmitted Helminthiases"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.39"
+      },
+      "name": "Strongyloidiasis",
+      "term": "Strongyloidiasis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.40"
+      },
+      "name": "Syphilis",
+      "term": "Syphilis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.41"
+      },
+      "name": "Taeniasis",
+      "term": "Taeniasis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.42"
+      },
+      "name": "Toxocariasis",
+      "term": "Toxocariasis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.43"
+      },
+      "name": "Trachoma",
+      "term": "Trachoma"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.44"
+      },
+      "name": "Treponematoses",
+      "term": "Treponematoses"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.45"
+      },
+      "name": "Trichuriasis",
+      "term": "Trichuriasis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.46"
+      },
+      "name": "Viral hemorrhagic fevers",
+      "term": "Viral hemorrhagic fevers"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.47"
+      },
+      "name": "Yaws",
+      "term": "Yaws"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd1.48"
+      },
+      "name": "Yellow fever",
+      "term": "Yellow fever"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary title="animal.reindeer">
+ <entry term="Alaska Reindeer Service" name="Alaska Reindeer Service" url="/wiki/Alaska_Reindeer_Service" id="CM.animal.reindeer.0" wikipedia="Alaska_Reindeer_Service"/>
+ <entry term="Arctic" name="Arctic" url="/wiki/Arctic" id="CM.animal.reindeer.1" wikipedia="Arctic"/>
+ <entry term="Arctic reindeer" name="Arctic reindeer" url="/wiki/Arctic_reindeer" id="CM.animal.reindeer.2" wikipedia="Arctic_reindeer"/>
+ <entry term="Barren-ground caribou" name="Barren-ground caribou" url="/wiki/Barren-ground_caribou" id="CM.animal.reindeer.3" wikipedia="Barren-ground_caribou"/>
+ <entry term="Boreal woodland caribou" name="Boreal woodland caribou" url="/wiki/Boreal_woodland_caribou" id="CM.animal.reindeer.4" wikipedia="Boreal_woodland_caribou"/>
+ <entry term="category" name="category" url="/wiki/Help:Categories" id="CM.animal.reindeer.5" wikipedia="Help:Categories"/>
+ <entry term="Cephenemyia trompe" name="Cephenemyia trompe" url="/wiki/Cephenemyia_trompe" id="CM.animal.reindeer.6" wikipedia="Cephenemyia_trompe"/>
+ <entry term="deer" name="deer" url="/wiki/Deer" id="CM.animal.reindeer.7" wikipedia="Deer"/>
+ <entry term="Dolphin-Union caribou" name="Dolphin-Union caribou" url="/wiki/Dolphin-Union_caribou" id="CM.animal.reindeer.8" wikipedia="Dolphin-Union_caribou"/>
+ <entry term="Hypoderma tarandi" name="Hypoderma tarandi" url="/wiki/Hypoderma_tarandi" id="CM.animal.reindeer.9" wikipedia="Hypoderma_tarandi"/>
+ <entry term="learn more" name="learn more" url="/wiki/Wikipedia:FAQ/Categorization#Why_might_a_category_list_not_be_up_to_date?" id="CM.animal.reindeer.10" wikipedia="Wikipedia:FAQ/Categorization#Why_might_a_category_list_not_be_up_to_date?"/>
+ <entry term="Migratory woodland caribou" name="Migratory woodland caribou" url="/wiki/Migratory_woodland_caribou" id="CM.animal.reindeer.11" wikipedia="Migratory_woodland_caribou"/>
+ <entry term="Mountain reindeer" name="Mountain reindeer" url="/wiki/Mountain_reindeer" id="CM.animal.reindeer.12" wikipedia="Mountain_reindeer"/>
+ <entry term="North America" name="North America" url="/wiki/North_America" id="CM.animal.reindeer.13" wikipedia="North_America"/>
+ <entry term="Peary caribou" name="Peary caribou" url="/wiki/Peary_caribou" id="CM.animal.reindeer.14" wikipedia="Peary_caribou"/>
+ <entry term="Porcupine caribou" name="Porcupine caribou" url="/wiki/Porcupine_caribou" id="CM.animal.reindeer.15" wikipedia="Porcupine_caribou"/>
+ <entry term="Queen Charlotte Islands caribou" name="Queen Charlotte Islands caribou" url="/wiki/Queen_Charlotte_Islands_caribou" id="CM.animal.reindeer.16" wikipedia="Queen_Charlotte_Islands_caribou"/>
+ <entry term="Rangifer (journal)" name="Rangifer (journal)" url="/wiki/Rangifer_(journal)" id="CM.animal.reindeer.17" wikipedia="Rangifer_(journal)"/>
+ <entry term="Reindeer" name="Reindeer" url="/wiki/Reindeer" id="CM.animal.reindeer.18" wikipedia="Reindeer"/>
+ <entry term="Reindeer Act" name="Reindeer Act" url="/wiki/Reindeer_Act" id="CM.animal.reindeer.19" wikipedia="Reindeer_Act"/>
+ <entry term="Reindeer cheese" name="Reindeer cheese" url="/wiki/Reindeer_cheese" id="CM.animal.reindeer.20" wikipedia="Reindeer_cheese"/>
+ <entry term="Reindeer herding" name="Reindeer herding" url="/wiki/Reindeer_herding" id="CM.animal.reindeer.21" wikipedia="Reindeer_herding"/>
+ <entry term="Reindeer hunting in Greenland" name="Reindeer hunting in Greenland" url="/wiki/Reindeer_hunting_in_Greenland" id="CM.animal.reindeer.22" wikipedia="Reindeer_hunting_in_Greenland"/>
+ <entry term="Reindeer in Russia" name="Reindeer in Russia" url="/wiki/Reindeer_in_Russia" id="CM.animal.reindeer.23" wikipedia="Reindeer_in_Russia"/>
+ <entry term="Reindeer in Siberian shamanism" name="Reindeer in Siberian shamanism" url="/wiki/Reindeer_in_Siberian_shamanism" id="CM.animal.reindeer.24" wikipedia="Reindeer_in_Siberian_shamanism"/>
+ <entry term="Reindeer in South Georgia" name="Reindeer in South Georgia" url="/wiki/Reindeer_in_South_Georgia" id="CM.animal.reindeer.25" wikipedia="Reindeer_in_South_Georgia"/>
+ <entry term="Reindeer Police" name="Reindeer Police" url="/wiki/Reindeer_Police" id="CM.animal.reindeer.26" wikipedia="Reindeer_Police"/>
+ <entry term="Reindeer's-milk cheeses" name="Reindeer's-milk cheeses" url="/wiki/Category:Reindeer%27s-milk_cheeses" id="CM.animal.reindeer.27" wikipedia="Category:Reindeer%27s-milk_cheeses"/>
+ <entry term="Sautéed reindeer" name="Sautéed reindeer" url="/wiki/Saut%C3%A9ed_reindeer" id="CM.animal.reindeer.28" wikipedia="Saut%C3%A9ed_reindeer"/>
+ <entry term="Subarctic" name="Subarctic" url="/wiki/Subarctic" id="CM.animal.reindeer.29" wikipedia="Subarctic"/>
+ <entry term="Svalbard reindeer" name="Svalbard reindeer" url="/wiki/Svalbard_reindeer" id="CM.animal.reindeer.30" wikipedia="Svalbard_reindeer"/>
+ <entry term="Teller Reindeer Station" name="Teller Reindeer Station" url="/wiki/Teller_Reindeer_Station" id="CM.animal.reindeer.31" wikipedia="Teller_Reindeer_Station"/>
+ <query>('') OR ('Help') OR ('category') OR ('Reindeer') OR ('North America') OR ('Arctic') OR ('Subarctic') OR ('deer') OR ('Rangifer tarandus') OR ('Reindeer's-milk cheeses') OR ('learn more') OR ('Alaska Reindeer Service') OR ('Arctic reindeer') OR ('Barren-ground caribou') OR ('Boreal woodland caribou') OR ('Cephenemyia trompe') OR ('Reindeer cheese') OR ('Dolphin-Union caribou') OR ('Reindeer hunting in Greenland') OR ('Hypoderma tarandi') OR ('Migratory woodland caribou') OR ('Mountain reindeer') OR ('Peary caribou') OR ('Porcupine caribou') OR ('Queen Charlotte Islands caribou') OR ('Rangifer (journal)') OR ('Reindeer') OR ('Reindeer Act') OR ('Reindeer herding') OR ('Reindeer in Russia') OR ('Reindeer in Siberian shamanism') OR ('Reindeer in South Georgia') OR ('Reindeer Police') OR ('Sautéed reindeer') OR ('Svalbard reindeer') OR ('Teller Reindeer Station')</query>
+</dictionary>

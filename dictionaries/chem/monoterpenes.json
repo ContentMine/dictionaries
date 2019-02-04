@@ -1,0 +1,627 @@
+{
+  "entries": [
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.0"
+      },
+      "name": "(S)-Ipsdienol",
+      "term": "(S)-Ipsdienol"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.1"
+      },
+      "name": "2-Methylisoborneol",
+      "term": "2-Methylisoborneol"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.2"
+      },
+      "name": "3-Carene",
+      "term": "3-Carene"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.3"
+      },
+      "name": "8-Hydroxygeraniol",
+      "term": "8-Hydroxygeraniol"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.4"
+      },
+      "name": "8-Oxogeranial",
+      "term": "8-Oxogeranial"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.5"
+      },
+      "name": "Alpha-Pinene",
+      "term": "Alpha-Pinene"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.6"
+      },
+      "name": "Ascaridole",
+      "term": "Ascaridole"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.7"
+      },
+      "name": "Beta-Pinene",
+      "term": "Beta-Pinene"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.8"
+      },
+      "name": "Bornane",
+      "term": "Bornane"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.9"
+      },
+      "name": "Borneol",
+      "term": "Borneol"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.10"
+      },
+      "name": "Camphene",
+      "term": "Camphene"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.11"
+      },
+      "name": "Camphor",
+      "term": "Camphor"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.12"
+      },
+      "name": "Camphorquinone",
+      "term": "Camphorquinone"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.13"
+      },
+      "name": "Carvacrol",
+      "term": "Carvacrol"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.14"
+      },
+      "name": "Carveol",
+      "term": "Carveol"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.15"
+      },
+      "name": "Carvone",
+      "term": "Carvone"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.16"
+      },
+      "name": "Carvonic acid",
+      "term": "Carvonic acid"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.17"
+      },
+      "name": "category",
+      "term": "category"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.18"
+      },
+      "name": "Chrysanthemic acid",
+      "term": "Chrysanthemic acid"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.19"
+      },
+      "name": "Chrysanthenone",
+      "term": "Chrysanthenone"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.20"
+      },
+      "name": "Citral",
+      "term": "Citral"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.21"
+      },
+      "name": "Citronellal",
+      "term": "Citronellal"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.22"
+      },
+      "name": "Citronellol",
+      "term": "Citronellol"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.23"
+      },
+      "name": "Cuminaldehyde",
+      "term": "Cuminaldehyde"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.24"
+      },
+      "name": "Cymenes",
+      "term": "Cymenes"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.25"
+      },
+      "name": "Epomediol",
+      "term": "Epomediol"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.26"
+      },
+      "name": "Eucalyptol",
+      "term": "Eucalyptol"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.27"
+      },
+      "name": "Fenchol",
+      "term": "Fenchol"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.28"
+      },
+      "name": "Fenchone",
+      "term": "Fenchone"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.29"
+      },
+      "name": "Geranic acid",
+      "term": "Geranic acid"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.30"
+      },
+      "name": "Geraniol",
+      "term": "Geraniol"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.31"
+      },
+      "name": "Geranyl acetate",
+      "term": "Geranyl acetate"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.32"
+      },
+      "name": "Geranyl pyrophosphate",
+      "term": "Geranyl pyrophosphate"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.33"
+      },
+      "name": "Grandisol",
+      "term": "Grandisol"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.34"
+      },
+      "name": "Grapefruit mercaptan",
+      "term": "Grapefruit mercaptan"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.35"
+      },
+      "name": "Halomon",
+      "term": "Halomon"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.36"
+      },
+      "name": "Hinokitiol",
+      "term": "Hinokitiol"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.37"
+      },
+      "name": "Hydroxycitronellal",
+      "term": "Hydroxycitronellal"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.38"
+      },
+      "name": "Incarvillateine",
+      "term": "Incarvillateine"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.39"
+      },
+      "name": "Iridoids",
+      "term": "Iridoids"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.40"
+      },
+      "name": "Jasmolone",
+      "term": "Jasmolone"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.41"
+      },
+      "name": "Lavandulol",
+      "term": "Lavandulol"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.42"
+      },
+      "name": "Lavandulyl acetate",
+      "term": "Lavandulyl acetate"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.43"
+      },
+      "name": "learn more",
+      "term": "learn more"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.44"
+      },
+      "name": "Levoverbenone",
+      "term": "Levoverbenone"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.45"
+      },
+      "name": "Limonene",
+      "term": "Limonene"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.46"
+      },
+      "name": "Linalool",
+      "term": "Linalool"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.47"
+      },
+      "name": "Linalyl acetate",
+      "term": "Linalyl acetate"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.48"
+      },
+      "name": "Lineatin",
+      "term": "Lineatin"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.49"
+      },
+      "name": "Menthofuran",
+      "term": "Menthofuran"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.50"
+      },
+      "name": "Menthol",
+      "term": "Menthol"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.51"
+      },
+      "name": "Menthone",
+      "term": "Menthone"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.52"
+      },
+      "name": "Menthoxypropanediol",
+      "term": "Menthoxypropanediol"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.53"
+      },
+      "name": "Menthyl acetate",
+      "term": "Menthyl acetate"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.54"
+      },
+      "name": "Monoterpene",
+      "term": "Monoterpene"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.55"
+      },
+      "name": "Myrcene",
+      "term": "Myrcene"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.56"
+      },
+      "name": "Myrcenol",
+      "term": "Myrcenol"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.57"
+      },
+      "name": "Nerol",
+      "term": "Nerol"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.58"
+      },
+      "name": "Nerolic acid",
+      "term": "Nerolic acid"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.59"
+      },
+      "name": "Ocimene",
+      "term": "Ocimene"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.60"
+      },
+      "name": "P-Cymene",
+      "term": "P-Cymene"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.61"
+      },
+      "name": "P-Menthane-3,8-diol",
+      "term": "P-Menthane-3,8-diol"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.62"
+      },
+      "name": "Paramenthane hydroperoxide",
+      "term": "Paramenthane hydroperoxide"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.63"
+      },
+      "name": "Perilla ketone",
+      "term": "Perilla ketone"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.64"
+      },
+      "name": "Perillaldehyde",
+      "term": "Perillaldehyde"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.65"
+      },
+      "name": "Perillartine",
+      "term": "Perillartine"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.66"
+      },
+      "name": "Perillene",
+      "term": "Perillene"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.67"
+      },
+      "name": "Phellandrene",
+      "term": "Phellandrene"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.68"
+      },
+      "name": "Picrocrocin",
+      "term": "Picrocrocin"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.69"
+      },
+      "name": "Pinene",
+      "term": "Pinene"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.70"
+      },
+      "name": "Piperitone",
+      "term": "Piperitone"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.71"
+      },
+      "name": "Pulegone",
+      "term": "Pulegone"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.72"
+      },
+      "name": "Rhodinol",
+      "term": "Rhodinol"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.73"
+      },
+      "name": "Rose oxide",
+      "term": "Rose oxide"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.74"
+      },
+      "name": "Sabinene",
+      "term": "Sabinene"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.75"
+      },
+      "name": "Safranal",
+      "term": "Safranal"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.76"
+      },
+      "name": "Sobrerol",
+      "term": "Sobrerol"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.77"
+      },
+      "name": "Terpinen-4-ol",
+      "term": "Terpinen-4-ol"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.78"
+      },
+      "name": "Terpinene",
+      "term": "Terpinene"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.79"
+      },
+      "name": "Terpineol",
+      "term": "Terpineol"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.80"
+      },
+      "name": "Thujaplicin",
+      "term": "Thujaplicin"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.81"
+      },
+      "name": "Thujene",
+      "term": "Thujene"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.82"
+      },
+      "name": "Thujone",
+      "term": "Thujone"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.83"
+      },
+      "name": "Thymol",
+      "term": "Thymol"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.84"
+      },
+      "name": "Thymoquinone",
+      "term": "Thymoquinone"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.85"
+      },
+      "name": "Umbellulone",
+      "term": "Umbellulone"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.86"
+      },
+      "name": "Verbenol",
+      "term": "Verbenol"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.87"
+      },
+      "name": "Verbenone",
+      "term": "Verbenone"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.chem.monoterpenes.88"
+      },
+      "name": "Wine lactone",
+      "term": "Wine lactone"
+    }
+  ]
+}

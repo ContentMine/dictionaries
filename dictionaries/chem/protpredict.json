@@ -1,0 +1,116 @@
+{
+  "entries": [
+    {
+      "identifiers": {
+        "contentmine": "CM. chem.protpredict.0"
+      },
+      "name": "Abalone",
+      "term": "Abalone"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM. chem.protpredict.1"
+      },
+      "name": "BHAGEERATH-H",
+      "term": "BHAGEERATH-H"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM. chem.protpredict.2"
+      },
+      "name": "Biskit",
+      "term": "Biskit"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM. chem.protpredict.3"
+      },
+      "name": "ESyPred3D",
+      "term": "ESyPred3D"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM. chem.protpredict.4"
+      },
+      "name": "FoldX",
+      "term": "FoldX"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM. chem.protpredict.5"
+      },
+      "name": "HHpred",
+      "term": "HHpred"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM. chem.protpredict.6"
+      },
+      "name": "I-TASSER",
+      "term": "I-TASSER"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM. chem.protpredict.7"
+      },
+      "name": "MODELLER",
+      "term": "MODELLER"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM. chem.protpredict.8"
+      },
+      "name": "MOE (Molecular Operating Environment)",
+      "term": "MOE (Molecular Operating Environment)"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM. chem.protpredict.9"
+      },
+      "name": "Phyre and Phyre2",
+      "term": "Phyre and Phyre2"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM. chem.protpredict.10"
+      },
+      "name": "PredictProtein",
+      "term": "PredictProtein"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM. chem.protpredict.11"
+      },
+      "name": "Prime",
+      "term": "Prime"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM. chem.protpredict.12"
+      },
+      "name": "ROBETTA",
+      "term": "ROBETTA"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM. chem.protpredict.13"
+      },
+      "name": "Rosetta@home",
+      "term": "Rosetta@home"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM. chem.protpredict.14"
+      },
+      "name": "SWISS-MODEL",
+      "term": "SWISS-MODEL"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM. chem.protpredict.15"
+      },
+      "name": "Yasara",
+      "term": "Yasara"
+    }
+  ]
+}

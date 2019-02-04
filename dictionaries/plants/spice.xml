@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary title="plants.spice">
+ <entry term="Alkanet" name="Alkanet" url="https://en.wikipedia.org/wiki/Alkanet" id="CM.plants.spice.0" wikipedia="Alkanet"/>
+ <entry term="Asafoetida" name="Asafoetida" url="https://en.wikipedia.org/wiki/Asafoetida" id="CM.plants.spice.1" wikipedia="Asafoetida"/>
+ <entry term="Bay Leaf" name="Bay Leaf" url="https://en.wikipedia.org/wiki/Laurus_nobilis" id="CM.plants.spice.2" wikipedia="Laurus_nobilis"/>
+ <entry term="Black cardamom" name="Black cardamom" url="https://en.wikipedia.org/wiki/Black_cardamom" id="CM.plants.spice.3" wikipedia="Black_cardamom"/>
+ <entry term="Black Cumin" name="Black Cumin" url="https://en.wikipedia.org/wiki/Bunium_bulbocastanum" id="CM.plants.spice.4" wikipedia="Bunium_bulbocastanum"/>
+ <entry term="Black Pepper" name="Black Pepper" url="https://en.wikipedia.org/wiki/Black_Pepper" id="CM.plants.spice.5" wikipedia="Black_Pepper"/>
+ <entry term="Capers" name="Capers" url="https://en.wikipedia.org/wiki/Caper" id="CM.plants.spice.6" wikipedia="Caper"/>
+ <entry term="Capsicum" name="Capsicum" url="https://en.wikipedia.org/wiki/Capsicum" id="CM.plants.spice.7" wikipedia="Capsicum"/>
+ <entry term="Carom" name="Carom" url="https://en.wikipedia.org/wiki/Trachyspermum_ammi" id="CM.plants.spice.8" wikipedia="Trachyspermum_ammi"/>
+ <entry term="Celery" name="Celery" url="https://en.wikipedia.org/wiki/Celery" id="CM.plants.spice.9" wikipedia="Celery"/>
+ <entry term="Charoli" name="Charoli" url="https://en.wikipedia.org/wiki/Charoli" id="CM.plants.spice.10" wikipedia="Charoli"/>
+ <entry term="Chili Pepper" name="Chili Pepper" url="https://en.wikipedia.org/wiki/Chili_Pepper" id="CM.plants.spice.11" wikipedia="Chili_Pepper"/>
+ <entry term="Cinnamon" name="Cinnamon" url="https://en.wikipedia.org/wiki/Cinnamon" id="CM.plants.spice.12" wikipedia="Cinnamon"/>
+ <entry term="Citric Acid" name="Citric Acid" url="https://en.wikipedia.org/wiki/Citric_Acid" id="CM.plants.spice.13" wikipedia="Citric_Acid"/>
+ <entry term="Cloves" name="Cloves" url="https://en.wikipedia.org/wiki/Clove" id="CM.plants.spice.14" wikipedia="Clove"/>
+ <entry term="Coriander" name="Coriander" url="https://en.wikipedia.org/wiki/Coriander" id="CM.plants.spice.15" wikipedia="Coriander"/>
+ <entry term="Cubeb" name="Cubeb" url="https://en.wikipedia.org/wiki/Cubeb" id="CM.plants.spice.16" wikipedia="Cubeb"/>
+ <entry term="Cumin" name="Cumin" url="https://en.wikipedia.org/wiki/Cumin" id="CM.plants.spice.17" wikipedia="Cumin"/>
+ <entry term="Curry Tree" name="Curry Tree" url="https://en.wikipedia.org/wiki/Curry_Tree" id="CM.plants.spice.18" wikipedia="Curry_Tree"/>
+ <entry term="Fennel" name="Fennel" url="https://en.wikipedia.org/wiki/Fennel" id="CM.plants.spice.19" wikipedia="Fennel"/>
+ <entry term="Fennel seed" name="Fennel seed" url="https://en.wikipedia.org/wiki/Fennel_seed" id="CM.plants.spice.20" wikipedia="Fennel_seed"/>
+ <entry term="Fenugreek" name="Fenugreek" url="https://en.wikipedia.org/wiki/Fenugreek" id="CM.plants.spice.21" wikipedia="Fenugreek"/>
+ <entry term="Garam Masala" name="Garam Masala" url="https://en.wikipedia.org/wiki/Garam_Masala" id="CM.plants.spice.22" wikipedia="Garam_Masala"/>
+ <entry term="Garcinia gummi-gutta" name="Garcinia gummi-gutta" url="https://en.wikipedia.org/wiki/Gambooge" id="CM.plants.spice.23" wikipedia="Gambooge"/>
+ <entry term="Garcinia indica" name="Garcinia indica" url="https://en.wikipedia.org/wiki/Garcinia_indica" id="CM.plants.spice.24" wikipedia="Garcinia_indica"/>
+ <entry term="Garlic" name="Garlic" url="https://en.wikipedia.org/wiki/Garlic" id="CM.plants.spice.25" wikipedia="Garlic"/>
+ <entry term="Ginger" name="Ginger" url="https://en.wikipedia.org/wiki/Ginger" id="CM.plants.spice.26" wikipedia="Ginger"/>
+ <entry term="Green cardamom" name="Green cardamom" url="https://en.wikipedia.org/wiki/Green_cardamom" id="CM.plants.spice.27" wikipedia="Green_cardamom"/>
+ <entry term="Indian Bay Leaf" name="Indian Bay Leaf" url="https://en.wikipedia.org/wiki/Cinnamomum_tamala" id="CM.plants.spice.28" wikipedia="Cinnamomum_tamala"/>
+ <entry term="Indian Bedellium Tree" name="Indian Bedellium Tree" url="https://en.wikipedia.org/wiki/Indian_Bedellium_Tree" id="CM.plants.spice.29" wikipedia="Indian_Bedellium_Tree"/>
+ <entry term="Jakhya" name="Jakhya" url="https://en.wikipedia.org/wiki/Jakhya" id="CM.plants.spice.30" wikipedia="Jakhya"/>
+ <entry term="Kalpasi" name="Kalpasi" url="https://en.wikipedia.org/wiki/Kalpasi" id="CM.plants.spice.31" wikipedia="Kalpasi"/>
+ <entry term="Licorice" name="Licorice" url="https://en.wikipedia.org/wiki/Liquorice" id="CM.plants.spice.32" wikipedia="Liquorice"/>
+ <entry term="Long Pepper" name="Long Pepper" url="https://en.wikipedia.org/wiki/Long_Pepper" id="CM.plants.spice.33" wikipedia="Long_Pepper"/>
+ <entry term="Mace" name="Mace" url="https://en.wikipedia.org/wiki/Nutmeg" id="CM.plants.spice.34" wikipedia="Nutmeg"/>
+ <entry term="Mango" name="Mango" url="https://en.wikipedia.org/wiki/Mango" id="CM.plants.spice.35" wikipedia="Mango"/>
+ <entry term="Mint" name="Mint" url="https://en.wikipedia.org/wiki/Mentha" id="CM.plants.spice.36" wikipedia="Mentha"/>
+ <entry term="Nigella" name="Nigella" url="https://en.wikipedia.org/wiki/Nigella_sativa" id="CM.plants.spice.37" wikipedia="Nigella_sativa"/>
+ <entry term="Nutmeg" name="Nutmeg" url="https://en.wikipedia.org/wiki/Nutmeg" id="CM.plants.spice.38" wikipedia="Nutmeg"/>
+ <entry term="Panch Phoron" name="Panch Phoron" url="https://en.wikipedia.org/wiki/Panch_Phoron" id="CM.plants.spice.39" wikipedia="Panch_Phoron"/>
+ <entry term="Peppercorns" name="Peppercorns" url="https://en.wikipedia.org/wiki/Black_pepper" id="CM.plants.spice.40" wikipedia="Black_pepper"/>
+ <entry term="Pomegranate" name="Pomegranate" url="https://en.wikipedia.org/wiki/Pomegranate" id="CM.plants.spice.41" wikipedia="Pomegranate"/>
+ <entry term="Poppy Seed" name="Poppy Seed" url="https://en.wikipedia.org/wiki/Poppy_Seed" id="CM.plants.spice.42" wikipedia="Poppy_Seed"/>
+ <entry term="Radhuni" name="Radhuni" url="https://en.wikipedia.org/wiki/Radhuni" id="CM.plants.spice.43" wikipedia="Radhuni"/>
+ <entry term="Red Chilli" name="Red Chilli" url="https://en.wikipedia.org/wiki/Chili_pepper" id="CM.plants.spice.44" wikipedia="Chili_pepper"/>
+ <entry term="Saffron" name="Saffron" url="https://en.wikipedia.org/wiki/Saffron" id="CM.plants.spice.45" wikipedia="Saffron"/>
+ <entry term="Star Anise" name="Star Anise" url="https://en.wikipedia.org/wiki/Star_Anise" id="CM.plants.spice.46" wikipedia="Star_Anise"/>
+ <entry term="Sweet Neem" name="Sweet Neem" url="https://en.wikipedia.org/wiki/Neem" id="CM.plants.spice.47" wikipedia="Neem"/>
+ <entry term="Tamarind" name="Tamarind" url="https://en.wikipedia.org/wiki/Tamarind" id="CM.plants.spice.48" wikipedia="Tamarind"/>
+ <entry term="Tragacanth" name="Tragacanth" url="https://en.wikipedia.org/wiki/Tragacanth" id="CM.plants.spice.49" wikipedia="Tragacanth"/>
+ <entry term="Turmeric" name="Turmeric" url="https://en.wikipedia.org/wiki/Turmeric" id="CM.plants.spice.50" wikipedia="Turmeric"/>
+ <entry term="White Pepper" name="White Pepper" url="https://en.wikipedia.org/wiki/Black_pepper#White_pepper" id="CM.plants.spice.51" wikipedia="Black_pepper#White_pepper"/>
+ <query>('Alkanet') OR ('Fennel seed') OR ('Asafoetida') OR ('Red Chilli') OR ('Black cardamom') OR ('White Pepper') OR ('Black Pepper') OR ('Peppercorns') OR ('Black Cumin') OR ('Capers') OR ('Capsicum') OR ('Celery') OR ('Radhuni') OR ('Charoli') OR ('Indian Bay Leaf') OR ('Bay Leaf') OR ('Cinnamon') OR ('Citric Acid') OR ('Cloves') OR ('Cubeb') OR ('Cumin') OR ('Curry Tree') OR ('Sweet Neem') OR ('Fennel') OR ('Fenugreek') OR ('Four Seeds') OR ('Garcinia gummi-gutta') OR ('Garam Masala') OR ('Garcinia indica') OR ('Garlic') OR ('Ginger') OR ('Green cardamom') OR ('Indian Bedellium Tree') OR ('Indian Gooseberry') OR ('Jakhya') OR ('Kalpasi') OR ('Licorice') OR ('Long Pepper') OR ('Mango') OR ('Mint') OR ('Nigella') OR ('Nutmeg') OR ('Mace') OR ('Panch Phoron') OR ('Pomegranate') OR ('Poppy Seed') OR ('Saffron') OR ('Star Anise') OR ('Tamarind') OR ('Carom') OR ('Turmeric') OR ('Coriander') OR ('Tragacanth') OR ('Chili Pepper')</query>
+</dictionary>

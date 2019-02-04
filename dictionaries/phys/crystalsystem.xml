@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary title="phys.crystalsystem">
+ <query>('cubic') OR ('tetragonal') OR ('hexagonal') OR ('trigonal') OR ('orthorhombic') OR ('monoclinic') OR ('triclinic')</query>
+</dictionary>

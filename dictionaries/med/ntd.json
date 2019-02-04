@@ -1,0 +1,158 @@
+{
+  "entries": [
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd.0"
+      },
+      "name": "African trypanosomiasis",
+      "term": "African trypanosomiasis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd.1"
+      },
+      "name": "Chagas disease",
+      "term": "Chagas disease"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd.2"
+      },
+      "name": "Chikungunya",
+      "term": "Chikungunya"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd.3"
+      },
+      "name": "Cysticercosis",
+      "term": "Cysticercosis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd.4"
+      },
+      "name": "Dengue",
+      "term": "Dengue"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd.5"
+      },
+      "name": "Dracunculiasis",
+      "term": "Dracunculiasis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd.6"
+      },
+      "name": "Echinococcosis",
+      "term": "Echinococcosis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd.7"
+      },
+      "name": "ectoparasites",
+      "term": "ectoparasites"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd.8"
+      },
+      "name": "Fascioliasis",
+      "term": "Fascioliasis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd.9"
+      },
+      "name": "Leishmaniasis",
+      "term": "Leishmaniasis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd.10"
+      },
+      "name": "Leprosy",
+      "term": "Leprosy"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd.11"
+      },
+      "name": "Lymphatic filariasis",
+      "term": "Lymphatic filariasis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd.12"
+      },
+      "name": "Mycetoma",
+      "term": "Mycetoma"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd.13"
+      },
+      "name": "mycoses",
+      "term": "mycoses"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd.14"
+      },
+      "name": "Onchocerciasis",
+      "term": "Onchocerciasis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd.15"
+      },
+      "name": "Rabies",
+      "term": "Rabies"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd.16"
+      },
+      "name": "Scabies",
+      "term": "Scabies"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd.17"
+      },
+      "name": "Schistosomiasis",
+      "term": "Schistosomiasis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd.18"
+      },
+      "name": "Snakebite",
+      "term": "Snakebite"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd.19"
+      },
+      "name": "Soil-transmitted helminthiasis",
+      "term": "Soil-transmitted helminthiasis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd.20"
+      },
+      "name": "Trachoma",
+      "term": "Trachoma"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.med.ntd.21"
+      },
+      "name": "Yaws",
+      "term": "Yaws"
+    }
+  ]
+}

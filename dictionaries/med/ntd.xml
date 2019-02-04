@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary title="med.ntd">
+ <entry term="African trypanosomiasis" name="African trypanosomiasis" url="https://en.wikipedia.org/wiki/African_trypanosomiasis" id="CM.med.ntd.0" wikipedia="African_trypanosomiasis"/>
+ <entry term="Chagas disease" name="Chagas disease" url="https://en.wikipedia.org/wiki/Chagas_disease" id="CM.med.ntd.1" wikipedia="Chagas_disease"/>
+ <entry term="Chikungunya" name="Chikungunya" url="https://en.wikipedia.org/wiki/Chikungunya" id="CM.med.ntd.2" wikipedia="Chikungunya"/>
+ <entry term="Cysticercosis" name="Cysticercosis" url="https://en.wikipedia.org/wiki/Cysticercosis" id="CM.med.ntd.3" wikipedia="Cysticercosis"/>
+ <entry term="Dengue" name="Dengue" url="https://en.wikipedia.org/wiki/Dengue_fever" id="CM.med.ntd.4" wikipedia="Dengue_fever"/>
+ <entry term="Dracunculiasis" name="Dracunculiasis" url="https://en.wikipedia.org/wiki/Dracunculiasis" id="CM.med.ntd.5" wikipedia="Dracunculiasis"/>
+ <entry term="Echinococcosis" name="Echinococcosis" url="https://en.wikipedia.org/wiki/Echinococcosis" id="CM.med.ntd.6" wikipedia="Echinococcosis"/>
+ <entry term="ectoparasites" name="ectoparasites" url="https://en.wikipedia.org/wiki/Ectoparasites" id="CM.med.ntd.7" wikipedia="Ectoparasites"/>
+ <entry term="Fascioliasis" name="Fascioliasis" url="https://en.wikipedia.org/wiki/Fascioliasis" id="CM.med.ntd.8" wikipedia="Fascioliasis"/>
+ <entry term="Leishmaniasis" name="Leishmaniasis" url="https://en.wikipedia.org/wiki/Leishmaniasis" id="CM.med.ntd.9" wikipedia="Leishmaniasis"/>
+ <entry term="Leprosy" name="Leprosy" url="https://en.wikipedia.org/wiki/Leprosy" id="CM.med.ntd.10" wikipedia="Leprosy"/>
+ <entry term="Lymphatic filariasis" name="Lymphatic filariasis" url="https://en.wikipedia.org/wiki/Lymphatic_filariasis" id="CM.med.ntd.11" wikipedia="Lymphatic_filariasis"/>
+ <entry term="Mycetoma" name="Mycetoma" url="https://en.wikipedia.org/wiki/Mycetoma" id="CM.med.ntd.12" wikipedia="Mycetoma"/>
+ <entry term="mycoses" name="mycoses" url="https://en.wikipedia.org/wiki/Mycoses" id="CM.med.ntd.13" wikipedia="Mycoses"/>
+ <entry term="Onchocerciasis" name="Onchocerciasis" url="https://en.wikipedia.org/wiki/Onchocerciasis" id="CM.med.ntd.14" wikipedia="Onchocerciasis"/>
+ <entry term="Rabies" name="Rabies" url="https://en.wikipedia.org/wiki/Rabies" id="CM.med.ntd.15" wikipedia="Rabies"/>
+ <entry term="Scabies" name="Scabies" url="https://en.wikipedia.org/wiki/Scabies" id="CM.med.ntd.16" wikipedia="Scabies"/>
+ <entry term="Schistosomiasis" name="Schistosomiasis" url="https://en.wikipedia.org/wiki/Schistosomiasis" id="CM.med.ntd.17" wikipedia="Schistosomiasis"/>
+ <entry term="Snakebite" name="Snakebite" url="https://en.wikipedia.org/wiki/Snakebite" id="CM.med.ntd.18" wikipedia="Snakebite"/>
+ <entry term="Soil-transmitted helminthiasis" name="Soil-transmitted helminthiasis" url="https://en.wikipedia.org/wiki/Soil-transmitted_helminthiasis" id="CM.med.ntd.19" wikipedia="Soil-transmitted_helminthiasis"/>
+ <entry term="Trachoma" name="Trachoma" url="https://en.wikipedia.org/wiki/Trachoma" id="CM.med.ntd.20" wikipedia="Trachoma"/>
+ <entry term="Yaws" name="Yaws" url="https://en.wikipedia.org/wiki/Yaws" id="CM.med.ntd.21" wikipedia="Yaws"/>
+ <query>('Chagas disease') OR ('Dengue') OR ('Chikungunya') OR ('Dracunculiasis') OR ('Echinococcosis') OR ('Yaws') OR ('Fascioliasis') OR ('African trypanosomiasis') OR ('Leishmaniasis') OR ('Leprosy') OR ('Lymphatic filariasis') OR ('Onchocerciasis') OR ('Rabies') OR ('Schistosomiasis') OR ('Soil-transmitted helminthiasis') OR ('Cysticercosis') OR ('Trachoma') OR ('Scabies') OR ('ectoparasites') OR ('Snakebite') OR ('Mycetoma') OR ('mycoses')</query>
+</dictionary>

@@ -1,0 +1,550 @@
+{
+  "entries": [
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.0"
+      },
+      "name": "Angiosperms",
+      "term": "Angiosperms"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.1"
+      },
+      "name": "anthocyanins",
+      "term": "anthocyanins"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.2"
+      },
+      "name": "Asterids",
+      "term": "Asterids"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.3"
+      },
+      "name": "avatars",
+      "term": "avatars"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.4"
+      },
+      "name": "Ayurveda",
+      "term": "Ayurveda"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.5"
+      },
+      "name": "Bathinda",
+      "term": "Bathinda"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.6"
+      },
+      "name": "Binomial name",
+      "term": "Binomial name"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.7"
+      },
+      "name": "biogeographical",
+      "term": "biogeographical"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.8"
+      },
+      "name": "carvacrol",
+      "term": "carvacrol"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.9"
+      },
+      "name": "caryophyllene",
+      "term": "caryophyllene"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.10"
+      },
+      "name": "Central University of Punjab",
+      "term": "Central University of Punjab"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.11"
+      },
+      "name": "chloroplast",
+      "term": "chloroplast"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.12"
+      },
+      "name": "conventional medical research",
+      "term": "conventional medical research"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.13"
+      },
+      "name": "courtyard",
+      "term": "courtyard"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.14"
+      },
+      "name": "decussate",
+      "term": "decussate"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.15"
+      },
+      "name": "deities",
+      "term": "deities"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.16"
+      },
+      "name": "DNA barcodes",
+      "term": "DNA barcodes"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.17"
+      },
+      "name": "essential oil",
+      "term": "essential oil"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.18"
+      },
+      "name": "Eudicots",
+      "term": "Eudicots"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.19"
+      },
+      "name": "eugenol",
+      "term": "eugenol"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.20"
+      },
+      "name": "genome",
+      "term": "genome"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.21"
+      },
+      "name": "germacrene",
+      "term": "germacrene"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.22"
+      },
+      "name": "ghee",
+      "term": "ghee"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.23"
+      },
+      "name": "Hanuman",
+      "term": "Hanuman"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.24"
+      },
+      "name": "herbal tea",
+      "term": "herbal tea"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.25"
+      },
+      "name": "Hindu prayer beads",
+      "term": "Hindu prayer beads"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.26"
+      },
+      "name": "Hinduism",
+      "term": "Hinduism"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.27"
+      },
+      "name": "Hindus",
+      "term": "Hindus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.28"
+      },
+      "name": "India",
+      "term": "India"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.29"
+      },
+      "name": "Indian subcontinent",
+      "term": "Indian subcontinent"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.30"
+      },
+      "name": "isolates",
+      "term": "isolates"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.31"
+      },
+      "name": "khao phat kraphao",
+      "term": "khao phat kraphao"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.32"
+      },
+      "name": "Krishna",
+      "term": "Krishna"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.33"
+      },
+      "name": "L.",
+      "term": "L."
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.34"
+      },
+      "name": "Lakshmi",
+      "term": "Lakshmi"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.35"
+      },
+      "name": "Lamiaceae",
+      "term": "Lamiaceae"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.36"
+      },
+      "name": "Lamiales",
+      "term": "Lamiales"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.37"
+      },
+      "name": "linalool",
+      "term": "linalool"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.38"
+      },
+      "name": "morphotypes",
+      "term": "morphotypes"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.39"
+      },
+      "name": "Nepal",
+      "term": "Nepal"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.40"
+      },
+      "name": "Ocimum",
+      "term": "Ocimum"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.41"
+      },
+      "name": "Ocimum basilicum",
+      "term": "Ocimum basilicum"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.42"
+      },
+      "name": "oleanolic acid",
+      "term": "oleanolic acid"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.43"
+      },
+      "name": "perennial",
+      "term": "perennial"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.44"
+      },
+      "name": "petioled",
+      "term": "petioled"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.45"
+      },
+      "name": "phat kaphrao",
+      "term": "phat kaphrao"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.46"
+      },
+      "name": "phyllotaxy",
+      "term": "phyllotaxy"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.47"
+      },
+      "name": "phylogeographical",
+      "term": "phylogeographical"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.48"
+      },
+      "name": "phytochemical",
+      "term": "phytochemical"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.49"
+      },
+      "name": "Plantae",
+      "term": "Plantae"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.50"
+      },
+      "name": "Prayer beads",
+      "term": "Prayer beads"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.51"
+      },
+      "name": "racemes",
+      "term": "racemes"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.52"
+      },
+      "name": "Rama",
+      "term": "Rama"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.53"
+      },
+      "name": "rosmarinic acid",
+      "term": "rosmarinic acid"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.54"
+      },
+      "name": "Scientific classification",
+      "term": "Scientific classification"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.55"
+      },
+      "name": "Siddha",
+      "term": "Siddha"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.56"
+      },
+      "name": "Southeast Asian",
+      "term": "Southeast Asian"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.57"
+      },
+      "name": "Sri",
+      "term": "Sri"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.58"
+      },
+      "name": "Synonyms",
+      "term": "Synonyms"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.59"
+      },
+      "name": "terpenes",
+      "term": "terpenes"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.60"
+      },
+      "name": "Thai",
+      "term": "Thai"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.61"
+      },
+      "name": "Thai basil",
+      "term": "Thai basil"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.62"
+      },
+      "name": "Thai cuisine",
+      "term": "Thai cuisine"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.63"
+      },
+      "name": "Thai language",
+      "term": "Thai language"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.64"
+      },
+      "name": "Thai lemon basil",
+      "term": "Thai lemon basil"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.65"
+      },
+      "name": "Thulasi",
+      "term": "Thulasi"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.66"
+      },
+      "name": "traditional medicine",
+      "term": "traditional medicine"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.67"
+      },
+      "name": "tropics",
+      "term": "tropics"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.68"
+      },
+      "name": "Tulasi",
+      "term": "Tulasi"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.69"
+      },
+      "name": "Tulsi (disambiguation)",
+      "term": "Tulsi (disambiguation)"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.70"
+      },
+      "name": "Tulsi in Hinduism",
+      "term": "Tulsi in Hinduism"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.71"
+      },
+      "name": "ursolic acid",
+      "term": "ursolic acid"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.72"
+      },
+      "name": "Vaishnava",
+      "term": "Vaishnava"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.73"
+      },
+      "name": "Vaishnavas",
+      "term": "Vaishnavas"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.74"
+      },
+      "name": "Verbena officinalis",
+      "term": "Verbena officinalis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.75"
+      },
+      "name": "Vishnu",
+      "term": "Vishnu"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.76"
+      },
+      "name": "β-caryophyllene",
+      "term": "β-caryophyllene"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.plants.ocimumten.77"
+      },
+      "name": "β-elemene",
+      "term": "β-elemene"
+    }
+  ]
+}

@@ -1,0 +1,403 @@
+{
+  "entries": [
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.0"
+      },
+      "name": "Aedes aegypti",
+      "term": "Aedes aegypti"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.1"
+      },
+      "name": "Aedes albopictus",
+      "term": "Aedes albopictus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.2"
+      },
+      "name": "Aedes japonicus",
+      "term": "Aedes japonicus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.3"
+      },
+      "name": "Aedes koreicus",
+      "term": "Aedes koreicus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.4"
+      },
+      "name": "Aedes luteocephalus",
+      "term": "Aedes luteocephalus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.5"
+      },
+      "name": "Aedes mediovittatus",
+      "term": "Aedes mediovittatus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.6"
+      },
+      "name": "Anopheles",
+      "term": "Anopheles"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.7"
+      },
+      "name": "Anopheles barberi",
+      "term": "Anopheles barberi"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.8"
+      },
+      "name": "Anopheles claviger",
+      "term": "Anopheles claviger"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.9"
+      },
+      "name": "Anopheles crucians",
+      "term": "Anopheles crucians"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.10"
+      },
+      "name": "Anopheles culicifacies",
+      "term": "Anopheles culicifacies"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.11"
+      },
+      "name": "Anopheles dirus",
+      "term": "Anopheles dirus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.12"
+      },
+      "name": "Anopheles earlei",
+      "term": "Anopheles earlei"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.13"
+      },
+      "name": "Anopheles gambiae",
+      "term": "Anopheles gambiae"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.14"
+      },
+      "name": "Anopheles punctipennis",
+      "term": "Anopheles punctipennis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.15"
+      },
+      "name": "Anopheles sinensis",
+      "term": "Anopheles sinensis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.16"
+      },
+      "name": "Black fly",
+      "term": "Black fly"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.17"
+      },
+      "name": "Calliphoridae",
+      "term": "Calliphoridae"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.18"
+      },
+      "name": "Culex",
+      "term": "Culex"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.19"
+      },
+      "name": "Culex annulirostris",
+      "term": "Culex annulirostris"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.20"
+      },
+      "name": "Culex erythrothorax",
+      "term": "Culex erythrothorax"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.21"
+      },
+      "name": "Culex perfuscus",
+      "term": "Culex perfuscus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.22"
+      },
+      "name": "Culex sitiens",
+      "term": "Culex sitiens"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.23"
+      },
+      "name": "Culex tritaeniorhynchus",
+      "term": "Culex tritaeniorhynchus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.24"
+      },
+      "name": "Evandromyia chacuensis",
+      "term": "Evandromyia chacuensis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.25"
+      },
+      "name": "Flea",
+      "term": "Flea"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.26"
+      },
+      "name": "Haemagogus soperi",
+      "term": "Haemagogus soperi"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.27"
+      },
+      "name": "Hippelates",
+      "term": "Hippelates"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.28"
+      },
+      "name": "Housefly",
+      "term": "Housefly"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.29"
+      },
+      "name": "Kerteszia",
+      "term": "Kerteszia"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.30"
+      },
+      "name": "Lutzomyia",
+      "term": "Lutzomyia"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.31"
+      },
+      "name": "Lutzomyia anthophora",
+      "term": "Lutzomyia anthophora"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.32"
+      },
+      "name": "Mosquito",
+      "term": "Mosquito"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.33"
+      },
+      "name": "Mosquito-malaria theory",
+      "term": "Mosquito-malaria theory"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.34"
+      },
+      "name": "Musca sorbens",
+      "term": "Musca sorbens"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.35"
+      },
+      "name": "Oriental rat flea",
+      "term": "Oriental rat flea"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.36"
+      },
+      "name": "Phlebotomus",
+      "term": "Phlebotomus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.37"
+      },
+      "name": "Rhodnius prolixus",
+      "term": "Rhodnius prolixus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.38"
+      },
+      "name": "Sarcophaga peregrina",
+      "term": "Sarcophaga peregrina"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.39"
+      },
+      "name": "Simuliinae",
+      "term": "Simuliinae"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.40"
+      },
+      "name": "Simuliini",
+      "term": "Simuliini"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.41"
+      },
+      "name": "Simulium",
+      "term": "Simulium"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.42"
+      },
+      "name": "Simulium yahense",
+      "term": "Simulium yahense"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.43"
+      },
+      "name": "Triatoma",
+      "term": "Triatoma"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.44"
+      },
+      "name": "Triatoma brasiliensis",
+      "term": "Triatoma brasiliensis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.45"
+      },
+      "name": "Triatoma carrioni",
+      "term": "Triatoma carrioni"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.46"
+      },
+      "name": "Triatoma dimidiata",
+      "term": "Triatoma dimidiata"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.47"
+      },
+      "name": "Triatoma gerstaeckeri",
+      "term": "Triatoma gerstaeckeri"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.48"
+      },
+      "name": "Triatoma indictiva",
+      "term": "Triatoma indictiva"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.49"
+      },
+      "name": "Triatoma infestans",
+      "term": "Triatoma infestans"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.50"
+      },
+      "name": "Triatoma juazeirensis",
+      "term": "Triatoma juazeirensis"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.51"
+      },
+      "name": "Triatoma melanica",
+      "term": "Triatoma melanica"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.52"
+      },
+      "name": "Triatoma nigromaculata",
+      "term": "Triatoma nigromaculata"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.53"
+      },
+      "name": "Triatoma protracta",
+      "term": "Triatoma protracta"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.54"
+      },
+      "name": "Triatoma sanguisuga",
+      "term": "Triatoma sanguisuga"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.55"
+      },
+      "name": "Triatominae",
+      "term": "Triatominae"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.insectvectorshuman.56"
+      },
+      "name": "Tsetse fly",
+      "term": "Tsetse fly"
+    }
+  ]
+}

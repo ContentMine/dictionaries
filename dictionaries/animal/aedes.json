@@ -1,0 +1,585 @@
+{
+  "entries": [
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.0"
+      },
+      "name": "Aedes",
+      "term": "Aedes"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.1"
+      },
+      "name": "Aedes albopictus",
+      "term": "Aedes albopictus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.2"
+      },
+      "name": "Agricultural Research Service",
+      "term": "Agricultural Research Service"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.3"
+      },
+      "name": "Alphabet, Inc.",
+      "term": "Alphabet, Inc."
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.4"
+      },
+      "name": "ammonia",
+      "term": "ammonia"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.5"
+      },
+      "name": "Animalia",
+      "term": "Animalia"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.6"
+      },
+      "name": "Anopheles",
+      "term": "Anopheles"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.7"
+      },
+      "name": "Anopheles gambiae",
+      "term": "Anopheles gambiae"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.8"
+      },
+      "name": "Arthropoda",
+      "term": "Arthropoda"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.9"
+      },
+      "name": "base pairs",
+      "term": "base pairs"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.10"
+      },
+      "name": "basic reproduction number",
+      "term": "basic reproduction number"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.11"
+      },
+      "name": "Binomial name",
+      "term": "Binomial name"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.12"
+      },
+      "name": "Brazil",
+      "term": "Brazil"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.13"
+      },
+      "name": "Broad Institute",
+      "term": "Broad Institute"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.14"
+      },
+      "name": "carbon dioxide",
+      "term": "carbon dioxide"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.15"
+      },
+      "name": "Carl Linnaeus",
+      "term": "Carl Linnaeus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.16"
+      },
+      "name": "Cayman Islands",
+      "term": "Cayman Islands"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.17"
+      },
+      "name": "Centers for Disease Control and Prevention",
+      "term": "Centers for Disease Control and Prevention"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.18"
+      },
+      "name": "chikungunya",
+      "term": "chikungunya"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.19"
+      },
+      "name": "Culicidae",
+      "term": "Culicidae"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.20"
+      },
+      "name": "Debug Project",
+      "term": "Debug Project"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.21"
+      },
+      "name": "DEET",
+      "term": "DEET"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.22"
+      },
+      "name": "dengue fever",
+      "term": "dengue fever"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.23"
+      },
+      "name": "dextrorotatory",
+      "term": "dextrorotatory"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.24"
+      },
+      "name": "Diptera",
+      "term": "Diptera"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.25"
+      },
+      "name": "DNA",
+      "term": "DNA"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.26"
+      },
+      "name": "Drosophila melanogaster",
+      "term": "Drosophila melanogaster"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.27"
+      },
+      "name": "European Bioinformatics Institute",
+      "term": "European Bioinformatics Institute"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.28"
+      },
+      "name": "Food and Drug Administration",
+      "term": "Food and Drug Administration"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.29"
+      },
+      "name": "Fredric Hasselquist",
+      "term": "Fredric Hasselquist"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.30"
+      },
+      "name": "genetically modified",
+      "term": "genetically modified"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.31"
+      },
+      "name": "genome",
+      "term": "genome"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.32"
+      },
+      "name": "H. G. Dyar",
+      "term": "H. G. Dyar"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.33"
+      },
+      "name": "Hasselquist",
+      "term": "Hasselquist"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.34"
+      },
+      "name": "herd immunity",
+      "term": "herd immunity"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.35"
+      },
+      "name": "IFAS",
+      "term": "IFAS"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.36"
+      },
+      "name": "Insecta",
+      "term": "Insecta"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.37"
+      },
+      "name": "insecticides",
+      "term": "insecticides"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.38"
+      },
+      "name": "International Commission on Zoological Nomenclature",
+      "term": "International Commission on Zoological Nomenclature"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.39"
+      },
+      "name": "J. Craig Venter Institute",
+      "term": "J. Craig Venter Institute"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.40"
+      },
+      "name": "Journal of Medical Entomology",
+      "term": "Journal of Medical Entomology"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.41"
+      },
+      "name": "lactic acid",
+      "term": "lactic acid"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.42"
+      },
+      "name": "Larva",
+      "term": "Larva"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.43"
+      },
+      "name": "lemon eucalyptus",
+      "term": "lemon eucalyptus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.44"
+      },
+      "name": "lethal ovitrap",
+      "term": "lethal ovitrap"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.45"
+      },
+      "name": "Linnaeus",
+      "term": "Linnaeus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.46"
+      },
+      "name": "lyre",
+      "term": "lyre"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.47"
+      },
+      "name": "malaria",
+      "term": "malaria"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.48"
+      },
+      "name": "Mayaro",
+      "term": "Mayaro"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.49"
+      },
+      "name": "mosquito",
+      "term": "mosquito"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.50"
+      },
+      "name": "Mosquito control",
+      "term": "Mosquito control"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.51"
+      },
+      "name": "mosquito repellents",
+      "term": "mosquito repellents"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.52"
+      },
+      "name": "octenol",
+      "term": "octenol"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.53"
+      },
+      "name": "odorant receptor",
+      "term": "odorant receptor"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.54"
+      },
+      "name": "Oxford University",
+      "term": "Oxford University"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.55"
+      },
+      "name": "Oxitec",
+      "term": "Oxitec"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.56"
+      },
+      "name": "p-menthane-3,8-diol",
+      "term": "p-menthane-3,8-diol"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.57"
+      },
+      "name": "Panama",
+      "term": "Panama"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.58"
+      },
+      "name": "Piracicaba",
+      "term": "Piracicaba"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.59"
+      },
+      "name": "protein",
+      "term": "protein"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.60"
+      },
+      "name": "reticular",
+      "term": "reticular"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.61"
+      },
+      "name": "sarcoma",
+      "term": "sarcoma"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.62"
+      },
+      "name": "Scientific classification",
+      "term": "Scientific classification"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.63"
+      },
+      "name": "spread",
+      "term": "spread"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.64"
+      },
+      "name": "stagnant water",
+      "term": "stagnant water"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.65"
+      },
+      "name": "Stegomyia",
+      "term": "Stegomyia"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.66"
+      },
+      "name": "sterile insect technique",
+      "term": "sterile insect technique"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.67"
+      },
+      "name": "Synonyms",
+      "term": "Synonyms"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.68"
+      },
+      "name": "Syrian hamsters",
+      "term": "Syrian hamsters"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.69"
+      },
+      "name": "Tet-Off system",
+      "term": "Tet-Off system"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.70"
+      },
+      "name": "tetracycline",
+      "term": "tetracycline"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.71"
+      },
+      "name": "The Institute for Genomic Research",
+      "term": "The Institute for Genomic Research"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.72"
+      },
+      "name": "thorax",
+      "term": "thorax"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.73"
+      },
+      "name": "tropical",
+      "term": "tropical"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.74"
+      },
+      "name": "UF",
+      "term": "UF"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.75"
+      },
+      "name": "University of Notre Dame",
+      "term": "University of Notre Dame"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.76"
+      },
+      "name": "vector",
+      "term": "vector"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.77"
+      },
+      "name": "Washington, DC",
+      "term": "Washington, DC"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.78"
+      },
+      "name": "Wolbachia",
+      "term": "Wolbachia"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.79"
+      },
+      "name": "yellow fever",
+      "term": "yellow fever"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.80"
+      },
+      "name": "Zika fever",
+      "term": "Zika fever"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.81"
+      },
+      "name": "Zika virus",
+      "term": "Zika virus"
+    },
+    {
+      "identifiers": {
+        "contentmine": "CM.animal.aedes.82"
+      },
+      "name": "zoological nomenclature",
+      "term": "zoological nomenclature"
+    }
+  ]
+}
