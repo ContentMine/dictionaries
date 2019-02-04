@@ -3,7 +3,7 @@
 There are several ways to make dictionaries quickly. HOWEVER always make sure that the results make sense and edit out any false positives. 
 
 ## edit by hand
-The editor can use a JSON (or XML) editor to create the dictionary by hand. However these are not constrained by schems so it is easy 
+The editor can use a JSON (or XML) editor to create the dictionary by hand. However these are not constrained by schemas so it is easy 
 to make mistakes. It is useful to have a JSON editor such as https://jsoneditoronline.org/ .
 
 ## use ami-dictionary
