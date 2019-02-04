@@ -15,15 +15,14 @@ ami-dictionary [options]
 ```
 where options  are defined below. Note that lines are broken `\` for readability but the command can be put on a single line.
 
-## List of terms
+### List of terms
 
 The editor selects a set of terms and copied them into the command:
 ```
 ami-dictionaries create \
 	    --dictionary plantvirusesA \
 	    --directory /Users/pm286/ContentMine/dictionaries/testvirus \
-      --out
-		--terms \
+            --terms \
 Alfamovirus,Allexivirus,Alphacryptovirus,Ampelovirus,Anulavirus,Apscaviroid,Aureusvirus,Avenavirus,Avsunviroid,Badnavirus,Begomovirus,Benyvirus,\
 Betacryptovirus,Betaflexiviridae,Bromovirus,Bymovirus,Capillovirus,Carlavirus,Carmovirus,Caulimovirus,Cavemovirus,Cheravirus,Closterovirus,\
 Cocadviroid,Coleviroid,Comovirus,Crinivirus,Cucumovirus,Curtovirus,Cytorhabdovirus,Dianthovirus,Enamovirus,Fabavirus,Fijivirus,Furovirus,\
@@ -35,7 +34,7 @@ Tombusviridae,Tombusvirus,Topocuvirus,Tospovirus,Trichovirus,Tritimovirus,Tungro
 This creates a dictionary `plantvirusesA.xml` (default format) in directory `/Users/pm286/ContentMine/dictionaries/testvirus` containing ca 84 entries.
 (Please check this). 
 
-## create from Wikipedia List
+### create from Wikipedia List
 This is one of the best approaches. Many pages are labelled "List_of_xxx" and `ami-dictionary` can extract this automatically. It's normally a table
 (so use `wikitable`) and pick the column (`namecol`). Sometimes there is another column with links and you can add `--linkcol` to add this.
 Note the use of `outformats`. The HTML is not directly usable but is very readable and a good way of making sure the dictionary makes sense - 
@@ -52,9 +51,9 @@ ami-dictionaries create\
 	 --directory testdir/
 ```
 
-## create from Wikipedia Category
+### create from Wikipedia Category
 
-This is also very useful if you can find it as it is guaranteed that most of the entries will be relevant and homogeneous
+This is also very useful (if you can find a Category) it as it is guaranteed that most of the entries will be relevant and homogeneous.
 ```
 ami-dictionaries create\
  --hreftext \
@@ -64,8 +63,9 @@ ami-dictionaries create\
 	 --outformats  xml,json,html \
 	 --directory testdir/
 ```
-## create from Wikipedia page
-This picks all the Wikipedia links from the page. There will certainly be false positives and page will require editing
+### create from Wikipedia page
+This picks all the Wikipedia links from the page. There will certainly be false positives and the page will require a lot of editing,
+but the Wikidata links will have been correctly added so it's worth it.
 ```
 ami-dictionaries create\
  --hreftext \
@@ -75,3 +75,11 @@ ami-dictionaries create\
  --outformats xml
  ```
  
+ ## using dictionaries in search
+The dictionaries can be referenced by their full filename:
+```
+ami-search-cooccur osanctum/ country /Users/pm286/ContentMine/dictionary/dictionaries/chem/monoterpene.xml
+```
+Here we are searching the `osanctum` project using the builtin `country` dictionary and the `monoterpene` dictionary on the filestore.
+
+
